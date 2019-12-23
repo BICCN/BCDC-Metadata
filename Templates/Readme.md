@@ -1,1 +1,1 @@
-Template for metadata submission.
+Templates for metadata submission.
