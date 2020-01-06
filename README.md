@@ -12,7 +12,7 @@ Two templates are currently available for metadata collection:
 The Sample Inventory is a listing of samples and associated cells or brains profiled for each sample for each dataset, reported on a quarterly basis. This is suitable for identifying the transgenic line and anatomic region sampled in a manageable spreadsheet, but is not intended to include more detailed provenance metadata. These are currently provided as snapshots per quarter.
 
 ## Dataset Metadata
-Work in progress.
+The Dataset Metadata template is included in the templates folder. The template was circulated for use for the Q4 2019 data submission.
 
 ## Detailed Metadata
 Work in progress.
