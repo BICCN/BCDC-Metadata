@@ -1,0 +1,59 @@
+data_collection_reference_id,specimen_type_name,reported_count
+zeng_expr_char,whole brain,53
+dong_antero,brain section set,41
+dong_retro,brain section set,126
+dong_trio,brain section set,45
+ecker_sn_ATACseq,cell nucleus,1386599
+ecker_sn_mCseq,cell nucleus,152883
+ecker_sn_mCseq_retro,cell nucleus,32404
+ecker_trio,brain section set,31
+feng_fish,brain section set,20
+feng_sn_dropseq,cell nucleus,917643
+huang_antero,brain section set,43
+huang_pn_bulk_SSv4,bulk nucleus,19
+huang_pn_sn_10xv2,cell nucleus,106093
+huang_retro,brain section set,45
+huang_sn_10xv2,cell nucleus,469176
+huang_stpt_conn,whole brain,206
+huang_stpt_count,whole brain,36
+kriegstein_sc_10xv2,whole cell,849924
+kriegstein_sc_ATACseq,cell nucleus,156334
+kriegstein_sn_10xv2,cell nucleus,508621
+lein_sn_10xv2,cell nucleus,180766
+lein_sn_10xv3,cell nucleus,1420544
+lein_sn_SSv4,cell nucleus,4481
+osten_stpt,whole brain,314
+yang_MORF_confocal,tissue sample,7
+zeng_anderson_sc_10xv2,whole cell,168877
+zeng_fmost,whole brain,65
+zeng_fmost_cells,whole cell,654
+zeng_mouselight,whole brain,1
+zeng_retro,whole brain,458
+zeng_sc_10xv2,whole cell,1722731
+zeng_sc_10xv3,whole cell,176584
+zeng_sc_SSv4,whole cell,95475
+zeng_sn_10xv2,cell nucleus,88521
+zeng_sn_10xv3,cell nucleus,126559
+zeng_sn_SSv4,cell nucleus,6816
+zeng_tolias_pseq_m,cell in slice,1320
+zeng_tolias_pseq_t,cell nucleus,1320
+zeng_tolias_pseq_e,cell in slice,1320
+zhuang_merfish,brain slice,64
+zhangK_cj_snareseq_AC,cell nucleus,10780
+zhangK_cj_snareseq_R,cell nucleus,12232
+zhangK_hs_snareseq_AC,cell nucleus,159166
+zhangK_hs_snareseq_R,cell nucleus,170224
+zhangl_seqfish,spinal cord slice,2
+huang_sn_10xv3,cell nucleus,2319183
+ecker_hu_DNAseq,tissue sample,3
+ecker_hu_sn_mCseq,cell nucleus,5901
+ecker_hu_sn_ATACseq,cell nucleus,10986
+fischl_mri,brain hemisphere,1
+fischl_oct,brain slice,9
+tasic_ATACseq,whole cell,13093
+tasic_stpt,whole brain,22
+zhangl_anatomy,,
+human_cortex_SS4_counts,,
+human_cortex_SS4_Open_GRU,,
+human_cortex_SS4_restricted_GRU,,
+human_cortex_SS4_restricted_limited,,

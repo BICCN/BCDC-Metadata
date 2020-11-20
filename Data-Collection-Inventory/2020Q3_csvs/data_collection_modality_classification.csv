@@ -1,0 +1,59 @@
+data_collection_reference_id,modality_name
+zeng_expr_char,population imaging
+dong_antero,connectivity
+dong_retro,connectivity
+dong_trio,connectivity
+ecker_sn_ATACseq,epigenomics
+ecker_sn_mCseq,epigenomics
+ecker_sn_mCseq_retro,epigenomics
+ecker_trio,connectivity
+feng_fish,cell morphology
+feng_sn_dropseq,transcriptomics
+huang_antero,connectivity
+huang_pn_bulk_SSv4,transcriptomics
+huang_pn_sn_10xv2,transcriptomics
+huang_retro,connectivity
+huang_sn_10xv2,transcriptomics
+huang_stpt_conn,connectivity
+huang_stpt_count,population imaging
+kriegstein_sc_10xv2,transcriptomics
+kriegstein_sc_ATACseq,epigenomics
+kriegstein_sn_10xv2,transcriptomics
+lein_sn_10xv2,transcriptomics
+lein_sn_10xv3,transcriptomics
+lein_sn_SSv4,transcriptomics
+osten_stpt,population imaging
+yang_MORF_confocal,cell morphology
+zeng_anderson_sc_10xv2,transcriptomics
+zeng_fmost,cell morphology
+zeng_fmost_cells,cell morphology
+zeng_mouselight,cell morphology
+zeng_retro,connectivity
+zeng_sc_10xv2,transcriptomics
+zeng_sc_10xv3,transcriptomics
+zeng_sc_SSv4,transcriptomics
+zeng_sn_10xv2,transcriptomics
+zeng_sn_10xv3,transcriptomics
+zeng_sn_SSv4,transcriptomics
+zeng_tolias_pseq_m,cell morphology
+zeng_tolias_pseq_t,transcriptomics
+zeng_tolias_pseq_e,connectivity
+zhuang_merfish,spatial transcriptomics
+zhangK_cj_snareseq_AC,multimodal
+zhangK_cj_snareseq_R,multimodal
+zhangK_hs_snareseq_AC,multimodal
+zhangK_hs_snareseq_R,multimodal
+zhangl_seqfish,spatial transcriptomics
+huang_sn_10xv3,transcriptomics
+ecker_hu_DNAseq,genomics
+ecker_hu_sn_mCseq,epigenomics
+ecker_hu_sn_ATACseq,epigenomics
+fischl_mri,anatomy
+fischl_oct,anatomy
+tasic_ATACseq,epigenomics
+tasic_stpt,population imaging
+zhangl_anatomy,anatomy
+human_cortex_SS4_counts,transcriptomics
+human_cortex_SS4_Open_GRU,
+human_cortex_SS4_restricted_GRU,
+human_cortex_SS4_restricted_limited,

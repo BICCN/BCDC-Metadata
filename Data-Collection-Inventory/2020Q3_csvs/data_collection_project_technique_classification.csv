@@ -1,0 +1,57 @@
+project_reference_id,technique_name
+TransgenicSTPT,STPT
+dong_antero_proj,cre-dependent anterograde tracing
+dong_retro_proj,retrograde tracing
+dong_trio_proj,TRIO tracing
+ecker_sn_ATACseq_proj,ATAC-seq
+ecker_sn_mCseq_proj,mC-seq2
+ecker_sn_mCseq_retro_proj,mC-seq2
+ecker_sn_mCseq_retro_proj,retrograde tracing
+ecker_trio_proj,retrograde transsynaptic tracing
+feng_fish_proj,FISH
+feng_sn_dropseq_proj,Drop-seq
+huang_antero_proj,anterograde tracing
+huang_pn_proj,10x Chromium 3' v2 sequencing
+huang_pn_proj,SMART-seq v4
+huang_retro_proj,retrograde tracing
+huang_sn_10xv2_proj,10x Chromium 3' v2 sequencing
+huang_sn_10xv2_proj,10x Chromium 3' v3 sequencing
+huang_stpt_conn_proj,anterograde tracing
+huang_stpt_count_proj,STPT
+kriegstein_sc_10x_proj,10x Chromium 3' v2 sequencing
+kriegstein_sc_ATACseq_proj,ATAC-seq
+kriegstein_sn_10x_proj,10x Chromium 3' v2 sequencing
+lein_sn_10x,10x Chromium 3' v2 sequencing
+lein_sn_10x,10x Chromium 3' v3 sequencing
+lein_sn_SSv4_proj,SMART-seq v4
+osten_stpt_proj,STPT
+yang_MORF_confocal_proj,MORF genetic sparse labeling
+zeng_anderson_sc_10xv2_proj,10x Chromium 3' v2 sequencing
+zeng_fmost_proj,fMOST
+zeng_mouselight_proj,mouselight
+zeng_retro_proj,retrograde transsynaptic tracing
+zeng_sc_10x_proj,10x Chromium 3' v2 sequencing
+zeng_sc_10x_proj,10x Chromium 3' v3 sequencing
+zeng_sc_SSv4_proj,SMART-seq v4
+zeng_sn_10x_proj,10x Chromium 3' v2 sequencing
+zeng_sn_10x_proj,10x Chromium 3' v3 sequencing
+zeng_sn_SSv4_proj,SMART-seq v4
+zeng_tolias_pseq_proj,Patch-seq
+zeng_tolias_pseq_proj,SMART-seq v4
+zeng_tolias_pseq_proj,neuron morphology reconstruction
+zeng_tolias_pseq_proj,whole cell patch clamp
+zhuang_merfish_proj,MERFISH
+zhangK_snareseq,ATAC-seq
+zhangK_snareseq,RNAseq
+zhangK_snareseq,SNARE-seq
+zhangl_seqfish_proj,seqFISH
+ecker_hu_DNAseq_proj,DNAseq
+ecker_hu_sn_mCseq_proj,mC-seq2
+ecker_hu_sn_ATACseq_proj,ATAC-seq
+fischl_mri_proj,MRI
+fischl_oct_proj,OCT
+tasic_ATACseq_proj,ATAC-seq
+tasic_stpt_proj,STPT
+zhangl_anatomy_proj,VISor
+zhangl_anatomy_proj,light sheet microscopy
+human_cortex,SMART-seq v4
