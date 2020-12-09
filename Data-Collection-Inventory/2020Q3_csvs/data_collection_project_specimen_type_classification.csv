@@ -1,0 +1,48 @@
+project_reference_id,specimen_type_name
+TransgenicSTPT,whole brain
+dong_antero_proj,brain section set
+dong_retro_proj,brain section set
+dong_trio_proj,brain section set
+ecker_sn_ATACseq_proj,cell nucleus
+ecker_sn_mCseq_proj,cell nucleus
+ecker_sn_mCseq_retro_proj,cell nucleus
+ecker_trio_proj,brain section set
+feng_fish_proj,brain section set
+feng_sn_dropseq_proj,cell nucleus
+huang_antero_proj,brain section set
+huang_pn_proj,bulk nucleus
+huang_pn_proj,cell nucleus
+huang_retro_proj,brain section set
+huang_sn_10xv2_proj,cell nucleus
+huang_stpt_conn_proj,whole brain
+huang_stpt_count_proj,whole brain
+kriegstein_sc_10x_proj,whole cell
+kriegstein_sc_ATACseq_proj,cell nucleus
+kriegstein_sn_10x_proj,cell nucleus
+lein_sn_10x,cell nucleus
+lein_sn_SSv4_proj,cell nucleus
+osten_stpt_proj,whole brain
+yang_MORF_confocal_proj,tissue sample
+zeng_anderson_sc_10xv2_proj,whole cell
+zeng_fmost_proj,whole brain
+zeng_fmost_proj,whole cell
+zeng_mouselight_proj,whole brain
+zeng_retro_proj,whole brain
+zeng_sc_10x_proj,whole cell
+zeng_sc_SSv4_proj,whole cell
+zeng_sn_10x_proj,cell nucleus
+zeng_sn_SSv4_proj,cell nucleus
+zeng_tolias_pseq_proj,cell in slice
+zeng_tolias_pseq_proj,cell nucleus
+zhuang_merfish_proj,brain slice
+zhangK_snareseq,cell nucleus
+zhangl_seqfish_proj,spinal cord slice
+ecker_hu_DNAseq_proj,tissue sample
+ecker_hu_sn_mCseq_proj,cell nucleus
+ecker_hu_sn_ATACseq_proj,cell nucleus
+fischl_mri_proj,brain hemisphere
+fischl_oct_proj,brain slice
+tasic_ATACseq_proj,whole cell
+tasic_stpt_proj,whole brain
+zhangl_anatomy_proj,
+human_cortex,cell nucleus

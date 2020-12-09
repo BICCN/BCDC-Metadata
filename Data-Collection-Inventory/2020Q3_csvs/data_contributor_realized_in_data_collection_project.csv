@@ -1,0 +1,63 @@
+project_reference_id,person_reference_id,organization_reference_id,agent_type,priority_order
+dong_antero_proj,Darrick Lo,,person,0
+dong_antero_proj,Houri Hintiryan,,person,1
+dong_antero_proj,Nick Foster,,person,2
+dong_antero_proj,Ian Bowman,,person,3
+dong_antero_proj,Samantha Serrano,,person,4
+dong_antero_proj,Hong-Wei Dong,,person,5
+ecker_sn_ATACseq_proj,Mike Nunn,,person,0
+ecker_sn_ATACseq_proj,Eran A. Mukamel,,person,1
+ecker_sn_ATACseq_proj,Sebastian Preissl,,person,2
+ecker_sn_ATACseq_proj,Bing Ren,,person,3
+ecker_sn_mCseq_proj,Hanqing Liu,,person,0
+ecker_sn_mCseq_proj,Joseph Ecker,,person,1
+ecker_sn_mCseq_retro_proj,Ed Callaway,,person,0
+feng_fish_proj,Heather Zaniewski,,person,0
+feng_fish_proj,Kirsten Levandowski,,person,1
+feng_fish_proj,Guoping Feng,,person,2
+feng_sn_dropseq_proj,Fenna Krienen,,person,0
+huang_pn_proj,Chiara Gerhardinger,,person,0
+huang_pn_proj,Juliana Brown,,person,1
+huang_pn_proj,Ehsan Habibi,,person,2
+huang_pn_proj,Paola Arlotta,,person,3
+huang_sn_10xv2_proj,Chuck Vanderburg,,person,0
+huang_sn_10xv2_proj,Velina Kozareva,,person,1
+huang_sn_10xv2_proj,Timothy Tickle,,person,2
+huang_sn_10xv2_proj,Evan Macosko,,person,3
+huang_sn_10xv2_proj,Aviv Regev,,person,4
+huang_stpt_conn_proj,Kathleen Kelly,,person,0
+huang_stpt_count_proj,Katie Matho,,person,0
+kriegstein_sc_10x_proj,Aparna Bhaduri,,person,0
+kriegstein_sc_10x_proj,Arnold Kriegstein,,person,1
+kriegstein_sc_10x_proj,Dmitry Velmeshev,,person,2
+kriegstein_sc_ATACseq_proj,Ryan Ziffra,,person,0
+kriegstein_sc_ATACseq_proj,Tomasz Nowakowski,,person,1
+osten_stpt_proj,Ramesh Palaniswamy,,person,0
+osten_stpt_proj,Pavel Osten,,person,1
+yang_MORF_confocal_proj,Chang Sin Park,,person,0
+yang_MORF_confocal_proj,X. William Yang,,person,1
+zeng_anderson_sc_10xv2_proj,Stephanie Mok,,person,0
+zeng_anderson_sc_10xv2_proj,Florence D'Orazi,,person,1
+zeng_anderson_sc_10xv2_proj,David Anderson,,person,2
+zeng_anderson_sc_10xv2_proj,Dong-Wook Kim,,person,3
+zeng_fmost_proj,Hanchuan Peng,,person,0
+zeng_fmost_proj,Yang Yu,,person,1
+zeng_fmost_proj,Elise Shen,,person,2
+zeng_fmost_proj,Lijuan Liu,,person,3
+zeng_fmost_proj,Peng Xie,,person,4
+zeng_mouselight_proj,Jayaram Chandrashekar,,person,0
+zeng_sc_10x_proj,Cindy van Velthoven,,person,0
+zeng_tolias_pseq_proj,Andreas Tolias,,person,0
+zeng_tolias_pseq_proj,Dmitry Kobak,,person,1
+zeng_tolias_pseq_proj,Federico Scala,,person,2
+zhuang_merfish_proj,Xiaowei Zhuang,,person,0
+zhuang_merfish_proj,Meng Zhang,,person,1
+zhangK_snareseq,Kun Zhang,,person,0
+zhangK_snareseq,Marmar Moussa,,person,1
+zhangK_snareseq,Blue Lake,,person,2
+zhangK_snareseq,Peter Kharchenko,,person,3
+zhangl_seqfish_proj,Nico Pierson,,person,0
+zhangl_seqfish_proj,Li Zhang,,person,1
+zhangl_seqfish_proj,Guang-Wei Zhang,,person,2
+zhangl_seqfish_proj,Long Cai,,person,3
+zhangl_anatomy_proj,Guang-Wei Zhang,,person,0
