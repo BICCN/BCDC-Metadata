@@ -24,6 +24,9 @@ class SampleManifestGenerator:
 
         input_dir = 'inputs/Sample_inventory_csv_uncompiled_Q4_2020'
         samples_files = os.listdir('inputs/Sample_inventory_csv_uncompiled_Q4_2020')
+        self.association_failed = False
+        self.techniques_mismatched = False
+        self.unexpected_techniques = []
         for file in samples_files:
             self.parse_samples(os.path.join(input_dir, file))
 
@@ -34,6 +37,15 @@ class SampleManifestGenerator:
         print('\n')
         out_file = 'Sample-Inventory/BCDC_Metadata_' + str(self.year) + 'Q' + str(self.quarter) + '.csv'
         self.generate_inventory(out_file)
+        if self.association_failed:
+            print(red + 'Warning: ' + reset + 'Association of samples to collections failed on some source files.')
+        else:
+            print(green + 'Success: ' + reset + 'All samples in source files associated to collections.')
+        if self.techniques_mismatched:
+            print(red + 'Warning: ' + reset + 'Some samples were tagged with an unexpected technique:')
+            print(sorted(list(set(self.unexpected_techniques))))
+        else:
+            print(green + 'Success: ' + reset + 'All samples\' technique tags were expected.')
 
     def sanitize_entry(self, entry):
         if type(entry) == str:
@@ -102,6 +114,7 @@ class SampleManifestGenerator:
         delta = self.samples.shape[0] - (self.total_associated - cached_total)
         if delta != 0:
             print(red + 'Warning: ' + reset + cyan + str(delta) + reset + ' samples from this source file did NOT get associated.')
+            self.association_failed = True
 
     def special_breakout_cases(self):
         return ['zeng_tolias_pseq']
@@ -150,6 +163,20 @@ class SampleManifestGenerator:
             print(green + str(collection_samples.shape[0]) + reset + ' *additional* samples associated to ' + yellow + collection.get_name() + reset + ' (\'' + handle_in_manifest + '\' in source file) ' + '(had ' + str(cached.shape[0]) + ')')
 
         self.total_associated = self.total_associated + collection.samples.shape[0]
+        techniques_in_manifest = list(set(collection.samples['Technique  (CV)']))
+        splitted = []
+        for t in techniques_in_manifest:
+            splitted = splitted + re.split(';',t)
+        techniques_in_manifest = splitted
+        techniques_for_collection = [rel.get_target().get_name() for rel in collection.r('was collected using').values()]
+        for technique in techniques_in_manifest:
+            if not technique in techniques_for_collection:
+                if not technique in d['Technique'].entities.keys():
+                    print(red + 'Warning: ' + reset + 'Samples were tagged with ' + magenta + technique + reset + ' but this technique is not even on our list of techniques.')
+                else:
+                    print(red + 'Warning: ' + reset + 'Samples were tagged with ' + magenta + technique + reset + ' but this technique is not associated with the collection ' + yellow + collection.get_name() + reset)
+                self.techniques_mismatched = True
+                self.unexpected_techniques.append(technique)
 
     def check_single_collection(self, handle_proj):
         d = self.d
