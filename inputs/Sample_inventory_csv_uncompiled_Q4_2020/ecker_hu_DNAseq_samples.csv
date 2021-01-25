@@ -1,0 +1,4 @@
+Sample ID,Species (CV),Species NCBI Taxonomy ID,Donor id,Genotype,Modality  (CV),Technique  (CV),CORRECTED Anatomical Structure,Subspecimen Type (CV),Total Processed Subspecimens,Organization (CV),Investigator,Grant Number (CV),Project (CV),R24 Name (CV),R24 link,Comments,Metadata Submission,Wrangler Notes,Prior Project,Prior Anatomical Structure (CV)
+GENOMIC_H1830002_DNA,human,NCBI:txid9606,H18.30.002,,DNA,DNA-seq,,tissue samples,1,Salk Institute for Biological Studies,Joseph Ecker,1U01MH121282-01,ecker_hu_DNAseq,NeMO,,,2020Q2,,,
+GENOMIC_H1930001_DNA,human,NCBI:txid9606,H19.30.001,,DNA,DNA-seq,,tissue samples,1,Salk Institute for Biological Studies,Joseph Ecker,1U01MH121282-01,ecker_hu_DNAseq,NeMO,,,2020Q2,,,
+GENOMIC_H1930002_DNA,human,NCBI:txid9606,H19.30.002,,DNA,DNA-seq,,tissue samples,1,Salk Institute for Biological Studies,Joseph Ecker,1U01MH121282-01,ecker_hu_DNAseq,NeMO,,,2020Q2,,,
