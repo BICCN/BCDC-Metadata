@@ -48,21 +48,21 @@ class SampleManifestGenerator:
                 self.samples[extra] = ''
 
     def parse_samples(self, samples_file, add=True):
-        print(samples_file)
         d = self.d
         format = re.search('\\.([a-z]+)$', samples_file).groups()[0]
         if format == 'xlsx':
-            self.samples = pd.read_excel(samples_file, keep_default_na=False)
+            self.samples = pd.read_excel(samples_file, keep_default_na=False, index_col=False)
         if format == 'csv':
-            self.samples = pd.read_csv(samples_file, keep_default_na=False)
+            self.samples = pd.read_csv(samples_file, keep_default_na=False, index_col=False)
         self.samples = self.samples.applymap(self.sanitize_entry)
         if add == True:
             self.check_additional_columns()
         given_handles = sorted(list(set(list(self.samples['Project (CV)']))))
         known_project_handles = list(d['Project'].entities.keys())
         known_collection_handles = list(d['Collection'].entities.keys())
+        cached_total = self.total_associated
         print('')
-        print('Going through project names as provided in specimen manifest ' + magenta + os.path.basename(samples_file) + reset)
+        print(magenta + os.path.basename(samples_file) + reset + ' ... ', end = '')
         for handle in given_handles:
             original_handle = handle
             if handle in self.special_breakout_cases():
@@ -98,7 +98,10 @@ class SampleManifestGenerator:
             self.not_verbatim = not_verbatim_local
         else:
             self.not_verbatim = list(set(self.not_verbatim).intersection(not_verbatim_local))
-        print('Associated so far: ' + green + str(self.total_associated) + reset + ', with ' + yellow + str(self.samples.shape[0]) + reset + ' samples in this round.')
+        print(cyan + str(self.total_associated) + reset + ' associated so far, with ' + yellow + str(self.samples.shape[0]) + reset + ' samples considered in this round.')
+        delta = self.samples.shape[0] - (self.total_associated - cached_total)
+        if delta != 0:
+            print(red + 'Warning: ' + reset + cyan + str(delta) + reset + ' samples from this source file did NOT get associated.')
 
     def special_breakout_cases(self):
         return ['zeng_tolias_pseq']
@@ -128,7 +131,7 @@ class SampleManifestGenerator:
                 collections[tag].samples.loc[:,'Technique  (CV)'] = mts[tag]['Technique']
             self.total_associated = self.total_associated + pseq_samples.shape[0]
             print(green + handle + reset + cyan + '_proj' + reset + ' is a known ' + magenta + 'Project' + reset + '. ')
-            print('Associated ' + green + '+'.join([str(collections[tag].samples.shape[0]) for tag in tags]) + reset + ' (same samples) samples to ' + yellow + ', '.join([collections[tag].get_name() for tag in tags]) + reset + ' (from \'' + handle + '\' in manifest)')
+            print('Associated ' + green + '+'.join([str(collections[tag].samples.shape[0]) for tag in tags]) + reset + ' (same samples) samples to ' + yellow + ', '.join([collections[tag].get_name() for tag in tags]) + reset + ' (from \'' + handle + '\' in source file)')
 
     def associate_collection_samples(self, handle, handle_in_manifest, add=False):
         samples = self.samples
@@ -138,12 +141,13 @@ class SampleManifestGenerator:
 
         if add == False or not hasattr(collection, 'samples'):
             collection.samples = collection_samples
-            print('  Associated ' + green + str(collection.samples.shape[0]) + reset + ' samples to ' + yellow + collection.get_name() + reset + ' (\'' + handle_in_manifest + '\' in manifest)')
+            extra = ' (\'' + handle_in_manifest + '\' in source file)' if collection.get_name() != handle_in_manifest else ''
+            print(green + str(collection.samples.shape[0]) + reset + ' samples associated to ' + yellow + collection.get_name() + reset + extra)
         else:
             cached = deepcopy(collection.samples)
             collection_samples = collection_samples[cached.columns]
             collection.samples = pd.concat([cached, collection_samples])
-            print('  Associated ' + green + str(collection_samples.shape[0]) + reset + ' *additional* samples to ' + yellow + collection.get_name() + reset + ' (\'' + handle_in_manifest + '\' in manifest) ' + '(had ' + str(cached.shape[0]) + ')')
+            print(green + str(collection_samples.shape[0]) + reset + ' *additional* samples associated to ' + yellow + collection.get_name() + reset + ' (\'' + handle_in_manifest + '\' in source file) ' + '(had ' + str(cached.shape[0]) + ')')
 
         self.total_associated = self.total_associated + collection.samples.shape[0]
 
@@ -187,6 +191,9 @@ class SampleManifestGenerator:
                 for row in df2.index:
                     df2.loc[row, 'Data Collection (CV)'] = collection.get_name()
                     df2.loc[row, 'Project (CV)'] = project.get_name()
+                for column in columns:
+                    if not column in df2.columns:
+                        print(red + 'Warning: ' + reset + 'Column ' + column + ' not present in samples dataframe for collection ' + yellow + collection.get_name() + reset)
                 df2 = df2[columns]
                 df = pd.concat([df, df2])
         self.samples_out = df.drop_duplicates()
