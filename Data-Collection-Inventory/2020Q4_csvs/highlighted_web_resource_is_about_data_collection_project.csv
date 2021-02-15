@@ -86,5 +86,11 @@ zeng_tolias_pseq_proj,http://identifiers.org/DANDI:000008,2
 zhuang_merfish_proj,http://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/,0
 zhangK_snareseq,http://data.nemoarchive.org/biccn/grant/zhang/zhang/,0
 zhangl_seqfish_proj,http://download.brainimagelibrary.org/biccn/zhangl/seqfish/,0
+fischl_mri_proj,https://gui.dandiarchive.org/#/dandiset/000026,0
+fischl_oct_proj,https://gui.dandiarchive.org/#/dandiset/000026,0
+tasic_ATACseq_proj,https://data.nemoarchive.org/biccn/grant/zeng/tasic/chromatin/scell/,0
+tasic_stpt_proj,https://download.brainimagelibrary.org/biccn/tasic/stpt/,0
+zhangl_anatomy_proj,https://download.brainimagelibrary.org/biccn/zhangl/anatomy,0
 human_cortex,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,0
-regev_cisi_proj,https://github.com/cleary-lab/CISI,0
+regev_cisi_proj,https://github.com/cleary-lab/CISI,1
+regev_cisi_proj,https://download.brainimagelibrary.org/biccn/regev/cisi,0

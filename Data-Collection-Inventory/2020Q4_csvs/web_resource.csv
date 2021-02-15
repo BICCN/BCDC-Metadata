@@ -166,10 +166,15 @@ https://portal.brain-map.org/atlases-and-data/rnaseq/protocols-human-cortex#fund
 https://assets.nemoarchive.org/dat-2c8otht,download,Human Cortex RNAseq - GRU,NeMO,https://assets.nemoarchive.org/dat-2c8otht
 https://assets.nemoarchive.org/dat-swzf4kc,download,Human MTG RNAseq - Restricted,NeMO,https://assets.nemoarchive.org/dat-swzf4kc
 https://assets.nemoarchive.org/dat-72qka5t,download,Human M1C and DFC RNAseq - Open,NeMO,https://assets.nemoarchive.org/dat-72qka5t
-http://data.nemoarchive.org/biccn/grant/lein/lein/lein/transcriptomic/sncell/raw/,download,Macaque L5 M1 10x,NeMO,http://data.nemoarchive.org/biccn/grant/lein/lein/lein/transcriptomic/sncell/raw/
+http://data.nemoarchive.org/biccn/grant/lein/lein/lein/transcriptomic/sncell/raw/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/lein/lein/lein/transcriptomic/sncell/raw/
 http://download.brainimagelibrary.org/biccn/feng/morph/,download,Brain Image Library directory for Feng morphology,BIL,https://download.brainimagelibrary.org/biccn/feng/morph/
 https://github.com/cleary-lab/CISI,information,Composite In Situ Imaging (CISI),GitHub,https://github.com/cleary-lab/CISI
 http://data.nemoarchive.org/biccn/grant/nowakowski/transcriptome/scell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/nowakowski/transcriptome/scell/
 https://doi.org/10.1016/j.cell.2019.09.020,view,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,https://doi.org/10.1016/j.cell.2019.09.020
 http://data.nemoarchive.org/biccn/grant/zhang/zhang/marmoset/raw/SNARE2-R/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zhang/zhang/marmoset/raw/SNARE2-R/
 https://download.brainimagelibrary.org/biccn/huang/fmost/,download,Brain Image Library,BIL,https://download.brainimagelibrary.org/biccn/huang/fmost/
+https://download.brainimagelibrary.org/biccn/regev/cisi,download,Brain Image Library,BIL,https://download.brainimagelibrary.org/biccn/regev/cisi
+https://gui.dandiarchive.org/#/dandiset/000026,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://gui.dandiarchive.org/#/dandiset/000026
+https://download.brainimagelibrary.org/biccn/zhangl/anatomy,download,Brain Image Library,BIL,https://download.brainimagelibrary.org/biccn/zhangl/anatomy
+https://data.nemoarchive.org/biccn/grant/zeng/tasic/chromatin/scell/,download,NeMO Data Archive,NeMO,https://data.nemoarchive.org/biccn/grant/zeng/tasic/chromatin/scell/
+https://download.brainimagelibrary.org/biccn/tasic/stpt/,download,Brain Image Library,BIL,https://download.brainimagelibrary.org/biccn/tasic/stpt/
