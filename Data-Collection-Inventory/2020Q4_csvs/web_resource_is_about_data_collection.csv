@@ -68,11 +68,10 @@ ecker_trio,http://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/,0
 feng_fish,http://download.brainimagelibrary.org/biccn/feng/fish/,0
 feng_sn_dropseq,http://data.nemoarchive.org/biccn/grant/feng/feng/transcriptome/scell/,0
 huang_antero,http://download.brainimagelibrary.org/biccn/huang/dong/anterograde/triple/,0
-huang_pn_bulk_SSv4,http://data.nemoarchive.org/biccn/grant/huang/arlotta/transcriptome/bulk/,0
-huang_pn_sn_10xv2,http://data.nemoarchive.org/biccn/grant/huang/arlotta/transcriptome/scell/,0
+huang_pn_bulk_SSv4,https://assets.nemoarchive.org/dat-s82jegu,0
+huang_pn_sn_10xv2,https://assets.nemoarchive.org/dat-mq52tet,0
 huang_retro,http://download.brainimagelibrary.org/biccn/huang/dong/retrograde/quad/,0
-huang_sn_10xv2,http://data.nemoarchive.org/biccn/lab/regev/transcriptome/sncell/,1
-huang_sn_10xv2,http://data.nemoarchive.org/biccn/lab/macosko/transcriptome/sncell/,0
+huang_sn_10xv2,https://assets.nemoarchive.org/dat-vutwbqm,0
 huang_stpt_conn,http://download.brainimagelibrary.org/biccn/huang/connectivity/anterograde/,0
 huang_stpt_count,http://download.brainimagelibrary.org/biccn/huang/cellcounting/,0
 kriegstein_sc_10xv2,http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/scell/,0
@@ -98,6 +97,7 @@ zhuang_merfish,http://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/,
 zhangK_cj_snareseq_AC,http://data.nemoarchive.org/biccn/grant/zhang/zhang/,0
 zhangK_cj_snareseq_R,http://data.nemoarchive.org/biccn/grant/zhang/zhang/marmoset/raw/SNARE2-R/,0
 zhangl_seqfish,http://download.brainimagelibrary.org/biccn/zhangl/seqfish/,0
+huang_sn_10xv3,https://assets.nemoarchive.org/dat-svco5za,0
 fischl_mri,https://gui.dandiarchive.org/#/dandiset/000026,0
 fischl_oct,https://gui.dandiarchive.org/#/dandiset/000026,0
 tasic_ATACseq,http://data.nemoarchive.org/biccn/lab/tasic/chromatin/scell/,0
