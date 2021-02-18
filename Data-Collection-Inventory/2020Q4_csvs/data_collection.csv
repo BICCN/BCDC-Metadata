@@ -79,11 +79,11 @@ zeng_fmost,Full morphology in the mouse brain fMOST,fMOST,High voxel resolution 
 zeng_fmost_cells,Full morphology single cell reconstructions in mouse whole brain fMOST images,cell reconstructions,Reconstructed neurons based on fMOST imaging.,open,in progress,2021/02/16
 zeng_mouselight,MouseLight imaging,MouseLight,MouseLight imaging.,open,in progress,2020/02/06
 zeng_retro,Retrograde trans-synaptic imaging,Retrograde trans-synaptic,Serial two photon tomography of brains labeled by retrograde trans-synaptic.,open,in progress,2020/10/07
-zeng_sc_10xv2,Transcriptomic cell types in the mouse brain: 10x v2 cells,10x 3' v2 sequencing,Single cell characterization in mouse brain using 10x 3' v2 sequencing.,open,in progress,2020/02/06
-zeng_sc_10xv3,Transcriptomic cell types in the mouse brain: 10x v3 cells,10x 3' v3 sequencing,Single cell characterization in mouse brain using 10x 3' v3 sequencing.,open,in progress,2020/08/25
+zeng_sc_10xv2,Transcriptomic cell types in the mouse brain: 10x v2 cells,10x 3' v2 sequencing,Single cell characterization in mouse brain using 10x 3' v2 sequencing.,open,in progress,2021/02/16
+zeng_sc_10xv3,Transcriptomic cell types in the mouse brain: 10x v3 cells,10x 3' v3 sequencing,Single cell characterization in mouse brain using 10x 3' v3 sequencing.,open,in progress,2021/02/16
 zeng_sc_SSv4,Transcriptomic cell types in the mouse brain: SMART-seq cells,SMART-seq v4,Single cell characterization in mouse brain using SMART-seq v4.,open,in progress,2021/02/16
-zeng_sn_10xv2,Transcriptomic cell types in the mouse brain: 10x nuclei,10x 3' v2 sequencing,Single nucleus characterization in mouse brain using 10x 3' v2 sequencing.,open,in progress,2019/05/08
-zeng_sn_10xv3,Transcriptomic cell types in the mouse brain: 10x nuclei,10x 3' v3 sequencing,Single nucleus characterization in mouse brain using 10x 3' v3 sequencing.,open,in progress,2020/02/06
+zeng_sn_10xv2,Transcriptomic cell types in the mouse brain: 10x nuclei,10x 3' v2 sequencing,Single nucleus characterization in mouse brain using 10x 3' v2 sequencing.,open,in progress,2021/02/16
+zeng_sn_10xv3,Transcriptomic cell types in the mouse brain: 10x nuclei,10x 3' v3 sequencing,Single nucleus characterization in mouse brain using 10x 3' v3 sequencing.,open,in progress,2021/02/16
 zeng_sn_SSv4,Transcriptomic cell types in the mouse brain: SMART-seq nuclei,SMART-seq v4,Single nucleus characterization in mouse brain using SMART-seq v4.,open,in progress,2019/05/08
 zeng_tolias_pseq_m,Patch-seq of mouse motor cortex: morphology,Patch-seq Morphology,Morphological reconstructions.,,,
 zeng_tolias_pseq_t,Patch-seq of mouse motor cortex: transcriptomics,Patch-seq Transcriptomics,Transcriptomics from patched cells.,,,

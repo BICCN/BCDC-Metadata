@@ -68,11 +68,11 @@ zeng_fmost,whole brain,51
 zeng_fmost_cells,whole cell,1698
 zeng_mouselight,whole brain,1
 zeng_retro,whole brain,672
-zeng_sc_10xv2,whole cell,175252
-zeng_sc_10xv3,whole cell,176641
-zeng_sc_SSv4,whole cell,223066
-zeng_sn_10xv2,cell nucleus,88521
-zeng_sn_10xv3,cell nucleus,126559
+zeng_sc_10xv2,whole cell,2459753
+zeng_sc_10xv3,whole cell,1315525
+zeng_sc_SSv4,whole cell,156374
+zeng_sn_10xv2,cell nucleus,179423
+zeng_sn_10xv3,cell nucleus,216941
 zeng_sn_SSv4,cell nucleus,6816
 zeng_tolias_pseq_m,cell in slice,1320
 zeng_tolias_pseq_t,cell nucleus,1320
