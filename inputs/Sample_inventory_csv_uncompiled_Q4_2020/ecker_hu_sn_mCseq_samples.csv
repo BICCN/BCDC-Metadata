@@ -1,0 +1,4 @@
+Sample ID,Species (CV),Species NCBI Taxonomy ID,Donor id,Genotype,Modality  (CV),Technique  (CV),CORRECTED Anatomical Structure,Subspecimen Type (CV),Total Processed Subspecimens,Organization (CV),Investigator,Grant Number (CV),Project (CV),R24 Name (CV),R24 link,Comments,Metadata Submission,Wrangler Notes,Prior Project,Prior Anatomical Structure (CV)
+CB61_CBV_H1930001_METHYL_1,human,NCBI:txid9606,H19.30.001,,epigenomics,snmC-seq,CBV,nuclei,1406,Salk Institute for Biological Studies,Joseph Ecker,1U01MH121282-01,ecker_hu_sn_mCseq,NeMO,,,2020Q2,,,
+CB61_CBV_H1930002_METHYL_1,human,NCBI:txid9606,H19.30.002,,epigenomics,snmC-seq,CBV,nuclei,1468,Salk Institute for Biological Studies,Joseph Ecker,1U01MH121282-01,ecker_hu_sn_mCseq,NeMO,,,2020Q2,,,
+CX49_MTG_H1930002_METHYL_1,human,NCBI:txid9606,H19.30.002,,epigenomics,snmC-seq,MTG,nuclei,3027,Salk Institute for Biological Studies,Joseph Ecker,1U01MH121282-01,ecker_hu_sn_mCseq,NeMO,,,2020Q2,,,

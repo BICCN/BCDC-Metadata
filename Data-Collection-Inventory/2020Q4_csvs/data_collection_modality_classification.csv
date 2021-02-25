@@ -1,0 +1,125 @@
+data_collection_reference_id,modality_name
+ConnAntCreSypEGFP,connectivity
+ConnAntTarget,connectivity
+ConnBdaAav,connectivity
+ConnEGFP,connectivity
+ConnRef,histology imaging
+ConnRetinaProjection,connectivity
+ConnRetinaVertical,histology imaging
+ConnTG,histology imaging
+DevHumanISH,histology imaging
+DevHumanMA,transcriptomics
+DevHumanRef,histology imaging
+DevHumanTrans,transcriptomics
+DevMouse,histology imaging
+DevMouseRef,histology imaging
+DevMouseRefAtlas,histology imaging
+HumanASD,histology imaging
+HumanCellTypeDonors,multimodal
+HumanCtx,histology imaging
+HumanGBMISH,histology imaging
+HumanGBMRNASeq,transcriptomics
+HumanM110x,transcriptomics
+HumanMA,transcriptomics
+HumanME,cell morphology
+HumanMTGSS,transcriptomics
+HumanNT,histology imaging
+HumanPSeqL23_E,electrophysiology
+HumanPSeqL23_E,multimodal
+HumanPSeqL23_M,cell morphology
+HumanPSeqL23_M,multimodal
+HumanPSeqL23_T,multimodal
+HumanPSeqL23_T,transcriptomics
+HumanSubCtx,histology imaging
+HumanSZ,histology imaging
+HumanTBI,transcriptomics
+HumanV1ACCSS,transcriptomics
+MouseCTXHIP10x,transcriptomics
+MouseCTXHIPSS,transcriptomics
+MouseDiv,histology imaging
+MouseISH,histology imaging
+MouseME,cell morphology
+MousePSeqVIS_E,electrophysiology
+MousePSeqVIS_E,multimodal
+MousePSeqVIS_M,cell morphology
+MousePSeqVIS_T,transcriptomics
+MouseSpinalISH,histology imaging
+MouseSpinalRef,histology imaging
+NhpISHForebrain,histology imaging
+NhpLMA,transcriptomics
+NhpMM,histology imaging
+NhpMMA,transcriptomics
+NhpRef,anatomy
+NhpRef,histology imaging
+NpxVc,electrophysiology
+SleepISH,histology imaging
+VisCodOphys,optical physiology
+zeng_expr_char,population imaging
+dong_antero,connectivity
+dong_retro,connectivity
+dong_trio,connectivity
+ecker_sn_ATACseq,epigenomics
+ecker_sn_mCseq,epigenomics
+ecker_sn_mCseq_retro,epigenomics
+ecker_trio,connectivity
+feng_fish,spatial transcriptomics
+feng_sn_dropseq,transcriptomics
+huang_antero,connectivity
+huang_pn_bulk_SSv4,transcriptomics
+huang_pn_sn_10xv2,transcriptomics
+huang_retro,connectivity
+huang_sn_10xv2,transcriptomics
+huang_stpt_conn,connectivity
+huang_stpt_count,population imaging
+kriegstein_sc_10xv2,transcriptomics
+kriegstein_sc_ATACseq,epigenomics
+kriegstein_sn_10xv2,transcriptomics
+lein_sn_10xv2,transcriptomics
+lein_sn_10xv3,transcriptomics
+lein_sn_SSv4,transcriptomics
+osten_stpt,population imaging
+yang_MORF_confocal,cell morphology
+zeng_anderson_sc_10xv2,transcriptomics
+zeng_fmost,cell morphology
+zeng_fmost_cells,cell morphology
+zeng_mouselight,cell morphology
+zeng_retro,connectivity
+zeng_sc_10xv2,transcriptomics
+zeng_sc_10xv3,transcriptomics
+zeng_sc_SSv4,transcriptomics
+zeng_sn_10xv2,transcriptomics
+zeng_sn_10xv3,transcriptomics
+zeng_sn_SSv4,transcriptomics
+zeng_tolias_pseq_m,cell morphology
+zeng_tolias_pseq_t,transcriptomics
+zeng_tolias_pseq_e,electrophysiology
+zhuang_merfish,spatial transcriptomics
+zhangK_cj_snareseq_AC,multimodal
+zhangK_cj_snareseq_R,multimodal
+zhangK_hs_snareseq_AC,multimodal
+zhangK_hs_snareseq_R,multimodal
+zhangl_seqfish,spatial transcriptomics
+huang_sn_10xv3,transcriptomics
+ecker_hu_DNAseq,genomics
+fischl_mri,anatomy
+fischl_oct,anatomy
+tasic_ATACseq,epigenomics
+tasic_stpt,population imaging
+MacaqueM110x,transcriptomics
+zhangl_anatomy,anatomy
+human_cortex_SS4_counts,transcriptomics
+human_cortex_SS4_Open_GRU,transcriptomics
+human_cortex_SS4_restricted_GRU,transcriptomics
+human_cortex_SS4_restricted_limited,transcriptomics
+ecker_hu_sn_ATACseq,epigenomics
+ecker_hu_sn_mCseq,epigenomics
+feng_morph,cell morphology
+regev_cisi,spatial transcriptomics
+huang_fmost,cell morphology
+huang_fmost_cells,cell morphology
+mueller_mouselight,cell morphology
+feng_sn_10xv3,transcriptomics
+yang_morf_cells,cell morphology
+huang_pn_sn_10xv3,transcriptomics
+nowakowski_evobc,transcriptomics
+kriegstein_sc_10xv3,transcriptomics

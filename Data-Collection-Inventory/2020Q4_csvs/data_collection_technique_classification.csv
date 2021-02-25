@@ -1,0 +1,143 @@
+data_collection_reference_id,technique_name
+ConnAntCreSypEGFP,cre-dependent anterograde tracing
+ConnAntTarget,anterograde tracing
+ConnBdaAav,anterograde tracing
+ConnEGFP,anterograde tracing
+ConnRef,histology
+ConnRetinaProjection,anterograde tracing
+ConnRetinaVertical,histology
+ConnTG,in situ hybridization
+DevHumanISH,in situ hybridization
+DevHumanMA,microarray
+DevHumanRef,histology
+DevHumanTrans,RNAseq
+DevMouse,in situ hybridization
+DevMouseRef,histology
+DevMouseRefAtlas,histology
+HumanASD,in situ hybridization
+HumanCellTypeDonors,histology
+HumanCellTypeDonors,whole cell patch clamp
+HumanCellTypeDonors,neuron morphology reconstruction
+HumanCtx,in situ hybridization
+HumanGBMISH,in situ hybridization
+HumanGBMRNASeq,RNAseq
+HumanM110x,10x Chromium 3' v3 sequencing
+HumanMA,microarray
+HumanME,neuron morphology reconstruction
+HumanME,whole cell patch clamp
+HumanMTGSS,SMART-seq v4
+HumanNT,in situ hybridization
+HumanPSeqL23_E,Patch-seq
+HumanPSeqL23_E,whole cell patch clamp
+HumanPSeqL23_M,Patch-seq
+HumanPSeqL23_M,neuron morphology reconstruction
+HumanPSeqL23_T,Patch-seq
+HumanPSeqL23_T,SMART-seq v4
+HumanSubCtx,in situ hybridization
+HumanSZ,in situ hybridization
+HumanTBI,RNAseq
+HumanTBI,in situ hybridization
+HumanV1ACCSS,SMART-seq v4
+MouseCTXHIP10x,10x Chromium 3' v2 sequencing
+MouseCTXHIPSS,SMART-seq v4
+MouseDiv,in situ hybridization
+MouseISH,in situ hybridization
+MouseME,neuron morphology reconstruction
+MouseME,whole cell patch clamp
+MousePSeqVIS_E,Patch-seq
+MousePSeqVIS_E,whole cell patch clamp
+MousePSeqVIS_M,neuron morphology reconstruction
+MousePSeqVIS_M,Patch-seq
+MousePSeqVIS_T,SMART-seq v4
+MousePSeqVIS_T,Patch-seq
+MouseSpinalISH,in situ hybridization
+MouseSpinalRef,histology
+NhpISHForebrain,in situ hybridization
+NhpLMA,microarray
+NhpMM,in situ hybridization
+NhpMMA,microarray
+NhpRef,histology
+NhpRef,MRI
+NpxVc,multi electrode extracellular electrophysiology technique
+SleepISH,in situ hybridization
+VisCodOphys,calcium imaging
+zeng_expr_char,STPT
+dong_antero,cre-dependent anterograde tracing
+dong_retro,retrograde tracing
+dong_trio,TRIO tracing
+ecker_sn_ATACseq,ATAC-seq
+ecker_sn_mCseq,mC-seq2
+ecker_sn_mCseq_retro,mC-seq2
+ecker_sn_mCseq_retro,retrograde tracing
+ecker_trio,TRIO tracing
+feng_fish,FISH
+feng_sn_dropseq,Drop-seq
+huang_antero,anterograde tracing
+huang_pn_bulk_SSv4,SMART-seq v4
+huang_pn_sn_10xv2,10x Chromium 3' v2 sequencing
+huang_retro,retrograde tracing
+huang_sn_10xv2,10x Chromium 3' v2 sequencing
+huang_stpt_conn,anterograde tracing
+huang_stpt_count,STPT
+kriegstein_sc_10xv2,10x Chromium 3' v2 sequencing
+kriegstein_sc_ATACseq,ATAC-seq
+kriegstein_sn_10xv2,10x Chromium 3' v2 sequencing
+lein_sn_10xv2,10x Chromium 3' v2 sequencing
+lein_sn_10xv3,10x Chromium 3' v3 sequencing
+lein_sn_SSv4,SMART-seq v4
+osten_stpt,STPT
+yang_MORF_confocal,MORF genetic sparse labeling
+zeng_anderson_sc_10xv2,10x Chromium 3' v2 sequencing
+zeng_fmost,fMOST
+zeng_fmost_cells,fMOST
+zeng_mouselight,mouselight
+zeng_retro,retrograde transsynaptic tracing
+zeng_sc_10xv2,10x Chromium 3' v2 sequencing
+zeng_sc_10xv3,10x Chromium 3' v3 sequencing
+zeng_sc_SSv4,SMART-seq v4
+zeng_sn_10xv2,10x Chromium 3' v2 sequencing
+zeng_sn_10xv3,10x Chromium 3' v3 sequencing
+zeng_sn_SSv4,SMART-seq v4
+zeng_tolias_pseq_m,Patch-seq
+zeng_tolias_pseq_m,neuron morphology reconstruction
+zeng_tolias_pseq_t,Patch-seq
+zeng_tolias_pseq_t,SMART-seq v4
+zeng_tolias_pseq_e,Patch-seq
+zeng_tolias_pseq_e,whole cell patch clamp
+zhuang_merfish,MERFISH
+zhangK_cj_snareseq_AC,SNARE-seq2
+zhangK_cj_snareseq_AC,ATAC-seq
+zhangK_cj_snareseq_R,SNARE-seq2
+zhangK_cj_snareseq_R,RNAseq
+zhangK_hs_snareseq_AC,SNARE-seq2
+zhangK_hs_snareseq_AC,ATAC-seq
+zhangK_hs_snareseq_R,SNARE-seq2
+zhangK_hs_snareseq_R,RNAseq
+zhangl_seqfish,seqFISH
+huang_sn_10xv3,10x Chromium 3' v3 sequencing
+ecker_hu_DNAseq,DNAseq
+fischl_mri,MRI
+fischl_oct,OCT
+tasic_ATACseq,ATAC-seq
+tasic_stpt,STPT
+tasic_stpt,enhancer virus labeling
+MacaqueM110x,10x Chromium 3' v3 sequencing
+zhangl_anatomy,VISor
+zhangl_anatomy,light sheet microscopy
+human_cortex_SS4_counts,SMART-seq v4
+human_cortex_SS4_Open_GRU,SMART-seq v4
+human_cortex_SS4_restricted_GRU,SMART-seq v4
+human_cortex_SS4_restricted_limited,SMART-seq v4
+ecker_hu_sn_ATACseq,ATAC-seq
+ecker_hu_sn_mCseq,mC-seq2
+feng_morph,neuron morphology reconstruction
+regev_cisi,CISI
+huang_fmost,fMOST
+huang_fmost_cells,fMOST
+huang_fmost_cells,neuron morphology reconstruction
+mueller_mouselight,mouselight
+feng_sn_10xv3,10x Chromium 3' v3 sequencing
+yang_morf_cells,neuron morphology reconstruction
+huang_pn_sn_10xv3,10x Chromium 3' v3 sequencing
+nowakowski_evobc,10x Chromium 3' v3 sequencing
+kriegstein_sc_10xv3,10x Chromium 3' v3 sequencing

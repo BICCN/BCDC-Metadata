@@ -1,0 +1,101 @@
+project_reference_id,modality_name
+ConnProjection,connectivity
+ConnBdaAavProj,connectivity
+ConnRefProject,histology imaging
+ConnRetina,connectivity
+ConnRetinaVertProj,histology imaging
+ConnTransChar,histology imaging
+DevHumanISHProj,histology imaging
+DevHumanMAProj,transcriptomics
+DevHumanRefProj,histology imaging
+DevHumanTransProj,transcriptomics
+DevMouseProj,histology imaging
+DevMouseRefAtlasProj,histology imaging
+HumanASDProj,histology imaging
+HumanCellTypes,cell morphology
+HumanCellTypes,multimodal
+HumanCtxProj,histology imaging
+HumanGBMRNASeqProj,transcriptomics
+HumanM110xProj,transcriptomics
+HumanMAProj,transcriptomics
+HumanMTGSSProj,transcriptomics
+HumanNTProj,histology imaging
+HumanPSeqL23Proj,multimodal
+HumanPSeqL23Proj,transcriptomics
+HumanPSeqL23Proj,electrophysiology
+HumanPSeqL23Proj,cell morphology
+HumanSubCtxProj,histology imaging
+HumanSZProj,histology imaging
+HumanTBIProj,transcriptomics
+HumanV1ACCSSProj,transcriptomics
+MouseCTXHIP10xProj,transcriptomics
+MouseCTXHIPSSProj,transcriptomics
+MouseDivProj,histology imaging
+MouseISHProj,histology imaging
+MouseCellTypes,cell morphology
+MousePSeqVISProj,cell morphology
+MousePSeqVISProj,multimodal
+MousePSeqVISProj,transcriptomics
+MousePSeqVISProj,electrophysiology
+MouseSpinalISHProj,histology imaging
+MouseSpinalRefProj,histology imaging
+NhpISHProj,histology imaging
+NHPMAProj,transcriptomics
+NhpRefProj,anatomy
+NhpRefProj,histology imaging
+NpxVcProj,electrophysiology
+SleepStudy,histology imaging
+VisCodOphysProj,optical physiology
+TransgenicSTPT,population imaging
+HumanGBMISHProj,histology imaging
+dong_antero_proj,connectivity
+dong_retro_proj,connectivity
+dong_trio_proj,connectivity
+ecker_sn_ATACseq_proj,epigenomics
+ecker_sn_mCseq_proj,epigenomics
+ecker_sn_mCseq_retro_proj,epigenomics
+ecker_trio_proj,connectivity
+feng_fish_proj,cell morphology
+feng_fish_proj,spatial transcriptomics
+feng_sn_dropseq_proj,transcriptomics
+huang_antero_proj,connectivity
+huang_pn_proj,transcriptomics
+huang_retro_proj,connectivity
+huang_sn_10xv2_proj,transcriptomics
+huang_stpt_conn_proj,connectivity
+huang_stpt_count_proj,population imaging
+kriegstein_sc_10x_proj,transcriptomics
+kriegstein_sc_ATACseq_proj,epigenomics
+kriegstein_sn_10x_proj,transcriptomics
+lein_sn_10x,transcriptomics
+lein_sn_SSv4_proj,transcriptomics
+osten_stpt_proj,population imaging
+yang_MORF_confocal_proj,cell morphology
+zeng_anderson_sc_10xv2_proj,transcriptomics
+zeng_fmost_proj,cell morphology
+zeng_mouselight_proj,cell morphology
+zeng_retro_proj,connectivity
+zeng_sc_10x_proj,transcriptomics
+zeng_sc_SSv4_proj,transcriptomics
+zeng_sn_10x_proj,transcriptomics
+zeng_sn_SSv4_proj,transcriptomics
+zeng_tolias_pseq_proj,cell morphology
+zeng_tolias_pseq_proj,electrophysiology
+zeng_tolias_pseq_proj,transcriptomics
+zhuang_merfish_proj,spatial transcriptomics
+zhangK_snareseq,multimodal
+zhangl_seqfish_proj,spatial transcriptomics
+ecker_hu_DNAseq_proj,genomics
+fischl_mri_proj,anatomy
+fischl_oct_proj,anatomy
+tasic_ATACseq_proj,epigenomics
+tasic_stpt_proj,population imaging
+MacaqueM110xProj,transcriptomics
+zhangl_anatomy_proj,anatomy
+human_cortex,transcriptomics
+ecker_hu_sn_ATACseq_proj,epigenomics
+ecker_hu_sn_mCseq_proj,epigenomics
+regev_cisi_proj,spatial transcriptomics
+huang_fmost_proj,cell morphology
+mueller_mouselight_proj,cell morphology
+nowakowski_evobc_proj,transcriptomics

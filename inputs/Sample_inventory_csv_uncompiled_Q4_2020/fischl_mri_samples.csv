@@ -1,0 +1,2 @@
+Sample ID,Species (CV),Species NCBI Taxonomy ID,Donor id,Genotype,Modality  (CV),Technique  (CV),CORRECTED Anatomical Structure,Subspecimen Type (CV),Total Processed Subspecimens,Organization (CV),Investigator,Grant Number (CV),Project (CV),R24 Name (CV),R24 link,Comments,Metadata Submission,Wrangler Notes,Prior Project,Prior Anatomical Structure (CV)
+I46,human,NCBI:txid9606,,,MRI,Anatomy,Br,hemisphere,1,Massachusetts General Hospital,Bruce Fischl,1U01MH117023-01,fischl_mri,DANDI,https://gui.dandiarchive.org/#/dandiset/5ef39ccaa78c4b52bbb38633,Left Hemisphere,2020Q2,,,

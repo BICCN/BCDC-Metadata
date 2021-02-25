@@ -1,0 +1,121 @@
+data_collection_reference_id,specimen_type_name
+ConnAntCreSypEGFP,whole brain
+ConnAntTarget,whole brain
+ConnBdaAav,whole brain
+ConnEGFP,whole brain
+ConnRef,whole brain
+ConnRetinaProjection,whole brain
+ConnRetinaVertical,retina
+ConnTG,whole brain
+DevHumanISH,tissue sample
+DevHumanMA,tissue sample
+DevHumanRef,whole brain
+DevHumanTrans,tissue sample
+DevMouse,whole brain
+DevMouseRef,whole brain
+DevMouseRefAtlas,whole brain
+HumanASD,tissue sample
+HumanCellTypeDonors,cell in slice
+HumanCtx,tissue sample
+HumanGBMISH,tissue sample
+HumanGBMRNASeq,tissue sample
+HumanM110x,cell nucleus
+HumanMA,tissue sample
+HumanME,cell in slice
+HumanMTGSS,cell nucleus
+HumanNT,tissue sample
+HumanPSeqL23_E,cell in slice
+HumanPSeqL23_M,cell in slice
+HumanPSeqL23_T,cell nucleus
+HumanSubCtx,tissue sample
+HumanSZ,tissue sample
+HumanTBI,tissue sample
+HumanV1ACCSS,cell nucleus
+MouseCTXHIP10x,cell body
+MouseCTXHIPSS,cell body
+MouseDiv,whole brain
+MouseISH,whole brain
+MouseME,cell in slice
+MousePSeqVIS_E,cell in slice
+MousePSeqVIS_M,cell in slice
+MousePSeqVIS_T,cell nucleus
+MouseSpinalISH,spinal cord
+MouseSpinalRef,spinal cord
+NhpISHForebrain,tissue sample
+NhpLMA,tissue sample
+NhpMM,whole brain
+NhpMMA,tissue sample
+NhpRef,whole brain
+NpxVc,brain region
+SleepISH,whole brain
+VisCodOphys,cell body
+zeng_expr_char,whole brain
+dong_antero,brain section set
+dong_retro,brain section set
+dong_trio,brain section set
+ecker_sn_ATACseq,cell nucleus
+ecker_sn_mCseq,cell nucleus
+ecker_sn_mCseq_retro,cell nucleus
+ecker_trio,brain section set
+feng_fish,cell in slice
+feng_fish,brain section set
+feng_sn_dropseq,cell nucleus
+huang_antero,brain section set
+huang_pn_bulk_SSv4,bulk nucleus
+huang_pn_sn_10xv2,cell nucleus
+huang_retro,brain section set
+huang_sn_10xv2,cell nucleus
+huang_stpt_conn,whole brain
+huang_stpt_count,whole brain
+kriegstein_sc_10xv2,whole cell
+kriegstein_sc_ATACseq,cell nucleus
+kriegstein_sn_10xv2,cell nucleus
+lein_sn_10xv2,cell nucleus
+lein_sn_10xv3,cell nucleus
+lein_sn_SSv4,cell nucleus
+osten_stpt,whole brain
+yang_MORF_confocal,tissue sample
+zeng_anderson_sc_10xv2,whole cell
+zeng_fmost,whole brain
+zeng_fmost_cells,whole cell
+zeng_mouselight,whole brain
+zeng_retro,whole brain
+zeng_sc_10xv2,whole cell
+zeng_sc_10xv3,whole cell
+zeng_sc_SSv4,whole cell
+zeng_sn_10xv2,cell nucleus
+zeng_sn_10xv3,cell nucleus
+zeng_sn_SSv4,cell nucleus
+zeng_tolias_pseq_m,cell in slice
+zeng_tolias_pseq_t,cell nucleus
+zeng_tolias_pseq_e,cell in slice
+zhuang_merfish,brain slice
+zhangK_cj_snareseq_AC,cell nucleus
+zhangK_cj_snareseq_R,cell nucleus
+zhangK_hs_snareseq_AC,cell nucleus
+zhangK_hs_snareseq_R,cell nucleus
+zhangl_seqfish,spinal cord slice
+huang_sn_10xv3,cell nucleus
+ecker_hu_DNAseq,tissue sample
+fischl_mri,brain hemisphere
+fischl_oct,brain slice
+tasic_ATACseq,whole cell
+tasic_stpt,whole brain
+MacaqueM110x,cell nucleus
+zhangl_anatomy,spinal cord slice
+human_cortex_SS4_counts,cell nucleus
+human_cortex_SS4_Open_GRU,cell nucleus
+human_cortex_SS4_restricted_GRU,cell nucleus
+human_cortex_SS4_restricted_limited,cell nucleus
+ecker_hu_sn_ATACseq,cell nucleus
+ecker_hu_sn_mCseq,cell nucleus
+feng_morph,whole cell
+regev_cisi,brain slice
+huang_fmost,whole brain
+huang_fmost_cells,whole cell
+mueller_mouselight,whole brain
+feng_sn_10xv3,cell nucleus
+yang_morf_cells,whole cell
+huang_pn_sn_10xv3,cell nucleus
+nowakowski_evobc,whole cell
+kriegstein_sc_10xv3,whole cell
