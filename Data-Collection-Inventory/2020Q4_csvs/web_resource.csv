@@ -2,23 +2,16 @@ web_resource_reference_id,web_resource_type,web_resource_title,web_resource_shor
 http://data.nemoarchive.org/biccn/grant/cemba/ecker/chromatin/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/cemba/ecker/chromatin/
 http://data.nemoarchive.org/biccn/grant/cemba/ecker/methylation/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/cemba/ecker/methylation/
 http://data.nemoarchive.org/biccn/grant/cemba/callaway/projection/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/cemba/callaway/projection/
-http://data.nemoarchive.org/biccn/grant/feng/feng/transcriptome/scell/,download,NeMO Data Archive,NeMO,https://data.nemoarchive.org/biccn/grant/feng/feng/transcriptome/sncell/
-http://data.nemoarchive.org/biccn/grant/huang/arlotta/transcriptome/bulk/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/huang/arlotta/transcriptome/bulk/
-http://data.nemoarchive.org/biccn/grant/huang/arlotta/transcriptome/scell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/huang/arlotta/transcriptome/scell/
-http://data.nemoarchive.org/biccn/lab/regev/transcriptome/sncell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/regev/transcriptome/sncell/
 http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/scell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/scell/
 http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/sncell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/sncell/
 http://data.nemoarchive.org/biccn/grant/lein/linnarsson/transcriptome/sncell/10X/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/lein/linnarsson/transcriptome/sncell/10X/
 http://data.nemoarchive.org/biccn/grant/zeng/anderson/transcriptome/scell/10x/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zeng/anderson/transcriptome/scell/10x/
 http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/
-http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/raw/MOp_v3/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/raw/
 http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer/
 http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/sncell/10X/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/sncell/10X/
-http://data.nemoarchive.org/biccn/grant/zeng/zeng/transcriptome/snuc/10X/raw/MOp_v3/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zeng/zeng/transcriptome/snuc/10X/raw/
 http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/sncell/SMARTer/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/sncell/SMARTer/
 http://data.nemoarchive.org/biccn/grant/zeng/tolias/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zeng/tolias/
 http://identifiers.org/DANDI:000008,download,DANDI archive,DANDI,http://identifiers.org/DANDI:000008
-http://data.nemoarchive.org/biccn/grant/zhang/zhang/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zhang/zhang/marmoset/raw/SNARE2-AC/
 http://data.nemoarchive.org/biccn/lab/macosko/transcriptome/sncell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/macosko/transcriptome/sncell/
 http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer_viral/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer_viral/
 http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf,view,Mouse Common Coordinate Framework ,CCF,http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf
@@ -134,40 +127,17 @@ https://mouse.brain-map.org/,information,Allen Mouse Brain Atlas,Mouse Brain,htt
 http://mousespinal.brain-map.org/about.html,information,Allen Spinal Cord Atlas,Spinal Cord,http://mousespinal.brain-map.org/about.html
 https://www.blueprintnhpatlas.org/,information,NIH Blueprint Non-Human Primate (NHP) Atlas,NIH Blueprint NHP,https://www.blueprintnhpatlas.org/
 https://portal.brain-map.org/explore/circuits,information,Behavioral Circuits and Sensory Processing,Visual Coding,https://portal.brain-map.org/explore/circuits
-http://data.nemoarchive.org/biccn/lab/tasic/chromatin/scell/,download,NeMO Data Archive,NeMO,https://data.nemoarchive.org/biccn/grant/zeng/tasic/chromatin/scell/
-http://data.nemoarchive.org/biccn/lab/tasic/transcriptome/scell/,download,NeMO Data Archive,NeMO,https://data.nemoarchive.org/biccn/grant/zeng/tasic/transcriptome/scell/
 http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/
 https://dandiarchive.org/dandiset/000023,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000023
 https://gui.dandiarchive.org/#/dandiset/000020/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://gui.dandiarchive.org/#/dandiset/000020/
 https://nemoarchive.org/resources/accessing-controlled-access-data.php,download,NeMO Data Archive,NeMO,https://nemoarchive.org/resources/accessing-controlled-access-data.php
-http://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,download,Brain Image Library directory for zeng expression characterization,BIL,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/
-http://download.brainimagelibrary.org/biccn/dong/anterograde/triple/,download,Brain Image Library directory for dong anterograde,BIL,https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/
-http://download.brainimagelibrary.org/biccn/dong/retrograde/,download,Brain Image Library directory for dong retrograde,BIL,https://download.brainimagelibrary.org/biccn/dong/retrograde/
-http://download.brainimagelibrary.org/biccn/dong/trio/,download,Brain Image Library directory for dong trio,BIL,https://download.brainimagelibrary.org/biccn/dong/trio/
-http://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/,download,Brain Image Library directory for cemba dong trio,BIL,https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/
-http://download.brainimagelibrary.org/biccn/feng/fish/,download,Brain Image Library directory for feng fish,BIL,https://download.brainimagelibrary.org/biccn/feng/fish/
-http://download.brainimagelibrary.org/biccn/huang/dong/anterograde/triple/,download,Brain Image Library directory for huang dong anterograde,BIL,https://download.brainimagelibrary.org/biccn/huang/dong/anterograde/triple/
-http://download.brainimagelibrary.org/biccn/huang/dong/retrograde/quad/,download,Brain Image Library directory for huang dong retrograde,BIL,https://download.brainimagelibrary.org/biccn/huang/dong/retrograde/quad/
-http://download.brainimagelibrary.org/biccn/huang/connectivity/anterograde/,download,Brain Image Library directory for huang connectivity anterograde,BIL,https://download.brainimagelibrary.org/biccn/huang/connectivity/anterograde/
-http://download.brainimagelibrary.org/biccn/huang/cellcounting/,download,Brain Image Library directory for huang cell counting,BIL,https://download.brainimagelibrary.org/biccn/huang/cellcounting/
-http://download.brainimagelibrary.org/biccn/osten/cellcounting/,download,Brain Image Library directory for osten cell counting,BIL,https://download.brainimagelibrary.org/biccn/osten/cellcounting/
-http://download.brainimagelibrary.org/biccn/yang/morf/confocal/,download,Brain Image Library directory for yang morf confocal,BIL,https://download.brainimagelibrary.org/biccn/yang/morf/confocal/
-http://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/,download,Brain Image Library directory for zeng fmost,BIL,https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/
-http://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/
-http://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/,download,Brain Image Library directory for zeng retrograde transynaptic,BIL,https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/
-http://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/,download,Brain Image Library directory for zeng tolias pseq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/
-http://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/,download,Brain Image Library directory for zhuang merfish,BIL,https://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/
-http://download.brainimagelibrary.org/biccn/zhangl/seqfish/,download,Brain Image Library directory for zhangl seqfish,BIL,https://download.brainimagelibrary.org/biccn/zhangl/seqfish/
-http://download.brainimagelibrary.org/biccn/zeng/mouselight/,download,Brain Image Library for Zeng Mouselight,BIL,https://download.brainimagelibrary.org/biccn/zeng/mouselight/
 http://download.brainimagelibrary.org/biccn/lein/pseq/morph/200526/,download,Brain Image Library data archive for human patch-seq morphology,BIL,https://download.brainimagelibrary.org/biccn/lein/pseq/morph/200526/
-http://download.brainimagelibrary.org/biccn/zeng/pseq/morph/200526/,download,Brain Image Library data archive for mouse patch-seq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/pseq/morph/200526/
 https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq,download,Download page for expression matrix and taxonomy,Expression matrix and taxonomy,https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq
 https://portal.brain-map.org/atlases-and-data/rnaseq/protocols-human-cortex#funding,information,Information about the human cortex analyzed dataset,Information about the human cortex analyzed dataset,https://portal.brain-map.org/atlases-and-data/rnaseq/protocols-human-cortex#funding
 https://assets.nemoarchive.org/dat-2c8otht,download,Human Cortex RNAseq - GRU,NeMO,https://assets.nemoarchive.org/dat-2c8otht
 https://assets.nemoarchive.org/dat-swzf4kc,download,Human MTG RNAseq - Restricted,NeMO,https://assets.nemoarchive.org/dat-swzf4kc
 https://assets.nemoarchive.org/dat-72qka5t,download,Human M1C and DFC RNAseq - Open,NeMO,https://assets.nemoarchive.org/dat-72qka5t
 http://data.nemoarchive.org/biccn/grant/lein/lein/lein/transcriptomic/sncell/raw/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/lein/lein/lein/transcriptomic/sncell/raw/
-http://download.brainimagelibrary.org/biccn/feng/morph/,download,Brain Image Library directory for Feng morphology,BIL,https://download.brainimagelibrary.org/biccn/feng/morph/
 https://github.com/cleary-lab/CISI,information,Composite In Situ Imaging (CISI),GitHub,https://github.com/cleary-lab/CISI
 http://data.nemoarchive.org/biccn/grant/nowakowski/transcriptome/scell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/nowakowski/transcriptome/scell/
 https://doi.org/10.1016/j.cell.2019.09.020,view,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,https://doi.org/10.1016/j.cell.2019.09.020
@@ -182,3 +152,30 @@ https://assets.nemoarchive.org/dat-mq52tet,download,NeMO Data Archive,NeMO,https
 https://assets.nemoarchive.org/dat-s82jegu,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-s82jegu
 https://assets.nemoarchive.org/dat-vutwbqm,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-vutwbqm
 https://assets.nemoarchive.org/dat-svco5za,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-svco5za
+https://download.brainimagelibrary.org/biccn/zeng/pseq/morph/200526/,download,Brain Image Library data archive for mouse patch-seq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/pseq/morph/200526/
+https://assets.nemoarchive.org/dat-dgarbc3,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-dgarbc3
+https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,download,Brain Image Library directory for zeng expression characterization,BIL,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/
+https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/,download,Brain Image Library directory for dong anterograde,BIL,https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/
+https://download.brainimagelibrary.org/biccn/dong/retrograde/,download,Brain Image Library directory for dong retrograde,BIL,https://download.brainimagelibrary.org/biccn/dong/retrograde/
+https://download.brainimagelibrary.org/biccn/dong/trio/,download,Brain Image Library directory for dong trio,BIL,https://download.brainimagelibrary.org/biccn/dong/trio/
+https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/,download,Brain Image Library directory for cemba dong trio,BIL,https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/
+https://download.brainimagelibrary.org/biccn/feng/fish/,download,Brain Image Library directory for feng fish,BIL,https://download.brainimagelibrary.org/biccn/feng/fish/
+https://data.nemoarchive.org/biccn/grant/feng/feng/transcriptome/sncell/,download,NeMO Data Archive,NeMO,https://data.nemoarchive.org/biccn/grant/feng/feng/transcriptome/sncell/
+https://download.brainimagelibrary.org/biccn/huang/dong/anterograde/triple/,download,Brain Image Library directory for huang dong anterograde,BIL,https://download.brainimagelibrary.org/biccn/huang/dong/anterograde/triple/
+https://download.brainimagelibrary.org/biccn/huang/dong/retrograde/quad/,download,Brain Image Library directory for huang dong retrograde,BIL,https://download.brainimagelibrary.org/biccn/huang/dong/retrograde/quad/
+https://download.brainimagelibrary.org/biccn/huang/connectivity/anterograde/,download,Brain Image Library directory for huang connectivity anterograde,BIL,https://download.brainimagelibrary.org/biccn/huang/connectivity/anterograde/
+https://download.brainimagelibrary.org/biccn/huang/cellcounting/,download,Brain Image Library directory for huang cell counting,BIL,https://download.brainimagelibrary.org/biccn/huang/cellcounting/
+https://download.brainimagelibrary.org/biccn/osten/cellcounting/,download,Brain Image Library directory for osten cell counting,BIL,https://download.brainimagelibrary.org/biccn/osten/cellcounting/
+https://download.brainimagelibrary.org/biccn/yang/morf/confocal/,download,Brain Image Library directory for yang morf confocal,BIL,https://download.brainimagelibrary.org/biccn/yang/morf/confocal/
+https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/,download,Brain Image Library directory for zeng fmost,BIL,https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/
+https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/
+https://download.brainimagelibrary.org/biccn/zeng/mouselight/,download,Brain Image Library for Zeng Mouselight,BIL,https://download.brainimagelibrary.org/biccn/zeng/mouselight/
+https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/,download,Brain Image Library directory for zeng retrograde transynaptic,BIL,https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/
+http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/raw/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/raw/
+https://data.nemoarchive.org/biccn/grant/zeng/tasic/transcriptome/scell/,download,NeMO Data Archive,NeMO,https://data.nemoarchive.org/biccn/grant/zeng/tasic/transcriptome/scell/
+http://data.nemoarchive.org/biccn/grant/zeng/zeng/transcriptome/snuc/10X/raw/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zeng/zeng/transcriptome/snuc/10X/raw/
+https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/,download,Brain Image Library directory for zeng tolias pseq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/
+https://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/,download,Brain Image Library directory for zhuang merfish,BIL,https://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/
+http://data.nemoarchive.org/biccn/grant/zhang/zhang/marmoset/raw/SNARE2-AC/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/grant/zhang/zhang/marmoset/raw/SNARE2-AC/
+https://download.brainimagelibrary.org/biccn/zhangl/seqfish/,download,Brain Image Library directory for zhangl seqfish,BIL,https://download.brainimagelibrary.org/biccn/zhangl/seqfish/
+https://download.brainimagelibrary.org/biccn/feng/morph/,download,Brain Image Library directory for Feng morphology,BIL,https://download.brainimagelibrary.org/biccn/feng/morph/

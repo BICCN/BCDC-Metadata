@@ -134,6 +134,7 @@ feng_morph,neuron morphology reconstruction
 regev_cisi,CISI
 huang_fmost,fMOST
 huang_fmost_cells,fMOST
+huang_fmost_cells,neuron morphology reconstruction
 mueller_mouselight,mouselight
 feng_sn_10xv3,10x Chromium 3' v3 sequencing
 yang_morf_cells,neuron morphology reconstruction

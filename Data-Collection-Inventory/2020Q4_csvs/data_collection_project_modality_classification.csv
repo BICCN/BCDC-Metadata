@@ -21,6 +21,9 @@ HumanMAProj,transcriptomics
 HumanMTGSSProj,transcriptomics
 HumanNTProj,histology imaging
 HumanPSeqL23Proj,multimodal
+HumanPSeqL23Proj,transcriptomics
+HumanPSeqL23Proj,electrophysiology
+HumanPSeqL23Proj,cell morphology
 HumanSubCtxProj,histology imaging
 HumanSZProj,histology imaging
 HumanTBIProj,transcriptomics
@@ -53,6 +56,7 @@ ecker_sn_mCseq_proj,epigenomics
 ecker_sn_mCseq_retro_proj,epigenomics
 ecker_trio_proj,connectivity
 feng_fish_proj,cell morphology
+feng_fish_proj,spatial transcriptomics
 feng_sn_dropseq_proj,transcriptomics
 huang_antero_proj,connectivity
 huang_pn_proj,transcriptomics
