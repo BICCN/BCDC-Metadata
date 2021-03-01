@@ -75,6 +75,7 @@ huang_sn_10xv2,https://assets.nemoarchive.org/dat-vutwbqm,0
 huang_stpt_conn,https://download.brainimagelibrary.org/biccn/huang/connectivity/anterograde/,0
 huang_stpt_count,https://download.brainimagelibrary.org/biccn/huang/cellcounting/,0
 kriegstein_sc_10xv2,http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/scell/,0
+kriegstein_sc_ATACseq,https://assets.nemoarchive.org/dat-gnot1gb,0
 kriegstein_sn_10xv2,http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/sncell/,0
 lein_sn_10xv2,http://data.nemoarchive.org/biccn/grant/lein/linnarsson/transcriptome/sncell/10X/,0
 osten_stpt,https://download.brainimagelibrary.org/biccn/osten/cellcounting/,0
@@ -114,5 +115,6 @@ regev_cisi,https://download.brainimagelibrary.org/biccn/regev/cisi,0
 huang_fmost,https://download.brainimagelibrary.org/biccn/huang/fmost/,0
 huang_fmost_cells,https://download.brainimagelibrary.org/biccn/huang/fmost/,0
 feng_sn_10xv3,https://data.nemoarchive.org/biccn/grant/feng/feng/transcriptome/sncell/,0
+huang_pn_sn_10xv3,https://assets.nemoarchive.org/dat-pe2ejct,0
 nowakowski_evobc,http://data.nemoarchive.org/biccn/grant/nowakowski/transcriptome/scell/,0
 kriegstein_sc_10xv3,http://data.nemoarchive.org/biccn/grant/devhu/kriegstein/transcriptome/scell/,0

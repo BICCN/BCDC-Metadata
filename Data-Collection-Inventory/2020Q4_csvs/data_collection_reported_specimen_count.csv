@@ -57,7 +57,7 @@ huang_stpt_conn,whole brain,211
 huang_stpt_count,whole brain,36
 kriegstein_sc_10xv2,whole cell,736509
 kriegstein_sc_ATACseq,cell nucleus,156334
-kriegstein_sn_10xv2,cell nucleus,508621
+kriegstein_sn_10xv2,cell nucleus,1315186
 lein_sn_10xv2,cell nucleus,180766
 lein_sn_10xv3,cell nucleus,1709430
 lein_sn_SSv4,cell nucleus,4481
