@@ -1,0 +1,133 @@
+data_collection_reference_id,modality_name
+ConnAntCreSypEGFP,connectivity
+ConnAntTarget,connectivity
+ConnBdaAav,connectivity
+ConnEGFP,connectivity
+ConnRef,histology imaging
+ConnRetinaProjection,connectivity
+ConnRetinaVertical,histology imaging
+ConnTG,histology imaging
+DevHumanISH,histology imaging
+DevHumanMA,transcriptomics
+DevHumanRef,histology imaging
+DevHumanTrans,transcriptomics
+DevMouse,histology imaging
+DevMouseRef,histology imaging
+DevMouseRefAtlas,histology imaging
+dong_antero,connectivity
+dong_retro,connectivity
+dong_trio,connectivity
+dulac_hyp_sn_10xv2,transcriptomics
+ecker_hu_DNAseq,genomics
+ecker_hu_sn_ATACseq,epigenomics
+ecker_hu_sn_mCseq,epigenomics
+ecker_sn_ATACseq,epigenomics
+ecker_sn_mCseq,epigenomics
+ecker_sn_mCseq_retro,epigenomics
+ecker_trio,connectivity
+feng_fish,spatial transcriptomics
+feng_morph,cell morphology
+feng_sn_10xv3,transcriptomics
+feng_sn_dropseq,transcriptomics
+fischl_lsfm,histology imaging
+fischl_mri,anatomy
+fischl_oct,anatomy
+fischl_stereology,histology imaging
+huang_antero,connectivity
+huang_fmost,cell morphology
+huang_fmost_cells,cell morphology
+huang_input_conn,connectivity
+huang_pn_bulk_SSv4,transcriptomics
+huang_pn_sn_10xv2,transcriptomics
+huang_pn_sn_10xv3,transcriptomics
+huang_retro,connectivity
+huang_sn_10xv2,transcriptomics
+huang_sn_10xv3,transcriptomics
+huang_stpt_conn,connectivity
+huang_stpt_count,population imaging
+HumanASD,histology imaging
+HumanCellTypeDonors,multimodal
+HumanCtx,histology imaging
+HumanGBMISH,histology imaging
+HumanGBMRNASeq,transcriptomics
+HumanM110x,transcriptomics
+HumanMA,transcriptomics
+HumanME,cell morphology
+HumanMTGSS,transcriptomics
+HumanNT,histology imaging
+HumanPSeqL23_E,electrophysiology
+HumanPSeqL23_E,multimodal
+HumanPSeqL23_M,cell morphology
+HumanPSeqL23_M,multimodal
+HumanPSeqL23_T,multimodal
+HumanPSeqL23_T,transcriptomics
+HumanSubCtx,histology imaging
+HumanSZ,histology imaging
+HumanTBI,transcriptomics
+HumanV1ACCSS,transcriptomics
+human_cortex_SS4_counts,transcriptomics
+human_cortex_SS4_Open_GRU,transcriptomics
+human_cortex_SS4_restricted_GRU,transcriptomics
+human_cortex_SS4_restricted_limited,transcriptomics
+kriegstein_sc_10xv2,transcriptomics
+kriegstein_sc_10xv3,transcriptomics
+kriegstein_sc_ATACseq,epigenomics
+kriegstein_sn_10xv2,transcriptomics
+lein_sn_10xv2,transcriptomics
+lein_sn_10xv3,transcriptomics
+lein_sn_SSv4,transcriptomics
+MacaqueM110x,transcriptomics
+MouseCTXHIP10x,transcriptomics
+MouseCTXHIPSS,transcriptomics
+MouseDiv,histology imaging
+MouseISH,histology imaging
+MouseME,cell morphology
+MousePSeqVIS_E,electrophysiology
+MousePSeqVIS_E,multimodal
+MousePSeqVIS_M,cell morphology
+MousePSeqVIS_T,transcriptomics
+MouseSpinalISH,histology imaging
+MouseSpinalRef,histology imaging
+mueller_mouselight,cell morphology
+NhpISHForebrain,histology imaging
+NhpLMA,transcriptomics
+NhpMM,histology imaging
+NhpMMA,transcriptomics
+NhpRef,anatomy
+NhpRef,histology imaging
+nowakowski_evobc,transcriptomics
+nowakowski_pndev_10xv3,transcriptomics
+NpxVc,electrophysiology
+osten_stpt,population imaging
+regev_cisi,spatial transcriptomics
+SleepISH,histology imaging
+tasic_ATACseq,epigenomics
+tasic_stpt,population imaging
+tilgner_sc_p56,transcriptomics
+VisCodOphys,optical physiology
+yang_morf_cells,cell morphology
+yang_MORF_confocal,cell morphology
+zeng_anderson_sc_10xv2,transcriptomics
+zeng_expr_char,population imaging
+zeng_fmost,cell morphology
+zeng_fmost_cells,cell morphology
+zeng_mouselight,cell morphology
+zeng_retro,connectivity
+zeng_sc_10xv2,transcriptomics
+zeng_sc_10xv3,transcriptomics
+zeng_sc_SSv4,transcriptomics
+zeng_sn_10xv2,transcriptomics
+zeng_sn_10xv3,transcriptomics
+zeng_sn_SSv4,transcriptomics
+zeng_tolias_pseq_e,electrophysiology
+zeng_tolias_pseq_m,cell morphology
+zeng_tolias_pseq_t,transcriptomics
+zhangK_cj_snareseq_AC,multimodal
+zhangK_cj_snareseq_R,multimodal
+zhangK_hs_snareseq_AC,multimodal
+zhangK_hs_snareseq_R,multimodal
+zhangl_anatomy,anatomy
+zhangl_kz_omics,transcriptomics
+zhangl_seqfish,spatial transcriptomics
+zhuang_merfish,spatial transcriptomics
+dulac_pag_sn_10xv2,transcriptomics
