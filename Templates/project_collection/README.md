@@ -44,9 +44,10 @@ you would divide the work into multiple data collections.
     
 #### **is highlighted by** - *URL*
   * This is a hyperlink to something related to your project
-  * A landing page with a general overview of your project is best
-  * If you don't have a landing page, you could include a DOI for a flagship paper,
-    or a link to the repository to where the data for this project are stored
+  * Up to 3 URLs can be included here that will show up in the search results page
+  * Two possible types of URLs to include would be:
+    * A project-specific page that the data submitter has created to showcase the project and data
+    * A data download URL (we generally add the data download URL for each data collection to this field)
   
 #### **is funded by** - *grant*
   * This is the grant that is funds your project
