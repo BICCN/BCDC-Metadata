@@ -167,6 +167,8 @@ appropriately. Exceptions may exist to these rules.
 #### **has samples of type** - *specimen type*
   * This is the type of specimen that this data collection is about
   * This field is controlled by the vocabulary in the `specimen type` column on `values` sheet
+  * The specimen type listed here should match the specimen/sample whose 
+    identifier is listed in the Sample Inventory template.
   * Each data collection should only have one specimen type
   * Please choose the lowest-level specimen type that is appropriate for your collection
   * If you believe that there is more than one specimen type, you might need a new data collection
