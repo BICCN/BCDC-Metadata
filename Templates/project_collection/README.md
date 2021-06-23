@@ -67,6 +67,8 @@ you would divide the work into multiple data collections.
 
 #### **has methodology specification** - *protocol URL*
   * This is a hyperlink to a protocol, usually from https://www.protocols.io/.
+  * The BICCN requires that protocols be provided in support of all data submitted. 
+    These should take the form of a URL to a protocol drafted specifically for this dataset
   * You can submit multiple values for this field, separated by commas or 
     new rows immediately after this one
   * Please make sure the protocol has been published before providing us a link
