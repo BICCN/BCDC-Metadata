@@ -93,7 +93,7 @@ you would divide the work into multiple data collections.
     or need to talk to you about your project or data collection
   * You can submit multiple values for this field, separated by commas or 
     new rows immediately after this one
-  * Usually the contact person is either a data wrangler, or a PI
+  * Usually the contact person is either a data wrangler, a PI, or a lead scientist
   * Please provide names in the following format: `GivenName FamilyName`
   * `GivenName` can include a middle name(s) or initial(s)
   * If `FamilyName` has a space in it please let us know
