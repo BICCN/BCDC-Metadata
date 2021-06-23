@@ -15,7 +15,54 @@ metadata submission webpage, please feel free to email
 [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
 so we can assist you with adding and updating project inventory metadata.
 
-Please refer to the following descriptions of values when filling `project_collection_template.xlsx`:
+### Adding data collections to an existing project
+If you are adding data collections to an existing project, please make sure you
+have the human-readable identifier name for the project you are adding collections to.
+On the `Data collection project` sheet, put this name as the value for the `Project`
+property. Delete all the rows below this on the `Data collection project` sheet.
+Add the necessary information for your new collection to the `Data collection` sheet.
+
+### Adding multiple data collections
+If you have multiple data collections to add, please fill out a separate template
+for each of them. If you are adding them to an existing project you can follow
+the instructions above and only add the project name to the `Data collection project`
+sheet. Currently, adding extra tabs to this template is not supported. 
+
+**Please do not rename, add, or remove sheets from this template.**
+
+### Adding multiple values for a property
+#### Primary method
+This template supports adding multiple values for certain properties. If you wish
+to do this, the best way is to simply copy the row with the `Property name` you 
+would like to duplicate. Insert a row immediately after this and paste the row 
+you just copied. Then, replace cell in the `Value` column with the additional 
+item you would like to add. This is the preferred and most reliable method for 
+adding multiple values for the same property.
+
+#### Alternative method
+The template supports two additional ways to adding multiple values for your
+convenience and readability. Values can be separated by commas, or they can be
+placed in row immediately after with the property name left blank. If you
+leave the property name blank, please make sure you insert the multiple values
+in the rows immediately below the implied property name above.
+
+#### Properties that do not support multiple values
+On the `Data collection project` sheet, the following fields do not support multiple values:
+* Project
+* Title
+* Short title
+* Description
+
+On the `Data collection` sheet, the following fields do not support multiple values:
+* Collection
+* Title
+* Short title
+* Description
+* Access control
+* Completion state
+
+### Explanation of properties and values
+Please refer to the following descriptions of values when filling out `project_collection_template.xlsx`:
 
 ## Data collection project
 This sheet contains information about your data collection project
