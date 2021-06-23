@@ -200,6 +200,9 @@ appropriately. Exceptions may exist to these rules.
   * You can submit multiple values for this field, separated by commas or 
     new rows immediately after this one
   * Usually there is only one technique associated with a data collection
+  * If you cannot find an appropriate technique, or you are not sure which one to use,
+    please email [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
+    and we will add a new technique or help you choose the appropriate one
   
 #### **Title** - *string*
   * This is a simple string is currently not displayed. 
