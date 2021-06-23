@@ -60,8 +60,10 @@ you would divide the work into multiple data collections.
   * This is the usage license for the data collected by this project
   * This field is controlled by the vocabulary in the `license` column on `values` sheet
   * For most BICCN projects this should be `CCBY4` (https://creativecommons.org/licenses/by/4.0/)
-  * If the project collected Allen Institute data it might use `AIBSTOU` instead
-  * Please contact data.curation@alleninstitute.org if you are not sure what license to use.
+  * If there are related data included in this project that received funding from 
+    a separate source, then it could potentially be submitted with a separate license
+  * Please contact [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
+    and your program officer to clarify which license to use
 
 #### **has methodology specification** - *protocol URL*
   * This is a hyperlink to a protocol, usually from https://www.protocols.io/.
