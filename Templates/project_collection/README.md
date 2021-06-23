@@ -16,6 +16,13 @@ Please refer to the following descriptions of values when filling `project_colle
 ## Data collection project
 This sheet contains information about your data collection project
 
+A **project** describes the intent of the work and encapsulates a set of data 
+collections that are tightly connected. Often we have one project for each 
+data collection, and a grant may have many projects. A project is currently 
+the level at which we provide author attribution, license, and grant information. 
+Thus, if you have sets of work that require different sets of authors, 
+you would divide the work into multiple data collections.
+
 #### **Project** - *project name* 
   * This is a unique human-readable identifier (i.e. handle) used to keep track 
     of your project
@@ -127,6 +134,14 @@ This sheet contains information about your data collection project
 
 ## Data collection
 This sheet contains information about your data collection
+
+A **data collection** can be created to encapsulate any set of data. Generally, for 
+the BICCN we prefer the deposition of raw files to be separated into different 
+data collections, such that a data collection contains a set of data generated 
+by the same methodology and for the same purpose. Raw files and derived files 
+would ideally be separated into different collections (e.g., fastq files vs. 
+bam files vs. cell-x-gene matrix) so that we can ingest and report out metadata 
+appropriately. Exceptions may exist to these rules.
 
 ### **Collection** - *collection name*
   * This is a unique human-readable identifier (i.e. handle) used to keep track 
