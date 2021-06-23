@@ -185,7 +185,6 @@ appropriately. Exceptions may exist to these rules.
   * You can submit multiple values for this field, separated by commas or 
     new rows immediately after this one
   * Usually there is only one species associated with a data collection
-  * Data collections about human subjects should be separate from other species
   
 #### **is data of type** - *modality*
   * This is the name of the data modality for this collection
