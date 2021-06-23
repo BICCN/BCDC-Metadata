@@ -234,11 +234,3 @@ appropriately. Exceptions may exist to these rules.
   * This field is controlled by the vocabulary in the `completion state` column on `values` sheet
   * If more data are expected to be added to this collection, then the state is `in progress`
   * If data not more data will be added to this collection, then the state is `complete`
-  
-#### **Last updated date** - *yyyy/mm/dd*
-  * This is the day of the most recent data submission deadline where the `Reported count` was updated
-  * Please input the date in `yyyy/mm/dd` format if possible (some software likes to auto-change this)
-  
-#### **Reported count** - *int*
-  * This is the most recent *total* number of specimens reported for this project
-  * Please submit specimen counts that correspond to the specimen type specified for this collection
