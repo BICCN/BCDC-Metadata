@@ -30,10 +30,11 @@ you would divide the work into multiple data collections.
 #### **Project** - *project name* 
   * This is a unique human-readable identifier (i.e. handle) used to keep track 
     of your project
-  * By convention, we prefer to use names in `snake_case_with_proj` as a suffix
-  * If you are not sure what project name to use, please email 
+  * If your project does not have a name yet, you can email us at
     [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org), 
-    and we will help you choose one
+    with a suggested name.
+  * We will try to use your suggested name, but we reserve the right to change it if necessary
+  * By convention, we prefer to use names in `snake_case_with_proj` as a suffix
   
 #### **is part of** - *subprogram*
   * This is the subprogram that your project is part of (often a grant name)
@@ -81,12 +82,13 @@ you would divide the work into multiple data collections.
   * You can submit multiple values for this field, separated by commas or 
     new rows immediately after this one
   * This field is controlled by the vocabulary in the `collection` column on `values` sheet
-  * If your project has a new data collection as it's output, please email 
-    [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
-    and let us know.
+  * If your data collection does not have a name yet, you can email us at
+    [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org), 
+    with a suggested name.
+  * We will try to use your suggested name, but we reserve the right to change it if necessary
+  * By convention, we prefer to use names in `snake_case` without `_proj` as a suffix
   * Collection names must be unique, so make sure any new data collections do 
     not have a name that is already in the controlled vocabulary
-  * By convention, we prefer to use names in `snake_case` without `_proj` as a suffix
   
 #### **has contact person** - *person name*
   * This is the person that we will send correspondence to if we have questions 
@@ -156,13 +158,14 @@ appropriately. Exceptions may exist to these rules.
   * This is a unique human-readable identifier (i.e. handle) used to keep track 
     of your data collection
   * This field is controlled by the vocabulary in the `collection` column on `values` sheet
-  * If this is a new data collection, please email 
-    [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
-    and let us know.
+  * This field corresponds to the `has output` field on the `Data collection project` tab
+  * If your data collection does not have a name yet, you can email us at
+    [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org), 
+    with a suggested name.
+  * We will try to use your suggested name, but we reserve the right to change it if necessary
+  * By convention, we prefer to use names in `snake_case` without `_proj` as a suffix
   * Collection names must be unique, so make sure any new data collections do 
     not have a name that is already in the controlled vocabulary
-  * By convention, we prefer to use names in `snake_case` without `_proj` as a suffix
-  * This field corresponds to the `has output` field on the `Data collection project` tab
     
 #### **has samples of type** - *specimen type*
   * This is the type of specimen that this data collection is about
