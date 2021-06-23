@@ -224,7 +224,8 @@ appropriately. Exceptions may exist to these rules.
   * This indicates the level of control of access to these data
   * This field is controlled by the vocabulary in the `access control` column on `values` sheet
   * Most non-human data collections should be `open`
-  * Human data collections should be `controlled`
+  * Human data collections may be either `open` or `controlled` access, 
+    depending on the type of data and your IRB approval
 
 #### **Completion state** - *completion state*
   * This indicates whether or not new data is still being added to this collection
