@@ -6,10 +6,14 @@ and `values`. The first two sheets are to be filled out with the appropriate
 information about your project and data collection. The third sheet contains
 controlled vocabulary and should not be modified.
 
-If you have any questions, please feel free to email
-[data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
-so we can assist you with adding your metadata to the project inventory.
+Existing data collections and projects can be edited via requested made through
+the metadata submission webpage, reached by your personalized link at
+`https://bcdc-md-management.org/feedback?userid=<your_unique_issued_id_here>`.
 
+If you have any questions or need us to set up a personalized link to the
+metadata submission webpage, please feel free to email
+[data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
+so we can assist you with adding and updating project inventory metadata.
 
 Please refer to the following descriptions of values when filling `project_collection_template.xlsx`:
 
