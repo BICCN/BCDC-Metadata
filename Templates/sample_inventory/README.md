@@ -59,11 +59,11 @@ sample, if applicable. The list of permitted values are found in the
 * The unique identifier of the subject that provided the biological
 sample.
 
-#### **Age** (string)
+#### **Age** (string, optional)
 * The age of the subject when the sample was taken. Please also add 
 the relevant units to the value (e.g., '24d', 'P56'). 
 
-#### **Sex** (string)
+#### **Sex** (string, optional)
 * The sex of the subject. Values are 'male' or 'female'.
 
 #### **Genotype** (string, optional)
