@@ -1,3 +1,2 @@
 # Dataset Metadata Template
-This template is still under development. The readme will be updated as the
-development of the template progresses.
+The readme for this template will be updated in a future release.
