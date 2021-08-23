@@ -1,0 +1,71 @@
+project_reference_id,person_reference_id,organization_reference_id,agent_type,priority_order
+dong_antero_proj,Hong-Wei Dong,,person,0
+dulac_pag_sn_10x_proj,Eric Vaughn,,person,1
+dulac_pag_sn_10x_proj,Catherine Dulac,,person,0
+ecker_sn_ATACseq_proj,Bing Ren,,person,0
+ecker_sn_mCseq_proj,Joseph Ecker,,person,0
+ecker_sn_mCseq_retro_proj,Edward Callaway,,person,0
+feng_fish_proj,Fenna Krienen,,person,0
+feng_fish_proj,Guoping Feng,,person,1
+feng_fish_proj,Heather Zaniewski,,person,2
+feng_fish_proj,Kirsten Levandowski,,person,3
+feng_fish_proj,Tay Won Shin,,person,4
+feng_sn_dropseq_proj,Steven McCarroll,,person,0
+fischl_mri_proj,Bruce Fischl,,person,0
+fischl_mri_proj,David Boas,,person,1
+fischl_mri_proj,Francesco Pavone,,person,2
+fischl_mri_proj,Patrick Hof,,person,3
+huang_pn_proj,Paola Arlotta,,person,0
+huang_sn_10xv2_proj,Aviv Regev,,person,0
+huang_sn_10xv2_proj,Evan Macosko,,person,1
+huang_stpt_conn_proj,Z. Josh Huang,,person,0
+human_cortex,,Allen Institute for Brain Science,organization,0
+kriegstein_sc_10x_proj,Arnold Kriegstein,,person,0
+kriegstein_sc_ATACseq_proj,Tomasz Nowakowski,,person,0
+lein_sn_10x,Sten Linnarsson,,person,0
+lein_sn_SSv4_proj,Ed Lein,,person,0
+nowakowski_evobc_proj,Tomasz Nowakowski,,person,0
+nowakowski_pndev_10xv3_proj,Tomasz Nowakowski,,person,0
+osten_stpt_proj,,Cold Spring Harbor Laboratory,organization,0
+regev_cisi_proj,Brian Cleary,,person,0
+tasic_ATACseq_proj,,Allen Institute for Brain Science,organization,0
+tasic_stpt_proj,Bosiljka Tasic,,person,0
+tilgner_sc_10x_PB,Anoushka Joglekar,,person,0
+tilgner_sc_10x_PB,Hagen Tilgner,,person,1
+TransgenicSTPT,,Allen Institute for Brain Science,organization,0
+TransgenicSTPT,Hongkui Zeng,,person,1
+yang_MORF_confocal_proj,X. William Yang,,person,0
+zeng_anderson_sc_10xv2_proj,David J Anderson,,person,0
+zeng_fmost_proj,Qingming Luo,,person,0
+zeng_mouselight_proj,Jayaram Chandrashekar,,person,0
+zeng_tolias_pseq_proj,Andreas Tolias,,person,0
+zhangK_snareseq,Kun Zhang,,person,0
+zhangl_kz_omics_proj,Kun Zhang,,person,0
+zhangl_kz_omics_proj,Yimin Zou,,person,1
+zhangl_seqfish_proj,Long Cai,,person,0
+dulac_hyp_sn_10x_proj,Catherine Dulac,,person,0
+dulac_hyp_sn_10x_proj,Zhengzheng S. Liang,,person,1
+huang_macosko_sn_10xv3_proj,Evan Macosko,,person,0
+dong_viral_neuron_proj,Houri Hintiryan,,person,1
+dong_viral_neuron_proj,Hong-Wei Dong,,person,0
+huang_dev_cx_proj,Paola Arlotta,,person,0
+lein_evo_10x_proj,Ed Lein,,person,0
+lein_L5_pseq_proj,Ed Lein,,person,1
+lein_L5_pseq_proj,Brian Kalmbach,,person,0
+macosko_bg_shareseq_proj,Jason Buenrostro,,person,0
+macosko_bg_slideseq_proj,Evan Murray,,person,1
+macosko_bg_slideseq_proj,Evan Macosko,,person,0
+macosko_mouse_slideseq_proj,Karol Balderrama,,person,1
+macosko_mouse_slideseq_proj,Evan Macosko,,person,0
+mop_evo_tx_epi_pseq_proj,Ed Lein,,person,1
+mop_evo_tx_epi_pseq_proj,Nikolas Jorstad,,person,2
+mop_evo_tx_epi_pseq_proj,Brian Kalmbach,,person,0
+snyder-mackler_macaque_proj,Michael Platt,,person,1
+snyder-mackler_macaque_proj,Noah Snyder-Mackler,,person,2
+snyder-mackler_macaque_proj,Jay Ashok Shendure,,person,0
+zhangl_ephys_proj,Li Zhang,,person,1
+zhangl_ephys_proj,Huizhong Tao,,person,0
+zhuang_dulac_merfish_MOE_proj,Xiaowei Zhuang,,person,0
+zhuang_dulac_merfish_PAG_proj,Xiaowei Zhuang,,person,0
+zhuang_merfish_MOp_proj,Xiaowei Zhuang,,person,0
+zhuang_merfish_NAc_proj,Xiaowei Zhuang,,person,0
