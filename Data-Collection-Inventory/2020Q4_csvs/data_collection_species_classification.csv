@@ -1,54 +1,5 @@
 data_collection_reference_id,species_name
-ConnAntCreSypEGFP,mouse
-ConnAntTarget,mouse
-ConnBdaAav,mouse
-ConnEGFP,mouse
-ConnRef,mouse
-ConnRetinaProjection,mouse
-ConnRetinaVertical,mouse
-ConnTG,mouse
-DevHumanISH,human
-DevHumanMA,human
-DevHumanRef,human
-DevHumanTrans,human
-DevMouse,mouse
-DevMouseRef,mouse
-DevMouseRefAtlas,mouse
-HumanASD,human
-HumanCellTypeDonors,human
-HumanCtx,human
-HumanGBMISH,human
-HumanGBMRNASeq,human
 HumanM110x,human
-HumanMA,human
-HumanME,human
-HumanMTGSS,human
-HumanNT,human
-HumanPSeqL23_E,human
-HumanPSeqL23_M,human
-HumanPSeqL23_T,human
-HumanSubCtx,human
-HumanSZ,human
-HumanTBI,human
-HumanV1ACCSS,human
-MouseCTXHIP10x,mouse
-MouseCTXHIPSS,mouse
-MouseDiv,mouse
-MouseISH,mouse
-MouseME,mouse
-MousePSeqVIS_E,mouse
-MousePSeqVIS_M,mouse
-MousePSeqVIS_T,mouse
-MouseSpinalISH,mouse
-MouseSpinalRef,mouse
-NhpISHForebrain,mouse
-NhpLMA,rhesus macaque
-NhpMM,rhesus macaque
-NhpMMA,rhesus macaque
-NhpRef,rhesus macaque
-NpxVc,mouse
-SleepISH,mouse
-VisCodOphys,mouse
 zeng_expr_char,mouse
 dong_antero,mouse
 dong_retro,mouse
@@ -100,7 +51,6 @@ fischl_mri,human
 fischl_oct,human
 tasic_ATACseq,mouse
 tasic_stpt,mouse
-MacaqueM110x,rhesus macaque
 zhangl_anatomy,mouse
 human_cortex_SS4_counts,human
 human_cortex_SS4_Open_GRU,human

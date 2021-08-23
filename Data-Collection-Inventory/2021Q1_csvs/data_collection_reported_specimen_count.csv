@@ -1,19 +1,4 @@
 data_collection_reference_id,specimen_type_name,reported_count
-ConnAntCreSypEGFP,whole brain,173
-ConnAntTarget,whole brain,182
-ConnBdaAav,whole brain,70
-ConnEGFP,whole brain,2563
-ConnRef,whole brain,5
-ConnRetinaProjection,whole brain,77
-ConnRetinaVertical,retina,161
-ConnTG,whole brain,1846
-DevHumanISH,tissue sample,51
-DevHumanMA,tissue sample,1203
-DevHumanRef,whole brain,4
-DevHumanTrans,tissue sample,524
-DevMouse,whole brain,20274
-DevMouseRef,whole brain,40
-DevMouseRefAtlas,whole brain,7
 dong_antero,brain section set,46
 dong_retro,brain section set,128
 dong_trio,brain section set,51
@@ -45,17 +30,6 @@ huang_sn_10xv2,cell nucleus,469176
 huang_sn_10xv3,cell nucleus,3315317
 huang_stpt_conn,whole brain,232
 huang_stpt_count,whole brain,58
-HumanASD,tissue sample,37
-HumanCellTypeDonors,cell in slice,413
-HumanCtx,tissue sample,161
-HumanGBMISH,tissue sample,42
-HumanGBMRNASeq,tissue sample,279
-HumanMA,tissue sample,3686
-HumanME,cell in slice,413
-HumanNT,tissue sample,82
-HumanSubCtx,tissue sample,12
-HumanSZ,tissue sample,54
-HumanTBI,tissue sample,377
 kriegstein_sc_10xv2,whole cell,736509
 kriegstein_sc_10xv3,whole cell,259015
 kriegstein_sc_ATACseq,cell nucleus,156334
@@ -63,25 +37,13 @@ kriegstein_sn_10xv2,cell nucleus,1823807
 lein_sn_10xv2,cell nucleus,180766
 lein_sn_10xv3,cell nucleus,1709430
 lein_sn_SSv4,cell nucleus,4481
-MouseDiv,whole brain,1045
-MouseISH,whole brain,26078
-MouseME,cell in slice,1920
-MouseSpinalISH,spinal cord,35925
-MouseSpinalRef,spinal cord,6
-NhpISHForebrain,tissue sample,84
-NhpLMA,tissue sample,1878
-NhpMM,whole brain,3
-NhpMMA,tissue sample,59
-NhpRef,whole brain,4
 nowakowski_evobc,whole cell,20424
 nowakowski_pndev_10xv3,cell nucleus,124580
 osten_stpt,whole brain,393
 regev_cisi,brain slice,1
-SleepISH,whole brain,1724
 tasic_ATACseq,whole cell,13093
 tasic_stpt,whole brain,22
 tilgner_sc_p56,cell nucleus,38311
-VisCodOphys,cell body,63251
 yang_morf_cells,whole cell,238
 yang_MORF_confocal,tissue sample,16
 zeng_anderson_sc_10xv2,whole cell,168877

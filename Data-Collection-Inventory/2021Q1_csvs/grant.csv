@@ -1,20 +1,10 @@
 grant_reference_id,grant_title,grant_identifier,funding_agency_reference_id,awardee_reference_id,report_symbol
 Allen Institute funder,Allen Institute,Allen Institute,Allen Institute for Brain Science,Allen Institute for Brain Science,
-Autism_EC grant,No title,supplement  to  #4987,Autism Speaks,University of California at San Diego,
-BrainSpan_EL_MH grant,TRANSCRIPTIONAL ATLAS OF HUMAN BRAIN DEVELOPMENT,1RC2MH089921-01,National Institute of Mental Health,Allen Institute for Brain Science,
-BrainSpan_JK grant,TRANSCRIPTIONAL ATLAS OF HUMAN BRAIN DEVELOPMENT,1RC2MH090047-01,National Institute of Mental Health,University of Southern California,
-BrainSpan_NS grant,TRANSCRIPTIONAL ATLAS OF HUMAN BRAIN DEVELOPMENT,1RC2MH089929-01,National Institute of Mental Health,Yale University,
-R24 Ghosh grant,DANDI: Distributed Archives for Neurophysiology Data Integration,1R24MH117295-01A1,National Institute of Mental Health,Massachusetts Institute of Technology,9795271
-R24 Ropelewski grant,A Confocal Fluorescence Microscopy Brain Data Archive,1R24MH114793-01,National Institute of Mental Health,Pittsburgh Supercomputing Center,9567623
-R24 White grant,A BRAIN Initiative resource: The neuroscience multi-omic data archive,1R24MH114788-01,National Institute of Mental Health,University of Maryland,9565669
-RF1 Chung grant,"Highly specific, renewable, and cost-effective antibody toolbox for 3D proteomic phenotyping of the brain",1RF1MH121270-01,National Institute of Mental Health,Massachusetts Institute of Technology,9852828
 RF1 Mueller grant,"Accessible technologies for high-throughput, whole-brain reconstructions of molecularly characterized mammalian neurons",1RF1MH121539-01,National Institute of Mental Health,Johns Hopkins University,9868000
 RF1 Nowakowski grant,Mapping Developmental Lineage Relationships in the Cerebral Cortex,1RF1MH121268-01,National Institute of Mental Health,University of California at San Francisco,9852810
 RF1 Regev grant,Scaling up spatial RNA profiling with compressed sensing,1RF1MH121289-01,National Institute of Mental Health,Broad Institute,9852697
 RF1 Tasic grant,Cell class- or type-specific viruses for brain-wide labeling and neural circuit examination,1RF1MH121274-01,National Institute of Mental Health,Allen Institute for Brain Science,9852868
 RF1 Tilgner grant,Single Cell Isoform Expression Across Mouse Brain Regions and Development,1RF1MH121267-01,National Institute of Mental Health,Weill Medical College of Cornell University,9852789
-SFARI_EC grant,No title,SFARI-07-08s,Simons Foundation,University of California at San Diego,
-U01 Chung grant,Towards Integrated 3D Reconstruction of Whole Human Brains at Subcellular Resolution,1U01MH117072-01,National Institute of Mental Health,Massachusetts Institute of Technology,9584926
 U01 Dong grant,Anatomical Characterization of Neuronal Cell Types of the Mouse Brain,1U01MH114829-01,National Institute of Mental Health,University of Southern California,9416006
 U01 Ecker grant,Epigenomic cell-type classification and regulatory element identification in the human brain,1U01MH121282-01,National Institute of Mental Health,Salk Institute for Biological Studies,9852895
 U01 Feng grant,A Molecular and Cellular Atlas of the Marmoset Brain,1U01MH114819-01,National Institute of Mental Health,Massachusetts Institute of Technology,9415538
@@ -22,11 +12,9 @@ U01 Fischl grant,Imaging and analysis Techniques to Construct a Cell Census Atla
 U01 Kriegstein grant,A Cellular Resolution Census of the Developing Human Brain,1U01MH114825-01,National Institute of Mental Health,University of California at San Francisco,9415877
 U01 Lein grant,A Multimodal Atlas of Human Brain Cell Types,1U01MH114812-01,National Institute of Mental Health,Allen Institute for Brain Science,9414852
 U01 Osten grant,Collaboratory for Atlasing Cell Type Anatomy in the Female and Male Mouse Brain,1U01MH114824-01,National Institute of Mental Health,Cold Spring Harbor Laboratory,9415873
-U01 Snyder-Mackler grant,Single cell transcriptional and epigenomic atlas of the macaque brain across the lifespan,1U01MH121260-01,National Institute of Mental Health,University of Washington,9852073
 U01 Yang grant,Dendritome Mapping of Genetically-Defined and Sparsely-Labeled Cortical and Striatal Projection Neurons,1U01MH117079-01,National Institute of Mental Health,University of California at Los Angeles,9585042
 U01 ZhangKun grant,Toward a Human Adult Brain Cell Atlas with Single-Cell Technologies,1U01MH114828-01A1,National Institute of Mental Health,University of California at San Diego,9584575
 U01 ZhangLi grant,Cell Atlas of Mouse Brain-Spinal Cord Connectome,1U01MH116990-01,National Institute of Mental Health,University of Southern California,9583948
 U19 Ecker grant,Center for Epigenomics of the Mouse Brain Atlas (CEMBA),1U19MH114831-01,National Institute of Mental Health,Salk Institute for Biological Studies,9416014
 U19 Huang grant,A Comprehensive Center for Mouse Brain Cell Atlas,1U19MH114821-01,National Institute of Mental Health,Cold Spring Harbor Laboratory,9415765
 U19 Zeng grant,A Comprehensive Whole-brain Atlas of Cell Types in the Mouse,1U19MH114830-01,National Institute of Mental Health,Allen Institute for Brain Science,9416007
-U24 Hawrylycz grant,A Community Resource for Single Cell Data in the Brain,1U24MH114827-01,National Institute of Mental Health,Allen Institute for Brain Science,9415946

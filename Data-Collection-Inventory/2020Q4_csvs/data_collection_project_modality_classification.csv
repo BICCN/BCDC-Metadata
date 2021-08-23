@@ -1,53 +1,6 @@
 project_reference_id,modality_name
-ConnProjection,connectivity
-ConnBdaAavProj,connectivity
-ConnRefProject,histology imaging
-ConnRetina,connectivity
-ConnRetinaVertProj,histology imaging
-ConnTransChar,histology imaging
-DevHumanISHProj,histology imaging
-DevHumanMAProj,transcriptomics
-DevHumanRefProj,histology imaging
-DevHumanTransProj,transcriptomics
-DevMouseProj,histology imaging
-DevMouseRefAtlasProj,histology imaging
-HumanASDProj,histology imaging
-HumanCellTypes,cell morphology
-HumanCellTypes,multimodal
-HumanCtxProj,histology imaging
-HumanGBMRNASeqProj,transcriptomics
 HumanM110xProj,transcriptomics
-HumanMAProj,transcriptomics
-HumanMTGSSProj,transcriptomics
-HumanNTProj,histology imaging
-HumanPSeqL23Proj,multimodal
-HumanPSeqL23Proj,transcriptomics
-HumanPSeqL23Proj,electrophysiology
-HumanPSeqL23Proj,cell morphology
-HumanSubCtxProj,histology imaging
-HumanSZProj,histology imaging
-HumanTBIProj,transcriptomics
-HumanV1ACCSSProj,transcriptomics
-MouseCTXHIP10xProj,transcriptomics
-MouseCTXHIPSSProj,transcriptomics
-MouseDivProj,histology imaging
-MouseISHProj,histology imaging
-MouseCellTypes,cell morphology
-MousePSeqVISProj,cell morphology
-MousePSeqVISProj,multimodal
-MousePSeqVISProj,transcriptomics
-MousePSeqVISProj,electrophysiology
-MouseSpinalISHProj,histology imaging
-MouseSpinalRefProj,histology imaging
-NhpISHProj,histology imaging
-NHPMAProj,transcriptomics
-NhpRefProj,anatomy
-NhpRefProj,histology imaging
-NpxVcProj,electrophysiology
-SleepStudy,histology imaging
-VisCodOphysProj,optical physiology
 TransgenicSTPT,population imaging
-HumanGBMISHProj,histology imaging
 dong_antero_proj,connectivity
 dong_retro_proj,connectivity
 dong_trio_proj,connectivity
@@ -90,7 +43,6 @@ fischl_mri_proj,anatomy
 fischl_oct_proj,anatomy
 tasic_ATACseq_proj,epigenomics
 tasic_stpt_proj,population imaging
-MacaqueM110xProj,transcriptomics
 zhangl_anatomy_proj,anatomy
 human_cortex,transcriptomics
 ecker_hu_sn_ATACseq_proj,epigenomics

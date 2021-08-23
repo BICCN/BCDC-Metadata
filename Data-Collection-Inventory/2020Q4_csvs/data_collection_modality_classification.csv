@@ -1,59 +1,5 @@
 data_collection_reference_id,modality_name
-ConnAntCreSypEGFP,connectivity
-ConnAntTarget,connectivity
-ConnBdaAav,connectivity
-ConnEGFP,connectivity
-ConnRef,histology imaging
-ConnRetinaProjection,connectivity
-ConnRetinaVertical,histology imaging
-ConnTG,histology imaging
-DevHumanISH,histology imaging
-DevHumanMA,transcriptomics
-DevHumanRef,histology imaging
-DevHumanTrans,transcriptomics
-DevMouse,histology imaging
-DevMouseRef,histology imaging
-DevMouseRefAtlas,histology imaging
-HumanASD,histology imaging
-HumanCellTypeDonors,multimodal
-HumanCtx,histology imaging
-HumanGBMISH,histology imaging
-HumanGBMRNASeq,transcriptomics
 HumanM110x,transcriptomics
-HumanMA,transcriptomics
-HumanME,cell morphology
-HumanMTGSS,transcriptomics
-HumanNT,histology imaging
-HumanPSeqL23_E,electrophysiology
-HumanPSeqL23_E,multimodal
-HumanPSeqL23_M,cell morphology
-HumanPSeqL23_M,multimodal
-HumanPSeqL23_T,multimodal
-HumanPSeqL23_T,transcriptomics
-HumanSubCtx,histology imaging
-HumanSZ,histology imaging
-HumanTBI,transcriptomics
-HumanV1ACCSS,transcriptomics
-MouseCTXHIP10x,transcriptomics
-MouseCTXHIPSS,transcriptomics
-MouseDiv,histology imaging
-MouseISH,histology imaging
-MouseME,cell morphology
-MousePSeqVIS_E,electrophysiology
-MousePSeqVIS_E,multimodal
-MousePSeqVIS_M,cell morphology
-MousePSeqVIS_T,transcriptomics
-MouseSpinalISH,histology imaging
-MouseSpinalRef,histology imaging
-NhpISHForebrain,histology imaging
-NhpLMA,transcriptomics
-NhpMM,histology imaging
-NhpMMA,transcriptomics
-NhpRef,anatomy
-NhpRef,histology imaging
-NpxVc,electrophysiology
-SleepISH,histology imaging
-VisCodOphys,optical physiology
 zeng_expr_char,population imaging
 dong_antero,connectivity
 dong_retro,connectivity
@@ -105,7 +51,6 @@ fischl_mri,anatomy
 fischl_oct,anatomy
 tasic_ATACseq,epigenomics
 tasic_stpt,population imaging
-MacaqueM110x,transcriptomics
 zhangl_anatomy,anatomy
 human_cortex_SS4_counts,transcriptomics
 human_cortex_SS4_Open_GRU,transcriptomics

@@ -1,18 +1,4 @@
 project_reference_id,person_reference_id,organization_reference_id,agent_type,priority_order
-ConnBdaAavProj,,Allen Institute for Brain Science,organization,0
-ConnProjection,,Allen Institute for Brain Science,organization,0
-ConnRefProject,,Allen Institute for Brain Science,organization,0
-ConnRetina,,Allen Institute for Brain Science,organization,0
-ConnRetinaVertProj,,Allen Institute for Brain Science,organization,0
-ConnTransChar,,Allen Institute for Brain Science,organization,0
-DevHumanISHProj,,Allen Institute for Brain Science,organization,0
-DevHumanMAProj,,Allen Institute for Brain Science,organization,0
-DevHumanRefProj,,Allen Institute for Brain Science,organization,0
-DevHumanTransProj,,University of Southern California,organization,1
-DevHumanTransProj,,Yale University,organization,2
-DevHumanTransProj,James A. Knowles,,person,0
-DevMouseProj,,Allen Institute for Brain Science,organization,0
-DevMouseRefAtlasProj,,Allen Institute for Brain Science,organization,0
 dong_antero_proj,Hong-Wei Dong,,person,0
 dulac_pag_sn_10x_proj,Eric Vaughn,,person,1
 dulac_pag_sn_10x_proj,Catherine Dulac,,person,0
@@ -33,47 +19,21 @@ huang_pn_proj,Paola Arlotta,,person,0
 huang_sn_10xv2_proj,Aviv Regev,,person,0
 huang_sn_10xv2_proj,Evan Macosko,,person,1
 huang_stpt_conn_proj,Z. Josh Huang,,person,0
-HumanASDProj,,Allen Institute for Brain Science,organization,0
-HumanASDProj,,University of California at San Diego,organization,1
-HumanCellTypes,,Allen Institute for Brain Science,organization,0
-HumanCtxProj,,Allen Institute for Brain Science,organization,0
-HumanGBMISHProj,,Allen Institute for Brain Science,organization,0
-HumanGBMRNASeqProj,,Allen Institute for Brain Science,organization,0
-HumanMAProj,,Allen Institute for Brain Science,organization,0
-HumanMTGSSProj,,Allen Institute for Brain Science,organization,0
-HumanNTProj,,Allen Institute for Brain Science,organization,0
-HumanPSeqL23Proj,,Allen Institute for Brain Science,organization,0
-HumanSubCtxProj,,Allen Institute for Brain Science,organization,0
-HumanSZProj,,Allen Institute for Brain Science,organization,0
-HumanTBIProj,,Allen Institute for Brain Science,organization,0
 human_cortex,,Allen Institute for Brain Science,organization,0
 kriegstein_sc_10x_proj,Arnold Kriegstein,,person,0
 kriegstein_sc_ATACseq_proj,Tomasz Nowakowski,,person,0
 lein_sn_10x,Sten Linnarsson,,person,0
 lein_sn_SSv4_proj,Ed Lein,,person,0
-MouseCellTypes,,Allen Institute for Brain Science,organization,0
-MouseCTXHIPSSProj,,Allen Institute for Brain Science,organization,0
-MouseDivProj,,Allen Institute for Brain Science,organization,0
-MouseISHProj,,Allen Institute for Brain Science,organization,0
-MousePSeqVISProj,,Allen Institute for Brain Science,organization,0
-MouseSpinalISHProj,,Allen Institute for Brain Science,organization,0
-MouseSpinalRefProj,,Allen Institute for Brain Science,organization,0
-NhpISHProj,,Allen Institute for Brain Science,organization,0
-NHPMAProj,,Allen Institute for Brain Science,organization,0
-NhpRefProj,,Allen Institute for Brain Science,organization,0
 nowakowski_evobc_proj,Tomasz Nowakowski,,person,0
 nowakowski_pndev_10xv3_proj,Tomasz Nowakowski,,person,0
-NpxVcProj,,Allen Institute for Brain Science,organization,0
 osten_stpt_proj,,Cold Spring Harbor Laboratory,organization,0
 regev_cisi_proj,Brian Cleary,,person,0
-SleepStudy,,Allen Institute for Brain Science,organization,0
 tasic_ATACseq_proj,,Allen Institute for Brain Science,organization,0
 tasic_stpt_proj,Bosiljka Tasic,,person,0
 tilgner_sc_10x_PB,Anoushka Joglekar,,person,0
 tilgner_sc_10x_PB,Hagen Tilgner,,person,1
 TransgenicSTPT,,Allen Institute for Brain Science,organization,0
 TransgenicSTPT,Hongkui Zeng,,person,1
-VisCodOphysProj,,Allen Institute for Brain Science,organization,0
 yang_MORF_confocal_proj,X. William Yang,,person,0
 zeng_anderson_sc_10xv2_proj,David J Anderson,,person,0
 zeng_fmost_proj,Qingming Luo,,person,0

@@ -1,9 +1,4 @@
 project_reference_id,grant_reference_id,priority_order
-DevHumanISHProj,BrainSpan_EL_MH grant,0
-DevHumanMAProj,BrainSpan_EL_MH grant,0
-DevHumanRefProj,BrainSpan_EL_MH grant,0
-DevHumanTransProj,BrainSpan_JK grant,0
-DevHumanTransProj,BrainSpan_NS grant,1
 dong_antero_proj,U01 Dong grant,0
 dong_retro_proj,U01 Dong grant,0
 dong_trio_proj,U01 Dong grant,0
@@ -27,8 +22,6 @@ huang_retro_proj,U19 Huang grant,0
 huang_sn_10xv2_proj,U19 Huang grant,0
 huang_stpt_conn_proj,U19 Huang grant,0
 huang_stpt_count_proj,U19 Huang grant,0
-HumanASDProj,Autism_EC grant,0
-HumanASDProj,SFARI_EC grant,1
 HumanM110xProj,U01 Lein grant,0
 human_cortex,Allen Institute funder,0
 human_cortex,U01 Lein grant,1
@@ -37,7 +30,6 @@ kriegstein_sc_ATACseq_proj,U01 Kriegstein grant,0
 kriegstein_sn_10x_proj,U01 Kriegstein grant,0
 lein_sn_10x,U01 Lein grant,0
 lein_sn_SSv4_proj,U01 Lein grant,0
-MacaqueM110xProj,Allen Institute funder,0
 mueller_mouselight_proj,RF1 Mueller grant,0
 nowakowski_evobc_proj,RF1 Nowakowski grant,0
 nowakowski_pndev_10xv3_proj,RF1 Nowakowski grant,0

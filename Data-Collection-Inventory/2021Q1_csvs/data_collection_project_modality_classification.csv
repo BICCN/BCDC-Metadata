@@ -1,16 +1,4 @@
 project_reference_id,modality_name
-ConnBdaAavProj,connectivity
-ConnProjection,connectivity
-ConnRefProject,histology imaging
-ConnRetina,connectivity
-ConnRetinaVertProj,histology imaging
-ConnTransChar,histology imaging
-DevHumanISHProj,histology imaging
-DevHumanMAProj,transcriptomics
-DevHumanRefProj,histology imaging
-DevHumanTransProj,transcriptomics
-DevMouseProj,histology imaging
-DevMouseRefAtlasProj,histology imaging
 dong_antero_proj,connectivity
 dong_retro_proj,connectivity
 dong_trio_proj,connectivity
@@ -36,58 +24,22 @@ huang_retro_proj,connectivity
 huang_sn_10xv2_proj,transcriptomics
 huang_stpt_conn_proj,connectivity
 huang_stpt_count_proj,population imaging
-HumanASDProj,histology imaging
-HumanCellTypes,cell morphology
-HumanCellTypes,multimodal
-HumanCtxProj,histology imaging
-HumanGBMISHProj,histology imaging
-HumanGBMRNASeqProj,transcriptomics
 HumanM110xProj,transcriptomics
-HumanMAProj,transcriptomics
-HumanMTGSSProj,transcriptomics
-HumanNTProj,histology imaging
-HumanPSeqL23Proj,cell morphology
-HumanPSeqL23Proj,electrophysiology
-HumanPSeqL23Proj,multimodal
-HumanPSeqL23Proj,transcriptomics
-HumanSubCtxProj,histology imaging
-HumanSZProj,histology imaging
-HumanTBIProj,transcriptomics
-HumanV1ACCSSProj,transcriptomics
 human_cortex,transcriptomics
 kriegstein_sc_10x_proj,transcriptomics
 kriegstein_sc_ATACseq_proj,epigenomics
 kriegstein_sn_10x_proj,transcriptomics
 lein_sn_10x,transcriptomics
 lein_sn_SSv4_proj,transcriptomics
-MacaqueM110xProj,transcriptomics
-MouseCellTypes,cell morphology
-MouseCTXHIP10xProj,transcriptomics
-MouseCTXHIPSSProj,transcriptomics
-MouseDivProj,histology imaging
-MouseISHProj,histology imaging
-MousePSeqVISProj,cell morphology
-MousePSeqVISProj,electrophysiology
-MousePSeqVISProj,multimodal
-MousePSeqVISProj,transcriptomics
-MouseSpinalISHProj,histology imaging
-MouseSpinalRefProj,histology imaging
 mueller_mouselight_proj,cell morphology
-NhpISHProj,histology imaging
-NHPMAProj,transcriptomics
-NhpRefProj,anatomy
-NhpRefProj,histology imaging
 nowakowski_evobc_proj,transcriptomics
 nowakowski_pndev_10xv3_proj,transcriptomics
-NpxVcProj,electrophysiology
 osten_stpt_proj,population imaging
 regev_cisi_proj,spatial transcriptomics
-SleepStudy,histology imaging
 tasic_ATACseq_proj,epigenomics
 tasic_stpt_proj,population imaging
 tilgner_sc_10x_PB,transcriptomics
 TransgenicSTPT,population imaging
-VisCodOphysProj,optical physiology
 yang_MORF_confocal_proj,cell morphology
 zeng_anderson_sc_10xv2_proj,transcriptomics
 zeng_fmost_proj,cell morphology

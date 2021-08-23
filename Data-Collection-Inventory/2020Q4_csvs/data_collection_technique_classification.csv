@@ -1,66 +1,5 @@
 data_collection_reference_id,technique_name
-ConnAntCreSypEGFP,cre-dependent anterograde tracing
-ConnAntTarget,anterograde tracing
-ConnBdaAav,anterograde tracing
-ConnEGFP,anterograde tracing
-ConnRef,histology
-ConnRetinaProjection,anterograde tracing
-ConnRetinaVertical,histology
-ConnTG,in situ hybridization
-DevHumanISH,in situ hybridization
-DevHumanMA,microarray
-DevHumanRef,histology
-DevHumanTrans,RNAseq
-DevMouse,in situ hybridization
-DevMouseRef,histology
-DevMouseRefAtlas,histology
-HumanASD,in situ hybridization
-HumanCellTypeDonors,histology
-HumanCellTypeDonors,whole cell patch clamp
-HumanCellTypeDonors,neuron morphology reconstruction
-HumanCtx,in situ hybridization
-HumanGBMISH,in situ hybridization
-HumanGBMRNASeq,RNAseq
 HumanM110x,10x Chromium 3' v3 sequencing
-HumanMA,microarray
-HumanME,neuron morphology reconstruction
-HumanME,whole cell patch clamp
-HumanMTGSS,SMART-seq v4
-HumanNT,in situ hybridization
-HumanPSeqL23_E,Patch-seq
-HumanPSeqL23_E,whole cell patch clamp
-HumanPSeqL23_M,Patch-seq
-HumanPSeqL23_M,neuron morphology reconstruction
-HumanPSeqL23_T,Patch-seq
-HumanPSeqL23_T,SMART-seq v4
-HumanSubCtx,in situ hybridization
-HumanSZ,in situ hybridization
-HumanTBI,RNAseq
-HumanTBI,in situ hybridization
-HumanV1ACCSS,SMART-seq v4
-MouseCTXHIP10x,10x Chromium 3' v2 sequencing
-MouseCTXHIPSS,SMART-seq v4
-MouseDiv,in situ hybridization
-MouseISH,in situ hybridization
-MouseME,neuron morphology reconstruction
-MouseME,whole cell patch clamp
-MousePSeqVIS_E,Patch-seq
-MousePSeqVIS_E,whole cell patch clamp
-MousePSeqVIS_M,neuron morphology reconstruction
-MousePSeqVIS_M,Patch-seq
-MousePSeqVIS_T,SMART-seq v4
-MousePSeqVIS_T,Patch-seq
-MouseSpinalISH,in situ hybridization
-MouseSpinalRef,histology
-NhpISHForebrain,in situ hybridization
-NhpLMA,microarray
-NhpMM,in situ hybridization
-NhpMMA,microarray
-NhpRef,histology
-NhpRef,MRI
-NpxVc,multi electrode extracellular electrophysiology technique
-SleepISH,in situ hybridization
-VisCodOphys,calcium imaging
 zeng_expr_char,STPT
 dong_antero,cre-dependent anterograde tracing
 dong_retro,retrograde tracing
@@ -121,7 +60,6 @@ fischl_oct,OCT
 tasic_ATACseq,ATAC-seq
 tasic_stpt,STPT
 tasic_stpt,enhancer virus labeling
-MacaqueM110x,10x Chromium 3' v3 sequencing
 zhangl_anatomy,VISor
 zhangl_anatomy,light sheet microscopy
 human_cortex_SS4_counts,SMART-seq v4

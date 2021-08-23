@@ -1,11 +1,4 @@
 project_reference_id,grant_reference_id,priority_order
-DevHumanISHProj,BrainSpan_EL_MH grant,0
-DevHumanMAProj,BrainSpan_EL_MH grant,0
-DevHumanRefProj,BrainSpan_EL_MH grant,0
-DevHumanTransProj,BrainSpan_NS grant,1
-DevHumanTransProj,BrainSpan_JK grant,0
-HumanASDProj,SFARI_EC grant,1
-HumanASDProj,Autism_EC grant,0
 HumanM110xProj,U01 Lein grant,0
 dong_antero_proj,U01 Dong grant,0
 dong_retro_proj,U01 Dong grant,0
@@ -47,7 +40,6 @@ fischl_mri_proj,U01 Fischl grant,0
 fischl_oct_proj,U01 Fischl grant,0
 tasic_ATACseq_proj,RF1 Tasic grant,0
 tasic_stpt_proj,RF1 Tasic grant,0
-MacaqueM110xProj,Allen Institute funder,0
 zhangl_anatomy_proj,U01 ZhangLi grant,0
 human_cortex,U01 Lein grant,1
 human_cortex,Allen Institute funder,0

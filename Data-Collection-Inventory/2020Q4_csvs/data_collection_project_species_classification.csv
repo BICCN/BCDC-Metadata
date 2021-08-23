@@ -1,46 +1,6 @@
 project_reference_id,species_name
-ConnProjection,mouse
-ConnBdaAavProj,mouse
-ConnRefProject,mouse
-ConnRetina,mouse
-ConnRetinaVertProj,mouse
-ConnTransChar,mouse
-DevHumanISHProj,human
-DevHumanMAProj,human
-DevHumanRefProj,human
-DevHumanTransProj,human
-DevMouseProj,mouse
-DevMouseRefAtlasProj,mouse
-HumanASDProj,human
-HumanCellTypes,human
-HumanCtxProj,human
-HumanGBMRNASeqProj,human
 HumanM110xProj,human
-HumanMAProj,human
-HumanMTGSSProj,human
-HumanNTProj,human
-HumanPSeqL23Proj,human
-HumanSubCtxProj,human
-HumanSZProj,human
-HumanTBIProj,human
-HumanV1ACCSSProj,human
-MouseCTXHIP10xProj,mouse
-MouseCTXHIPSSProj,mouse
-MouseDivProj,mouse
-MouseISHProj,mouse
-MouseCellTypes,mouse
-MousePSeqVISProj,mouse
-MouseSpinalISHProj,mouse
-MouseSpinalRefProj,mouse
-NhpISHProj,mouse
-NhpISHProj,rhesus macaque
-NHPMAProj,rhesus macaque
-NhpRefProj,rhesus macaque
-NpxVcProj,mouse
-SleepStudy,mouse
-VisCodOphysProj,mouse
 TransgenicSTPT,mouse
-HumanGBMISHProj,human
 dong_antero_proj,mouse
 dong_retro_proj,mouse
 dong_trio_proj,mouse
@@ -81,7 +41,6 @@ fischl_mri_proj,human
 fischl_oct_proj,human
 tasic_ATACseq_proj,mouse
 tasic_stpt_proj,mouse
-MacaqueM110xProj,rhesus macaque
 zhangl_anatomy_proj,mouse
 human_cortex,human
 ecker_hu_sn_ATACseq_proj,human

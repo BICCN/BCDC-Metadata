@@ -1,19 +1,4 @@
 data_collection_reference_id,technique_name
-ConnAntCreSypEGFP,cre-dependent anterograde tracing
-ConnAntTarget,anterograde tracing
-ConnBdaAav,anterograde tracing
-ConnEGFP,anterograde tracing
-ConnRef,histology
-ConnRetinaProjection,anterograde tracing
-ConnRetinaVertical,histology
-ConnTG,in situ hybridization
-DevHumanISH,in situ hybridization
-DevHumanMA,microarray
-DevHumanRef,histology
-DevHumanTrans,RNAseq
-DevMouse,in situ hybridization
-DevMouseRef,histology
-DevMouseRefAtlas,histology
 dong_antero,cre-dependent anterograde tracing
 dong_retro,retrograde tracing
 dong_trio,TRIO tracing
@@ -47,30 +32,7 @@ huang_sn_10xv2,10x Chromium 3' v2 sequencing
 huang_sn_10xv3,10x Chromium 3' v3 sequencing
 huang_stpt_conn,anterograde tracing
 huang_stpt_count,STPT
-HumanASD,in situ hybridization
-HumanCellTypeDonors,histology
-HumanCellTypeDonors,neuron morphology reconstruction
-HumanCellTypeDonors,whole cell patch clamp
-HumanCtx,in situ hybridization
-HumanGBMISH,in situ hybridization
-HumanGBMRNASeq,RNAseq
 HumanM110x,10x Chromium 3' v3 sequencing
-HumanMA,microarray
-HumanME,neuron morphology reconstruction
-HumanME,whole cell patch clamp
-HumanMTGSS,SMART-seq v4
-HumanNT,in situ hybridization
-HumanPSeqL23_E,Patch-seq
-HumanPSeqL23_E,whole cell patch clamp
-HumanPSeqL23_M,neuron morphology reconstruction
-HumanPSeqL23_M,Patch-seq
-HumanPSeqL23_T,Patch-seq
-HumanPSeqL23_T,SMART-seq v4
-HumanSubCtx,in situ hybridization
-HumanSZ,in situ hybridization
-HumanTBI,in situ hybridization
-HumanTBI,RNAseq
-HumanV1ACCSS,SMART-seq v4
 human_cortex_SS4_counts,SMART-seq v4
 human_cortex_SS4_Open_GRU,SMART-seq v4
 human_cortex_SS4_restricted_GRU,SMART-seq v4
@@ -82,39 +44,15 @@ kriegstein_sn_10xv2,10x Chromium 3' v2 sequencing
 lein_sn_10xv2,10x Chromium 3' v2 sequencing
 lein_sn_10xv3,10x Chromium 3' v3 sequencing
 lein_sn_SSv4,SMART-seq v4
-MacaqueM110x,10x Chromium 3' v3 sequencing
-MouseCTXHIP10x,10x Chromium 3' v2 sequencing
-MouseCTXHIPSS,SMART-seq v4
-MouseDiv,in situ hybridization
-MouseISH,in situ hybridization
-MouseME,neuron morphology reconstruction
-MouseME,whole cell patch clamp
-MousePSeqVIS_E,Patch-seq
-MousePSeqVIS_E,whole cell patch clamp
-MousePSeqVIS_M,neuron morphology reconstruction
-MousePSeqVIS_M,Patch-seq
-MousePSeqVIS_T,Patch-seq
-MousePSeqVIS_T,SMART-seq v4
-MouseSpinalISH,in situ hybridization
-MouseSpinalRef,histology
 mueller_mouselight,mouselight
-NhpISHForebrain,in situ hybridization
-NhpLMA,microarray
-NhpMM,in situ hybridization
-NhpMMA,microarray
-NhpRef,histology
-NhpRef,MRI
 nowakowski_evobc,10x Chromium 3' v3 sequencing
 nowakowski_pndev_10xv3,10x Chromium 3' v3 sequencing
-NpxVc,multi electrode extracellular electrophysiology technique
 osten_stpt,STPT
 regev_cisi,CISI
-SleepISH,in situ hybridization
 tasic_ATACseq,ATAC-seq
 tasic_stpt,enhancer virus labeling
 tasic_stpt,STPT
 tilgner_sc_p56,10x Chromium 3' v3 sequencing
-VisCodOphys,calcium imaging
 yang_morf_cells,neuron morphology reconstruction
 yang_MORF_confocal,MORF genetic sparse labeling
 zeng_anderson_sc_10xv2,10x Chromium 3' v2 sequencing
