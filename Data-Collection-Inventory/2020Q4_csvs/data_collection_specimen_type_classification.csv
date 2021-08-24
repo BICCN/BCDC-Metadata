@@ -52,7 +52,7 @@ fischl_mri,brain hemisphere
 fischl_oct,brain slice
 tasic_ATACseq,whole cell
 tasic_stpt,whole brain
-zhangl_anatomy,spinal cord slice
+zhangl_anatomy,spinal cord
 human_cortex_SS4_counts,cell nucleus
 human_cortex_SS4_Open_GRU,cell nucleus
 human_cortex_SS4_restricted_GRU,cell nucleus

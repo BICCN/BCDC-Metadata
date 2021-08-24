@@ -51,7 +51,7 @@ fischl_mri,brain hemisphere,1
 fischl_oct,brain slice,9
 tasic_ATACseq,whole cell,13093
 tasic_stpt,whole brain,22
-zhangl_anatomy,spinal cord slice,2
+zhangl_anatomy,spinal cord,2
 ecker_hu_sn_ATACseq,cell nucleus,267126
 ecker_hu_sn_mCseq,cell nucleus,5901
 feng_morph,whole cell,45

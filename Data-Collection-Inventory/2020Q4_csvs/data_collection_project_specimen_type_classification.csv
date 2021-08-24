@@ -44,7 +44,7 @@ fischl_mri_proj,brain hemisphere
 fischl_oct_proj,brain slice
 tasic_ATACseq_proj,whole cell
 tasic_stpt_proj,whole brain
-zhangl_anatomy_proj,spinal cord slice
+zhangl_anatomy_proj,spinal cord
 human_cortex,cell nucleus
 ecker_hu_sn_ATACseq_proj,cell nucleus
 ecker_hu_sn_mCseq_proj,cell nucleus
