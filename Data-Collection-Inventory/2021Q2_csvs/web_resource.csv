@@ -60,11 +60,16 @@ https://assets.nemoarchive.org/dat-x54vktk,download,NeMO Data Archive,NeMO,https
 https://assets.nemoarchive.org/dat-xviiont,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-xviiont
 https://assets.nemoarchive.org/dat-y0c2zo2,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-y0c2zo2
 https://assets.nemoarchive.org/dat-zsm81og,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-zsm81og
+https://biccn.org/teams/r24-ghosh,information,DANDI: Distributed Archives for Neurophysiology Data Integration,R24 Ghosh,https://biccn.org/teams/r24-ghosh
+https://biccn.org/teams/r24-ropelewski,information,A Confocal Fluorescence Microscopy Brain Data Archive,R24 Ropelewski,https://biccn.org/teams/r24-ropelewski
+https://biccn.org/teams/r24-white,information,A BRAIN Initiative resource: The neuroscience multi-omic data archive,R24 White,https://biccn.org/teams/r24-white
+https://biccn.org/teams/rf1-chung,information,"Highly specific, renewable, and cost-effective antibody toolbox for 3D proteomic phenotyping of the brain",RF1 Chung,https://biccn.org/teams/rf1-chung
 https://biccn.org/teams/rf1-mueller,information,"Accessible technologies for high-throughput, whole-brain reconstructions of molecularly characterized mammalian neurons",RF1 Mueller,https://biccn.org/teams/rf1-mueller
 https://biccn.org/teams/rf1-nowakowski,information,Mapping Developmental Lineage Relationships in the Cerebral Cortex,RF1 Nowakowski,https://biccn.org/teams/rf1-nowakowski
 https://biccn.org/teams/rf1-regev,information,Scaling up spatial RNA profiling with compressed sensing,RF1 Regev,https://biccn.org/teams/rf1-regev
 https://biccn.org/teams/rf1-tasic,information,Cell class- or type-specific viruses for brain-wide labeling and neural circuit examination,RF1 Tasic,https://biccn.org/teams/rf1-tasic
 https://biccn.org/teams/rf1-tilgner,information,Single Cell Isoform Expression Across Mouse Brain Regions and Development,RF1 Tilgner,https://biccn.org/teams/rf1-tilgner
+https://biccn.org/teams/u01-chung,information,Towards Integrated 3D Reconstruction of Whole Human Brains at Subcellular Resolution,U01 Chung,https://biccn.org/teams/u01-chung
 https://biccn.org/teams/u01-dong,information,Anatomical Characterization of Neuronal Cell Types of the Mouse Brain,U01 Dong,https://biccn.org/teams/u01-dong
 https://biccn.org/teams/u01-ecker,information,Epigenomic cell-type classification and regulatory element identification in the human brain,U01 Ecker,https://biccn.org/teams/u01-ecker
 https://biccn.org/teams/u01-feng,information,A Molecular and Cellular Atlas of the Marmoset Brain,U01 Feng,https://biccn.org/teams/u01-feng
@@ -79,6 +84,7 @@ https://biccn.org/teams/u01-zhangl,information,Cell Atlas of Mouse Brain-Spinal 
 https://biccn.org/teams/u19-ecker,information,Center for Epigenomics of the Mouse Brain Atlas (CEMBA),U19 Ecker,https://biccn.org/teams/u19-ecker
 https://biccn.org/teams/u19-huang,information,A Comprehensive Center for Mouse Brain Cell Atlas,U19 Huang,https://biccn.org/teams/u19-huang
 https://biccn.org/teams/u19-zeng,information,A Comprehensive Whole-brain Atlas of Cell Types in the Mouse,U19 Zeng,https://biccn.org/teams/u19-zeng
+https://biccn.org/teams/u24-hawrylycz,information,A Community Resource for Single Cell Data in the Brain,U24 Hawrylycz,https://biccn.org/teams/u24-hawrylycz
 https://cells.ucsc.edu/cortex-dev/protocol.pdf,view,Single cell RNA-seq protocol Kriegstein Lab,scRNAseq Protocol,https://cells.ucsc.edu/cortex-dev/protocol.pdf
 https://celltypes.brain-map.org/,information,Allen Cell Types Database,Allen Cell Types Database,https://celltypes.brain-map.org/
 https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,explore,Transcriptomics Explorer for Human Cortical Areas - SMART-seq v4,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq

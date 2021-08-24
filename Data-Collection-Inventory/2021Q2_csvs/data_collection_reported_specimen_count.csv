@@ -69,7 +69,7 @@ zhangK_cj_snareseq_AC,cell nucleus,10780
 zhangK_cj_snareseq_R,cell nucleus,12232
 zhangK_hs_snareseq_AC,cell nucleus,159166
 zhangK_hs_snareseq_R,cell nucleus,170224
-zhangl_anatomy,spinal cord slice,11
+zhangl_anatomy,spinal cord,11
 zhangl_kz_omics,cell nucleus,23376
 zhangl_seqfish,spinal cord slice,4
 dulac_pag_sn_10xv2,cell nucleus,116659
@@ -91,12 +91,7 @@ lein_evo_10x_rat,cell nucleus,12
 lein_evo_10x_rhesus,cell nucleus,13
 mop_evo_pseq_hu_t,cell nucleus,4
 zhuang_dulac_merfish_MOE,whole cell,3300000
-zhuang_dulac_merfish_MOE,whole cell,3300000
-zhuang_dulac_merfish_PAG,whole cell,2900000
 zhuang_dulac_merfish_PAG,whole cell,2900000
 zhuang_dulac_merfish_PAG_2,whole cell,2900000
-zhuang_dulac_merfish_PAG_2,whole cell,2900000
 zhuang_merfish_M1,whole cell,300000
-zhuang_merfish_M1,whole cell,300000
-zhuang_merfish_NAc,whole cell,750000
 zhuang_merfish_NAc,whole cell,750000
