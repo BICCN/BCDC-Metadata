@@ -1,0 +1,40 @@
+# Instructions for adding and updating new projects and data collections on https://knowledge.brain-map.org
+
+## Table of Contents
+
+### Adding _new_ projects and data collections via Excel template
+[Full Template Instructions](template_instructions.md)
+1. [Multiple values](template_instructions.md#Multiple values)
+   1. [Adding multiple data collections to one project](template_instructions.md#Adding multiple data collections to one project)
+   2. [Adding multiple values for a property](template_instructions.md#Adding multiple values for a property)
+   3. [Properties that do not support multiple values](template_instructions.md#Properties that do not support multiple values)
+2. [Explanation of properties and values](template_instructions.md#Explanation of properties and values)
+   1. [Data collection project](template_instructions.md#Data collection project)
+      1. [**Project** (*project identifier*)](template_instructions.md#**Project**-(*project identifier*))
+      1. [**is part of**-(*subprogram*)](template_instructions.md#**is part of**-(*subprogram*))
+      1. [**is highlighted by** (*URL*)](template_instructions.md#**is highlighted by**-(*URL*))
+      1. [**is funded by** (*grant*)](template_instructions.md#**is funded by**-(*grant*))
+      1. [**has use of results limited by** (*license*)](template_instructions.md#**has use of results limited by**-(*license*))
+      1. [**has methodology specification** (*protocol URL*)](template_instructions.md#**has methodology specification**-(*protocol URL*))
+      1. [**has output** (*collection name*)](template_instructions.md#**has output**-(*collection name*))
+      1. [**has contact person** (*person name*)](template_instructions.md#**has contact person**-(*person name*))
+      1. [**has contributor** (*person name*)](template_instructions.md#**has contributor**-(*person name*))
+      1. [**has creator** (*person name*)](template_instructions.md#**has creator**-(*person name*))
+      1. [**is subject of publication** (*DOI*)](template_instructions.md#**is subject of publication**-(*DOI*))
+      1. [**Title** (*project title*)](template_instructions.md#**Title**-(*project title*))
+      1. [**Short title** (*project short title*)](template_instructions.md#**Short title**-(*project short title*))
+      1. [**Description** (*project description*)](template_instructions.md#**Description**-(*project description*))
+   2. [Data collection](template_instructions.md#Data collection)
+      1. [**Collection** (*collection identifier*)](template_instructions.md#**Collection**-(*collection identifier*))
+      1. [**has samples of type** (*specimen type*)](template_instructions.md#**has samples of type**-(*specimen type*))
+      1. [**is data about** (*species*)](template_instructions.md#**is data about**-(*species*))
+      1. [**is data of type** (*modality*)](template_instructions.md#**is data of type**-(*modality*))
+      1. [**is subject of resource** (*URL*)](template_instructions.md#**is subject of resource**-(*URL*))
+      1. [**Title** (*collection title*)](template_instructions.md#**Title**-(*collection title*))
+      1. [**Short title** (*collection short title*)](template_instructions.md#**Short title**-(*collection short title*))
+      1. [**Description** (*collection description*)](template_instructions.md#**Description**-(*collection description*))
+      1. [**Access control** (*access control*)](template_instructions.md#**Access control**-(*access control*))
+      1. [**Completion state** (*completion state*)](template_instructions.md#**Completion state**-(*completion state*))
+    
+## 2. Updating information for existing projects and data collections
+Please see the instructions here: [Web UI Instructions](web_ui_instructions.md)
