@@ -1,4 +1,3 @@
-
 # Instructions for filling out Project Collection Template
 The project and data collection template contains all the information necessary
 to add a new project and/or data collection to our inventory. There are three
@@ -6,16 +5,6 @@ sheets in this Excel document: `Data collection project`, `Data collection`,
 and `values`. The first two sheets are to be filled out with the appropriate
 information about your project and data collection. The third sheet contains
 controlled vocabulary and should not be modified.
-
-link [here](metadata_submission_web_ui.md)
-Existing data collections and projects can be edited via requested made through
-the metadata submission webpage, reached by your personalized link at
-`https://bcdc-md-management.org/feedback?userid=<your_unique_issued_id_here>`.
-
-If you have any questions or need us to set up a personalized link to the
-metadata submission webpage, please feel free to email
-[data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
-so we can assist you with adding and updating project inventory metadata.
 
 
 ## Multiple values

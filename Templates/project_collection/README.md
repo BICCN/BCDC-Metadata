@@ -2,8 +2,7 @@
 
 ## Table of Contents
 
-### Adding _new_ projects and data collections via Excel template
-[Full Template Instructions](template_instructions.md)
+### [Instructions for filling out Project Collection Template](template_instructions.md#Instructions for filling out Project Collection Template)
 1. [Multiple values](template_instructions.md#Multiple values)
    1. [Adding multiple data collections to one project](template_instructions.md#Adding multiple data collections to one project)
    2. [Adding multiple values for a property](template_instructions.md#Adding multiple values for a property)
@@ -36,5 +35,4 @@
       1. [**Access control** (*access control*)](template_instructions.md#**Access control**-(*access control*))
       1. [**Completion state** (*completion state*)](template_instructions.md#**Completion state**-(*completion state*))
     
-## 2. Updating information for existing projects and data collections
-Please see the instructions here: [Web UI Instructions](web_ui_instructions.md)
+### [Instructions for using the dataset metadata submission webpage](web_ui_instructions.md#Instructions for using the dataset metadata submission webpage)
