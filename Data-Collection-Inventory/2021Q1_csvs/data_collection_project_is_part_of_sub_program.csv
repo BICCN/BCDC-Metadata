@@ -1,17 +1,4 @@
 project_reference_id,sub_program_reference_id,priority_order
-ConnBdaAavProj,AMBCA,0
-ConnProjection,AMBCA,0
-ConnRefProject,AMBCA,0
-ConnRetina,AMBCA,0
-ConnRetinaVertProj,AMBCA,0
-ConnTransChar,AMBCA,0
-ConnTransChar,TransChar,1
-DevHumanISHProj,BrainSpan,0
-DevHumanMAProj,BrainSpan,0
-DevHumanRefProj,BrainSpan,0
-DevHumanTransProj,BrainSpan,0
-DevMouseProj,ADMBA,0
-DevMouseRefAtlasProj,ADMBA,0
 dong_antero_proj,U01 Dong,0
 dong_retro_proj,U01 Dong,0
 dong_trio_proj,U01 Dong,0
@@ -35,21 +22,8 @@ huang_retro_proj,U19 Huang,0
 huang_sn_10xv2_proj,U19 Huang,0
 huang_stpt_conn_proj,U19 Huang,0
 huang_stpt_count_proj,U19 Huang,0
-HumanASDProj,AHBA,0
-HumanCellTypes,ACTD,0
-HumanCtxProj,AHBA,0
-HumanGBMISHProj,IvyGBM,0
-HumanGBMRNASeqProj,IvyGBM,0
 HumanM110xProj,ACTD,0
 HumanM110xProj,U01 Lein,1
-HumanMAProj,AHBA,0
-HumanMTGSSProj,ACTD,0
-HumanNTProj,AHBA,0
-HumanPSeqL23Proj,ACTD,0
-HumanSubCtxProj,AHBA,0
-HumanSZProj,AHBA,0
-HumanTBIProj,TBI,0
-HumanV1ACCSSProj,ACTD,0
 human_cortex,ACTD,0
 human_cortex,U01 Lein,1
 kriegstein_sc_10x_proj,U01 Kriegstein,0
@@ -57,31 +31,16 @@ kriegstein_sc_ATACseq_proj,U01 Kriegstein,0
 kriegstein_sn_10x_proj,U01 Kriegstein,0
 lein_sn_10x,U01 Lein,0
 lein_sn_SSv4_proj,U01 Lein,0
-MacaqueM110xProj,ACTD,0
-MouseCellTypes,ACTD,0
-MouseCTXHIP10xProj,ACTD,0
-MouseCTXHIPSSProj,ACTD,0
-MouseDivProj,AMBA,0
-MouseISHProj,AMBA,0
-MousePSeqVISProj,ACTD,0
-MouseSpinalISHProj,ASCA,0
-MouseSpinalRefProj,ASCA,0
 mueller_mouselight_proj,RF1 Mueller,0
-NhpISHProj,NHP,0
-NHPMAProj,NHP,0
-NhpRefProj,NHP,0
 nowakowski_evobc_proj,RF1 Nowakowski,0
 nowakowski_pndev_10xv3_proj,RF1 Nowakowski,0
-NpxVcProj,VisualCoding,0
 osten_stpt_proj,U01 Osten,0
 regev_cisi_proj,RF1 Regev,0
-SleepStudy,AMBA,0
 tasic_ATACseq_proj,RF1 Tasic,0
 tasic_stpt_proj,RF1 Tasic,0
 tilgner_sc_10x_PB,RF1 Tilgner,0
 TransgenicSTPT,TransChar,0
 TransgenicSTPT,U19 Zeng,1
-VisCodOphysProj,VisualCoding,0
 yang_MORF_confocal_proj,U01 Yang,0
 zeng_anderson_sc_10xv2_proj,U19 Zeng,0
 zeng_fmost_proj,U19 Zeng,0

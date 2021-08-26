@@ -1,19 +1,4 @@
 data_collection_reference_id,species_name
-ConnAntCreSypEGFP,mouse
-ConnAntTarget,mouse
-ConnBdaAav,mouse
-ConnEGFP,mouse
-ConnRef,mouse
-ConnRetinaProjection,mouse
-ConnRetinaVertical,mouse
-ConnTG,mouse
-DevHumanISH,human
-DevHumanMA,human
-DevHumanRef,human
-DevHumanTrans,human
-DevMouse,mouse
-DevMouseRef,mouse
-DevMouseRefAtlas,mouse
 dong_antero,mouse
 dong_retro,mouse
 dong_trio,mouse
@@ -45,23 +30,7 @@ huang_sn_10xv2,mouse
 huang_sn_10xv3,mouse
 huang_stpt_conn,mouse
 huang_stpt_count,mouse
-HumanASD,human
-HumanCellTypeDonors,human
-HumanCtx,human
-HumanGBMISH,human
-HumanGBMRNASeq,human
 HumanM110x,human
-HumanMA,human
-HumanME,human
-HumanMTGSS,human
-HumanNT,human
-HumanPSeqL23_E,human
-HumanPSeqL23_M,human
-HumanPSeqL23_T,human
-HumanSubCtx,human
-HumanSZ,human
-HumanTBI,human
-HumanV1ACCSS,human
 human_cortex_SS4_counts,human
 human_cortex_SS4_Open_GRU,human
 human_cortex_SS4_restricted_GRU,human
@@ -73,33 +42,14 @@ kriegstein_sn_10xv2,human
 lein_sn_10xv2,human
 lein_sn_10xv3,human
 lein_sn_SSv4,human
-MacaqueM110x,rhesus macaque
-MouseCTXHIP10x,mouse
-MouseCTXHIPSS,mouse
-MouseDiv,mouse
-MouseISH,mouse
-MouseME,mouse
-MousePSeqVIS_E,mouse
-MousePSeqVIS_M,mouse
-MousePSeqVIS_T,mouse
-MouseSpinalISH,mouse
-MouseSpinalRef,mouse
 mueller_mouselight,mouse
-NhpISHForebrain,mouse
-NhpLMA,rhesus macaque
-NhpMM,rhesus macaque
-NhpMMA,rhesus macaque
-NhpRef,rhesus macaque
 nowakowski_evobc,mouse
 nowakowski_pndev_10xv3,mouse
-NpxVc,mouse
 osten_stpt,mouse
 regev_cisi,mouse
-SleepISH,mouse
 tasic_ATACseq,mouse
 tasic_stpt,mouse
 tilgner_sc_p56,mouse
-VisCodOphys,mouse
 yang_morf_cells,mouse
 yang_MORF_confocal,mouse
 zeng_anderson_sc_10xv2,mouse

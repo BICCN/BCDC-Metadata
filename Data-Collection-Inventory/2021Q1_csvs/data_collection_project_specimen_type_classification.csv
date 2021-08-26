@@ -1,16 +1,4 @@
 project_reference_id,specimen_type_name
-ConnBdaAavProj,whole brain
-ConnProjection,whole brain
-ConnRefProject,whole brain
-ConnRetina,whole brain
-ConnRetinaVertProj,retina
-ConnTransChar,whole brain
-DevHumanISHProj,tissue sample
-DevHumanMAProj,tissue sample
-DevHumanRefProj,whole brain
-DevHumanTransProj,tissue sample
-DevMouseProj,whole brain
-DevMouseRefAtlasProj,whole brain
 dong_antero_proj,brain section set
 dong_retro_proj,brain section set
 dong_trio_proj,brain section set
@@ -39,53 +27,22 @@ huang_retro_proj,brain section set
 huang_sn_10xv2_proj,cell nucleus
 huang_stpt_conn_proj,whole brain
 huang_stpt_count_proj,whole brain
-HumanASDProj,tissue sample
-HumanCellTypes,cell in slice
-HumanCtxProj,tissue sample
-HumanGBMISHProj,tissue sample
-HumanGBMRNASeqProj,tissue sample
 HumanM110xProj,cell nucleus
-HumanMAProj,tissue sample
-HumanMTGSSProj,cell nucleus
-HumanNTProj,tissue sample
-HumanPSeqL23Proj,cell in slice
-HumanPSeqL23Proj,cell nucleus
-HumanSubCtxProj,tissue sample
-HumanSZProj,tissue sample
-HumanTBIProj,tissue sample
-HumanV1ACCSSProj,cell nucleus
 human_cortex,cell nucleus
 kriegstein_sc_10x_proj,whole cell
 kriegstein_sc_ATACseq_proj,cell nucleus
 kriegstein_sn_10x_proj,cell nucleus
 lein_sn_10x,cell nucleus
 lein_sn_SSv4_proj,cell nucleus
-MacaqueM110xProj,cell nucleus
-MouseCellTypes,cell in slice
-MouseCTXHIP10xProj,cell body
-MouseCTXHIPSSProj,cell body
-MouseDivProj,whole brain
-MouseISHProj,whole brain
-MousePSeqVISProj,cell in slice
-MousePSeqVISProj,cell nucleus
-MouseSpinalISHProj,spinal cord
-MouseSpinalRefProj,spinal cord
 mueller_mouselight_proj,whole brain
-NhpISHProj,tissue sample
-NhpISHProj,whole brain
-NHPMAProj,tissue sample
-NhpRefProj,whole brain
 nowakowski_evobc_proj,whole cell
 nowakowski_pndev_10xv3_proj,cell nucleus
-NpxVcProj,brain region
 osten_stpt_proj,whole brain
 regev_cisi_proj,brain slice
-SleepStudy,whole brain
 tasic_ATACseq_proj,whole cell
 tasic_stpt_proj,whole brain
 tilgner_sc_10x_PB,cell nucleus
 TransgenicSTPT,whole brain
-VisCodOphysProj,cell body
 yang_MORF_confocal_proj,tissue sample
 zeng_anderson_sc_10xv2_proj,whole cell
 zeng_fmost_proj,whole brain
@@ -99,7 +56,7 @@ zeng_sn_SSv4_proj,cell nucleus
 zeng_tolias_pseq_proj,cell in slice
 zeng_tolias_pseq_proj,cell nucleus
 zhangK_snareseq,cell nucleus
-zhangl_anatomy_proj,spinal cord slice
+zhangl_anatomy_proj,spinal cord
 zhangl_kz_omics_proj,cell nucleus
 zhangl_seqfish_proj,spinal cord slice
 zhuang_merfish_proj,brain slice

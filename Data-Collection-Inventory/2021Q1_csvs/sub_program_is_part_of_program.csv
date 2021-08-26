@@ -1,13 +1,5 @@
 sub_program_reference_id,program_reference_id
 ACTD,Allen Brain Map
-ADMBA,Allen Brain Map
-AHBA,Allen Brain Map
-AMBA,Allen Brain Map
-AMBCA,Allen Brain Map
-ASCA,Allen Brain Map
-BrainSpan,Allen Brain Map
-IvyGBM,Allen Brain Map
-NHP,Allen Brain Map
 R24 Ghosh,BICCN
 R24 Ropelewski,BICCN
 R24 White,BICCN
@@ -17,7 +9,6 @@ RF1 Nowakowski,BICCN
 RF1 Regev,BICCN
 RF1 Tasic,BICCN
 RF1 Tilgner,BICCN
-TBI,Allen Brain Map
 TransChar,Allen Brain Map
 U01 Chung,BICCN
 U01 Dong,BICCN
@@ -35,4 +26,3 @@ U19 Ecker,BICCN
 U19 Huang,BICCN
 U19 Zeng,BICCN
 U24 Hawrylycz,BICCN
-VisualCoding,Allen Brain Map

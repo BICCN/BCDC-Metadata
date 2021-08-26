@@ -3,7 +3,6 @@ technique_name
 10x Chromium 3' v3 sequencing
 anterograde tracing
 ATAC-seq
-calcium imaging
 CISI
 cre-dependent anterograde tracing
 DNAseq
@@ -12,15 +11,12 @@ enhancer virus labeling
 FISH
 fMOST
 histology
-in situ hybridization
 light sheet microscopy
 mC-seq2
 MERFISH
-microarray
 MORF genetic sparse labeling
 mouselight
 MRI
-multi electrode extracellular electrophysiology technique
 neuron morphology reconstruction
 OCT
 Patch-seq

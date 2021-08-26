@@ -1,57 +1,6 @@
 project_reference_id,technique_name
-ConnProjection,anterograde tracing
-ConnProjection,cre-dependent anterograde tracing
-ConnBdaAavProj,anterograde tracing
-ConnRefProject,histology
-ConnRetina,anterograde tracing
-ConnRetinaVertProj,histology
-ConnTransChar,in situ hybridization
-DevHumanISHProj,in situ hybridization
-DevHumanMAProj,microarray
-DevHumanRefProj,histology
-DevHumanTransProj,RNAseq
-DevMouseProj,in situ hybridization
-DevMouseRefAtlasProj,histology
-HumanASDProj,in situ hybridization
-HumanCellTypes,histology
-HumanCellTypes,neuron morphology reconstruction
-HumanCellTypes,whole cell patch clamp
-HumanCtxProj,in situ hybridization
-HumanGBMRNASeqProj,RNAseq
 HumanM110xProj,10x Chromium 3' v3 sequencing
-HumanMAProj,microarray
-HumanMTGSSProj,SMART-seq v4
-HumanNTProj,in situ hybridization
-HumanPSeqL23Proj,Patch-seq
-HumanPSeqL23Proj,SMART-seq v4
-HumanPSeqL23Proj,neuron morphology reconstruction
-HumanPSeqL23Proj,whole cell patch clamp
-HumanSubCtxProj,in situ hybridization
-HumanSZProj,in situ hybridization
-HumanTBIProj,RNAseq
-HumanTBIProj,in situ hybridization
-HumanV1ACCSSProj,SMART-seq v4
-MouseCTXHIP10xProj,10x Chromium 3' v2 sequencing
-MouseCTXHIPSSProj,SMART-seq v4
-MouseDivProj,in situ hybridization
-MouseISHProj,in situ hybridization
-MouseCellTypes,neuron morphology reconstruction
-MouseCellTypes,whole cell patch clamp
-MousePSeqVISProj,Patch-seq
-MousePSeqVISProj,SMART-seq v4
-MousePSeqVISProj,neuron morphology reconstruction
-MousePSeqVISProj,whole cell patch clamp
-MouseSpinalISHProj,in situ hybridization
-MouseSpinalRefProj,histology
-NhpISHProj,in situ hybridization
-NHPMAProj,microarray
-NhpRefProj,MRI
-NhpRefProj,histology
-NpxVcProj,multi electrode extracellular electrophysiology technique
-SleepStudy,in situ hybridization
-VisCodOphysProj,calcium imaging
 TransgenicSTPT,STPT
-HumanGBMISHProj,in situ hybridization
 dong_antero_proj,cre-dependent anterograde tracing
 dong_retro_proj,retrograde tracing
 dong_trio_proj,TRIO tracing
@@ -108,7 +57,6 @@ fischl_oct_proj,OCT
 tasic_ATACseq_proj,ATAC-seq
 tasic_stpt_proj,STPT
 tasic_stpt_proj,enhancer virus labeling
-MacaqueM110xProj,SMART-seq v4
 zhangl_anatomy_proj,VISor
 zhangl_anatomy_proj,light sheet microscopy
 human_cortex,SMART-seq v4

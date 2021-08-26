@@ -1,46 +1,6 @@
 project_reference_id,person_reference_id,organization_reference_id,agent_type,priority_order
-ConnProjection,,Allen Institute for Brain Science,organization,0
-ConnBdaAavProj,,Allen Institute for Brain Science,organization,0
-ConnRefProject,,Allen Institute for Brain Science,organization,0
-ConnRetina,,Allen Institute for Brain Science,organization,0
-ConnRetinaVertProj,,Allen Institute for Brain Science,organization,0
-ConnTransChar,,Allen Institute for Brain Science,organization,0
-DevHumanISHProj,,Allen Institute for Brain Science,organization,0
-DevHumanMAProj,,Allen Institute for Brain Science,organization,0
-DevHumanRefProj,,Allen Institute for Brain Science,organization,0
-DevHumanTransProj,,Yale University,organization,2
-DevHumanTransProj,James A. Knowles,,person,0
-DevHumanTransProj,,University of Southern California,organization,1
-DevMouseProj,,Allen Institute for Brain Science,organization,0
-DevMouseRefAtlasProj,,Allen Institute for Brain Science,organization,0
-HumanASDProj,,Allen Institute for Brain Science,organization,0
-HumanASDProj,,University of California at San Diego,organization,1
-HumanCellTypes,,Allen Institute for Brain Science,organization,0
-HumanCtxProj,,Allen Institute for Brain Science,organization,0
-HumanGBMRNASeqProj,,Allen Institute for Brain Science,organization,0
-HumanMAProj,,Allen Institute for Brain Science,organization,0
-HumanMTGSSProj,,Allen Institute for Brain Science,organization,0
-HumanNTProj,,Allen Institute for Brain Science,organization,0
-HumanPSeqL23Proj,,Allen Institute for Brain Science,organization,0
-HumanSubCtxProj,,Allen Institute for Brain Science,organization,0
-HumanSZProj,,Allen Institute for Brain Science,organization,0
-HumanTBIProj,,Allen Institute for Brain Science,organization,0
-MouseCTXHIPSSProj,,Allen Institute for Brain Science,organization,0
-MouseDivProj,,Allen Institute for Brain Science,organization,0
-MouseISHProj,,Allen Institute for Brain Science,organization,0
-MouseCellTypes,,Allen Institute for Brain Science,organization,0
-MousePSeqVISProj,,Allen Institute for Brain Science,organization,0
-MouseSpinalISHProj,,Allen Institute for Brain Science,organization,0
-MouseSpinalRefProj,,Allen Institute for Brain Science,organization,0
-NhpISHProj,,Allen Institute for Brain Science,organization,0
-NHPMAProj,,Allen Institute for Brain Science,organization,0
-NhpRefProj,,Allen Institute for Brain Science,organization,0
-NpxVcProj,,Allen Institute for Brain Science,organization,0
-SleepStudy,,Allen Institute for Brain Science,organization,0
-VisCodOphysProj,,Allen Institute for Brain Science,organization,0
 TransgenicSTPT,Hongkui Zeng,,person,1
 TransgenicSTPT,,Allen Institute for Brain Science,organization,0
-HumanGBMISHProj,,Allen Institute for Brain Science,organization,0
 dong_antero_proj,Hong-Wei Dong,,person,0
 ecker_sn_ATACseq_proj,Bing Ren,,person,0
 ecker_sn_mCseq_proj,Joseph Ecker,,person,0

@@ -1,20 +1,7 @@
 web_resource_reference_id,web_resource_type,web_resource_title,web_resource_short_title,universal_resource_locator
-http://aging.brain-map.org/,information,"Aging, Dementia and Traumatic Brain Injury (TBI)",Aging Dementia TBI,http://aging.brain-map.org/
-http://celltypes.brain-map.org/data?donor__species=Homo%20Sapiens,explore,Allen Cell Types Database Filtered for Human,Allen Cell Types Database,http://celltypes.brain-map.org/data?donor__species=Homo%20Sapiens
-http://celltypes.brain-map.org/data?donor__species=Mus%20musculus,explore,Allen Cell Types Database Filtered for Mouse,Allen Cell Types Database,http://celltypes.brain-map.org/data?donor__species=Mus%20musculus
-http://celltypes.brain-map.org/donors,explore,Human Cell Types Donor Profiles,Allen Cell Types Database,http://celltypes.brain-map.org/donors
-http://connectivity.brain-map.org/?searchMode=source&sourceDomain=304325711,explore,Mouse Connectivity Retina Projection Data Access,Mouse Connectivity Atlas,http://connectivity.brain-map.org/?searchMode=source&sourceDomain=304325711
-http://connectivity.brain-map.org/?searchMode=source&sourceDomain=8&tracers=10,explore,Mouse Connectivity  Atlas Filtered for Anterograde EGFP,Mouse Connectivity Atlas,http://connectivity.brain-map.org/?searchMode=source&sourceDomain=8&tracers=10
-http://connectivity.brain-map.org/?searchMode=source&tracers=20,explore,Mouse Connectivity Atlas Filtered for SypEGFP,Mouse Connectivity Atlas,http://connectivity.brain-map.org/?searchMode=source&tracers=20
-http://connectivity.brain-map.org/?searchMode=source&tracers=30,explore,Mouse Connectivity Atlas Filtered for Target EGFP,Mouse Connectivity Atlas,http://connectivity.brain-map.org/?searchMode=source&tracers=30
-http://connectivity.brain-map.org/bda-aav,explore,BDA/AAV Tracer Data Access,BDA AAV,http://connectivity.brain-map.org/bda-aav
-http://connectivity.brain-map.org/static/referencedata,explore,Mouse Connectivity Reference Data Access,Connectivity Ref Data,http://connectivity.brain-map.org/static/referencedata
-http://connectivity.brain-map.org/transgenic/search?brain=true&retina=false,explore,Mouse Connectivity Transgenic Characterization Filtered for Brain,Transgenic Characterization,http://connectivity.brain-map.org/transgenic/search?brain=true&retina=false
-http://connectivity.brain-map.org/transgenic/search?retina=true,explore,Mouse Connectivity Transgenic Characterization Filtered for Retina,Transgenic Characterization,http://connectivity.brain-map.org/transgenic/search?retina=true
 http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/assay/transcriptome/zeng/scell/10X/
 http://data.nemoarchive.org/biccn/lab/macosko/transcriptome/sncell/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/macosko/transcriptome/sncell/
 http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer/
-http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer_viral/,download,NeMO Data Archive,NeMO,http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/SMARTer_viral/
 http://doi.org/10.17504/protocols.io.2srged6,view,Extraction of Nuclei from Brain Tissue,Extraction of Nuclei from Brain Tissue,https://doi.org/10.17504/protocols.io.2srged6
 http://doi.org/10.17504/protocols.io.4xjgxkn,view,Triple Anterograde Tracing,Triple Anterograde Tracing,https://doi.org/10.17504/protocols.io.4xjgxkn
 http://doi.org/10.17504/protocols.io.4xpgxmn,view,Quadruple Retrograde Tracing,Quadruple Retrograde Tracing,https://doi.org/10.17504/protocols.io.4xpgxmn
@@ -36,51 +23,22 @@ http://doi.org/10.17504/protocols.io.ssgeebw,view,Resin/HM20 Embedding and fMOST
 http://doi.org/10.17504/protocols.io.y6rfzd6,view,Isolation of Nuclei from Adult Human Brain Tissue for 10x Genomics Platform,Isolation of Nuclei from Adult Human Brain Tissue for 10x Genomics Platform,https://doi.org/10.17504/protocols.io.y6rfzd6
 http://doi.org/10.17504/protocols.io.ynxfvfn,view,10Xv2 RNASeq Sample Processing,10Xv2 RNASeq Sample Processing,https://doi.org/10.17504/protocols.io.ynxfvfn
 http://doi.org/10.17504/protocols.io.ztqf6mw,view,Isolation of Nuclei from Adult_Human_Brain_Tissue,Isolation of Nuclei from Adult_Human_Brain_Tissue,https://doi.org/10.17504/protocols.io.ztqf6mw
-http://download.brainimagelibrary.org/biccn/lein/pseq/morph/200526/,download,Brain Image Library data archive for human patch-seq morphology,BIL,https://download.brainimagelibrary.org/biccn/lein/pseq/morph/200526/
-http://glioblastoma.alleninstitute.org/ish,explore,Ivy GBM ISH,Ivy GBM ISH,http://glioblastoma.alleninstitute.org/ish
-http://glioblastoma.alleninstitute.org/rnaseq/search/index.html,explore,Gene search for Ivy Glioblastoma RNAseq,Ivy GBM RNAseq,http://glioblastoma.alleninstitute.org/rnaseq/search/index.html
 http://help.brain-map.org/display/celltypes/Documentation,view,Allen Cell Types Database Documentation,Allen Cell Types Database Documentation,http://help.brain-map.org/display/celltypes/Documentation
 http://help.brain-map.org/display/mouseconnectivity/Documentation,view,Allen Mouse Brain Connectivity Atlas Documentation,Allen Mouse Brain Connectivity Atlas Documentation,http://help.brain-map.org/display/mouseconnectivity/Documentation
 http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf,view,Mouse Common Coordinate Framework ,CCF,http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf
-http://human.brain-map.org/ish/search/?search_type=autism,explore,Human Brain Atlas filtered for Autism Study,HBA Autism,http://human.brain-map.org/ish/search/?search_type=autism
-http://human.brain-map.org/ish/search/?search_type=cortex,explore,Human Brain Atlas filtered for Cortex Study,HBA Cortex,http://human.brain-map.org/ish/search/?search_type=cortex
-http://human.brain-map.org/ish/search/?search_type=neurotransmitter,explore,Human Brian Atlas filtered for Neurotransmitter Study,HBA Neurotransmitter,http://human.brain-map.org/ish/search/?search_type=neurotransmitter
-http://human.brain-map.org/ish/search/?search_type=schizophrenia,explore,Human Brain Atlas filtered for Schizophrenia Study,HBA Schizophrenia,http://human.brain-map.org/ish/search/?search_type=schizophrenia
-http://human.brain-map.org/ish/search/?search_type=subcortex,explore,Human Brain Atlas filtered for SubCortex Study,HBA SubCortex,http://human.brain-map.org/ish/search/?search_type=subcortex
 http://identifiers.org/DANDI:000008,download,DANDI archive,DANDI,http://identifiers.org/DANDI:000008
-http://mouse.brain-map.org/diversity,explore,Mouse Diversity Search,Mouse Diversity,http://mouse.brain-map.org/diversity
-http://mouse.brain-map.org/search/index,explore,Allen Mouse Brain Atlas Gene Search,Mouse ISH,http://mouse.brain-map.org/search/index
-http://mouse.brain-map.org/sleep,explore,Sleep Study,Sleep Study,http://mouse.brain-map.org/sleep
-http://mousespinal.brain-map.org/,explore,Allen Mouse Spinal Cord Atlas,Mouse Spinal Cord,http://mousespinal.brain-map.org/
-http://mousespinal.brain-map.org/about.html,information,Allen Spinal Cord Atlas,Spinal Cord,http://mousespinal.brain-map.org/about.html
-http://mousespinal.brain-map.org/imageseries/showref.html,explore,Mouse Spinal Cord Reference Atlas and Datasets,Mouse Spinal Cord Ref,http://mousespinal.brain-map.org/imageseries/showref.html
-http://www.blueprintnhpatlas.org/ish/search/show?page_num=0&page_size=13&no_paging=false&exact_match=false&search_term=&search_type=advanced_gene&facet_structure_name=%22amygdaloid%20complex%22,explore,Non-Human Primate ISH,NHP ISH,http://www.blueprintnhpatlas.org/ish/search/show?page_num=0&page_size=13&no_paging=false&exact_match=false&search_term=&search_type=advanced_gene&facet_structure_name=%22amygdaloid%20complex%22
-http://www.blueprintnhpatlas.org/ish/search/show?search_type=advanced_gene&facet_structure_name=%22brain%22,explore,Non-Human Primate ISH Filtered for Whole Brain,NHP ISH whole brain,http://www.blueprintnhpatlas.org/ish/search/show?search_type=advanced_gene&facet_structure_name=%22brain%22
-http://www.blueprintnhpatlas.org/macrodissection/search,explore,Non-Human Primate Macrodissection Microarray,NHP MMA,http://www.blueprintnhpatlas.org/macrodissection/search
-http://www.blueprintnhpatlas.org/microarray/search,explore,Non-Human Primate Microdissection Microarray,NHP LMA,http://www.blueprintnhpatlas.org/microarray/search
-http://www.blueprintnhpatlas.org/static/referencedata,explore,Non-Human Primate Reference Data,NHP Ref,http://www.blueprintnhpatlas.org/static/referencedata
-http://www.brainspan.org/,information,BrainSpan Atlas of the Developing Human Brain,BrainSpan,http://www.brainspan.org/
-http://www.brainspan.org/ish,explore,BrainSpan ISH,BrainSpan ISH,http://www.brainspan.org/ish
-http://www.brainspan.org/lcm/search/index.html,explore,BrainSpan Prenatal LMD Microarray,BrainSpan Microarray,http://www.brainspan.org/lcm/search/index.html
-http://www.brainspan.org/rnaseq/search/index.html,explore,BrainSpan Developmental Transcriptome,BrainSpan Transcriptome,http://www.brainspan.org/rnaseq/search/index.html
-http://www.brainspan.org/static/atlas,explore,BrainSpan Reference Atlases,BrainSpan Reference,http://www.brainspan.org/static/atlas
-https://aging.brain-map.org/donors/summary,explore,Specimens tab of Aging Dementia TBI Study,TBI Specimens,https://aging.brain-map.org/donors/summary
 https://alleninstitute.org/legal/terms-use/,information,Allen Institute Terms of Use,Allen Terms of Use,https://alleninstitute.org/legal/terms-use/
-https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html,download,Allen SDK Instructions for Visual Coding - Neuropixels,Allen SDK,https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html
 https://assets.ctfassets.net/an68im79xiti/615GcV6E7TzuqXKqMjPBtP/9badb815aacebe97a6ac5ecf9d86154b/CG000168_ChromiumSingleCellATAC_ReagentKits_UserGuide_RevB.pdf,view,Chromium Single Cell ATAC,Chromium Single Cell ATAC,https://assets.ctfassets.net/an68im79xiti/615GcV6E7TzuqXKqMjPBtP/9badb815aacebe97a6ac5ecf9d86154b/CG000168_ChromiumSingleCellATAC_ReagentKits_UserGuide_RevB.pdf
-https://assets.nemoarchive.org/dat-18e8800,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-18e8800
 https://assets.nemoarchive.org/dat-2c8otht,download,Human Cortex RNAseq - GRU,NeMO,https://assets.nemoarchive.org/dat-2c8otht
 https://assets.nemoarchive.org/dat-4v55t0q,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-4v55t0q
 https://assets.nemoarchive.org/dat-53ke10p,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-53ke10p
 https://assets.nemoarchive.org/dat-5ue6x8t,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-5ue6x8t
 https://assets.nemoarchive.org/dat-72qka5t,download,Human M1C and DFC RNAseq - Open,NeMO,https://assets.nemoarchive.org/dat-72qka5t
 https://assets.nemoarchive.org/dat-7jxfmkh,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-7jxfmkh
-https://assets.nemoarchive.org/dat-7uhwm74,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-7uhwm74
 https://assets.nemoarchive.org/dat-8ht5n0a,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-8ht5n0a
 https://assets.nemoarchive.org/dat-8zpo593,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-8zpo593
 https://assets.nemoarchive.org/dat-b3brzfa,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-b3brzfa
 https://assets.nemoarchive.org/dat-ci7q9k4,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-ci7q9k4
-https://assets.nemoarchive.org/dat-dgarbc3,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-dgarbc3
 https://assets.nemoarchive.org/dat-gnot1gb,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-gnot1gb
 https://assets.nemoarchive.org/dat-hixtgqk,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-hixtgqk
 https://assets.nemoarchive.org/dat-khcsjuk,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-khcsjuk
@@ -89,7 +47,6 @@ https://assets.nemoarchive.org/dat-knrjpcj,download,NeMO Data Archive,NeMO,https
 https://assets.nemoarchive.org/dat-m21bzvo,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-m21bzvo
 https://assets.nemoarchive.org/dat-m5wqy8t,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-m5wqy8t
 https://assets.nemoarchive.org/dat-mq52tet,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-mq52tet
-https://assets.nemoarchive.org/dat-p6957r7,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-p6957r7
 https://assets.nemoarchive.org/dat-pe2ejct,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-pe2ejct
 https://assets.nemoarchive.org/dat-qf43d3z,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-qf43d3z
 https://assets.nemoarchive.org/dat-s82jegu,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-s82jegu
@@ -130,17 +87,9 @@ https://biccn.org/teams/u19-zeng,information,A Comprehensive Whole-brain Atlas o
 https://biccn.org/teams/u24-hawrylycz,information,A Community Resource for Single Cell Data in the Brain,U24 Hawrylycz,https://biccn.org/teams/u24-hawrylycz
 https://cells.ucsc.edu/cortex-dev/protocol.pdf,view,Single cell RNA-seq protocol Kriegstein Lab,scRNAseq Protocol,https://cells.ucsc.edu/cortex-dev/protocol.pdf
 https://celltypes.brain-map.org/,information,Allen Cell Types Database,Allen Cell Types Database,https://celltypes.brain-map.org/
-https://celltypes.brain-map.org/rnaseq/human/mtg,explore,RNA-Seq Data Navigator: Human,RNA-Seq Data Navigator: Human,https://celltypes.brain-map.org/rnaseq/human/mtg
 https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,explore,Transcriptomics Explorer for Human Cortical Areas - SMART-seq v4,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq
 https://celltypes.brain-map.org/rnaseq/human_m1_10x,explore,Transcriptomics Explorer for M1,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/human_m1_10x
-https://celltypes.brain-map.org/rnaseq/mouse_ctx-hip_10x,explore,Transcriptomics Explorer for Mouse CTX HIP 10x,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/mouse_ctx-hip_10x
-https://celltypes.brain-map.org/rnaseq/mouse_ctx-hip_smart-seq,explore,Transcriptomics Explorer for Mouse CTX HIP SSv4,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/mouse_ctx-hip_smart-seq
-https://connectivity.brain-map.org/,information,Allen Mouse Brain Connectivity Atlas,Mouse Connectivity,https://connectivity.brain-map.org/
 https://creativecommons.org/licenses/by/4.0/,information,Attribution 4.0 International (CC BY 4.0),CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-https://dandiarchive.org/dandiset/000023,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000023
-https://developingmouse.brain-map.org/,information,Allen Developing Mouse Brain Atlas,Developing Mouse,https://developingmouse.brain-map.org/
-https://developingmouse.brain-map.org/search/index,explore,Dev Mouse ISH Search,Developing Mouse,https://developingmouse.brain-map.org/search/index
-https://developingmouse.brain-map.org/static/atlas,explore,Dev Mouse Reference Atlas and Supplemental Data,Reference Atlas,https://developingmouse.brain-map.org/static/atlas
 https://doi.org/10.1016/j.cell.2019.09.020,view,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,https://doi.org/10.1016/j.cell.2019.09.020
 https://doi.org/10.17504/protocols.io.bbseinbe,view,Frozen Tissue Nuclei Extraction V.2,Frozen Tissue Nuclei Extraction V.2,https://doi.org/10.17504/protocols.io.bbseinbe
 https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/
@@ -162,30 +111,17 @@ https://download.brainimagelibrary.org/biccn/yang/morf/confocal/,download,Brain 
 https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,download,Brain Image Library directory for zeng expression characterization,BIL,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/
 https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/,download,Brain Image Library directory for zeng fmost,BIL,https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/
 https://download.brainimagelibrary.org/biccn/zeng/mouselight/,download,Brain Image Library for Zeng Mouselight,BIL,https://download.brainimagelibrary.org/biccn/zeng/mouselight/
-https://download.brainimagelibrary.org/biccn/zeng/pseq/morph/200526/,download,Brain Image Library data archive for mouse patch-seq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/pseq/morph/200526/
 https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/,download,Brain Image Library directory for zeng retrograde transynaptic,BIL,https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/
 https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/,download,Brain Image Library directory for zeng tolias pseq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/
 https://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/,download,Brain Image Library directory for zhuang merfish,BIL,https://download.brainimagelibrary.org/biccn/zeng/zhuang/merfish/
 https://download.brainimagelibrary.org/biccn/zhangl/anatomy,download,Brain Image Library,BIL,https://download.brainimagelibrary.org/biccn/zhangl/anatomy
 https://download.brainimagelibrary.org/biccn/zhangl/seqfish/,download,Brain Image Library directory for zhangl seqfish,BIL,https://download.brainimagelibrary.org/biccn/zhangl/seqfish/
 https://github.com/cleary-lab/CISI,information,Composite In Situ Imaging (CISI),GitHub,https://github.com/cleary-lab/CISI
-https://glioblastoma.alleninstitute.org/,information,Ivy Glioblastoma Atlas Project,Ivy Glioblastoma,https://glioblastoma.alleninstitute.org/
-https://gui.dandiarchive.org/#/dandiset/000020/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://gui.dandiarchive.org/#/dandiset/000020/
 https://gui.dandiarchive.org/#/dandiset/000026,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://gui.dandiarchive.org/#/dandiset/000026
-https://human.brain-map.org/,information,Allen Human Brain Atlas,Human Brain,https://human.brain-map.org/
-https://human.brain-map.org/microarray/search,explore,Human Brain Atlas Microarray,HBA Microarray,https://human.brain-map.org/microarray/search
-https://mouse.brain-map.org/,information,Allen Mouse Brain Atlas,Mouse Brain,https://mouse.brain-map.org/
-https://nemoarchive.org/resources/accessing-controlled-access-data.php,download,NeMO Data Archive,NeMO,https://nemoarchive.org/resources/accessing-controlled-access-data.php
-https://observatory.brain-map.org/visualcoding/,explore,Allen Brain Observatory - Visual Coding Optical Physiology,Allen Brain Observatory,https://observatory.brain-map.org/visualcoding/
 https://portal.brain-map.org,information,Allen Brain Map,Allen Brain Map,https://portal.brain-map.org
 https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq,download,Download page for expression matrix and taxonomy,Expression matrix and taxonomy,https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq
-https://portal.brain-map.org/atlases-and-data/rnaseq/human-v1-acc-smart-seq,download,Cell Types Database RNAseq Human V1 and ACC,RNAseq Download,https://portal.brain-map.org/atlases-and-data/rnaseq/human-v1-acc-smart-seq
-https://portal.brain-map.org/atlases-and-data/rnaseq/protocols-human-cortex#funding,information,Information about the human cortex analyzed dataset,Information about the human cortex analyzed dataset,https://portal.brain-map.org/atlases-and-data/rnaseq/protocols-human-cortex#funding
-https://portal.brain-map.org/explore/circuits,information,Behavioral Circuits and Sensory Processing,Visual Coding,https://portal.brain-map.org/explore/circuits
-https://portal.brain-map.org/explore/classes/multimodal-characterization,view,Multimodal Characterization of Individual Neurons,Multimodal Characterization,https://portal.brain-map.org/explore/classes/multimodal-characterization
 https://portal.brain-map.org/explore/toolkit/mice,information,Toolkit - Transgenic Mouse Lines,Toolkit,https://portal.brain-map.org/explore/toolkit/mice
 https://www.biccn.org/,information,BRAIN Initiative Cell Census Network,BICCN,https://www.biccn.org/
-https://www.blueprintnhpatlas.org/,information,NIH Blueprint Non-Human Primate (NHP) Atlas,NIH Blueprint NHP,https://www.blueprintnhpatlas.org/
  https://download.brainimagelibrary.org/biccn/mueller/mouselight/,download,Brain Image Library,BIL, https://download.brainimagelibrary.org/biccn/mueller/mouselight/
 https://assets.nemoarchive.org/dat-eojj32d,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-eojj32d
 https://assets.nemoarchive.org/dat-a6v2v36,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-a6v2v36
