@@ -55,10 +55,51 @@ instructions here: [Requesting changes](web_ui_instructions.md#Requesting change
 
 ## Requesting changes
 The mechanism for making changes to a project or data collection is the same
-for both cases. Note that if you navigate away from the page you are editing,
-then your changes **will not be saved**. Please make sure to hit the `Submit`
-button at the bottom of the page before navigating to the next one in order to
+for both cases. Note that if you navigate away from the page you are editing 
+before hitting the `Submit` button, then your changes **will not be saved**. 
+Therefore, please make sure to hit the `Submit` button at the bottom of the page 
+before navigating to the next one.
 
-## Adding additional properties
-You can add additional properties to your project or data collection by selecting
-the 
+### Adding additional properties
+You can add additional properties to your project or data collection by choosing 
+a property from the `Add additional properties` drop-down menu that is below
+the navigation menu. Then, select the `value ...` button to the right of the
+`Add additional properties` menu. You can then either choose an option from
+another drop-down menu or type in a value, depending on the property that you
+chose. Once you are down choosing a value, select the `Add this property` button
+to add that value to the requested changes list (Note that this request is not
+finalized until you select the `Submit` button at the bottom of the page).
+
+### Modifying existing properties
+You can modify any existing properties in the `Modify existing properties` 
+section, which is below the `Add additional properties` section. To do this,
+edit the text fields or select different options from the drop-down menus.
+Remember that change requests will not be finalized until you select the `Submit`
+button and that the requests will be lost if you navigate away from the current
+project or data collection that you are modifying.
+
+### Deleting existing properties
+You can also delete existing properties in the `Modify existing properties`
+section by checking boxes in the `Delete` column to the right of the properties
+that you want to delete. Again, deletion requests will not be finalized until 
+you select the `Submit` button, and the requests will be lost if you 
+navigate away from the current project or data collection that you are modifying.
+
+### Adding comments
+You can add comments about your change requests in the `Additional comments`
+section, which is below the `Modify existing properties` section. Use this
+section to make any comments about the data collection or project that you would
+like the data curators to know about. Comments will not be finalized until you
+hit the `Submit` button, and they will be lost if you navigate away from the 
+data collection that you are modifying before doing this.
+
+### Submitting requests
+Once you are done modifying your project or data collection, hit the `Submit`
+button to send your requests to the database. You will be taken to a page that
+displays a table with the change requests that you have submitted so far. There
+is a `Search` bar where you can search for changes that you have requested so
+far. At the bottom of the page, you can select various options to export and 
+download the table that is currently displayed in your preferred format. 
+Once you are done using this page, you can select the `Submit more suggestions`
+button to return to the starting page, or press your browser's back button to 
+return to the previous page.
