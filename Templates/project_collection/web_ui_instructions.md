@@ -93,7 +93,7 @@ like the data curators to know about. Comments will not be finalized until you
 hit the `Submit` button, and they will be lost if you navigate away from the 
 data collection that you are modifying before doing this.
 
-### Submitting requests
+## Submitting requests
 Once you are done modifying your project or data collection, hit the `Submit`
 button to send your requests to the database. You will be taken to a page that
 displays a table with the change requests that you have submitted so far. There
