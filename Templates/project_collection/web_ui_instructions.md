@@ -1,6 +1,9 @@
 # Instructions for using the dataset metadata submission website
 Changes to existing projects and data collections can be requested through the
-dataset metadata submission webpage. We will review your requests and 
+dataset metadata submission webpage. We will review your requests and update
+your metadata based on the information you provide. This website is updated 
+quarterly, so if you just submitted changes or added a new project and data 
+collection template, your information might not be visible here until the next quarter.
 
 # Accessing the website
 

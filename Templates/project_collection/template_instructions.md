@@ -71,9 +71,9 @@ divide it into multiple projects.
     of your project
   * This identifier must match the project identifier given to the data 
     archives when submitting sample inventory
-  * If your project does not have a name yet, you can email us at
+  * If your project does not have a name yet, email a draft name to us at
     [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org),
-    and we will provide you with one.
+    and we will approve it for you.
   
 #### **is part of** (*subprogram*)
   * This is the subprogram that your project is part of (often a grant name)
@@ -101,11 +101,12 @@ divide it into multiple projects.
 #### **has use of results limited by** (*license*)
   * This is the usage license for the data collected by this project
   * This field is controlled by the vocabulary in the `license` column on `values` sheet
-  * Most BICCN projects should have a `CCBY4` license (https://creativecommons.org/licenses/by/4.0/) 
-  * Most Allen Institute projects should have an `AIBSTOU` license 
-    (https://alleninstitute.org/legal/terms-use/), unless they are receiving BICCN funding 
+  * Most BICCN projects should have a `CCBY4` license (https://creativecommons.org/licenses/by/4.0/)
   * If there are related data included in this project that received funding from 
     a separate source, then it could potentially be submitted with a separate license
+  * Ideally, only one license applies to any given data collection project. 
+    If different data collections in the project may be subject to different 
+    license terms, then please list them in the project and data collection descriptions.
   * Please contact [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
     and / or program officer if you are not sure what license to use.
 
@@ -127,9 +128,9 @@ divide it into multiple projects.
   * This field is controlled by the vocabulary in the `collection` column on `values` sheet
   * This identifier must match the collection identifier given to the data 
     archives when submitting sample inventory
-  * If your data collection does not have a name yet, you can email us at
+  * If your data collection does not have a name yet, email a draft name to us at
     [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org), 
-    and we will provide you with one.
+    and we will approve it for you.
   
 #### **has contact person** (*person name*)
   * This is the person that we will send correspondence to if we have questions 
