@@ -9,7 +9,7 @@
    3. [Properties that do not support multiple values](template_instructions.md#Properties that do not support multiple values)
 2. [Explanation of properties and values](template_instructions.md#Explanation of properties and values)
    1. [Data collection project](template_instructions.md#Data collection project)
-      1. [**Project** (*project identifier*)](template_instructions.md#**Project**-(*project identifier*))
+      1. [**Project** (*project identifier*)](template_instructions.md#**Project**-(*project-identifier*))
       1. [**is part of**-(*subprogram*)](template_instructions.md#**is part of**-(*subprogram*))
       1. [**is highlighted by** (*URL*)](template_instructions.md#**is highlighted by**-(*URL*))
       1. [**is funded by** (*grant*)](template_instructions.md#**is funded by**-(*grant*))
