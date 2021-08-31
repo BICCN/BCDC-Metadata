@@ -1,0 +1,2 @@
+Sample ID,Species (CV),Species NCBI Taxonomy ID,Donor id,Genotype,Modality  (CV),Technique  (CV),CORRECTED Anatomical Structure,Subspecimen Type (CV),Total Processed Subspecimens,Organization (CV),Investigator,Grant Number (CV),R24 Name (CV),R24 link,Metadata Submission,Data Collection (CV),Project (CV)
+TBR-L01-0007,mouse,NCBI:txid10090,,Tbr2-CreERT2;Sun1-sfGFP,transcriptomics,10x Chromium 3' v2 sequencing,PIR,nuclei,394,Harvard University,Paola Arlotta,1U19MH114821-01,NEMO,,2019Q4,huang_pn_sn_10xv2,huang_pn_proj
