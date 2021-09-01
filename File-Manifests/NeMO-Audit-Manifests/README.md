@@ -1,4 +1,4 @@
-# NeMO audit File Manifests
+# NeMO Audit File Manifests
 
 Directory for File Manifests and Specimen Inventories for the data collections included in the NeMO file audit for 2021 Q1. 
 For each project, CSVs were generated for:
