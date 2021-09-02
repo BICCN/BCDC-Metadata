@@ -33,6 +33,9 @@ as missing can yet be recovered at the archive.
   under review, so the terms shown in that column are provisional,
   based on file extension.
 
+* Some 'R24 Link' values have not yet been updated to reflect changes
+  at NeMO, and may be inaccurate. These will be corrected in future inventories.
+
 
 
 
