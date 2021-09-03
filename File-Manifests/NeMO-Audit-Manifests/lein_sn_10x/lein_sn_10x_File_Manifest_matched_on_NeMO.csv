@@ -11,8 +11,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X133-3_S5_L001.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-27cy3qe,https://assets.nemoarchive.org/seq-27cy3qe,
 10X133-3_S5_L004.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-gjaur8b,https://assets.nemoarchive.org/seq-gjaur8b,
 10X133-3_S5_L002.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-fatz4z0,https://assets.nemoarchive.org/seq-fatz4z0,
-10X133-3_S5_L001.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-d8rhas9,https://assets.nemoarchive.org/seq-d8rhas9,
-10X133-3_S5_L002.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-iyqp9bq,https://assets.nemoarchive.org/seq-iyqp9bq,
 10X133-3_S54_L001.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-86quid4,https://assets.nemoarchive.org/seq-86quid4,
 10X133-3_S54_L002.fastq.tar,fastq,10X133-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-h914s95,https://assets.nemoarchive.org/seq-h914s95,
 10X131-8_S5_L001.fastq.tar,fastq,10X131-8,lein_sn_10x,lein_sn_10xv2,nemo:seq-itorgr4,https://assets.nemoarchive.org/seq-itorgr4,
@@ -27,8 +25,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X131-4_S3_L003.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-zajw2vp,https://assets.nemoarchive.org/seq-zajw2vp,
 10X131-4_S3_L001.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-yqwrkyg,https://assets.nemoarchive.org/seq-yqwrkyg,
 10X131-4_S3_L004.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-ouug34j,https://assets.nemoarchive.org/seq-ouug34j,
-10X131-4_S3_L002.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-ck8ypzv,https://assets.nemoarchive.org/seq-ck8ypzv,
-10X131-4_S3_L001.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-74sfzs1,https://assets.nemoarchive.org/seq-74sfzs1,
 10X131-4_S39_L002.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-y1ns871,https://assets.nemoarchive.org/seq-y1ns871,
 10X131-4_S39_L001.fastq.tar,fastq,10X131-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-fyq7cmg,https://assets.nemoarchive.org/seq-fyq7cmg,
 10X134-1_S9_L002.fastq.tar,fastq,10X134-1,lein_sn_10x,lein_sn_10xv2,nemo:seq-0rnua23,https://assets.nemoarchive.org/seq-0rnua23,fde2b08df16bebedc1e9e5a772e405f2
@@ -59,8 +55,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X131-2_S1_L003.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-18ta4zi,https://assets.nemoarchive.org/seq-18ta4zi,
 10X131-2_S1_L001.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-7pyurmf,https://assets.nemoarchive.org/seq-7pyurmf,
 10X131-2_S1_L004.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-gpspbxa,https://assets.nemoarchive.org/seq-gpspbxa,
-10X131-2_S1_L002.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-zep2sr1,https://assets.nemoarchive.org/seq-zep2sr1,
-10X131-2_S1_L001.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-o07yx6a,https://assets.nemoarchive.org/seq-o07yx6a,
 10X131-2_S37_L001.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-6bmjov1,https://assets.nemoarchive.org/seq-6bmjov1,
 10X131-2_S37_L002.fastq.tar,fastq,10X131-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-zyk22eg,https://assets.nemoarchive.org/seq-zyk22eg,
 10X120-4_S1_L001.fastq.tar,fastq,10X120-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-grj4k14,https://assets.nemoarchive.org/seq-grj4k14,
@@ -73,16 +67,12 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X131-3_S2_L001.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-49metqm,https://assets.nemoarchive.org/seq-49metqm,
 10X131-3_S2_L004.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-4wiw98i,https://assets.nemoarchive.org/seq-4wiw98i,
 10X131-3_S2_L002.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-0hnin23,https://assets.nemoarchive.org/seq-0hnin23,
-10X131-3_S2_L001.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-t2mozr3,https://assets.nemoarchive.org/seq-t2mozr3,
-10X131-3_S2_L002.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-sdha19m,https://assets.nemoarchive.org/seq-sdha19m,
 10X131-3_S38_L002.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-akijhjg,https://assets.nemoarchive.org/seq-akijhjg,
 10X131-3_S38_L001.fastq.tar,fastq,10X131-3,lein_sn_10x,lein_sn_10xv2,nemo:seq-jzu87bm,https://assets.nemoarchive.org/seq-jzu87bm,
 10X133-4_S6_L003.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-4j6jfcy,https://assets.nemoarchive.org/seq-4j6jfcy,
 10X133-4_S6_L001.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-fomn6gy,https://assets.nemoarchive.org/seq-fomn6gy,
 10X133-4_S6_L002.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-4yqajyy,https://assets.nemoarchive.org/seq-4yqajyy,
 10X133-4_S6_L004.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-v2xqvc7,https://assets.nemoarchive.org/seq-v2xqvc7,
-10X133-4_S6_L001.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-wy8ggrx,https://assets.nemoarchive.org/seq-wy8ggrx,
-10X133-4_S6_L002.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-xkb8r89,https://assets.nemoarchive.org/seq-xkb8r89,
 10X133-4_S55_L002.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-2a39eyd,https://assets.nemoarchive.org/seq-2a39eyd,
 10X133-4_S55_L001.fastq.tar,fastq,10X133-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-b0t2eqt,https://assets.nemoarchive.org/seq-b0t2eqt,
 10X128-1_S29_L001.fastq.tar,fastq,10X128-1,lein_sn_10x,lein_sn_10xv2,nemo:seq-t57ffre,https://assets.nemoarchive.org/seq-t57ffre,
@@ -95,8 +85,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X133-5_S7_L001.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-8534i8e,https://assets.nemoarchive.org/seq-8534i8e,
 10X133-5_S7_L002.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-pzajx78,https://assets.nemoarchive.org/seq-pzajx78,
 10X133-5_S7_L003.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-q5tjnxs,https://assets.nemoarchive.org/seq-q5tjnxs,
-10X133-5_S7_L001.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-ho0wzen,https://assets.nemoarchive.org/seq-ho0wzen,
-10X133-5_S7_L002.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-r6antvc,https://assets.nemoarchive.org/seq-r6antvc,
 10X133-5_S56_L001.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-2t4iioo,https://assets.nemoarchive.org/seq-2t4iioo,
 10X133-5_S56_L002.fastq.tar,fastq,10X133-5,lein_sn_10x,lein_sn_10xv2,nemo:seq-aku1gxr,https://assets.nemoarchive.org/seq-aku1gxr,
 10X133-8_S8_L002.fastq.tar,fastq,10X133-8,lein_sn_10x,lein_sn_10xv2,nemo:seq-bare3vs,https://assets.nemoarchive.org/seq-bare3vs,
@@ -111,16 +99,12 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X133-2_S4_L001.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-k10hv2g,https://assets.nemoarchive.org/seq-k10hv2g,
 10X133-2_S4_L004.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-112vbws,https://assets.nemoarchive.org/seq-112vbws,
 10X133-2_S4_L003.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-upddqoh,https://assets.nemoarchive.org/seq-upddqoh,
-10X133-2_S4_L002.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-4tv62pr,https://assets.nemoarchive.org/seq-4tv62pr,
-10X133-2_S4_L001.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-kbbtfpd,https://assets.nemoarchive.org/seq-kbbtfpd,
 10X133-2_S53_L001.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-oimh029,https://assets.nemoarchive.org/seq-oimh029,
 10X133-2_S53_L002.fastq.tar,fastq,10X133-2,lein_sn_10x,lein_sn_10xv2,nemo:seq-sfwpvj5,https://assets.nemoarchive.org/seq-sfwpvj5,
 10X133-6_S8_L003.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-s13tzkg,https://assets.nemoarchive.org/seq-s13tzkg,
 10X133-6_S8_L001.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-601nhu6,https://assets.nemoarchive.org/seq-601nhu6,
 10X133-6_S8_L002.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-rr7sbie,https://assets.nemoarchive.org/seq-rr7sbie,
 10X133-6_S8_L004.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-nqowf8t,https://assets.nemoarchive.org/seq-nqowf8t,
-10X133-6_S8_L001.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-e6z1nym,https://assets.nemoarchive.org/seq-e6z1nym,
-10X133-6_S8_L002.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-dayfdji,https://assets.nemoarchive.org/seq-dayfdji,
 10X133-6_S57_L001.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-gz37i4i,https://assets.nemoarchive.org/seq-gz37i4i,
 10X133-6_S57_L002.fastq.tar,fastq,10X133-6,lein_sn_10x,lein_sn_10xv2,nemo:seq-6wyouct,https://assets.nemoarchive.org/seq-6wyouct,
 10X135-4_S18_L001.fastq.tar,fastq,10X135-4,lein_sn_10x,lein_sn_10xv2,nemo:seq-vdct6px,https://assets.nemoarchive.org/seq-vdct6px,25586a930fd36823423d4a2861c24d2b
@@ -196,7 +180,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X190-4.mex.tar.gz,mex,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:der-cusxoez,https://assets.nemoarchive.org/der-cusxoez,abb532f7a8f14abc35b101a4e11a0442
 10X190-4_S30_L003.fastq.tar,fastq,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:seq-ak50oeb,https://assets.nemoarchive.org/seq-ak50oeb,39080e28dd58c3036301227b4bd79583
 10X190-4_S30_L004.fastq.tar,fastq,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:seq-99atxp8,https://assets.nemoarchive.org/seq-99atxp8,44cdf8cccaa822a5ea1b6bbb62d3387d
-10X190-4_S30_L003.fastq.tar,fastq,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:seq-t1869ne,https://assets.nemoarchive.org/seq-t1869ne,5f8be06692129202a3b25ea6952ca09b
 10X190-4_S4_L001.fastq.tar,fastq,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:seq-25yjzmt,https://assets.nemoarchive.org/seq-25yjzmt,8c83a0f1670d6af1f7ccd25cc1c288e2
 10X190-4_S4_L002.fastq.tar,fastq,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:seq-6fmei05,https://assets.nemoarchive.org/seq-6fmei05,03b1354befd207559f62892bc3f3e35d
 10X190-4_S4_L004.fastq.tar,fastq,10X190;4,lein_sn_10x,lein_sn_10xv3,nemo:seq-136dm4o,https://assets.nemoarchive.org/seq-136dm4o,690e82386788b4fc03c780c5e25da62c
@@ -253,9 +236,7 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X215-3_S3_L002.fastq.tar,fastq,10X215-3,lein_sn_10x,lein_sn_10xv3,nemo:seq-y7ckthk,https://assets.nemoarchive.org/seq-y7ckthk,3116fdb21a05967c5802dd0215621086
 10X215-3_S3_L001.fastq.tar,fastq,10X215-3,lein_sn_10x,lein_sn_10xv3,nemo:seq-c3pz8zj,https://assets.nemoarchive.org/seq-c3pz8zj,03f41e8e361891474ff006cf6dbc27c3
 10X215-3_S3_L004.fastq.tar,fastq,10X215-3,lein_sn_10x,lein_sn_10xv3,nemo:seq-mdowru1,https://assets.nemoarchive.org/seq-mdowru1,729147b9f1dca99fc8323fb30132e7d6
-10X215-3_S3_L002.fastq.tar,fastq,10X215-3,lein_sn_10x,lein_sn_10xv3,nemo:seq-cg6325z,https://assets.nemoarchive.org/seq-cg6325z,2255851e8f88185284032e1a7ae8cea7
 10X215-3_S3_L003.fastq.tar,fastq,10X215-3,lein_sn_10x,lein_sn_10xv3,nemo:seq-fv3kozx,https://assets.nemoarchive.org/seq-fv3kozx,26c4b68aa8ed0ee0298a81751cca6e43
-10X215-3_S3_L001.fastq.tar,fastq,10X215-3,lein_sn_10x,lein_sn_10xv3,nemo:seq-2saxm8k,https://assets.nemoarchive.org/seq-2saxm8k,74bbb8b2a513f80bcdd484cf8e05c7a3
 10X243-8.mex.tar.gz,mex,10X243-8,lein_sn_10x,lein_sn_10xv3,nemo:der-iddbyck,https://assets.nemoarchive.org/der-iddbyck,33869b202788e2a29fb7090f3c9a276f
 10X243-8_S21_L004.fastq.tar,fastq,10X243-8,lein_sn_10x,lein_sn_10xv3,nemo:seq-q8yuf5e,https://assets.nemoarchive.org/seq-q8yuf5e,96cd79b9d8ee043509630be3ff861b50
 10X243-8_S21_L001.fastq.tar,fastq,10X243-8,lein_sn_10x,lein_sn_10xv3,nemo:seq-31spfua,https://assets.nemoarchive.org/seq-31spfua,974bec24078160132dc7c22ce4ed709a
@@ -391,8 +372,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X172-1_S1_L003.fastq.tar,fastq,10X172;1,lein_sn_10x,lein_sn_10xv3,nemo:seq-pcix9f3,https://assets.nemoarchive.org/seq-pcix9f3,4617752755fc0435756769352a7ef433
 10X172-1_S1_L001.fastq.tar,fastq,10X172;1,lein_sn_10x,lein_sn_10xv3,nemo:seq-e3egga5,https://assets.nemoarchive.org/seq-e3egga5,a9430c0236c746a1315b86856a555565
 10X172-1_S1_L004.fastq.tar,fastq,10X172;1,lein_sn_10x,lein_sn_10xv3,nemo:seq-39ce8zz,https://assets.nemoarchive.org/seq-39ce8zz,99eb1b72d1a622f3c75b4ece64b9c5a9
-10X172-1_S1_L002.fastq.tar,fastq,10X172;1,lein_sn_10x,lein_sn_10xv3,nemo:seq-ha368v7,https://assets.nemoarchive.org/seq-ha368v7,ae5f872e6ae6ed7f3559cdb7f103e013
-10X172-1_S1_L001.fastq.tar,fastq,10X172;1,lein_sn_10x,lein_sn_10xv3,nemo:seq-b51xtqt,https://assets.nemoarchive.org/seq-b51xtqt,a12a4acd743cf0605674ffe1ba950e09
 10X191-7.mex.tar.gz,mex,10X191;7,lein_sn_10x,lein_sn_10xv3,nemo:der-ds7q80q,https://assets.nemoarchive.org/der-ds7q80q,b687d66d45ca583e039e5aa0e20ebf50
 10X191-7_S9_L002.fastq.tar,fastq,10X191;7,lein_sn_10x,lein_sn_10xv3,nemo:seq-5dx8qun,https://assets.nemoarchive.org/seq-5dx8qun,d105838a09fdbdad14d548994d598e85
 10X191-7_S9_L001.fastq.tar,fastq,10X191;7,lein_sn_10x,lein_sn_10xv3,nemo:seq-2zs6ejy,https://assets.nemoarchive.org/seq-2zs6ejy,5ee687ff668dc90afc74e45771fc3b20
@@ -444,9 +423,7 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X215-2.mex.tar.gz,mex,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:der-p2dbnoh,https://assets.nemoarchive.org/der-p2dbnoh,70a26d52ca063adcbc06ca9a9c74a65a
 10X215-2_S2_L002.fastq.tar,fastq,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:seq-yyzcdrp,https://assets.nemoarchive.org/seq-yyzcdrp,8a7e2cbec28075264182cf741b3dd750
 10X215-2_S2_L001.fastq.tar,fastq,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:seq-kba8hjx,https://assets.nemoarchive.org/seq-kba8hjx,de90f929850603bc6ecf9d33b446d1d9
-10X215-2_S2_L002.fastq.tar,fastq,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:seq-x3uffjy,https://assets.nemoarchive.org/seq-x3uffjy,91eefd1bce12bb22442ed811e427b9bc
 10X215-2_S2_L003.fastq.tar,fastq,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:seq-oqw6du9,https://assets.nemoarchive.org/seq-oqw6du9,4287f5cd1e69e23456b67eca55db65e8
-10X215-2_S2_L001.fastq.tar,fastq,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:seq-yitvxw0,https://assets.nemoarchive.org/seq-yitvxw0,d688d5ac7258e7cc91c7978dcd338f92
 10X215-2_S2_L004.fastq.tar,fastq,10X215-2,lein_sn_10x,lein_sn_10xv3,nemo:seq-knpmzet,https://assets.nemoarchive.org/seq-knpmzet,a904bfe60f4ad30c23889ac4f6f4002d
 10X159-5.mex.tar.gz,mex,10X159;5,lein_sn_10x,lein_sn_10xv3,nemo:der-0czubwd,https://assets.nemoarchive.org/der-0czubwd,dd1acb671fef142aa6be77a82b8a8fa5
 10X159-5_S6_L002.fastq.tar,fastq,10X159;5,lein_sn_10x,lein_sn_10xv3,nemo:seq-pm458oz,https://assets.nemoarchive.org/seq-pm458oz,a58b530ef8c6f6fe57719bdc27862644
@@ -507,8 +484,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X215-6.mex.tar.gz,mex,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:der-c23x6kx,https://assets.nemoarchive.org/der-c23x6kx,9ba23c5abf954e0b7031e5374045998a
 10X215-6_S6_L001.fastq.tar,fastq,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-bofy3ny,https://assets.nemoarchive.org/seq-bofy3ny,b0a87eb3bcf1eecd7d7f2ef206943349
 10X215-6_S6_L002.fastq.tar,fastq,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-pat20ae,https://assets.nemoarchive.org/seq-pat20ae,1af51ab314dee33d1bede0ee9343e365
-10X215-6_S6_L001.fastq.tar,fastq,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-f9in7pv,https://assets.nemoarchive.org/seq-f9in7pv,083add69b32bb319ad24eac7f62ecf57
-10X215-6_S6_L002.fastq.tar,fastq,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-gcgqv2j,https://assets.nemoarchive.org/seq-gcgqv2j,8b2dd7fd8a91d2a7530d8540c8f588a1
 10X215-6_S6_L003.fastq.tar,fastq,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-jvme4ni,https://assets.nemoarchive.org/seq-jvme4ni,22a9da5f01e2d6b98ba67a24ddef4dd6
 10X215-6_S6_L004.fastq.tar,fastq,10X215-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-nfsfmf3,https://assets.nemoarchive.org/seq-nfsfmf3,1d1c9f0a518a08196a4ed576b8781719
 10X175-6.mex.tar.gz,mex,10X175;6,lein_sn_10x,lein_sn_10xv3,nemo:der-xmbc187,https://assets.nemoarchive.org/der-xmbc187,733b49eb80b5e87de4f04aefcf264d07
@@ -568,8 +543,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X215-1_S1_L002.fastq.tar,fastq,10X215-1,lein_sn_10x,lein_sn_10xv3,nemo:seq-4rctd0q,https://assets.nemoarchive.org/seq-4rctd0q,f13282973aa457bc95d2b9e775081132
 10X215-1_S1_L001.fastq.tar,fastq,10X215-1,lein_sn_10x,lein_sn_10xv3,nemo:seq-dtjmxzb,https://assets.nemoarchive.org/seq-dtjmxzb,cdefd1714f0b30fb34c2f7b41ab2326f
 10X215-1_S1_L003.fastq.tar,fastq,10X215-1,lein_sn_10x,lein_sn_10xv3,nemo:seq-tnje35g,https://assets.nemoarchive.org/seq-tnje35g,4beaab0ef695623d2d165b06f124d403
-10X215-1_S1_L002.fastq.tar,fastq,10X215-1,lein_sn_10x,lein_sn_10xv3,nemo:seq-w717t4u,https://assets.nemoarchive.org/seq-w717t4u,aa23177d109c0ae16219efc0a5f15b72
-10X215-1_S1_L001.fastq.tar,fastq,10X215-1,lein_sn_10x,lein_sn_10xv3,nemo:seq-zif4qra,https://assets.nemoarchive.org/seq-zif4qra,7156716abcf1ee74c24707cfcfae584e
 10X215-1_S1_L004.fastq.tar,fastq,10X215-1,lein_sn_10x,lein_sn_10xv3,nemo:seq-y0zuc51,https://assets.nemoarchive.org/seq-y0zuc51,43d6acaf37132f0a6aa9e55fde7811db
 10X203-8.mex.tar.gz,mex,10X203;8,lein_sn_10x,lein_sn_10xv3,nemo:der-p8gddst,https://assets.nemoarchive.org/der-p8gddst,107ca7cd03ebdb53fd8a1b5ce4a3cd2e
 10X203-8_S22_L004.fastq.tar,fastq,10X203;8,lein_sn_10x,lein_sn_10xv3,nemo:seq-eni1vte,https://assets.nemoarchive.org/seq-eni1vte,028333d569a8e87c5f1326416cae6298
@@ -729,8 +702,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X215-4.mex.tar.gz,mex,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:der-ca0kx1j,https://assets.nemoarchive.org/der-ca0kx1j,a36dc876e8c4184a719162d89c5007c8
 10X215-4_S4_L002.fastq.tar,fastq,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-9qa7o7x,https://assets.nemoarchive.org/seq-9qa7o7x,9af1b0895b471f0dd8bd2462fc8e1397
 10X215-4_S4_L001.fastq.tar,fastq,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-98kogxz,https://assets.nemoarchive.org/seq-98kogxz,f1e4ec03c8c547596ff5796f77262e81
-10X215-4_S4_L002.fastq.tar,fastq,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-htmwqyk,https://assets.nemoarchive.org/seq-htmwqyk,5474626f67b1e4b750fcd91217c72ef9
-10X215-4_S4_L001.fastq.tar,fastq,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-0voo7yi,https://assets.nemoarchive.org/seq-0voo7yi,b55a20a4a0acab5a2b0470fa47113eba
 10X215-4_S4_L003.fastq.tar,fastq,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-i3u1c2y,https://assets.nemoarchive.org/seq-i3u1c2y,ea647cdf483fee8825cf7225e7d1c73e
 10X215-4_S4_L004.fastq.tar,fastq,10X215-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-d3jt2z1,https://assets.nemoarchive.org/seq-d3jt2z1,a2cad3a56534984b9d9f8ba58ec06fea
 10X227-2.mex.tar.gz,mex,10X227-2,lein_sn_10x,lein_sn_10xv3,nemo:der-1jvgatr,https://assets.nemoarchive.org/der-1jvgatr,dc1846be215205427845807f8625850d
@@ -866,8 +837,6 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X216-6_S14_L004.fastq.tar,fastq,10X216-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-asmf5ko,https://assets.nemoarchive.org/seq-asmf5ko,564bff931d5119c9af8e3f2f36d88575
 10X216-6_S14_L002.fastq.tar,fastq,10X216-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-62jh0e2,https://assets.nemoarchive.org/seq-62jh0e2,a839261723f5f30b2a2348a786efdb63
 10X216-6_S14_L001.fastq.tar,fastq,10X216-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-czbne22,https://assets.nemoarchive.org/seq-czbne22,56f85ddb479cdc6801500a90a6c435fb
-10X216-6_S14_L003.fastq.tar,fastq,10X216-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-kqz3fna,https://assets.nemoarchive.org/seq-kqz3fna,b076d80ff684b0212af631ca5aabe339
-10X216-6_S14_L004.fastq.tar,fastq,10X216-6,lein_sn_10x,lein_sn_10xv3,nemo:seq-vkwk0bb,https://assets.nemoarchive.org/seq-vkwk0bb,6a0ecd04fa31e16db1f51f5b5f98112e
 10X230-4.mex.tar.gz,mex,10X230-4,lein_sn_10x,lein_sn_10xv3,nemo:der-c0i5w1u,https://assets.nemoarchive.org/der-c0i5w1u,b5452654da8c1958d0c3d5f04da80366
 10X230-4_S4_L004.fastq.tar,fastq,10X230-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-9hxneke,https://assets.nemoarchive.org/seq-9hxneke,54798c9995e6a2f9f6549616475b0d53
 10X230-4_S4_L002.fastq.tar,fastq,10X230-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-eenxp8j,https://assets.nemoarchive.org/seq-eenxp8j,72ce40c8eea01995421da2a553aa418f
@@ -1375,9 +1344,7 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X216-7_S15_L004.fastq.tar,fastq,10X216-7,lein_sn_10x,lein_sn_10xv3,nemo:seq-eqdcbv3,https://assets.nemoarchive.org/seq-eqdcbv3,7157cd93b6425f6135b1afecf8549408
 10X216-7_S15_L003.fastq.tar,fastq,10X216-7,lein_sn_10x,lein_sn_10xv3,nemo:seq-2ygpugi,https://assets.nemoarchive.org/seq-2ygpugi,524e49e6239c0ad1b03187b8e1da2c50
 10X216-7_S15_L001.fastq.tar,fastq,10X216-7,lein_sn_10x,lein_sn_10xv3,nemo:seq-expncx3,https://assets.nemoarchive.org/seq-expncx3,bd53b00a056ab52243209e2fbc55a44c
-10X216-7_S15_L004.fastq.tar,fastq,10X216-7,lein_sn_10x,lein_sn_10xv3,nemo:seq-dkq5z71,https://assets.nemoarchive.org/seq-dkq5z71,820ef3c3ee793c129edff6631d5eed22
 10X216-7_S15_L002.fastq.tar,fastq,10X216-7,lein_sn_10x,lein_sn_10xv3,nemo:seq-62f82ue,https://assets.nemoarchive.org/seq-62f82ue,efbda5b03f94c2fe5035c4ae0e10d19e
-10X216-7_S15_L003.fastq.tar,fastq,10X216-7,lein_sn_10x,lein_sn_10xv3,nemo:seq-4qw0i6n,https://assets.nemoarchive.org/seq-4qw0i6n,b2b6ef02daec85aa5b2f7dc2cf2b782f
 10X243-4.mex.tar.gz,mex,10X243-4,lein_sn_10x,lein_sn_10xv3,nemo:der-ntx0eg5,https://assets.nemoarchive.org/der-ntx0eg5,c0dd3609974f8c2f5efab8db9dfb8685
 10X243-4_S17_L002.fastq.tar,fastq,10X243-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-63vouet,https://assets.nemoarchive.org/seq-63vouet,ea7f1441d783e55e5c816a81ee9dba88
 10X243-4_S17_L003.fastq.tar,fastq,10X243-4,lein_sn_10x,lein_sn_10xv3,nemo:seq-6s79yvz,https://assets.nemoarchive.org/seq-6s79yvz,62e3eba1907e05e71b386b6425c49663
@@ -1558,9 +1525,7 @@ Filename,Filetype,Sample ID,Project,Data Collection,R24 ID,File URI,Checksum
 10X215-5.mex.tar.gz,mex,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:der-8t2f582,https://assets.nemoarchive.org/der-8t2f582,611aa137a3251b466fa09b5b4f193f19
 10X215-5_S5_L002.fastq.tar,fastq,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:seq-e80ss4e,https://assets.nemoarchive.org/seq-e80ss4e,7cc4962db26deb0331780ca8bb22fa9d
 10X215-5_S5_L001.fastq.tar,fastq,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:seq-jvtgs9o,https://assets.nemoarchive.org/seq-jvtgs9o,a9446da386b3bacea33ae7abf0056985
-10X215-5_S5_L002.fastq.tar,fastq,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:seq-ow0dub8,https://assets.nemoarchive.org/seq-ow0dub8,2e6e8a375892e80b0653209908846ab7
 10X215-5_S5_L003.fastq.tar,fastq,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:seq-6zuk1cp,https://assets.nemoarchive.org/seq-6zuk1cp,0fd2b5966d7deb0f767f7217f94e892d
-10X215-5_S5_L001.fastq.tar,fastq,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:seq-786d6xg,https://assets.nemoarchive.org/seq-786d6xg,6ab7f810c1818c1596daa9d99afac7fe
 10X215-5_S5_L004.fastq.tar,fastq,10X215-5,lein_sn_10x,lein_sn_10xv3,nemo:seq-0e3aehs,https://assets.nemoarchive.org/seq-0e3aehs,29978c82fb0b326dc2dac36d86233b93
 10X190-3.mex.tar.gz,mex,10X190;3,lein_sn_10x,lein_sn_10xv3,nemo:der-50cjzq9,https://assets.nemoarchive.org/der-50cjzq9,f58bd216401b734f27d394645b2ecd73
 10X190-3_S52_L004.fastq.tar,fastq,10X190;3,lein_sn_10x,lein_sn_10xv3,nemo:seq-a9fjy24,https://assets.nemoarchive.org/seq-a9fjy24,bd310aa277895999b93696160bafaa68
