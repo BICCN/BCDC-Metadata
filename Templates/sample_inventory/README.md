@@ -27,7 +27,7 @@ relevant to your dataset.
 ## Explanation of metadata fields
 Please refer to the following descriptions of the fields when filling out
 the `Sample_Metadata` sheet on the
-`Sample_Inventory_Metadata_2021Q2_template.xlsx`:
+`Sample_Inventory_Metadata_2021Q3_template.xlsx`:
 
 
 #### **Sample ID** (string)
@@ -128,4 +128,4 @@ provide that may be useful for describing the sample or experiment.
 
 #### **Metadata Submission** (string)
 * The Year and Quarter of the initial metadata submission for a sample.
-For this quarter, this would be '2021Q2'
+For this quarter, this would be '2021Q3'
