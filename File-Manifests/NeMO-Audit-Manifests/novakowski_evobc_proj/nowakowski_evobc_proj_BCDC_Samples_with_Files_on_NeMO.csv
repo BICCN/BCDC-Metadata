@@ -1,0 +1,2 @@
+Sample ID,Species (CV),Species NCBI Taxonomy ID,Donor id,Genotype,Modality  (CV),Technique  (CV),CORRECTED Anatomical Structure,Subspecimen Type (CV),Total Processed Subspecimens,Organization (CV),Investigator,Grant Number (CV),R24 Name (CV),R24 link,Metadata Submission,Data Collection (CV),Project (CV),Files per Sample
+MGK_M7,mouse,NCBI:txid10090,,WT,transcriptomics,10x Chromium 3' v3 sequencing,,cells,20424,University of California San Francisco,Tomasz Nowakowski,1RF1MH121268-01,NEMO,,2020Q4,nowakowski_evobc,nowakowski_evobc_proj,2
