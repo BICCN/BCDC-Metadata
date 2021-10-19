@@ -1,0 +1,32 @@
+web_resource_short_title,subprogram,web_resource_type,subprogram_info_url
+Allen Cell Types Database,ACTD,information,https://celltypes.brain-map.org/
+R24 Ghosh,R24 Ghosh,information,https://biccn.org/teams/r24-ghosh
+R24 Ropelewski,R24 Ropelewski,information,https://biccn.org/teams/r24-ropelewski
+R24 White,R24 White,information,https://biccn.org/teams/r24-white
+RF1 Chung,RF1 Chung,information,https://biccn.org/teams/rf1-chung
+RF1 Kim,RF1 Kim,information,https://biccn.org/teams/rf1-kim
+RF1 Mueller,RF1 Mueller,information,https://biccn.org/teams/rf1-mueller
+RF1 Nowakowski,RF1 Nowakowski,information,https://biccn.org/teams/rf1-nowakowski
+RF1 Regev,RF1 Regev,information,https://biccn.org/teams/rf1-regev
+RF1 Tasic,RF1 Tasic,information,https://biccn.org/teams/rf1-tasic
+RF1 Tilgner,RF1 Tilgner,information,https://biccn.org/teams/rf1-tilgner
+Toolkit,TransChar,information,https://portal.brain-map.org/explore/toolkit/mice
+U01 Chung,U01 Chung,information,https://biccn.org/teams/u01-chung
+U01 Dong,U01 Dong,information,https://biccn.org/teams/u01-dong
+U01 Ecker,U01 Ecker,information,https://biccn.org/teams/u01-ecker
+U01 Feng,U01 Feng,information,https://biccn.org/teams/u01-feng
+U01 Fischl,U01 Fischl,information,https://biccn.org/teams/u01-fischl
+U01 Kriegstein,U01 Kriegstein,information,https://biccn.org/teams/u01-kriegstein
+U01 Lein,U01 Lein,information,https://biccn.org/teams/u01-lein
+U01 Osten,U01 Osten,information,https://biccn.org/teams/u01-osten
+U01 Snyder-Mackler,U01 Snyder-Mackler,information,https://biccn.org/teams/u01-snydermackler
+U01 Yang,U01 Yang,information,https://biccn.org/teams/u01-yang
+"U01 Zhang, Kun",U01 ZhangKun,information,https://biccn.org/teams/u01-zhangk
+"U01 Zhang, Li",U01 ZhangLi,information,https://biccn.org/teams/u01-zhangl
+U19 Ecker,U19 Ecker,information,https://biccn.org/teams/u19-ecker
+U19 Huang,U19 Huang,information,https://biccn.org/teams/u19-huang
+U19 Zeng,U19 Zeng,information,https://biccn.org/teams/u19-zeng
+U24 Hawrylycz,U24 Hawrylycz,information,https://biccn.org/teams/u24-hawrylycz
+NULL,RF1 Macosko,NULL,NULL
+NULL,U01 Macosko,NULL,NULL
+NULL,U01 Sestan,NULL,NULL
