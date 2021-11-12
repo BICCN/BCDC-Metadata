@@ -19,25 +19,29 @@ BIL,yang_MORF_confocal,download,https://download.brainimagelibrary.org/biccn/yan
 BIL,yang_morf_cells,download,https://download.brainimagelibrary.org/biccn/yang/morf/cells/,yang_MORF_confocal_proj,[U01 Yang]
 BIL,zeng_expr_char,download,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,TransgenicSTPT,"[TransChar, U19 Zeng]"
 BIL,zeng_fmost,download,https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/,zeng_fmost_proj,[U19 Zeng]
-BIL,zeng_fmost_cells,download,https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/,zeng_fmost_proj,[U19 Zeng]
+BIL,zeng_fmost_cells,download,https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/,zeng_fmost_proj,[U19 Zeng]
 BIL,zeng_mouselight,download,https://download.brainimagelibrary.org/biccn/zeng/mouselight/,zeng_mouselight_proj,[U19 Zeng]
 BIL,zeng_retro,download,https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/,zeng_retro_proj,[U19 Zeng]
 BIL,zeng_tolias_pseq_m,download,https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/,zeng_tolias_pseq_proj,[U19 Zeng]
 BIL,zhangl_anatomy,download,https://download.brainimagelibrary.org/biccn/zhangl/anatomy,zhangl_anatomy_proj,[U01 ZhangLi]
 BIL,zhangl_seqfish,download,https://download.brainimagelibrary.org/biccn/zhangl/seqfish/,zhangl_seqfish_proj,[U01 ZhangLi]
 BIL,zhuang_dulac_merfish_MOE,download,https://download.brainimagelibrary.org/3d/91/3d9109168823fe39/,zhuang_dulac_merfish_MOE_proj,[U19 Zeng]
-BIL,zhuang_dulac_merfish_PAG,download,https://download.brainimagelibrary.org/0a/46/0a4681ec1919cda5,zhuang_dulac_merfish_PAG_proj,[U19 Huang]
 BIL,zhuang_dulac_merfish_PAG_2,download,https://download.brainimagelibrary.org/cb/6d/cb6defa2eab96ddb/,zhuang_dulac_merfish_PAG_proj,[U19 Huang]
 BIL,zhuang_merfish_M1,download,https://download.brainimagelibrary.org/02/26/02265ddb0dae51de,zhuang_merfish_MOp_proj,"[U19 Huang, U19 Zeng]"
 BIL,zhuang_merfish_MOp,download,https://download.brainimagelibrary.org/cf/1c/cf1c1a431ef8d021,zhuang_merfish_MOp_proj,"[U19 Huang, U19 Zeng]"
 BIL,zhuang_merfish_NAc,download,https://download.brainimagelibrary.org/fc/4c/fc4c2570c3711952/,zhuang_merfish_NAc_proj,[U19 Huang]
+DANDI,HumanPSeqL23_E,download,https://dandiarchive.org/dandiset/000023/,HumanPSeqL23Proj,"[ACTD, U01 Lein]"
 DANDI,fischl_lsfm,download,https://dandiarchive.org/dandiset/000026/,fischl_mri_proj,[U01 Fischl]
-DANDI,fischl_mri,download,https://gui.dandiarchive.org/#/dandiset/000026,fischl_mri_proj,[U01 Fischl]
-DANDI,fischl_oct,download,https://gui.dandiarchive.org/#/dandiset/000026,fischl_mri_proj,[U01 Fischl]
+DANDI,fischl_mri,download,https://dandiarchive.org/dandiset/000026/,fischl_mri_proj,[U01 Fischl]
+DANDI,fischl_oct,download,https://dandiarchive.org/dandiset/000026/,fischl_mri_proj,[U01 Fischl]
 DANDI,mop_evo_pseq_e,download,https://dandiarchive.org/dandiset/000043/,mop_evo_tx_epi_pseq_proj,[U01 Lein]
-DANDI,zeng_tolias_pseq_e,download,http://identifiers.org/DANDI:000008,zeng_tolias_pseq_proj,[U19 Zeng]
-DANDI,zhangl_ephys,download,https://gui.dandiarchive.org/#/dandiset/000117,zhangl_ephys_proj,[U01 ZhangLi]
+DANDI,zeng_tolias_pseq_e,download,https://dandiarchive.org/dandiset/000008/,zeng_tolias_pseq_proj,[U19 Zeng]
+DANDI,zhangl_ephys,download,https://dandiarchive.org/dandiset/000117/,zhangl_ephys_proj,[U01 ZhangLi]
 Expression matrix and taxonomy,human_cortex_SS4_counts,download,https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq,human_cortex,"[ACTD, U01 Lein]"
+Multimodal Characterization,HumanPSeqL23_E,view,https://portal.brain-map.org/explore/classes/multimodal-characterization,HumanPSeqL23Proj,"[ACTD, U01 Lein]"
+Multimodal Characterization,HumanPSeqL23_M,view,https://portal.brain-map.org/explore/classes/multimodal-characterization,HumanPSeqL23Proj,"[ACTD, U01 Lein]"
+Multimodal Characterization,HumanPSeqL23_T,view,https://portal.brain-map.org/explore/classes/multimodal-characterization,HumanPSeqL23Proj,"[ACTD, U01 Lein]"
+NeMO,HumanPSeqL23_T,download,https://assets.nemoarchive.org/dat-18e8800,HumanPSeqL23Proj,"[ACTD, U01 Lein]"
 NeMO,dulac_hyp_sn_10xv2,download,https://assets.nemoarchive.org/dat-4xq7q5j,dulac_hyp_sn_10x_proj,[U19 Huang]
 NeMO,dulac_pag_sn_10xv2,download,https://assets.nemoarchive.org/dat-diw5xr1,dulac_pag_sn_10x_proj,[U19 Huang]
 NeMO,ecker_hu_DNAseq,download,https://assets.nemoarchive.org/dat-a6v2v36,ecker_hu_DNAseq_proj,[U01 Ecker]
@@ -64,7 +68,6 @@ NeMO,kriegstein_sc_ATACseq,download,https://assets.nemoarchive.org/dat-gnot1gb,k
 NeMO,kriegstein_sn_10xv2,download,https://assets.nemoarchive.org/dat-b3brzfa,kriegstein_sn_10x_proj,[U01 Kriegstein]
 NeMO,lein_sn_10xv2,download,https://assets.nemoarchive.org/dat-ci7q9k4,lein_sn_10x,[U01 Lein]
 NeMO,lein_sn_10xv3,download,https://assets.nemoarchive.org/dat-5ie1mec,lein_sn_10x,[U01 Lein]
-NeMO,nowakowski_evobc,download,https://assets.nemoarchive.org/dat-8ht5n0a,nowakowski_evobc_proj,[RF1 Nowakowski]
 NeMO,nowakowski_pndev_10xv3,download,https://assets.nemoarchive.org/dat-eojj32d,nowakowski_pndev_10xv3_proj,[RF1 Nowakowski]
 NeMO,tasic_ATACseq,download,https://assets.nemoarchive.org/dat-khcsjuk,tasic_ATACseq_proj,[RF1 Tasic]
 NeMO,tilgner_sc_p56,download,https://assets.nemoarchive.org/dat-syahgjf,tilgner_sc_10x_PB,[RF1 Tilgner]
@@ -124,10 +127,12 @@ NULL,macosko_mouse_slideseq_slideseqdataset,NULL,NULL,macosko_mouse_slideseq_pro
 NULL,mop_evo_pseq_hu_t,NULL,NULL,mop_evo_tx_epi_pseq_proj,[U01 Lein]
 NULL,mop_evo_pseq_m,NULL,NULL,mop_evo_tx_epi_pseq_proj,[U01 Lein]
 NULL,mop_evo_pseq_t,NULL,NULL,mop_evo_tx_epi_pseq_proj,[U01 Lein]
+NULL,nowakowski_evobc,NULL,NULL,nowakowski_evobc_proj,[RF1 Nowakowski]
 NULL,sestan_sc_10xv3_nhp_dev,NULL,NULL,sestan_sn_10x_proj,[U01 Sestan]
 NULL,sestan_sn_10xv3_human,NULL,NULL,sestan_sn_10x_proj,[U01 Sestan]
 NULL,sestan_sn_10xv3_nhp_adult,NULL,NULL,sestan_sn_10x_proj,[U01 Sestan]
 NULL,snyder-mackler_macaque_scATAC,NULL,NULL,snyder-mackler_macaque_proj,[U01 Snyder-Mackler]
 NULL,snyder-mackler_macaque_scRNA,NULL,NULL,snyder-mackler_macaque_proj,[U01 Snyder-Mackler]
 NULL,zhuang_dulac_merfish_MOB,NULL,NULL,zhuang_dulac_merfish_MOB_proj,[U19 Zeng]
+NULL,zhuang_dulac_merfish_PAG,NULL,NULL,zhuang_dulac_merfish_PAG_proj,[U19 Huang]
 NULL,zhuang_dulac_merfish_PAG_1,NULL,NULL,zhuang_dulac_merfish_PAG_proj,[U19 Huang]
