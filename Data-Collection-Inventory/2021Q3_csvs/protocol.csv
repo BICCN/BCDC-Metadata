@@ -1,0 +1,36 @@
+protocol_reference_id,protocol_title,protocol_short_title,view_web_resource_reference_id
+protocol http://doi.org/10.17504/protocols.io.2srged6,Extraction of Nuclei from Brain Tissue,Extraction of Nuclei from Brain Tissue,http://doi.org/10.17504/protocols.io.2srged6
+protocol http://doi.org/10.17504/protocols.io.4xjgxkn,Triple Anterograde Tracing,Triple Anterograde Tracing,http://doi.org/10.17504/protocols.io.4xjgxkn
+protocol http://doi.org/10.17504/protocols.io.4xpgxmn,Quadruple Retrograde Tracing,Quadruple Retrograde Tracing,http://doi.org/10.17504/protocols.io.4xpgxmn
+protocol http://doi.org/10.17504/protocols.io.4xsgxne,TRIO tracing,TRIO tracing,http://doi.org/10.17504/protocols.io.4xsgxne
+protocol http://doi.org/10.17504/protocols.io.4zzgx76,Sequencing open chromatin of single cell nuclei: snATAC-seq V.2 ,snATAC-seq V.2 ,http://doi.org/10.17504/protocols.io.4zzgx76
+protocol http://doi.org/10.17504/protocols.io.63rhgm6,Nextera XT at 0.2X On the Mantis,Nextera XT at 0.2X On the Mantis,http://doi.org/10.17504/protocols.io.63rhgm6
+protocol http://doi.org/10.17504/protocols.io.7aehibe,Human Tissue Slicing and Dissections for Nuclear Isolations,Human Tissue Slicing and Dissections for Nuclear Isolations,http://doi.org/10.17504/protocols.io.7aehibe
+protocol http://doi.org/10.17504/protocols.io.7d5hi86,SMARTerV4 (0.5x) Amplification for single-cell or single-nuclei RNASeq Protocol,SMARTerV4 (0.5x) Amplification for single-cell or single-nuclei RNASeq Protocol,http://doi.org/10.17504/protocols.io.7d5hi86
+protocol http://doi.org/10.17504/protocols.io.7d6hi9e,SMARTerV4 (1x) Amplification for single-cell or  single-nuclei RNASeq Protocol,SMARTerV4 (1x) Amplification for single-cell or  single-nuclei RNASeq Protocol,http://doi.org/10.17504/protocols.io.7d6hi9e
+protocol http://doi.org/10.17504/protocols.io.7dwhi7e,Slice Preparation with Tissue Dissociation - Mouse Protocol,Slice Preparation with Tissue Dissociation - Mouse Protocol,http://doi.org/10.17504/protocols.io.7dwhi7e
+protocol http://doi.org/10.17504/protocols.io.8tvhwn6,Nuclei Isolation for SNARE-seq2 ,Nuclei Isolation for SNARE-seq2 ,http://doi.org/10.17504/protocols.io.8tvhwn6
+protocol http://doi.org/10.17504/protocols.io.md2c28e,DroNc-seq step-by-step,DroNc-seq step-by-step,http://doi.org/10.17504/protocols.io.md2c28e
+protocol http://doi.org/10.17504/protocols.io.nx3dfqn,Preparation of frozen nuclei for single-nucleus RNA seq,Preparation of frozen nuclei for single-nucleus RNA seq,http://doi.org/10.17504/protocols.io.nx3dfqn
+protocol http://doi.org/10.17504/protocols.io.pjudknw,Sequencing open chromatin of single cell nuclei: snATAC-seq,Sequencing open chromatin of single cell nuclei: snATAC-seq,http://doi.org/10.17504/protocols.io.pjudknw
+protocol http://doi.org/10.17504/protocols.io.pjvdkn6,Methyl-C sequencing of single cell nuclei: snmC-seq2,Methyl-C sequencing of single cell nuclei: snmC-seq2,http://doi.org/10.17504/protocols.io.pjvdkn6
+protocol http://doi.org/10.17504/protocols.io.smvec66,STPT protocol,STPT protocol,http://doi.org/10.17504/protocols.io.smvec66
+protocol http://doi.org/10.17504/protocols.io.sqcedsw,STP Imaging Protocol,STP Imaging Protocol,http://doi.org/10.17504/protocols.io.sqcedsw
+protocol http://doi.org/10.17504/protocols.io.ssgeebw,Resin/HM20 Embedding and fMOST Imaging Protocol,Resin/HM20 Embedding and fMOST Imaging Protocol,http://doi.org/10.17504/protocols.io.ssgeebw
+protocol http://doi.org/10.17504/protocols.io.y6rfzd6,Isolation of Nuclei from Adult Human Brain Tissue for 10x Genomics Platform,Isolation of Nuclei from Adult Human Brain Tissue for 10x Genomics Platform,http://doi.org/10.17504/protocols.io.y6rfzd6
+protocol http://doi.org/10.17504/protocols.io.ynxfvfn,10Xv2 RNASeq Sample Processing,10Xv2 RNASeq Sample Processing,http://doi.org/10.17504/protocols.io.ynxfvfn
+protocol http://doi.org/10.17504/protocols.io.ztqf6mw,Isolation of Nuclei from Adult_Human_Brain_Tissue,Isolation of Nuclei from Adult_Human_Brain_Tissue,http://doi.org/10.17504/protocols.io.ztqf6mw
+protocol http://help.brain-map.org/display/celltypes/Documentation,Allen Cell Types Database,Allen Cell Types Database,http://help.brain-map.org/display/celltypes/Documentation
+protocol http://help.brain-map.org/display/mouseconnectivity/Documentation,Allen Mouse Brain Connectivity Atlas,Connectivity Atlas,http://help.brain-map.org/display/mouseconnectivity/Documentation
+protocol http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf,Allen Mouse Common Coordinate Framework and Reference Atlas,Common Coordinate Framework,http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf
+protocol https://assets.ctfassets.net/an68im79xiti/615GcV6E7TzuqXKqMjPBtP/9badb815aacebe97a6ac5ecf9d86154b/CG000168_ChromiumSingleCellATAC_ReagentKits_UserGuide_RevB.pdf,Chromium Single Cell ATAC Reagent Kits,Chromium Single Cell ATAC,https://assets.ctfassets.net/an68im79xiti/615GcV6E7TzuqXKqMjPBtP/9badb815aacebe97a6ac5ecf9d86154b/CG000168_ChromiumSingleCellATAC_ReagentKits_UserGuide_RevB.pdf
+protocol https://cells.ucsc.edu/cortex-dev/protocol.pdf,Single-cell RNA-seq,Single-cell RNA-seq,https://cells.ucsc.edu/cortex-dev/protocol.pdf
+protocol https://doi.org/10.1016/j.cell.2019.09.020,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,https://doi.org/10.1016/j.cell.2019.09.020
+protocol https://doi.org/10.17504/protocols.io.9yih7ue,sci-RNA-seq3,sci-RNA-seq3,https://doi.org/10.17504/protocols.io.9yih7ue
+protocol https://doi.org/10.17504/protocols.io.bbseinbe,Frozen Tissue Nuclei Extraction V.2,Frozen Tissue Nuclei Extraction V.2,https://doi.org/10.17504/protocols.io.bbseinbe
+protocol https://doi.org/10.17504/protocols.io.be8mjhu6,sci-ATAC-seq3,sci-ATAC-seq3,https://doi.org/10.17504/protocols.io.be8mjhu6
+protocol https://doi.org/10.17504/protocols.io.bpbuminw,Patch-Seq Recording and Extraction Detailed Protocol,Patch-Seq Recording and Extraction Detailed Protocol,https://doi.org/10.17504/protocols.io.bpbuminw
+protocol https://doi.org/10.17504/protocols.io.bq64mzgw,Isolation of Nuclei from Adult Human Brain Tissue for 10x Genomics Platform,Isolation of Nuclei from Adult Human Brain Tissue for 10x Genomics Platform,https://doi.org/10.17504/protocols.io.bq64mzgw
+protocol https://doi.org/10.17504/protocols.io.bvv6n69e,Library Generation using Slide-seqV2 V.2,Library Generation using Slide-seqV2 V.2,https://doi.org/10.17504/protocols.io.bvv6n69e
+protocol https://doi.org/10.17504/protocols.io.mepc3dn,RNA Imaging with Multiplexed Error Robust Fluorescence in situ Hybridization,RNA Imaging with MERFISH,https://doi.org/10.17504/protocols.io.mepc3dn
+protocol https://doi.org/10.17504/protocols.io.metc3en,RNA Imaging with MERFISH - Data Analysis,MERFISH Data Analysis,https://doi.org/10.17504/protocols.io.metc3en
