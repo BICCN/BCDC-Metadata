@@ -24,9 +24,9 @@ http://doi.org/10.17504/protocols.io.ztqf6mw,view,Isolation of Nuclei from Adult
 http://help.brain-map.org/display/celltypes/Documentation,view,Allen Cell Types Database Documentation,Allen Cell Types Database Documentation,http://help.brain-map.org/display/celltypes/Documentation
 http://help.brain-map.org/display/mouseconnectivity/Documentation,view,Allen Mouse Brain Connectivity Atlas Documentation,Allen Mouse Brain Connectivity Atlas Documentation,http://help.brain-map.org/display/mouseconnectivity/Documentation
 http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf,view,Mouse Common Coordinate Framework ,CCF,http://help.brain-map.org/download/attachments/8323525/Mouse_Common_Coordinate_Framework.pdf
-http://identifiers.org/DANDI:000008,download,DANDI archive,DANDI,http://identifiers.org/DANDI:000008
 https://alleninstitute.org/legal/terms-use/,information,Allen Institute Terms of Use,Allen Terms of Use,https://alleninstitute.org/legal/terms-use/
 https://assets.ctfassets.net/an68im79xiti/615GcV6E7TzuqXKqMjPBtP/9badb815aacebe97a6ac5ecf9d86154b/CG000168_ChromiumSingleCellATAC_ReagentKits_UserGuide_RevB.pdf,view,Chromium Single Cell ATAC,Chromium Single Cell ATAC,https://assets.ctfassets.net/an68im79xiti/615GcV6E7TzuqXKqMjPBtP/9badb815aacebe97a6ac5ecf9d86154b/CG000168_ChromiumSingleCellATAC_ReagentKits_UserGuide_RevB.pdf
+https://assets.nemoarchive.org/dat-18e8800,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-18e8800
 https://assets.nemoarchive.org/dat-2c8otht,download,Human Cortex RNAseq - GRU,NeMO,https://assets.nemoarchive.org/dat-2c8otht
 https://assets.nemoarchive.org/dat-35p4oe3,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-35p4oe3
 https://assets.nemoarchive.org/dat-4v55t0q,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-4v55t0q
@@ -36,7 +36,6 @@ https://assets.nemoarchive.org/dat-5ie1mec,download,NeMO Data Archive,NeMO,https
 https://assets.nemoarchive.org/dat-5ue6x8t,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-5ue6x8t
 https://assets.nemoarchive.org/dat-72qka5t,download,Human M1C and DFC RNAseq - Open,NeMO,https://assets.nemoarchive.org/dat-72qka5t
 https://assets.nemoarchive.org/dat-7jxfmkh,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-7jxfmkh
-https://assets.nemoarchive.org/dat-8ht5n0a,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-8ht5n0a
 https://assets.nemoarchive.org/dat-8zpo593,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-8zpo593
 https://assets.nemoarchive.org/dat-a6v2v36,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-a6v2v36
 https://assets.nemoarchive.org/dat-b3brzfa,download,NeMO Data Archive,NeMO,https://assets.nemoarchive.org/dat-b3brzfa
@@ -101,8 +100,11 @@ https://celltypes.brain-map.org/,information,Allen Cell Types Database,Allen Cel
 https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,explore,Transcriptomics Explorer for Human Cortical Areas - SMART-seq v4,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq
 https://celltypes.brain-map.org/rnaseq/human_m1_10x,explore,Transcriptomics Explorer for M1,Transcriptomics Explorer,https://celltypes.brain-map.org/rnaseq/human_m1_10x
 https://creativecommons.org/licenses/by/4.0/,information,Attribution 4.0 International (CC BY 4.0),CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-https://dandiarchive.org/dandiset/000026/,download,DANDI archive,DANDI,https://dandiarchive.org/dandiset/000026/
-https://dandiarchive.org/dandiset/000043/,download,"Human, macaque, and mouse L5 pyramidal neuron physiology",DANDI,https://dandiarchive.org/dandiset/000043/
+https://dandiarchive.org/dandiset/000008/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000008/
+https://dandiarchive.org/dandiset/000023/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000023/
+https://dandiarchive.org/dandiset/000026/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000026/
+https://dandiarchive.org/dandiset/000043/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000043/
+https://dandiarchive.org/dandiset/000117/,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://dandiarchive.org/dandiset/000117/
 https://doi.org/10.1016/j.cell.2019.09.020,view,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior,https://doi.org/10.1016/j.cell.2019.09.020
 https://doi.org/10.1101/2020.03.31.016972,view,"Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse","Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse",https://doi.org/10.1101/2020.03.31.016972
 https://doi.org/10.1101/2020.10.19.343129,view,A multimodal cell census and atlas of the mammalian primary motor cortex,A multimodal cell census and atlas of the mammalian primary motor cortex,https://doi.org/10.1101/2020.10.19.343129
@@ -115,9 +117,7 @@ https://doi.org/10.17504/protocols.io.bvv6n69e,view,Library Generation using Sli
 https://doi.org/10.17504/protocols.io.mepc3dn,view,RNA Imaging with Multiplexed Error Robust Fluorescence in situ Hybridization,RNA Imaging with MERFISH,https://doi.org/10.17504/protocols.io.mepc3dn
 https://doi.org/10.17504/protocols.io.metc3en,view,RNA Imaging with MERFISH - Data Analysis,MERFISH Data Analysis,https://doi.org/10.17504/protocols.io.metc3en
 https://download.brainimagelibrary.org/02/26/02265ddb0dae51de,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/02/26/02265ddb0dae51de
-https://download.brainimagelibrary.org/0a/46/0a4681ec1919cda5,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/0a/46/0a4681ec1919cda5
 https://download.brainimagelibrary.org/3d/91/3d9109168823fe39/,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/3d/91/3d9109168823fe39/
-https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/b4/d4/b4d4211078a67217/
 https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/,download,Brain Image Library directory for cemba dong trio,BIL,https://download.brainimagelibrary.org/biccn/cemba/dong/TRIO/
 https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/,download,Brain Image Library directory for dong anterograde,BIL,https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/
 https://download.brainimagelibrary.org/biccn/dong/retrograde/,download,Brain Image Library directory for dong retrograde,BIL,https://download.brainimagelibrary.org/biccn/dong/retrograde/
@@ -136,6 +136,7 @@ https://download.brainimagelibrary.org/biccn/yang/morf/cells/,download,Brain Ima
 https://download.brainimagelibrary.org/biccn/yang/morf/confocal/,download,Brain Image Library directory for yang morf confocal,BIL,https://download.brainimagelibrary.org/biccn/yang/morf/confocal/
 https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,download,Brain Image Library directory for zeng expression characterization,BIL,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/
 https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/,download,Brain Image Library directory for zeng fmost,BIL,https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/
+https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/,download,Brain Image Library,BIL,https://download.brainimagelibrary.org/biccn/zeng/luo/fmost/cells/
 https://download.brainimagelibrary.org/biccn/zeng/mouselight/,download,Brain Image Library for Zeng Mouselight,BIL,https://download.brainimagelibrary.org/biccn/zeng/mouselight/
 https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/,download,Brain Image Library directory for zeng retrograde transynaptic,BIL,https://download.brainimagelibrary.org/biccn/zeng/retrograde/transsynaptic/
 https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/,download,Brain Image Library directory for zeng tolias pseq morphology,BIL,https://download.brainimagelibrary.org/biccn/zeng/tolias/pseq/morph/
@@ -145,9 +146,8 @@ https://download.brainimagelibrary.org/cb/6d/cb6defa2eab96ddb/,download,Brain Im
 https://download.brainimagelibrary.org/cf/1c/cf1c1a431ef8d021,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/cf/1c/cf1c1a431ef8d021
 https://download.brainimagelibrary.org/fc/4c/fc4c2570c3711952/,download,Brain Image Library directory,BIL,https://download.brainimagelibrary.org/fc/4c/fc4c2570c3711952/
 https://github.com/cleary-lab/CISI,information,Composite In Situ Imaging (CISI),GitHub,https://github.com/cleary-lab/CISI
-https://gui.dandiarchive.org/#/dandiset/000026,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://gui.dandiarchive.org/#/dandiset/000026
-https://gui.dandiarchive.org/#/dandiset/000117,download,DANDI: Distributed Archives for Neurophysiology Data Integration,DANDI,https://gui.dandiarchive.org/#/dandiset/000117
 https://portal.brain-map.org,information,Allen Brain Map,Allen Brain Map,https://portal.brain-map.org
 https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq,download,Download page for expression matrix and taxonomy,Expression matrix and taxonomy,https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq
+https://portal.brain-map.org/explore/classes/multimodal-characterization,view,Multimodal Characterization of Individual Neurons,Multimodal Characterization,https://portal.brain-map.org/explore/classes/multimodal-characterization
 https://portal.brain-map.org/explore/toolkit/mice,information,Toolkit - Transgenic Mouse Lines,Toolkit,https://portal.brain-map.org/explore/toolkit/mice
 https://www.biccn.org/,information,BRAIN Initiative Cell Census Network,BICCN,https://www.biccn.org/

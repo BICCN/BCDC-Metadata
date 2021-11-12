@@ -31,6 +31,8 @@ human_cortex,ACTD,0
 human_cortex,U01 Lein,1
 HumanM110xProj,ACTD,0
 HumanM110xProj,U01 Lein,1
+HumanPSeqL23Proj,ACTD,0
+HumanPSeqL23Proj,U01 Lein,1
 kriegstein_sc_10x_proj,U01 Kriegstein,0
 kriegstein_sc_ATACseq_proj,U01 Kriegstein,0
 kriegstein_sn_10x_proj,U01 Kriegstein,0

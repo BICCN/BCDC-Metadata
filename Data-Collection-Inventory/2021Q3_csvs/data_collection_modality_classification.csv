@@ -46,6 +46,12 @@ human_cortex_SS4_Open_GRU,transcriptomics
 human_cortex_SS4_restricted_GRU,transcriptomics
 human_cortex_SS4_restricted_limited,transcriptomics
 HumanM110x,transcriptomics
+HumanPSeqL23_E,electrophysiology
+HumanPSeqL23_E,multimodal
+HumanPSeqL23_M,cell morphology
+HumanPSeqL23_M,multimodal
+HumanPSeqL23_T,multimodal
+HumanPSeqL23_T,transcriptomics
 kriegstein_sc_10xv2,transcriptomics
 kriegstein_sc_10xv3,transcriptomics
 kriegstein_sc_ATACseq,epigenomics

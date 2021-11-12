@@ -42,6 +42,10 @@ huang_stpt_conn_proj,anterograde tracing
 huang_stpt_count_proj,STPT
 human_cortex,SMART-seq v4
 HumanM110xProj,10x Chromium 3' v3 sequencing
+HumanPSeqL23Proj,neuron morphology reconstruction
+HumanPSeqL23Proj,Patch-seq
+HumanPSeqL23Proj,SMART-seq v4
+HumanPSeqL23Proj,whole cell patch clamp
 kriegstein_sc_10x_proj,10x Chromium 3' v2 sequencing
 kriegstein_sc_10x_proj,10x Chromium 3' v3 sequencing
 kriegstein_sc_ATACseq_proj,ATAC-seq

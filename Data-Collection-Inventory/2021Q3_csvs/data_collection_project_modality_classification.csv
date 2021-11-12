@@ -35,6 +35,10 @@ huang_stpt_conn_proj,connectivity
 huang_stpt_count_proj,population imaging
 human_cortex,transcriptomics
 HumanM110xProj,transcriptomics
+HumanPSeqL23Proj,cell morphology
+HumanPSeqL23Proj,electrophysiology
+HumanPSeqL23Proj,multimodal
+HumanPSeqL23Proj,transcriptomics
 kriegstein_sc_10x_proj,transcriptomics
 kriegstein_sc_ATACseq_proj,epigenomics
 kriegstein_sn_10x_proj,transcriptomics
