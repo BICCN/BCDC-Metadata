@@ -1,0 +1,142 @@
+data_collection_reference_id,species_name
+chung_ihc,human
+chung_ihc,mouse
+dev_mouse_brain_ccf,mouse
+dev_mouse_brain_lsfm,mouse
+dev_mouse_brain_mri,mouse
+dev_mouse_brain_stpt,mouse
+dong_antero,mouse
+dong_confocal,mouse
+dong_lightsheet,mouse
+dong_retro,mouse
+dong_trio,mouse
+dulac_hyp_sn_10xv2,mouse
+dulac_pag_sn_10xv2,mouse
+ecker_hu_DNAseq,human
+ecker_hu_sn_ATACseq,human
+ecker_hu_sn_mCseq,human
+ecker_sn_ATACseq,mouse
+ecker_sn_mCseq,mouse
+ecker_sn_mCseq_retro,mouse
+ecker_trio,mouse
+feng_fish,marmoset
+feng_morph,marmoset
+feng_sn_10xv3,marmoset
+feng_sn_dropseq,marmoset
+fischl_lsfm,human
+fischl_mri,human
+fischl_oct,human
+fischl_stereology,human
+huang_antero,mouse
+huang_dev_cx_scATAC,mouse
+huang_dev_cx_scRNA,mouse
+huang_fmost,mouse
+huang_fmost_cells,mouse
+huang_input_conn,mouse
+huang_pn_bulk_SSv4,mouse
+huang_pn_sn_10xv2,mouse
+huang_pn_sn_10xv3,mouse
+huang_retro,mouse
+huang_sn_10xv2,mouse
+huang_sn_10xv3,mouse
+huang_stpt_conn,mouse
+huang_stpt_count,mouse
+human_cortex_SS4_counts,human
+human_cortex_SS4_Open_GRU,human
+human_cortex_SS4_restricted_GRU,human
+human_cortex_SS4_restricted_limited,human
+HumanM110x,human
+HumanPSeqL23_E,human
+HumanPSeqL23_M,human
+HumanPSeqL23_T,human
+kriegstein_sc_10xv2,human
+kriegstein_sc_10xv3,human
+kriegstein_sc_ATACseq,human
+kriegstein_sn_10xv2,human
+lein_evo_10x_arcticgroundsquirrel,Arctic ground squirrel
+lein_evo_10x_armadillo,nine-banded armadillo
+lein_evo_10x_cat,domestic cat
+lein_evo_10x_chimp,chimpanzee
+lein_evo_10x_ferret,domestic ferret
+lein_evo_10x_galago,small-eared galago
+lein_evo_10x_gorilla,western gorilla
+lein_evo_10x_greenmonkey,green monkey
+lein_evo_10x_nemestrina,pig-tailed macaque
+lein_evo_10x_opposum,gray short-tailed opossum
+lein_evo_10x_owlmonkey,Ma's night monkey
+lein_evo_10x_pig,pig
+lein_evo_10x_rabbit,rabbit
+lein_evo_10x_rat,Norway rat
+lein_evo_10x_rhesus,rhesus macaque
+lein_evo_10x_treeshrew,common tree shrew
+lein_human_pseq_e,human
+lein_human_pseq_m,human
+lein_human_pseq_t,human
+lein_L5_pseq_e,human
+lein_L5_pseq_m,human
+lein_L5_pseq_t,human
+lein_sn_10xv2,human
+lein_sn_10xv3,human
+lein_sn_SSv4,human
+macosko_bg_shareseq_macaque,crab-eating macaque
+macosko_bg_slideseq_histologydataset_macaque,crab-eating macaque
+macosko_bg_slideseq_macaque,crab-eating macaque
+macosko_mouse_slideseq_histologydataset,mouse
+macosko_mouse_slideseq_slideseqdataset,mouse
+mop_evo_pseq_e,human
+mop_evo_pseq_e,mouse
+mop_evo_pseq_e,rhesus macaque
+mop_evo_pseq_hu_t,human
+mop_evo_pseq_m,human
+mop_evo_pseq_m,rhesus macaque
+mop_evo_pseq_t,mouse
+mop_evo_pseq_t,rhesus macaque
+mueller_mouselight,mouse
+nowakowski_evobc,mouse
+nowakowski_pndev_10xv3,mouse
+osten_stpt,mouse
+regev_cisi,mouse
+sestan_sc_10xv3_nhp_dev,rhesus macaque
+sestan_sn_10xv3_human,human
+sestan_sn_10xv3_nhp_adult,chimpanzee
+sestan_sn_10xv3_nhp_adult,marmoset
+sestan_sn_10xv3_nhp_adult,rhesus macaque
+snyder-mackler_macaque_scATAC,rhesus macaque
+snyder-mackler_macaque_scRNA,rhesus macaque
+tasic_ATACseq,mouse
+tasic_stpt,mouse
+tilgner_sc_p56,mouse
+yang_morf_cells,mouse
+yang_MORF_confocal,mouse
+zeng_anderson_sc_10xv2,mouse
+zeng_expr_char,mouse
+zeng_fmost,mouse
+zeng_fmost_cells,mouse
+zeng_mouselight,mouse
+zeng_retro,mouse
+zeng_sc_10xv2,mouse
+zeng_sc_10xv3,mouse
+zeng_sc_SSv4,mouse
+zeng_sn_10xv2,mouse
+zeng_sn_10xv3,mouse
+zeng_sn_SSv4,mouse
+zeng_tolias_pseq_e,mouse
+zeng_tolias_pseq_m,mouse
+zeng_tolias_pseq_t,mouse
+zhangK_cj_snareseq_AC,marmoset
+zhangK_cj_snareseq_R,marmoset
+zhangK_hs_snareseq_AC,human
+zhangK_hs_snareseq_R,human
+zhangl_anatomy,mouse
+zhangl_ephys,mouse
+zhangl_kz_omics,mouse
+zhangl_seqfish,mouse
+zhuang_dulac_merfish_MOB,mouse
+zhuang_dulac_merfish_MOE,mouse
+zhuang_dulac_merfish_PAG,mouse
+zhuang_dulac_merfish_PAG_1,mouse
+zhuang_dulac_merfish_PAG_2,mouse
+zhuang_merfish_M1,mouse
+zhuang_merfish_MOp,mouse
+zhuang_merfish_NAc,mouse
+macosko_bg_multiome_macaque,crab-eating macaque
