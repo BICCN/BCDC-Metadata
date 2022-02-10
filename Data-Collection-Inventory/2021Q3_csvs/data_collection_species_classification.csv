@@ -46,6 +46,9 @@ human_cortex_SS4_Open_GRU,human
 human_cortex_SS4_restricted_GRU,human
 human_cortex_SS4_restricted_limited,human
 HumanM110x,human
+HumanPSeqL23_E,human
+HumanPSeqL23_M,human
+HumanPSeqL23_T,human
 kriegstein_sc_10xv2,human
 kriegstein_sc_10xv3,human
 kriegstein_sc_ATACseq,human

@@ -45,6 +45,9 @@ human_cortex,human_cortex_SS4_counts,1
 human_cortex,human_cortex_SS4_restricted_GRU,2
 human_cortex,human_cortex_SS4_restricted_limited,3
 HumanM110xProj,HumanM110x,0
+HumanPSeqL23Proj,HumanPSeqL23_E,0
+HumanPSeqL23Proj,HumanPSeqL23_M,1
+HumanPSeqL23Proj,HumanPSeqL23_T,2
 kriegstein_sc_10x_proj,kriegstein_sc_10xv2,0
 kriegstein_sc_10x_proj,kriegstein_sc_10xv3,1
 kriegstein_sc_ATACseq_proj,kriegstein_sc_ATACseq,0

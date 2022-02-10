@@ -30,25 +30,26 @@ huang_stpt_conn_proj,mouse
 huang_stpt_count_proj,mouse
 human_cortex,human
 HumanM110xProj,human
+HumanPSeqL23Proj,human
 kriegstein_sc_10x_proj,human
 kriegstein_sc_ATACseq_proj,human
 kriegstein_sn_10x_proj,human
-lein_evo_10x_proj,chimpanzee
-lein_evo_10x_proj,western gorilla
-lein_evo_10x_proj,rabbit
-lein_evo_10x_proj,domestic ferret
 lein_evo_10x_proj,Arctic ground squirrel
-lein_evo_10x_proj,green monkey
-lein_evo_10x_proj,Ma's night monkey
-lein_evo_10x_proj,Norway rat
-lein_evo_10x_proj,pig-tailed macaque
-lein_evo_10x_proj,rhesus macaque
-lein_evo_10x_proj,nine-banded armadillo
-lein_evo_10x_proj,gray short-tailed opossum
+lein_evo_10x_proj,chimpanzee
 lein_evo_10x_proj,common tree shrew
 lein_evo_10x_proj,domestic cat
-lein_evo_10x_proj,small-eared galago
+lein_evo_10x_proj,domestic ferret
+lein_evo_10x_proj,gray short-tailed opossum
+lein_evo_10x_proj,green monkey
+lein_evo_10x_proj,Ma's night monkey
+lein_evo_10x_proj,nine-banded armadillo
+lein_evo_10x_proj,Norway rat
 lein_evo_10x_proj,pig
+lein_evo_10x_proj,pig-tailed macaque
+lein_evo_10x_proj,rabbit
+lein_evo_10x_proj,rhesus macaque
+lein_evo_10x_proj,small-eared galago
+lein_evo_10x_proj,western gorilla
 lein_human_pseq_proj,human
 lein_L5_pseq_proj,human
 lein_sn_10x,human
@@ -64,10 +65,10 @@ nowakowski_evobc_proj,mouse
 nowakowski_pndev_10xv3_proj,mouse
 osten_stpt_proj,mouse
 regev_cisi_proj,mouse
-sestan_sn_10x_proj,rhesus macaque
 sestan_sn_10x_proj,chimpanzee
 sestan_sn_10x_proj,human
 sestan_sn_10x_proj,marmoset
+sestan_sn_10x_proj,rhesus macaque
 snyder-mackler_macaque_proj,rhesus macaque
 tasic_ATACseq_proj,mouse
 tasic_stpt_proj,mouse

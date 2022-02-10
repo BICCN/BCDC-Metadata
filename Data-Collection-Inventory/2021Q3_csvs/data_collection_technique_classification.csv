@@ -51,6 +51,12 @@ human_cortex_SS4_Open_GRU,SMART-seq v4
 human_cortex_SS4_restricted_GRU,SMART-seq v4
 human_cortex_SS4_restricted_limited,SMART-seq v4
 HumanM110x,10x Chromium 3' v3 sequencing
+HumanPSeqL23_E,Patch-seq
+HumanPSeqL23_E,whole cell patch clamp
+HumanPSeqL23_M,neuron morphology reconstruction
+HumanPSeqL23_M,Patch-seq
+HumanPSeqL23_T,Patch-seq
+HumanPSeqL23_T,SMART-seq v4
 kriegstein_sc_10xv2,10x Chromium 3' v2 sequencing
 kriegstein_sc_10xv3,10x Chromium 3' v3 sequencing
 kriegstein_sc_ATACseq,ATAC-seq
