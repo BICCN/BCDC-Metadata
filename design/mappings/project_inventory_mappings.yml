@@ -1,0 +1,120 @@
+project:
+  name: dandiset.metadata.wasGeneratedBy.name
+  title: dandiset.metadata.wasGeneratedBy.name
+  short title: ""
+  description: dandiset.metadata.wasGeneratedBy.description
+  citation: dandiset.metadata.citation #Required
+  # Citations are linked to data collection
+  relations:
+    is part of:
+      subprogram: 
+    has information resource:
+      Web resource:
+    is funded by: 
+      grant: dandiset.metadata.contributor.awardNumber
+      # awardNumber linked to data collection and multiple are listed
+      # roleName=dcite:Funder used to distinguish funding organization vs contributing person
+    has use of results limited by: 
+      license: dandiset.metadata.license
+    has methodology specification: 
+      protocol: dandiset.metadata.protocol #protocol.io links
+    has output:
+      collection: ""
+    has contact person: 
+      person: dandiset.metadata.contributor #Required
+      # roleName=dcite:contactPerson identifies POC
+    has contributor: 
+      person: dandiset.metadata.contributor #Required
+      # rolename=dcite:Author
+    has creator: 
+      person: ""
+    is subject of publication: 
+      dandiset.metadata.relatedResource
+      # relation=dcite:IsPublishedIn
+    collected samples of type:
+      specimen type:
+    involves data of type:
+      modality:
+    has output:
+      collection: 
+collection:
+  name: dandiset.metadata.name #Required
+  title: dandiset.metadata.name #Required
+  short title: ""
+  description: dandiset.metadata.description #Required
+  last updated: dandiset.metadata.dateModified
+  completion state: dandiset.metadata.version #Required
+  access control: dandiset.metadata.access.status
+    #dcite:OpenAccess or dcite:EmbargoedAccess
+  relations:
+    is subject of resource:
+      web resource: dandiset.metadata.url #Permalink
+    has samples of type:
+      specimen type: #TODO
+    is data of type:
+      modality: dandiset.metadata.assetsSummary.approach
+      # name and uri if included
+    was collected using:
+      technique: dandiset.metadata.assetsSummary.measurementTechnique
+      # name and uri if included
+organization:
+  name: dandiset.metadata.contributor.name
+  # schemKey:Organization
+license:
+  name: dandiset.metadata.license 
+  #values: [spdx:CC0-1.0, spdx:CC-BY-4.0]
+  title:
+subprogram:
+  name: dandiset.metadata.contributor.affiliation.name
+  # This is a stretch - not commonly populated
+  title:
+  short title:
+  description:
+  citation:
+  DOI: dandiset.metadata.contributor.affiliation.identifier
+program:
+  name: dandiset.metadata.contributor.affiliation.name
+  # This is a stretch - not commonly populated
+  title:
+  short title:
+  description:
+  citation:
+  DOI: dandiset.metadata.contributor.affiliation.identifier
+
+# Collated from data collections/assets
+grant:
+  name: 
+  title:
+  identifier:
+  report:
+web resource:
+  name:
+  title:
+  short title:
+  url:
+web resource type:
+  name:
+protocol:
+  name:
+  title:
+  short title:
+person:
+  #dandiset.metadata.contributor schemaKey: Person
+  name: dandiset.metadata.contributor.name #Required
+  # Names are in format: familyname, given name(s)
+  given name: dandiset.metadata.contributor.name
+  family name: dandiset.metadata.contributor.name
+  orcid: dandiset.metadata.contributor.identifier
+specimen type:
+  name:
+modality:
+  name: dandiset.metadata.assetsSummary.approach # name and uri if included
+access control:
+  name: dandiset.metadata.access.status
+  #values: [dcite:OpenAccess,dcite:EmbargoedAccess]
+completion state:
+  name: dandiset.metadata.version
+species:
+  name: dandiset.metadata.assetsSummary.species # name and uri if included
+technique:
+  name: dandiset.metadata.assetsSummary.measurementTechnique # name and uri if included
