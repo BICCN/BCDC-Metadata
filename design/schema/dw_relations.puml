@@ -1,0 +1,160 @@
+@startuml
+
+hide empty members
+hide circle
+
+
+'Enum-like
+class Modality {
+    * name: String!
+}
+
+class Species {
+    * name: String!
+}
+
+class "Specimen type" {
+    * name: String!
+}
+
+class Technique {
+    * name: String!
+}
+
+class "Web resource type" {
+    * name: String!
+}
+
+class "Access control" {
+    * name: String!
+}
+
+class "Completion state" {
+    * name: String!
+}
+
+'Entity-like
+class "Web resource" {
+    * name: String!
+    Title: String!
+    Short title: String!
+    URL: String!
+}
+
+class Collection {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    Last updated date: String
+    Reported count : String
+}
+
+class Program {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Subprogram {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Project {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Protocol {
+    * name: String!
+    Title: String!
+    Short title: String!
+}
+
+class Person {
+    * name: String!
+    Name: String!
+    Given name: String!
+    Family name: String!
+    ORCID: String
+}
+
+class Organization {
+    * name: String!
+    Name: String!
+    ROR: String (not DW)
+}
+
+class License {
+    * name: String!
+    Title: String!
+    Short title: String!
+}
+
+class Grant {
+    * name: String!
+    Title: String!
+    Identifier: String!
+    REPORT symbol: String!
+}
+
+'Relationships
+"Web resource" --|| "Web resource type"
+
+Collection --|{  Modality : is data of type
+Collection --|{  Species : is data about
+Collection --|{  "Specimen type" : has samples of type
+Collection --|{  Technique : was collected using
+Collection --|{  "Web resource" : is subject of resource
+Collection --||  "Access control"
+Collection --||  "Completion state"
+
+Project --|{ Collection : has output
+Project --|{  Grant : is funded by
+Project --|{  "Web resource" : is highlighted by
+Project --o{  Person : has contributor
+Project --o{  Person : has contact person
+Project --|{  Modality : involves data of type
+Project --|{  Species : involves data about
+Project --|{  "Specimen type" : collected samples of type
+Project --|{  Technique : used
+Project --o{  Protocol : has methodology specification
+Project --|{  License : has use of results limited by
+
+Protocol -|| "Web resource" : has view resource
+
+Grant --|| Organization : from funding agency
+Grant --|| Organization : awarded to
+
+circle "has creator"
+Project --|{ "has creator"
+"has creator" --> Person
+"has creator" --> Organization
+
+circle "has information resource"
+Program --|| "has information resource"
+Subprogram --|| "has information resource"
+Project --o|  "has information resource"
+License --|| "has information resource"
+"has information resource" --> "Web resource"
+
+
+circle "is part of"
+Subprogram --|| "is part of"
+Project --|{ "is part of"
+"is part of" --> Subprogram
+"is part of" --> Program
+
+@enduml

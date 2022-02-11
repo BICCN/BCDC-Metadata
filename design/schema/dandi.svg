@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1713px" preserveAspectRatio="none" style="width:932px;height:1713px;background:#FFFFFF;" version="1.1" viewBox="0 0 932 1713" width="932px" zoomAndPan="magnify"><defs><filter height="300%" id="ftwp5u1ditb76" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="328.9688" style="stroke:#A80036;stroke-width:1.5;" width="211" x="7" y="67"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="50" x="87.5" y="81.457">Dandiset</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="217" y1="86.0938" y2="86.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="13" y="100.4746">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="13" y="113.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="13" y="125.6309">schemaVersion: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="13" y="138.209">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="89" x="13" y="150.7871">description: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="171" x="13" y="163.3652">conbributor: [Person | Organization]!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="199" x="13" y="175.9434">about: [Disorder | Anatomy | GenericType]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="13" y="188.5215">studyTarget: [String]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="110" x="13" y="201.0996">license: [LicenseType]!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="82" x="13" y="213.6777">protocol: [String!]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="149" x="13" y="226.2559">ethicApproval: [EthicsApproval]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="81" x="13" y="238.834">keywords: [String]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="120" x="13" y="251.4121">acknowledgement: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="142" x="13" y="263.9902">access: [AccessRequirements]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="13" y="276.5684">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="13" y="289.1465">repository: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="130" x="13" y="301.7246">relatedResource [Resource]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="122" x="13" y="314.3027">wasGeneratedBy: [Project</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="13" y="326.8809">identifier: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="97" x="13" y="339.459">dataModified: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="13" y="352.0371">citation: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="154" x="13" y="364.6152">assetsSummary: AssetsSummary!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="125" x="13" y="377.1934">manifestLocation: [String]!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="70" x="13" y="389.7715">version: String!</text><!--MD5=[7483c020ee0354f64f6114880f28ce87]
+class RoleType--><rect codeLine="31" fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="449.2422" id="RoleType" style="stroke:#A80036;stroke-width:1.5;" width="116" x="253.5" y="7"/><ellipse cx="282.9" cy="23" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M281.4,24 L281.4,26 L285.4,26 L285.4,25 L285.4,24.5156 L286.025,24 L286.4,24 L286.775,24 L287.4,24.5156 L287.4,25 L287.4,28 L279.4,28 L278.9156,28 L278.4,27.375 L278.4,27 L278.4,26.625 L278.9156,26 L279.4,26 L279.4,26 L279.4,20 L279.4,20 L278.9156,20 L278.4,19.375 L278.4,19 L278.4,18.625 L278.9156,18 L279.4,18 L287.4,18 L287.4,21 L287.4,21.4844 L286.775,22 L286.4,22 L286.025,22 L285.4,21.4844 L285.4,21 L285.4,20 L281.4,20 L281.4,22 L282.4,22 L282.4,21.5156 L282.4,21.5156 L283.025,21 L283.4,21 L283.775,21 L284.4,21.5156 L284.4,22 L284.4,24 L284.4,24.4844 L283.775,25 L283.775,25 L283.4,25 L283.025,25 L282.4,24.4844 L282.4,24.4844 L282.4,24 L281.4,24 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="52" x="300.1" y="27.9102">RoleType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="254.5" x2="368.5" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="23" x="259.5" y="54.4189">dcite</text><line style="stroke:#A80036;stroke-width:1.0;" x1="254.5" x2="368.5" y1="60.8359" y2="60.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="259.5" y="76.2549">Author,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="259.5" y="90.0908">Conceptualization,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="259.5" y="103.9268">ContactPerson,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="259.5" y="117.7627">DataCollector,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="259.5" y="131.5986">DataCurator,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="259.5" y="145.4346">DataManager,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="259.5" y="159.2705">FormalAnalysis,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="94" x="259.5" y="173.1064">FundingAcquisition,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="63" x="259.5" y="186.9424">Investigation,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="259.5" y="200.7783">Maintainer,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="259.5" y="214.6143">Methodology,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="259.5" y="228.4502">Producer,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="259.5" y="242.2861">ProjectLeader,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="259.5" y="256.1221">ProjectManager,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="259.5" y="269.958">ProjectMember,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="104" x="259.5" y="283.7939">ProjectAdministration,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="259.5" y="297.6299">Researcher,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="56" x="259.5" y="311.4658">Resources,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="259.5" y="325.3018">Software,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="259.5" y="339.1377">Supervision,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="259.5" y="352.9736">Validation,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="259.5" y="366.8096">Visualization,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="37" x="259.5" y="380.6455">Funder,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="259.5" y="394.4814">Sponsor,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="259.5" y="408.3174">StudyParticipant,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="259.5" y="422.1533">Affiliation,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="259.5" y="435.9893">EthicsApproval,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="259.5" y="449.8252">Other</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="104" x="404.5" y="193"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="49" x="432" y="207.457">Affiliation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="405.5" x2="507.5" y1="212.0938" y2="212.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="410.5" y="226.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="410.5" y="239.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="410.5" y="251.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="410.5" y="264.209">name: String!</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="152.875" style="stroke:#A80036;stroke-width:1.5;" width="140" x="543.5" y="155"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="593.5" y="169.457">Person</text><line style="stroke:#A80036;stroke-width:1.5;" x1="544.5" x2="682.5" y1="174.0938" y2="174.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="549.5" y="188.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="549.5" y="201.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="549.5" y="213.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="549.5" y="226.209">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="549.5" y="238.7871">email: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="549.5" y="251.3652">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="104" x="549.5" y="263.9434">roleName: [RoleType]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="549.5" y="276.5215">includeInCitation: Boolean</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="99" x="549.5" y="289.0996">awardNumber: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="103" x="549.5" y="301.6777">affiliation: [Affiliation]</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="104" x="718.5" y="193"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="735.5" y="207.457">ContactPoint</text><line style="stroke:#A80036;stroke-width:1.5;" x1="719.5" x2="821.5" y1="212.0938" y2="212.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="724.5" y="226.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="724.5" y="239.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="724.5" y="251.6309">email: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="724.5" y="264.209">url: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="152.875" style="stroke:#A80036;stroke-width:1.5;" width="147" x="39" y="516"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="78" y="530.457">Organization</text><line style="stroke:#A80036;stroke-width:1.5;" x1="40" x2="185" y1="535.0938" y2="535.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="45" y="549.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="45" y="562.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="45" y="574.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="45" y="587.209">name: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="45" y="599.7871">email: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="45" y="612.3652">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="104" x="45" y="624.9434">roleName: [RoleType]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="45" y="637.5215">includeInCitation: Boolean</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="99" x="45" y="650.0996">awardNumber: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="135" x="45" y="662.6777">contactPoint: [ContactPoint]</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="89.9844" style="stroke:#A80036;stroke-width:1.5;" width="104" x="221.5" y="547.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="249.5" y="561.957">Disorder</text><line style="stroke:#A80036;stroke-width:1.5;" x1="222.5" x2="324.5" y1="566.5938" y2="566.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="227.5" y="580.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="227.5" y="593.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="227.5" y="606.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="227.5" y="618.709">name: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="72" x="227.5" y="631.2871">dxdate: [String]</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="104" x="360.5" y="554"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="389" y="568.457">Anatomy</text><line style="stroke:#A80036;stroke-width:1.5;" x1="361.5" x2="463.5" y1="573.0938" y2="573.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="366.5" y="587.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="366.5" y="600.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="366.5" y="612.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="366.5" y="625.209">name: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="104" x="499.5" y="554"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="517" y="568.457">GenericType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="500.5" x2="602.5" y1="573.0938" y2="573.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="505.5" y="587.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="505.5" y="600.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="505.5" y="612.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="505.5" y="625.209">name: String</text><!--MD5=[5737a4fc8c2aaad12ac7c0134ef42ddf]
+class LicenseType--><rect codeLine="126" fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="89.5078" id="LicenseType" style="stroke:#A80036;stroke-width:1.5;" width="102" x="638.5" y="547.5"/><ellipse cx="653.5" cy="563.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M652,564.5 L652,566.5 L656,566.5 L656,565.5 L656,565.0156 L656.625,564.5 L657,564.5 L657.375,564.5 L658,565.0156 L658,565.5 L658,568.5 L650,568.5 L649.5156,568.5 L649,567.875 L649,567.5 L649,567.125 L649.5156,566.5 L650,566.5 L650,566.5 L650,560.5 L650,560.5 L649.5156,560.5 L649,559.875 L649,559.5 L649,559.125 L649.5156,558.5 L650,558.5 L658,558.5 L658,561.5 L658,561.9844 L657.375,562.5 L657,562.5 L656.625,562.5 L656,561.9844 L656,561.5 L656,560.5 L652,560.5 L652,562.5 L653,562.5 L653,562.0156 L653,562.0156 L653.625,561.5 L654,561.5 L654.375,561.5 L655,562.0156 L655,562.5 L655,564.5 L655,564.9844 L654.375,565.5 L654.375,565.5 L654,565.5 L653.625,565.5 L653,564.9844 L653,564.9844 L653,564.5 L652,564.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="667.5" y="568.4102">LicenseType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="639.5" x2="739.5" y1="579.5" y2="579.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="24" x="644.5" y="594.9189">spdx</text><line style="stroke:#A80036;stroke-width:1.0;" x1="639.5" x2="739.5" y1="601.3359" y2="601.3359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="644.5" y="616.7549">CC0-1.0</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="644.5" y="630.5908">CC-BY-4.0</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="141" x="42" y="956.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="81" x="72" y="970.957">EthicsApproval</text><line style="stroke:#A80036;stroke-width:1.5;" x1="43" x2="182" y1="975.5938" y2="975.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="48" y="989.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="48" y="1002.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="48" y="1015.1309">identifier: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="129" x="48" y="1027.709">contactPoint: ContactPoint</text><!--MD5=[127eb197c37e6d6124f9c64a64c28a5f]
+class AccessType--><rect codeLine="140" fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="89.5078" id="AccessType" style="stroke:#A80036;stroke-width:1.5;" width="104" x="218.5" y="950"/><ellipse cx="236.2" cy="966" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M234.7,967 L234.7,969 L238.7,969 L238.7,968 L238.7,967.5156 L239.325,967 L239.7,967 L240.075,967 L240.7,967.5156 L240.7,968 L240.7,971 L232.7,971 L232.2156,971 L231.7,970.375 L231.7,970 L231.7,969.625 L232.2156,969 L232.7,969 L232.7,969 L232.7,963 L232.7,963 L232.2156,963 L231.7,962.375 L231.7,962 L231.7,961.625 L232.2156,961 L232.7,961 L240.7,961 L240.7,964 L240.7,964.4844 L240.075,965 L239.7,965 L239.325,965 L238.7,964.4844 L238.7,964 L238.7,963 L234.7,963 L234.7,965 L235.7,965 L235.7,964.5156 L235.7,964.5156 L236.325,964 L236.7,964 L237.075,964 L237.7,964.5156 L237.7,965 L237.7,967 L237.7,967.4844 L237.075,968 L237.075,968 L236.7,968 L236.325,968 L235.7,967.4844 L235.7,967.4844 L235.7,967 L234.7,967 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="66" x="250.8" y="970.9102">AccessType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="219.5" x2="321.5" y1="982" y2="982"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="26" x="224.5" y="997.4189">dandi</text><line style="stroke:#A80036;stroke-width:1.0;" x1="219.5" x2="321.5" y1="1003.8359" y2="1003.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="224.5" y="1019.2549">OpenAcess</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="224.5" y="1033.0908">EmbargoedAccess</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="102.5625" style="stroke:#A80036;stroke-width:1.5;" width="141" x="358" y="943.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="119" x="369" y="957.957">AccessRequirements</text><line style="stroke:#A80036;stroke-width:1.5;" x1="359" x2="498" y1="962.5938" y2="962.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="364" y="976.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="364" y="989.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="364" y="1002.1309">status: AccessType!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="129" x="364" y="1014.709">contactPoint: ContactPoint</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="364" y="1027.2871">description: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="110" x="364" y="1039.8652">embargoedUntil: String</text><!--MD5=[9f39629da3edd43e553ce739f9fad207]
+class RelationType--><rect codeLine="156" fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="532.2578" id="RelationType" style="stroke:#A80036;stroke-width:1.5;" width="115" x="534" y="729"/><ellipse cx="553.95" cy="745" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M552.45,746 L552.45,748 L556.45,748 L556.45,747 L556.45,746.5156 L557.075,746 L557.45,746 L557.825,746 L558.45,746.5156 L558.45,747 L558.45,750 L550.45,750 L549.9656,750 L549.45,749.375 L549.45,749 L549.45,748.625 L549.9656,748 L550.45,748 L550.45,748 L550.45,742 L550.45,742 L549.9656,742 L549.45,741.375 L549.45,741 L549.45,740.625 L549.9656,740 L550.45,740 L558.45,740 L558.45,743 L558.45,743.4844 L557.825,744 L557.45,744 L557.075,744 L556.45,743.4844 L556.45,743 L556.45,742 L552.45,742 L552.45,744 L553.45,744 L553.45,743.5156 L553.45,743.5156 L554.075,743 L554.45,743 L554.825,743 L555.45,743.5156 L555.45,744 L555.45,746 L555.45,746.4844 L554.825,747 L554.825,747 L554.45,747 L554.075,747 L553.45,746.4844 L553.45,746.4844 L553.45,746 L552.45,746 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="72" x="569.05" y="749.9102">RelationType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="535" x2="648" y1="761" y2="761"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="23" x="540" y="776.4189">dcite</text><line style="stroke:#A80036;stroke-width:1.0;" x1="535" x2="648" y1="782.8359" y2="782.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="540" y="798.2549">IsCitedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="540" y="812.0908">Cites,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="79" x="540" y="825.9268">IsSupplementTo,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="540" y="839.7627">IsSupplementedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="540" y="853.5986">IsContinuedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="51" x="540" y="867.4346">Continues,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="540" y="881.2705">Describes,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="540" y="895.1064">IsDescribedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="540" y="908.9424">HasMetadata,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="540" y="922.7783">IsMetadataFor,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="540" y="936.6143">HasVersion,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="540" y="950.4502">IsVersionOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="540" y="964.2861">IsNewVersionOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="540" y="978.1221">IsPreviousVersionOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="42" x="540" y="991.958">IsPartOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="41" x="540" y="1005.7939">HasPart,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="540" y="1019.6299">IsReferencedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="540" y="1033.4658">References,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="540" y="1047.3018">IsDocumentedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="540" y="1061.1377">Documents,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="540" y="1074.9736">IsCompiledBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="540" y="1088.8096">Compiles,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="82" x="540" y="1102.6455">IsVariantFormOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="540" y="1116.4814">IsOriginalFormOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="540" y="1130.3174">IsIdenticalTo,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="540" y="1144.1533">IsReviewedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="540" y="1157.9893">Reviews,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="540" y="1171.8252">IsDerivedFrom,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="540" y="1185.6611">IsSourceOf,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="540" y="1199.4971">IsRequiredBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="540" y="1213.333">Requires,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="540" y="1227.1689">Obsoletes,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="540" y="1241.0049">IsObsoletedBy,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="540" y="1254.8408">IsPublishedIn</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="115.1406" style="stroke:#A80036;stroke-width:1.5;" width="121" x="684" y="937.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="54" x="717.5" y="951.957">Resource</text><line style="stroke:#A80036;stroke-width:1.5;" x1="685" x2="804" y1="956.5938" y2="956.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="690" y="970.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="690" y="983.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="690" y="996.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="690" y="1008.709">name: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="690" y="1021.2871">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="690" y="1033.8652">repository: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="109" x="690" y="1046.4434">relation: RelationType!</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="102.5625" style="stroke:#A80036;stroke-width:1.5;" width="104" x="60.5" y="1339.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="88.5" y="1353.957">Software</text><line style="stroke:#A80036;stroke-width:1.5;" x1="61.5" x2="163.5" y1="1358.5938" y2="1358.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="66.5" y="1372.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="66.5" y="1385.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="66.5" y="1398.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="66.5" y="1410.709">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="70" x="66.5" y="1423.2871">version: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="66.5" y="1435.8652">url: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="89.9844" style="stroke:#A80036;stroke-width:1.5;" width="104" x="199.5" y="1346"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="31" x="236" y="1360.457">Agent</text><line style="stroke:#A80036;stroke-width:1.5;" x1="200.5" x2="302.5" y1="1365.0938" y2="1365.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="205.5" y="1379.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="205.5" y="1392.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="205.5" y="1404.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="205.5" y="1417.209">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="205.5" y="1429.7871">url: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="89.9844" style="stroke:#A80036;stroke-width:1.5;" width="104" x="338.5" y="1346"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="360.5" y="1360.457">Equipment</text><line style="stroke:#A80036;stroke-width:1.5;" x1="339.5" x2="441.5" y1="1365.0938" y2="1365.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="40" x="344.5" y="1379.4746">id: string</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="344.5" y="1392.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="344.5" y="1404.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="344.5" y="1417.209">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="344.5" y="1429.7871">description: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="140.2969" style="stroke:#A80036;stroke-width:1.5;" width="302" x="477.5" y="1321"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="609.5" y="1335.457">Project</text><line style="stroke:#A80036;stroke-width:1.5;" x1="478.5" x2="778.5" y1="1340.0938" y2="1340.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="483.5" y="1354.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="483.5" y="1367.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="483.5" y="1379.6309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="483.5" y="1392.209">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="483.5" y="1404.7871">description: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="483.5" y="1417.3652">startDate: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="74" x="483.5" y="1429.9434">endDate: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="290" x="483.5" y="1442.5215">wasAssociatedWith: [Person | Organization | Software | Agent]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="85" x="483.5" y="1455.0996">used: [equipment]</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="104" x="814.5" y="1352.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="83" x="825" y="1366.957">StandardsType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="815.5" x2="917.5" y1="1371.5938" y2="1371.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="820.5" y="1385.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="820.5" y="1398.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="820.5" y="1411.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="820.5" y="1423.709">name: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="106" x="59.5" y="1571.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="92" x="66.5" y="1585.957">ApproachesType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="60.5" x2="164.5" y1="1590.5938" y2="1590.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="65.5" y="1604.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="65.5" y="1617.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="65.5" y="1630.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="65.5" y="1642.709">name: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="174" x="200.5" y="1571.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="160" x="207.5" y="1585.957">MeasurementTechniqueType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="201.5" x2="373.5" y1="1590.5938" y2="1590.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="206.5" y="1604.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="206.5" y="1617.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="206.5" y="1630.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="206.5" y="1642.709">name: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="104" x="409.5" y="1571.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="71" x="426" y="1585.957">SpeciesType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="410.5" x2="512.5" y1="1590.5938" y2="1590.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="415.5" y="1604.9746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="415.5" y="1617.5527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="415.5" y="1630.1309">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="415.5" y="1642.709">name: String</text><rect fill="#FEFECE" filter="url(#ftwp5u1ditb76)" height="178.0313" style="stroke:#A80036;stroke-width:1.5;" width="216" x="548.5" y="1521"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="91" x="611" y="1535.457">AssetsSummary</text><line style="stroke:#A80036;stroke-width:1.5;" x1="549.5" x2="763.5" y1="1540.0938" y2="1540.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="43" x="554.5" y="1554.4746">id: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="92" x="554.5" y="1567.0527">schemaKey: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="93" x="554.5" y="1579.6309">numberOfBytes: Int!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="81" x="554.5" y="1592.209">nuberOfFiles: Int!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="554.5" y="1604.7871">numberOfSubjects: Int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="554.5" y="1617.3652">numberOfSamples: Int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="554.5" y="1629.9434">numberOfCells: Int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="147" x="554.5" y="1642.5215">dataStandard: [StandardsType]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="127" x="554.5" y="1655.0996">approach: [ApproachType]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="204" x="554.5" y="1667.6777">measurementTechnique: [TechniqueType]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="554.5" y="1680.2559">variablesMeasured: [String]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="109" x="554.5" y="1692.834">species: [SpeciesType]</text><!--MD5=[d615153dc3f774f0b86c827c45240051]
+link Dandiset to RoleType--><!--MD5=[fe3d98bf049ce641a9d023f12861013a]
+link RoleType to Affiliation--><!--MD5=[01c3fa61a9615bd9e4aa02660a11ef2e]
+link Affiliation to Person--><!--MD5=[e9f5947cc1e6573c7429e2767f5fb2dc]
+link Person to ContactPoint--><!--MD5=[7be03a634fb07920b2516985569f4e42]
+link Dandiset to Organization--><!--MD5=[c0c3e57b8a32d32314f6783af58c49a0]
+link Organization to Disorder--><!--MD5=[d91c6d8e39d7a26ba2d416a032a6adf0]
+link Disorder to Anatomy--><!--MD5=[dbeaeceebb6ccb56de8e177538e53661]
+link Anatomy to GenericType--><!--MD5=[ce18b19a64eb17717b4eaad0d4097fcf]
+link GenericType to LicenseType--><!--MD5=[483ea79a5978b702ea0e41f2eb148103]
+link Organization to EthicsApproval--><!--MD5=[ec741e0b98f11859d2befaa5ad1f5dce]
+link EthicsApproval to AccessType--><!--MD5=[d6edd684c40910dae90a8e6c03c3d8cc]
+link AccessType to AccessRequirements--><!--MD5=[fccc9ef82ac124dba7bc326d0ebafd9e]
+link AccessRequirements to RelationType--><!--MD5=[4ffc645d63e803bd8551ab29ca297b05]
+link RelationType to Resource--><!--MD5=[2937abb56557ed769ac212cab46d3209]
+link EthicsApproval to Software--><!--MD5=[aaa6bea93bea8c91810d9ff949e081c9]
+link Software to Agent--><!--MD5=[01cb73379e76fc91e1c85857e5395432]
+link Agent to Equipment--><!--MD5=[cf9c1491e012327cbec665c8a2560bb9]
+link Equipment to Project--><!--MD5=[1d1072d3b88b0bb713a3541a1cb78dd4]
+link Project to StandardsType--><!--MD5=[ff2cd5a3143ae286548f2a9a30842b26]
+link Software to ApproachesType--><!--MD5=[200f28dd440f6e27b5207884de955b3b]
+link ApproachesType to MeasurementTechniqueType--><!--MD5=[55253e1824d502b0fdca75f8222894b0]
+link MeasurementTechniqueType to SpeciesType--><!--MD5=[dc42298ccee2a9a3c419c5e7f6405fb4]
+link SpeciesType to AssetsSummary--><!--MD5=[eb177c2c5a766f577f2098b85b28954f]
+@startuml
+
+hide empty members
+
+object Dandiset {
+    id: String!
+    schemaKey: String!
+    schemaVersion: String
+    name: String!
+    description: String!
+    conbributor: [Person | Organization]!
+    about: [Disorder | Anatomy | GenericType]
+    studyTarget: [String]
+    license: [LicenseType]!
+    protocol: [String!]
+    ethicApproval: [EthicsApproval]
+    keywords: [String]
+    acknowledgement: String
+    access: [AccessRequirements]
+    url: String
+    repository: String
+    relatedResource [Resource]
+    wasGeneratedBy: [Project
+    identifier: String!
+    dataModified: String
+    citation: String!
+    assetsSummary: AssetsSummary!
+    manifestLocation: [String]!
+    version: String!
+}
+
+enum RoleType {
+    dcite
+    - -
+    Author,
+    Conceptualization,
+    ContactPerson,
+    DataCollector,
+    DataCurator,
+    DataManager,
+    FormalAnalysis,
+    FundingAcquisition,
+    Investigation,
+    Maintainer,
+    Methodology,
+    Producer,
+    ProjectLeader,
+    ProjectManager,
+    ProjectMember,
+    ProjectAdministration,
+    Researcher,
+    Resources,
+    Software,
+    Supervision,
+    Validation,
+    Visualization,
+    Funder,
+    Sponsor,
+    StudyParticipant,
+    Affiliation,
+    EthicsApproval,
+    Other
+}
+
+object Affiliation {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+}
+
+object Person {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    email: String
+    url: String
+    roleName: [RoleType]
+    includeInCitation: Boolean
+    awardNumber: String
+    affiliation: [Affiliation]
+}
+
+object ContactPoint {
+    id: String
+    schemaKey: String!
+    email: String
+    url: String
+}
+
+object Organization {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+    email: String
+    url: String
+    roleName: [RoleType]
+    includeInCitation: Boolean
+    awardNumber: String
+    contactPoint: [ContactPoint]
+}
+
+object Disorder {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+    dxdate: [String]
+}
+
+object Anatomy {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object GenericType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+enum LicenseType {
+    spdx
+    - -
+    CC0-1.0
+    CC-BY-4.0
+}
+
+object EthicsApproval {
+    id: String
+    schemaKey: String!
+    identifier: String!
+    contactPoint: ContactPoint
+}
+
+enum AccessType {
+    dandi
+    - -
+    OpenAcess
+    EmbargoedAccess
+}
+
+object AccessRequirements {
+    id: String
+    schemaKey: String!
+    status: AccessType!
+    contactPoint: ContactPoint
+    description: String
+    embargoedUntil: String
+}
+
+enum RelationType {
+    dcite
+    - -
+    IsCitedBy,
+    Cites,
+    IsSupplementTo,
+    IsSupplementedBy,
+    IsContinuedBy,
+    Continues,
+    Describes,
+    IsDescribedBy,
+    HasMetadata,
+    IsMetadataFor,
+    HasVersion,
+    IsVersionOf,
+    IsNewVersionOf,
+    IsPreviousVersionOf,
+    IsPartOf,
+    HasPart,
+    IsReferencedBy,
+    References,
+    IsDocumentedBy,
+    Documents,
+    IsCompiledBy,
+    Compiles,
+    IsVariantFormOf,
+    IsOriginalFormOf,
+    IsIdenticalTo,
+    IsReviewedBy,
+    Reviews,
+    IsDerivedFrom,
+    IsSourceOf,
+    IsRequiredBy,
+    Requires,
+    Obsoletes,
+    IsObsoletedBy,
+    IsPublishedIn
+}
+
+object Resource {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+    url: String
+    repository: String
+    relation: RelationType!
+}
+
+object Software {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    version: String!
+    url: String
+}
+
+object Agent {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    url: String
+}
+
+object Equipment {
+    id: string
+    schemaKey: String!
+    identifier: String
+    name: String!
+    description: String
+}
+
+object Project {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    description: String
+    startDate: String
+    endDate: String
+    wasAssociatedWith: [Person | Organization | Software | Agent]
+    used: [equipment]
+}
+
+object StandardsType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object ApproachesType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object MeasurementTechniqueType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object SpeciesType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object AssetsSummary {
+    id: String
+    schemaKey: String!
+    numberOfBytes: Int!
+    nuberOfFiles: Int!
+    numberOfSubjects: Int
+    numberOfSamples: Int
+    numberOfCells: Int
+    dataStandard: [StandardsType]
+    approach: [ApproachType]
+    measurementTechnique: [TechniqueType]
+    variablesMeasured: [String]
+    species: [SpeciesType]
+}
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 10:19:58 PST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

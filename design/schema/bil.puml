@@ -1,0 +1,108 @@
+@startuml
+
+hide empty members
+
+class Dataset {
+    Title: String!
+    Rights: String!
+    rightsURI: String!
+    rightsIdentifier: String!
+    Abstract: String!
+    --
+    socialMedia: String
+    Subject: String
+    subjectSchema: String
+    Image: String
+    generalModality: GeneralModality
+    generalModalityOther: String
+    Technique: Technique
+    techniqueOther: String
+    Methods: String
+    technicalInfo: String
+
+}
+
+enum GeneralModality {
+    Cell morphology
+    Connectivity
+    Population imaging
+    Spatial transcriptomics
+}
+
+enum Technique {
+    Anterograde tracing
+    DARTFISH
+    fMOST
+    MERFISH
+    Patch-seq
+    Retrograde
+    Retrograde tracing
+    smFISH
+    Transynaptic tracing
+    TRIO tracing
+    Other
+}
+
+Dataset --o| GeneralModality
+Dataset --o| Technique
+
+
+class Specimen {
+    Species: String!
+    NCBITaxonomy: String!
+    Age: String!
+    ageUnit: AgeUnit!
+    Sex: Sex!
+    --
+    localID: String
+    Genotype: String
+    --
+    organLocalID: String
+    organName: String
+    --
+    sampleLocalID: String
+    Atlas: String
+    Location: String
+}
+
+enum AgeUnit {
+    Days
+    Months
+    Years
+}
+
+enum Sex {
+    Female
+    Male
+    Unknown
+}
+
+Specimen --|| AgeUnit
+Specimen --|| Sex
+
+
+class Publication {
+    relatedIdentifier: String
+    relatedIdentifierType: RelatedIdentifierType
+    PMCID: String
+    relationType: RelationType
+    Citation: String
+}
+
+enum RelatedIdentifierType {
+    arXiv*
+    DOI*
+    ISBN*
+    PMID*
+}
+
+enum RelationType {
+    IsCitedBy
+    IsDocumentedBy
+}
+
+Publication --o{ RelatedIdentifierType
+Publication --o{ RelationType
+
+
+@enduml

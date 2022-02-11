@@ -1,0 +1,274 @@
+@startuml
+
+hide empty members
+
+object Dandiset {
+    schemaVersion: String
+    name: String!
+    description: String!
+    studyTarget: [String]
+    protocol: [String!]
+    keywords: [String]
+    acknowledgement: String
+    url: String
+    repository: String
+    identifier: String!
+    dataModified: String
+    citation: String!
+    manifestLocation: [String]!
+    version: String!
+}
+
+enum RoleType {
+    dcite
+    --
+    Author
+    Conceptualization
+    ContactPerson
+    DataCollector
+    DataCurator
+    DataManager
+    FormalAnalysis
+    FundingAcquisition
+    Investigation
+    Maintainer
+    Methodology
+    Producer
+    ProjectLeader
+    ProjectManager
+    ProjectMember
+    ProjectAdministration
+    Researcher
+    Resources
+    Software
+    Supervision
+    Validation
+    Visualization
+    Funder
+    Sponsor
+    StudyParticipant
+    Affiliation
+    EthicsApproval
+    Other
+}
+
+object Affiliation {
+    identifier: String
+    name: String!
+}
+
+object Person {
+    identifier: String
+    name: String!
+    email: String
+    url: String
+    includeInCitation: Boolean
+    awardNumber: String
+}
+
+object ContactPoint {
+    email: String
+    url: String
+}
+
+object Organization {
+    identifier: String
+    name: String
+    email: String
+    url: String
+    includeInCitation: Boolean
+    awardNumber: String
+}
+
+object Disorder {
+    identifier: String
+    name: String
+    dxdate: [String]
+}
+
+object Anatomy {
+    identifier: String
+    name: String
+}
+
+object GenericType {
+    identifier: String
+    name: String
+}
+
+enum LicenseType {
+    spdx
+    --
+    CC0-1.0
+    CC-BY-4.0
+}
+
+object EthicsApproval {
+    identifier: String!
+}
+
+enum AccessType {
+    dandi
+    --
+    OpenAcess
+    EmbargoedAccess
+}
+
+object AccessRequirements {
+    description: String
+    embargoedUntil: String
+}
+
+enum RelationType {
+    dcite
+    --
+    IsCitedBy
+    Cites
+    IsSupplementTo
+    IsSupplementedBy
+    IsContinuedBy
+    Continues
+    Describes
+    IsDescribedBy
+    HasMetadata
+    IsMetadataFor
+    HasVersion
+    IsVersionOf
+    IsNewVersionOf
+    IsPreviousVersionOf
+    IsPartOf
+    HasPart
+    IsReferencedBy
+    References
+    IsDocumentedBy
+    Documents
+    IsCompiledBy
+    Compiles
+    IsVariantFormOf
+    IsOriginalFormOf
+    IsIdenticalTo
+    IsReviewedBy
+    Reviews
+    IsDerivedFrom
+    IsSourceOf
+    IsRequiredBy
+    Requires
+    Obsoletes
+    IsObsoletedBy
+    IsPublishedIn
+}
+
+object Resource {
+    identifier: String
+    name: String
+    url: String
+    repository: String
+}
+
+object Software {
+    identifier: String
+    name: String!
+    version: String!
+    url: String
+}
+
+object Agent {
+    identifier: String
+    name: String!
+    url: String
+}
+
+object Equipment {
+    identifier: String
+    name: String!
+    description: String
+}
+
+object Project {
+    identifier: String
+    name: String!
+    description: String
+    startDate: String
+    endDate: String
+}
+
+object StandardsType {
+    identifier: String
+    name: String
+}
+
+object ApproachType {
+    identifier: String
+    name: String
+}
+
+object MeasurementTechniqueType {
+    identifier: String
+    name: String
+}
+
+object SpeciesType {
+    identifier: String
+    name: String
+}
+
+object AssetsSummary {
+    numberOfBytes: Int!
+    nuberOfFiles: Int!
+    numberOfSubjects: Int
+    numberOfSamples: Int
+    numberOfCells: Int
+    variablesMeasured: [String]
+}
+
+circle contributor
+Dandiset --|{ contributor
+contributor -- Person
+contributor -- Organization
+
+circle about
+Dandiset --o{ about
+about -- Disorder
+about -- Anatomy
+about -- GenericType
+
+Dandiset --o{ EthicsApproval : ethicsApproval
+Dandiset --o{ AccessRequirements : access
+Dandiset --o{ Resource : relatedResource
+Dandiset --o{ Project : wasGeneratedBy
+Dandiset --o| AssetsSummary : assetsSummary
+Dandiset --|{ LicenseType : license
+
+circle roleName
+roleName -- RoleType
+Person --o{ roleName
+Organization --o{ roleName
+
+Person --o{ Affiliation : affiliation
+
+
+circle contactPoint
+contactPoint -- ContactPoint
+Organization --o{ contactPoint
+EthicsApproval --o| contactPoint
+
+AccessRequirements --o| contactPoint
+AccessRequirements --|| AccessType : status
+
+Resource --|| RelationType : relation
+
+circle wasAssociatedWith
+Project --o{ wasAssociatedWith
+wasAssociatedWith -- Person
+wasAssociatedWith -- Organization
+wasAssociatedWith -- Software
+wasAssociatedWith -- Agent
+
+Project --o{ Equipment : used
+
+AssetsSummary --o{ StandardsType : dataStandard
+AssetsSummary --o{ ApproachType : approach
+AssetsSummary --o{ MeasurementTechniqueType : measurementTechnique
+AssetsSummary --o{ SpeciesType : species
+
+@enduml

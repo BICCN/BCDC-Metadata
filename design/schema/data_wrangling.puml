@@ -1,0 +1,142 @@
+@startuml
+
+hide empty members
+hide circle
+
+
+'Enum-like
+class Modality {
+    * name: String!
+}
+
+class Species {
+    * name: String!
+}
+
+class "Specimen type" {
+    * name: String!
+}
+
+class Technique {
+    * name: String!
+}
+
+class "Web resource type" {
+    * name: String!
+}
+
+class "Access control" {
+    * name: String!
+}
+
+class "Completion state" {
+    * name: String!
+}
+
+'Entity-like
+class "Web resource" {
+    * name: String!
+    Web resource type: Web resource type!
+    Title: String!
+    Short title: String!
+    URL: String!
+}
+
+class Collection {
+    * name: String!
+    is data of type: [Modality]
+    is data about: [Species]
+    has samples of type: [Specimen type]
+    was collected using: [Technique]
+    is subject of resource: [Web resource]
+    Title: String!
+    Short title: String!
+    Description: String!
+    Access control: Access control
+    Completion state: Completion state
+    Last updated date: String
+    Reported count : String
+}
+
+class Program {
+    * name: String!
+    has information resource: [Web resource]
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Subprogram {
+    * name: String!
+    has information resource: [Web resource]
+    is part of: [Program]
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Project {
+    * name: String!
+    has output: [Collection]
+    is part of: [Subprogram]
+    is funded by: [Grant]
+    is highlighted by: [Web resource]
+    has information resource: [Web resource]
+    has contributor: [Person]
+    has contact person: [Person] (not in DW)
+    has creator: [Person or Organization]
+    involves data of type: [Modality]
+    involves data about: [Species]
+    collected samples of type: [Specimen type]
+    used: [Technique]
+    has methodology specification: [Protocol]
+    has use of results limited by: [License]
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Protocol {
+    * name: String!
+    has view resource: [Web resource]
+    Title: String!
+    Short title: String!
+}
+
+class Person {
+    * name: String!
+    Name: String!
+    Given name: String!
+    Family name: String!
+    ORCID: String
+}
+
+class Organization {
+    * name: String!
+    Name: String!
+    ROR: String (not DW)
+}
+
+class License {
+    * name: String!
+    has information resource: [Web resource]
+    Title: String!
+    Short title: String!
+}
+
+class Grant {
+    * name: String!
+    from funding agency: [Organization]
+    awarded to: [Organization]
+    Title: String!
+    Identifier: String!
+    REPORT symbol: String!
+}
+
+@enduml
