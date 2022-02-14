@@ -21,8 +21,7 @@ project:
     has output:
       collection: ""
     has contact person: 
-      person: dandiset.contributor #Required
-      # roleName=dcite:contactPerson identifies POC
+      person: dandiset.wasGeneratedBy.wasAssociatedWith[schemaKey:Person, roleName:dcite:ContactPerson]
     has contributor: 
       person: dandiset.contributor #Required
       # rolename=dcite:Author

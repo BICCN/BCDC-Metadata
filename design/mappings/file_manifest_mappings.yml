@@ -3,7 +3,6 @@ fileManifest:
   Filetype: [
     asset.path, #Split and get file extension
     asset.encodingFormat, #Follows application/<filetype> format but type is just string
-    dandiset.assetsSummary.dataStandard # has RRID + standard name but is at data collection level
   ]
   Sample ID: asset.path #Split to remove id from filename
   Project: [
