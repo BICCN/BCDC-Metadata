@@ -3,14 +3,14 @@ fileManifest:
   Filetype: [
     asset.path, #Split and get file extension
     asset.encodingFormat, #Follows application/<filetype> format but type is just string
-    dandiset.metadata.assetsSummary.dataStandard # has RRID + standard name but is at data collection level
+    dandiset.assetsSummary.dataStandard # has RRID + standard name but is at data collection level
   ]
   Sample ID: asset.path #Split to remove id from filename
   Project: [
     asset.wasGeneratedBy, #schemaKey=Project Not as reliable
-    dandiset.metadata.wasGeneratedBy, #schemaKey=Project More reliable
+    dandiset.wasGeneratedBy, #schemaKey=Project More reliable
   ]
-  Data Collection: dandiset.metadata.name
+  Data Collection: dandiset.name
   R24 ID: asset.id
   File URI: asset.contentUrl
   Checksum: asset.digest # Multiple available see https://github.com/dandi/schema/blob/master/releases/0.6.2/context.json

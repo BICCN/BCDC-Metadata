@@ -9,8 +9,8 @@ specimen:
   age: asset.wasAttributedTo.age.value
   sex (cv): asset.wasAttributedTo.sex.name
   genotype: asset.wasAttributedTo.genotype
-  modality  (cv): dandiset.metadata.assetsSummary.approach.name
-  technique  (cv): dandiset.metaddata.assetsSummary.measurementTechnique.name
+  modality  (cv): dandiset.assetsSummary.approach.name
+  technique  (cv): dandiset.assetsSummary.measurementTechnique.name
   anatomical structure (cv): [
     asset.about, # schemakey: Anatomy - Not very reliable
     asset.wasDerivedForm.anatomy, # schemakey: Anatomy - Even less reliable
@@ -19,16 +19,16 @@ specimen:
   total processed subspecimens:
   organization (cv): [
     asset.contributor, # schemaKey: Organization - Not very reliable
-    dandiset.metadata.contributor, # More reliable
+    dandiset.contributor, # More reliable
   ]
   investigator: [
     asset.contributor, #schemaKey: Person - not very reliable
-    dandiset.metadata.contributor, # More reliable
+    dandiset.contributor, # More reliable
   ]
-  grant number (cv): dandiset.metadata.contributor.awardnumber #schemaKey=Organization, roleName=dcite:Funder
-  data collection (cv): dandiset.metadata.name
+  grant number (cv): dandiset.contributor.awardnumber #schemaKey=Organization, roleName=dcite:Funder
+  data collection (cv): dandiset.name
   r24 name (cv): DANDI
-  r24 link: dandiset.metadata.url #Links to datacollection
+  r24 link: dandiset.url #Links to datacollection
   comments: ""
   metadata submission: ""
 
