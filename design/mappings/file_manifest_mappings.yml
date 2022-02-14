@@ -1,0 +1,15 @@
+fileManifest:
+  Filename: asset.path
+  Filetype: [
+    asset.path, #Split and get file extension
+    asset.encodingFormat, #Follows application/<filetype> format but type is just string
+  ]
+  Sample ID: asset.path #Split to remove id from filename
+  Project: [
+    asset.wasGeneratedBy, #schemaKey=Project Not as reliable
+    dandiset.wasGeneratedBy, #schemaKey=Project More reliable
+  ]
+  Data Collection: dandiset.name
+  R24 ID: asset.id
+  File URI: asset.contentUrl
+  Checksum: asset.digest # Multiple available see https://github.com/dandi/schema/blob/master/releases/0.6.2/context.json

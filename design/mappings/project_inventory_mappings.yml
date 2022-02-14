@@ -1,0 +1,119 @@
+project:
+  name: dandiset.wasGeneratedBy.name
+  title: dandiset.wasGeneratedBy.name
+  short title: ""
+  description: dandiset.wasGeneratedBy.description
+  citation: dandiset.citation #Required
+  # Citations are linked to data collection
+  relations:
+    is part of:
+      subprogram: 
+    has information resource:
+      Web resource:
+    is funded by: 
+      grant: dandiset.contributor.awardNumber
+      # awardNumber linked to data collection and multiple are listed
+      # roleName=dcite:Funder used to distinguish funding organization vs contributing person
+    has use of results limited by: 
+      license: dandiset.license
+    has methodology specification: 
+      protocol: dandiset.protocol #protocol.io links
+    has output:
+      collection: ""
+    has contact person: 
+      person: dandiset.wasGeneratedBy.wasAssociatedWith[schemaKey:Person, roleName:dcite:ContactPerson]
+    has contributor: 
+      person: dandiset.contributor #Required
+      # rolename=dcite:Author
+    has creator: 
+      person: ""
+    is subject of publication: 
+      dandiset.relatedResource
+      # relation=dcite:IsPublishedIn
+    collected samples of type:
+      specimen type:
+    involves data of type:
+      modality:
+    has output:
+      collection: 
+collection:
+  name: dandiset.name #Required
+  title: dandiset.name #Required
+  short title: ""
+  description: dandiset.description #Required
+  last updated: dandiset.dateModified
+  completion state: dandiset.version #Required
+  access control: dandiset.access.status
+    #dcite:OpenAccess or dcite:EmbargoedAccess
+  relations:
+    is subject of resource:
+      web resource: dandiset.url #Permalink
+    has samples of type:
+      specimen type: #TODO
+    is data of type:
+      modality: dandiset.assetsSummary.approach
+      # name and uri if included
+    was collected using:
+      technique: dandiset.assetsSummary.measurementTechnique
+      # name and uri if included
+organization:
+  name: dandiset.contributor.name
+  # schemKey:Organization
+license:
+  name: dandiset.license 
+  #values: [spdx:CC0-1.0, spdx:CC-BY-4.0]
+  title:
+subprogram:
+  name: dandiset.contributor.affiliation.name
+  # This is a stretch - not commonly populated
+  title:
+  short title:
+  description:
+  citation:
+  DOI: dandiset.contributor.affiliation.identifier
+program:
+  name: dandiset.contributor.affiliation.name
+  # This is a stretch - not commonly populated
+  title:
+  short title:
+  description:
+  citation:
+  DOI: dandiset.contributor.affiliation.identifier
+
+# Collated from data collections/assets
+grant:
+  name: 
+  title:
+  identifier:
+  report:
+web resource:
+  name:
+  title:
+  short title:
+  url:
+web resource type:
+  name:
+protocol:
+  name:
+  title:
+  short title:
+person:
+  #dandiset.contributor schemaKey: Person
+  name: dandiset.contributor.name #Required
+  # Names are in format: familyname, given name(s)
+  given name: dandiset.contributor.name
+  family name: dandiset.contributor.name
+  orcid: dandiset.contributor.identifier
+specimen type:
+  name:
+modality:
+  name: dandiset.assetsSummary.approach # name and uri if included
+access control:
+  name: dandiset.access.status
+  #values: [dcite:OpenAccess,dcite:EmbargoedAccess]
+completion state:
+  name: dandiset.version
+species:
+  name: dandiset.assetsSummary.species # name and uri if included
+technique:
+  name: dandiset.assetsSummary.measurementTechnique # name and uri if included
