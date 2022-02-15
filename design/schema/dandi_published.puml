@@ -273,24 +273,26 @@ AccessRequirements --|| AccessType : status
 
 Resource --|| RelationType : relation
 
+
+Project <|-- PublishActivity
 diamond foo
 
-PublishActivity -- foo
-Project -- foo
+'PublishActivity -- foo
+'Project -- foo
 
 circle wasAssociatedWith
-'Project --o{ wasAssociatedWith
+Project --o{ wasAssociatedWith
 'PublishActivity --o{ wasAssociatedWith
-foo --o{ wasAssociatedWith
+'foo --o{ wasAssociatedWith
 wasAssociatedWith -- Person
 wasAssociatedWith -- Organization
 wasAssociatedWith -- Software
 wasAssociatedWith -- Agent
 
 
-'Project --o{ used
+Project --o{ Equipment : used
 'PublishActivity --o{ used
-foo --o{ Equipment : used
+'foo --o{ Equipment : used
 
 
 AssetsSummary --o{ StandardsType : dataStandard

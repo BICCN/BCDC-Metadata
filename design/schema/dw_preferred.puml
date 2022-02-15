@@ -1,0 +1,233 @@
+@startuml
+
+hide empty members
+'hide circle
+
+
+'Enums
+enum WebResourceType {
+    Download
+    Information
+    Explore
+    View
+}
+
+enum AccessControl {
+    Open
+    Embargoed
+    Controlled
+}
+
+enum CompletionState {
+    Complete
+    InProgress
+}
+
+enum AgentType {
+    Person
+    Organization
+}
+
+
+'Entity-like
+class Agent {
+    * id: String!
+    agent_id: String!
+    agentType: AgentType
+}
+
+class Modality {
+    * id: String!
+    name: String!
+    handle: String
+}
+
+class SpecimenType {
+    * id: String!
+    name: String!
+    handle: String
+}
+
+
+class WebResource {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+    url: String!
+    rrid: String
+}
+
+class Collection {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    lastUpdatedDate: Date
+    doi: String
+    rrid: String
+    citation: String
+}
+
+class Program {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Subprogram {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Project {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Protocol {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+}
+
+class Person {
+    * id: String!
+    name: String!
+    givenName: String!
+    familyName: String!
+    handle: String
+    orcid: String
+}
+
+class Organization {
+    * id: String
+    name: String!
+    handle: String
+    ror: String
+}
+
+class License {
+    * id: String!
+    handle: String
+    name: String!
+    title: String!
+    shortTitle: String!
+}
+
+class Award {
+    * id: String
+    name: String!
+    title: String!
+    identifier: String!
+    reportSymbol: String
+}
+
+class Technique {
+    * id: String!
+    handle: String
+    name: String!
+}
+
+class Species {
+    * id: String!
+    name: String!
+    common_name: String!
+    scientific_name: String
+    ncbi_taxonomy_id: String!
+    rrid: String
+}
+
+class SpecimenCount {
+    * id: String!
+    count: Int
+}
+
+class Contact {
+    * id: String!
+    name: String!
+    email: String
+}
+
+'Relationships
+Agent --o| Person : person
+Agent --o| Organization : organization
+
+Agent --|| AgentType : type
+
+SpecimenCount --|| SpecimenType : specimenType
+
+WebResource --|| WebResourceType : type
+
+Technique --|{ Protocol : protocol
+
+Collection --|{  Modality : modality
+Collection --|{  Species : species
+'Collection --|{  SpecimenType : has samples of type
+Collection --|{ SpecimenCount : specimenCount
+Collection --|{  Technique : technique
+'Collection --|{  WebResource : webResource
+Collection --||  AccessControl : accessControl
+Collection --||  CompletionState : completionState
+Collection --|| License : license
+
+'Award --o| Grant : grant
+Award --|| Agent : funder
+Award --|| Agent : awardee
+
+Contact --o| Agent: agent
+
+Project --|{ Collection : collections
+Project --|{  Award : fundingSource
+'Project --o|  WebResource : informationResource
+Project --|{  WebResource : highlightedWebResources
+Project --|{ Agent : creator
+Project --o{  Agent : contributor
+Project --o{  Contact : contact
+'Project --|{  Modality : involves data of type
+'Project --|{  Species : involves data about
+'Project --|{  "Specimen type" : collected samples of type
+'Project --|{  Technique : used
+'Project --o{  Protocol : protocol
+'Project --|{  License : has use of results limited by
+
+'Protocol --|| WebResource : webResource
+
+'Grant --|| Organization : from funding agency
+'Grant --|| Organization : awarded to
+
+'circle "has creator"
+'Project --|{ "has creator"
+'"has creator" --> Person
+'"has creator" --> Organization
+
+circle webResource
+Collection --o{ webResource
+Protocol --|| webResource
+Program --|| webResource
+Subprogram --|| webResource
+Project --o|  webResource
+License --|| webResource
+webResource --> WebResource
+
+Project --|{ Subprogram : subprogram
+Subprogram --|| Program : program
+'Program --o{ Program : parentProgram
+
+'circle "is part of"
+'Subprogram --|| "is part of"
+'Project --|{ "is part of"
+'"is part of" --> Subprogram
+'"is part of" --> Program
+
+@enduml

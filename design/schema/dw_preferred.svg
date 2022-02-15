@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1344px" preserveAspectRatio="none" style="width:1879px;height:1344px;background:#FFFFFF;" version="1.1" viewBox="0 0 1879 1344" width="1879px" zoomAndPan="magnify"><defs><filter height="300%" id="f1envhuugdvhfa" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[94cd5d910c946ffab62c98bd0b7c0b18]
+class WebResourceType--><rect codeLine="7" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="95.3438" id="WebResourceType" style="stroke:#A80036;stroke-width:1.5;" width="137" x="7" y="1235"/><ellipse cx="22" cy="1251" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M20.5,1252 L20.5,1254 L24.5,1254 L24.5,1253 L24.5,1252.5156 L25.125,1252 L25.5,1252 L25.875,1252 L26.5,1252.5156 L26.5,1253 L26.5,1256 L18.5,1256 L18.0156,1256 L17.5,1255.375 L17.5,1255 L17.5,1254.625 L18.0156,1254 L18.5,1254 L18.5,1254 L18.5,1248 L18.5,1248 L18.0156,1248 L17.5,1247.375 L17.5,1247 L17.5,1246.625 L18.0156,1246 L18.5,1246 L26.5,1246 L26.5,1249 L26.5,1249.4844 L25.875,1250 L25.5,1250 L25.125,1250 L24.5,1249.4844 L24.5,1249 L24.5,1248 L20.5,1248 L20.5,1250 L21.5,1250 L21.5,1249.5156 L21.5,1249.5156 L22.125,1249 L22.5,1249 L22.875,1249 L23.5,1249.5156 L23.5,1250 L23.5,1252 L23.5,1252.4844 L22.875,1253 L22.875,1253 L22.5,1253 L22.125,1253 L21.5,1252.4844 L21.5,1252.4844 L21.5,1252 L20.5,1252 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="105" x="36" y="1255.9102">WebResourceType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="143" y1="1267" y2="1267"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="13" y="1282.4189">Download</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="13" y="1296.2549">Information</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="13" y="1310.0908">Explore</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="26" x="13" y="1323.9268">View</text><!--MD5=[ee60552bc4698d86a6bc3ed4a603a080]
+class AccessControl--><rect codeLine="14" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="81.5078" id="AccessControl" style="stroke:#A80036;stroke-width:1.5;" width="112" x="108.5" y="457.5"/><ellipse cx="123.5" cy="473.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M122,474.5 L122,476.5 L126,476.5 L126,475.5 L126,475.0156 L126.625,474.5 L127,474.5 L127.375,474.5 L128,475.0156 L128,475.5 L128,478.5 L120,478.5 L119.5156,478.5 L119,477.875 L119,477.5 L119,477.125 L119.5156,476.5 L120,476.5 L120,476.5 L120,470.5 L120,470.5 L119.5156,470.5 L119,469.875 L119,469.5 L119,469.125 L119.5156,468.5 L120,468.5 L128,468.5 L128,471.5 L128,471.9844 L127.375,472.5 L127,472.5 L126.625,472.5 L126,471.9844 L126,471.5 L126,470.5 L122,470.5 L122,472.5 L123,472.5 L123,472.0156 L123,472.0156 L123.625,471.5 L124,471.5 L124.375,471.5 L125,472.0156 L125,472.5 L125,474.5 L125,474.9844 L124.375,475.5 L124.375,475.5 L124,475.5 L123.625,475.5 L123,474.9844 L123,474.9844 L123,474.5 L122,474.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="80" x="137.5" y="478.4102">AccessControl</text><line style="stroke:#A80036;stroke-width:1.5;" x1="109.5" x2="219.5" y1="489.5" y2="489.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="26" x="114.5" y="504.9189">Open</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="54" x="114.5" y="518.7549">Embargoed</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="114.5" y="532.5908">Controlled</text><!--MD5=[d2e3369b79ba4fed7c95849642c5ab8e]
+class CompletionState--><rect codeLine="20" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="67.6719" id="CompletionState" style="stroke:#A80036;stroke-width:1.5;" width="124" x="255.5" y="464.5"/><ellipse cx="270.5" cy="480.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M269,481.5 L269,483.5 L273,483.5 L273,482.5 L273,482.0156 L273.625,481.5 L274,481.5 L274.375,481.5 L275,482.0156 L275,482.5 L275,485.5 L267,485.5 L266.5156,485.5 L266,484.875 L266,484.5 L266,484.125 L266.5156,483.5 L267,483.5 L267,483.5 L267,477.5 L267,477.5 L266.5156,477.5 L266,476.875 L266,476.5 L266,476.125 L266.5156,475.5 L267,475.5 L275,475.5 L275,478.5 L275,478.9844 L274.375,479.5 L274,479.5 L273.625,479.5 L273,478.9844 L273,478.5 L273,477.5 L269,477.5 L269,479.5 L270,479.5 L270,479.0156 L270,479.0156 L270.625,478.5 L271,478.5 L271.375,478.5 L272,479.0156 L272,479.5 L272,481.5 L272,481.9844 L271.375,482.5 L271.375,482.5 L271,482.5 L270.625,482.5 L270,481.9844 L270,481.9844 L270,481.5 L269,481.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="92" x="284.5" y="485.4102">CompletionState</text><line style="stroke:#A80036;stroke-width:1.5;" x1="256.5" x2="378.5" y1="496.5" y2="496.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="261.5" y="511.9189">Complete</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="261.5" y="525.7549">InProgress</text><!--MD5=[882df27358662c529fa8a6049e48654c]
+class AgentType--><rect codeLine="25" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="67.6719" id="AgentType" style="stroke:#A80036;stroke-width:1.5;" width="89" x="1559" y="756.5"/><ellipse cx="1574" cy="772.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1572.5,773.5 L1572.5,775.5 L1576.5,775.5 L1576.5,774.5 L1576.5,774.0156 L1577.125,773.5 L1577.5,773.5 L1577.875,773.5 L1578.5,774.0156 L1578.5,774.5 L1578.5,777.5 L1570.5,777.5 L1570.0156,777.5 L1569.5,776.875 L1569.5,776.5 L1569.5,776.125 L1570.0156,775.5 L1570.5,775.5 L1570.5,775.5 L1570.5,769.5 L1570.5,769.5 L1570.0156,769.5 L1569.5,768.875 L1569.5,768.5 L1569.5,768.125 L1570.0156,767.5 L1570.5,767.5 L1578.5,767.5 L1578.5,770.5 L1578.5,770.9844 L1577.875,771.5 L1577.5,771.5 L1577.125,771.5 L1576.5,770.9844 L1576.5,770.5 L1576.5,769.5 L1572.5,769.5 L1572.5,771.5 L1573.5,771.5 L1573.5,771.0156 L1573.5,771.0156 L1574.125,770.5 L1574.5,770.5 L1574.875,770.5 L1575.5,771.0156 L1575.5,771.5 L1575.5,773.5 L1575.5,773.9844 L1574.875,774.5 L1574.875,774.5 L1574.5,774.5 L1574.125,774.5 L1573.5,773.9844 L1573.5,773.9844 L1573.5,773.5 L1572.5,773.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="57" x="1588" y="777.4102">AgentType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1560" x2="1647" y1="788.5" y2="788.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="34" x="1565" y="803.9189">Person</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="1565" y="817.7549">Organization</text><!--MD5=[9d44916250b776386006c440668bcfbb]
+class Agent--><rect codeLine="32" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="81.5078" id="Agent" style="stroke:#A80036;stroke-width:1.5;" width="136" x="1535.5" y="457.5"/><ellipse cx="1583.75" cy="473.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1585.75,470 Q1585.9531,469.5 1586.1875,469.25 Q1586.4219,469 1586.6875,469 Q1587.1563,469 1587.4531,469.2813 Q1587.75,469.5625 1587.75,470.2188 L1587.75,471.7813 Q1587.75,472.4375 1587.4688,472.7188 Q1587.1875,473 1586.75,473 Q1586.3594,473 1586.1094,472.8281 Q1585.8594,472.6563 1585.75,472.2031 Q1585.7031,471.8906 1585.5313,471.7188 Q1585.2188,471.3906 1584.6563,471.2031 Q1584.0938,471 1583.5313,471 Q1582.8281,471 1582.2344,471.2813 Q1581.6563,471.5625 1581.2031,472.1875 Q1580.75,472.8125 1580.75,473.6719 L1580.75,474.5938 Q1580.75,475.625 1581.5938,476.3125 Q1582.4375,477 1583.9375,477 Q1584.8281,477 1585.4531,476.7969 Q1585.8125,476.6875 1586.2188,476.3281 Q1586.4844,476.125 1586.625,476.0625 Q1586.7656,476 1586.9375,476 Q1587.2656,476 1587.5,476.2656 Q1587.75,476.5156 1587.75,476.875 Q1587.75,477.2188 1587.4063,477.625 Q1586.9063,478.2188 1586.1094,478.5469 Q1585.0625,479 1583.7813,479 Q1582.2813,479 1581.0781,478.4063 Q1580.1094,477.9375 1579.4219,476.9219 Q1578.75,475.9063 1578.75,474.7031 L1578.75,473.6094 Q1578.75,472.3594 1579.3438,471.2656 Q1579.9531,470.1719 1581,469.5938 Q1582.0625,469 1583.25,469 Q1583.9688,469 1584.5938,469.25 Q1585.2188,469.5 1585.75,470 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="31" x="1604.25" y="478.4102">Agent</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1536.5" x2="1670.5" y1="489.5" y2="489.5"/><ellipse cx="1546.5" cy="500.5" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1555.5" y="504.9189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1555.5" y="518.7549">agent_id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="110" x="1555.5" y="532.5908">agentType: AgentType</text><!--MD5=[b3492d3bf48f89c99185815a77ba40ad]
+class Modality--><rect codeLine="38" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="81.5078" id="Modality" style="stroke:#A80036;stroke-width:1.5;" width="92" x="414.5" y="457.5"/><ellipse cx="436.7" cy="473.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M438.7,470 Q438.9031,469.5 439.1375,469.25 Q439.3719,469 439.6375,469 Q440.1063,469 440.4031,469.2813 Q440.7,469.5625 440.7,470.2188 L440.7,471.7813 Q440.7,472.4375 440.4188,472.7188 Q440.1375,473 439.7,473 Q439.3094,473 439.0594,472.8281 Q438.8094,472.6563 438.7,472.2031 Q438.6531,471.8906 438.4813,471.7188 Q438.1688,471.3906 437.6063,471.2031 Q437.0438,471 436.4813,471 Q435.7781,471 435.1844,471.2813 Q434.6063,471.5625 434.1531,472.1875 Q433.7,472.8125 433.7,473.6719 L433.7,474.5938 Q433.7,475.625 434.5438,476.3125 Q435.3875,477 436.8875,477 Q437.7781,477 438.4031,476.7969 Q438.7625,476.6875 439.1688,476.3281 Q439.4344,476.125 439.575,476.0625 Q439.7156,476 439.8875,476 Q440.2156,476 440.45,476.2656 Q440.7,476.5156 440.7,476.875 Q440.7,477.2188 440.3563,477.625 Q439.8563,478.2188 439.0594,478.5469 Q438.0125,479 436.7313,479 Q435.2313,479 434.0281,478.4063 Q433.0594,477.9375 432.3719,476.9219 Q431.7,475.9063 431.7,474.7031 L431.7,473.6094 Q431.7,472.3594 432.2938,471.2656 Q432.9031,470.1719 433.95,469.5938 Q435.0125,469 436.2,469 Q436.9188,469 437.5438,469.25 Q438.1688,469.5 438.7,470 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="44" x="452.3" y="478.4102">Modality</text><line style="stroke:#A80036;stroke-width:1.5;" x1="415.5" x2="505.5" y1="489.5" y2="489.5"/><ellipse cx="425.5" cy="500.5" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="434.5" y="504.9189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="434.5" y="518.7549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="434.5" y="532.5908">handle: String</text><!--MD5=[2757bcbfe2a2966d11307a76e322fe51]
+class SpecimenType--><rect codeLine="44" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="81.5078" id="SpecimenType" style="stroke:#A80036;stroke-width:1.5;" width="114" x="840.5" y="749.5"/><ellipse cx="855.5" cy="765.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M857.5,762 Q857.7031,761.5 857.9375,761.25 Q858.1719,761 858.4375,761 Q858.9063,761 859.2031,761.2813 Q859.5,761.5625 859.5,762.2188 L859.5,763.7813 Q859.5,764.4375 859.2188,764.7188 Q858.9375,765 858.5,765 Q858.1094,765 857.8594,764.8281 Q857.6094,764.6563 857.5,764.2031 Q857.4531,763.8906 857.2813,763.7188 Q856.9688,763.3906 856.4063,763.2031 Q855.8438,763 855.2813,763 Q854.5781,763 853.9844,763.2813 Q853.4063,763.5625 852.9531,764.1875 Q852.5,764.8125 852.5,765.6719 L852.5,766.5938 Q852.5,767.625 853.3438,768.3125 Q854.1875,769 855.6875,769 Q856.5781,769 857.2031,768.7969 Q857.5625,768.6875 857.9688,768.3281 Q858.2344,768.125 858.375,768.0625 Q858.5156,768 858.6875,768 Q859.0156,768 859.25,768.2656 Q859.5,768.5156 859.5,768.875 Q859.5,769.2188 859.1563,769.625 Q858.6563,770.2188 857.8594,770.5469 Q856.8125,771 855.5313,771 Q854.0313,771 852.8281,770.4063 Q851.8594,769.9375 851.1719,768.9219 Q850.5,767.9063 850.5,766.7031 L850.5,765.6094 Q850.5,764.3594 851.0938,763.2656 Q851.7031,762.1719 852.75,761.5938 Q853.8125,761 855,761 Q855.7188,761 856.3438,761.25 Q856.9688,761.5 857.5,762 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="82" x="869.5" y="770.4102">SpecimenType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="841.5" x2="953.5" y1="781.5" y2="781.5"/><ellipse cx="851.5" cy="792.5" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="860.5" y="796.9189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="860.5" y="810.7549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="860.5" y="824.5908">handle: String</text><!--MD5=[152cb71d9f887ec7a4f01b93fc4e8a07]
+class WebResource--><rect codeLine="51" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="123.0156" id="WebResource" style="stroke:#A80036;stroke-width:1.5;" width="111" x="20" y="1034"/><ellipse cx="35" cy="1050" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M37,1046.5 Q37.2031,1046 37.4375,1045.75 Q37.6719,1045.5 37.9375,1045.5 Q38.4063,1045.5 38.7031,1045.7813 Q39,1046.0625 39,1046.7188 L39,1048.2813 Q39,1048.9375 38.7188,1049.2188 Q38.4375,1049.5 38,1049.5 Q37.6094,1049.5 37.3594,1049.3281 Q37.1094,1049.1563 37,1048.7031 Q36.9531,1048.3906 36.7813,1048.2188 Q36.4688,1047.8906 35.9063,1047.7031 Q35.3438,1047.5 34.7813,1047.5 Q34.0781,1047.5 33.4844,1047.7813 Q32.9063,1048.0625 32.4531,1048.6875 Q32,1049.3125 32,1050.1719 L32,1051.0938 Q32,1052.125 32.8438,1052.8125 Q33.6875,1053.5 35.1875,1053.5 Q36.0781,1053.5 36.7031,1053.2969 Q37.0625,1053.1875 37.4688,1052.8281 Q37.7344,1052.625 37.875,1052.5625 Q38.0156,1052.5 38.1875,1052.5 Q38.5156,1052.5 38.75,1052.7656 Q39,1053.0156 39,1053.375 Q39,1053.7188 38.6563,1054.125 Q38.1563,1054.7188 37.3594,1055.0469 Q36.3125,1055.5 35.0313,1055.5 Q33.5313,1055.5 32.3281,1054.9063 Q31.3594,1054.4375 30.6719,1053.4219 Q30,1052.4063 30,1051.2031 L30,1050.1094 Q30,1048.8594 30.5938,1047.7656 Q31.2031,1046.6719 32.25,1046.0938 Q33.3125,1045.5 34.5,1045.5 Q35.2188,1045.5 35.8438,1045.75 Q36.4688,1046 37,1046.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="79" x="49" y="1054.9102">WebResource</text><line style="stroke:#A80036;stroke-width:1.5;" x1="21" x2="130" y1="1066" y2="1066"/><ellipse cx="31" cy="1077" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="40" y="1081.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="40" y="1095.2549">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="40" y="1109.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="40" y="1122.9268">shortTitle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="40" y="1136.7627">url: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="40" y="1150.5986">rrid: String</text><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="60" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="164.5234" id="Collection" style="stroke:#A80036;stroke-width:1.5;" width="133" x="620" y="194"/><ellipse cx="655.7" cy="210" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M657.7,206.5 Q657.9031,206 658.1375,205.75 Q658.3719,205.5 658.6375,205.5 Q659.1063,205.5 659.4031,205.7813 Q659.7,206.0625 659.7,206.7188 L659.7,208.2813 Q659.7,208.9375 659.4188,209.2188 Q659.1375,209.5 658.7,209.5 Q658.3094,209.5 658.0594,209.3281 Q657.8094,209.1563 657.7,208.7031 Q657.6531,208.3906 657.4813,208.2188 Q657.1688,207.8906 656.6063,207.7031 Q656.0438,207.5 655.4813,207.5 Q654.7781,207.5 654.1844,207.7813 Q653.6063,208.0625 653.1531,208.6875 Q652.7,209.3125 652.7,210.1719 L652.7,211.0938 Q652.7,212.125 653.5438,212.8125 Q654.3875,213.5 655.8875,213.5 Q656.7781,213.5 657.4031,213.2969 Q657.7625,213.1875 658.1688,212.8281 Q658.4344,212.625 658.575,212.5625 Q658.7156,212.5 658.8875,212.5 Q659.2156,212.5 659.45,212.7656 Q659.7,213.0156 659.7,213.375 Q659.7,213.7188 659.3563,214.125 Q658.8563,214.7188 658.0594,215.0469 Q657.0125,215.5 655.7313,215.5 Q654.2313,215.5 653.0281,214.9063 Q652.0594,214.4375 651.3719,213.4219 Q650.7,212.4063 650.7,211.2031 L650.7,210.1094 Q650.7,208.8594 651.2938,207.7656 Q651.9031,206.6719 652.95,206.0938 Q654.0125,205.5 655.2,205.5 Q655.9188,205.5 656.5438,205.75 Q657.1688,206 657.7,206.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="55" x="674.3" y="214.9102">Collection</text><line style="stroke:#A80036;stroke-width:1.5;" x1="621" x2="752" y1="226" y2="226"/><ellipse cx="631" cy="237" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="640" y="241.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="640" y="255.2549">handle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="640" y="269.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="640" y="282.9268">shortTitle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="640" y="296.7627">description: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="640" y="310.5986">lastUpdatedDate: Date</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="640" y="324.4346">doi: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="640" y="338.2705">rrid: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="640" y="352.1064">citation: String</text><!--MD5=[175f95e045c1a44aed0b30df3abe0e5c]
+class Program--><rect codeLine="72" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="109.1797" id="Program" style="stroke:#A80036;stroke-width:1.5;" width="115" x="1061" y="736"/><ellipse cx="1091.75" cy="752" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1093.75,748.5 Q1093.9531,748 1094.1875,747.75 Q1094.4219,747.5 1094.6875,747.5 Q1095.1563,747.5 1095.4531,747.7813 Q1095.75,748.0625 1095.75,748.7188 L1095.75,750.2813 Q1095.75,750.9375 1095.4688,751.2188 Q1095.1875,751.5 1094.75,751.5 Q1094.3594,751.5 1094.1094,751.3281 Q1093.8594,751.1563 1093.75,750.7031 Q1093.7031,750.3906 1093.5313,750.2188 Q1093.2188,749.8906 1092.6563,749.7031 Q1092.0938,749.5 1091.5313,749.5 Q1090.8281,749.5 1090.2344,749.7813 Q1089.6563,750.0625 1089.2031,750.6875 Q1088.75,751.3125 1088.75,752.1719 L1088.75,753.0938 Q1088.75,754.125 1089.5938,754.8125 Q1090.4375,755.5 1091.9375,755.5 Q1092.8281,755.5 1093.4531,755.2969 Q1093.8125,755.1875 1094.2188,754.8281 Q1094.4844,754.625 1094.625,754.5625 Q1094.7656,754.5 1094.9375,754.5 Q1095.2656,754.5 1095.5,754.7656 Q1095.75,755.0156 1095.75,755.375 Q1095.75,755.7188 1095.4063,756.125 Q1094.9063,756.7188 1094.1094,757.0469 Q1093.0625,757.5 1091.7813,757.5 Q1090.2813,757.5 1089.0781,756.9063 Q1088.1094,756.4375 1087.4219,755.4219 Q1086.75,754.4063 1086.75,753.2031 L1086.75,752.1094 Q1086.75,750.8594 1087.3438,749.7656 Q1087.9531,748.6719 1089,748.0938 Q1090.0625,747.5 1091.25,747.5 Q1091.9688,747.5 1092.5938,747.75 Q1093.2188,748 1093.75,748.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="1109.25" y="756.9102">Program</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1062" x2="1175" y1="768" y2="768"/><ellipse cx="1072" cy="779" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1081" y="783.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="1081" y="797.2549">handle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1081" y="811.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="1081" y="824.9268">shortTitle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1081" y="838.7627">description: String!</text><!--MD5=[0d024652d76f046c0b1c9dcca9ccb90b]
+class Subprogram--><rect codeLine="80" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="109.1797" id="Subprogram" style="stroke:#A80036;stroke-width:1.5;" width="115" x="1152" y="444"/><ellipse cx="1173.3" cy="460" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1175.3,456.5 Q1175.5031,456 1175.7375,455.75 Q1175.9719,455.5 1176.2375,455.5 Q1176.7063,455.5 1177.0031,455.7813 Q1177.3,456.0625 1177.3,456.7188 L1177.3,458.2813 Q1177.3,458.9375 1177.0188,459.2188 Q1176.7375,459.5 1176.3,459.5 Q1175.9094,459.5 1175.6594,459.3281 Q1175.4094,459.1563 1175.3,458.7031 Q1175.2531,458.3906 1175.0813,458.2188 Q1174.7688,457.8906 1174.2063,457.7031 Q1173.6438,457.5 1173.0813,457.5 Q1172.3781,457.5 1171.7844,457.7813 Q1171.2063,458.0625 1170.7531,458.6875 Q1170.3,459.3125 1170.3,460.1719 L1170.3,461.0938 Q1170.3,462.125 1171.1438,462.8125 Q1171.9875,463.5 1173.4875,463.5 Q1174.3781,463.5 1175.0031,463.2969 Q1175.3625,463.1875 1175.7688,462.8281 Q1176.0344,462.625 1176.175,462.5625 Q1176.3156,462.5 1176.4875,462.5 Q1176.8156,462.5 1177.05,462.7656 Q1177.3,463.0156 1177.3,463.375 Q1177.3,463.7188 1176.9563,464.125 Q1176.4563,464.7188 1175.6594,465.0469 Q1174.6125,465.5 1173.3313,465.5 Q1171.8313,465.5 1170.6281,464.9063 Q1169.6594,464.4375 1168.9719,463.4219 Q1168.3,462.4063 1168.3,461.2031 L1168.3,460.1094 Q1168.3,458.8594 1168.8938,457.7656 Q1169.5031,456.6719 1170.55,456.0938 Q1171.6125,455.5 1172.8,455.5 Q1173.5188,455.5 1174.1438,455.75 Q1174.7688,456 1175.3,456.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="1188.7" y="464.9102">Subprogram</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1153" x2="1266" y1="476" y2="476"/><ellipse cx="1163" cy="487" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1172" y="491.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="1172" y="505.2549">handle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1172" y="519.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="1172" y="532.9268">shortTitle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1172" y="546.7627">description: String!</text><!--MD5=[79d378210367c0c6ec62ef762ddfbd1b]
+class Project--><rect codeLine="88" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="109.1797" id="Project" style="stroke:#A80036;stroke-width:1.5;" width="115" x="1307" y="7"/><ellipse cx="1342.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1344.25,19.5 Q1344.4531,19 1344.6875,18.75 Q1344.9219,18.5 1345.1875,18.5 Q1345.6563,18.5 1345.9531,18.7813 Q1346.25,19.0625 1346.25,19.7188 L1346.25,21.2813 Q1346.25,21.9375 1345.9688,22.2188 Q1345.6875,22.5 1345.25,22.5 Q1344.8594,22.5 1344.6094,22.3281 Q1344.3594,22.1563 1344.25,21.7031 Q1344.2031,21.3906 1344.0313,21.2188 Q1343.7188,20.8906 1343.1563,20.7031 Q1342.5938,20.5 1342.0313,20.5 Q1341.3281,20.5 1340.7344,20.7813 Q1340.1563,21.0625 1339.7031,21.6875 Q1339.25,22.3125 1339.25,23.1719 L1339.25,24.0938 Q1339.25,25.125 1340.0938,25.8125 Q1340.9375,26.5 1342.4375,26.5 Q1343.3281,26.5 1343.9531,26.2969 Q1344.3125,26.1875 1344.7188,25.8281 Q1344.9844,25.625 1345.125,25.5625 Q1345.2656,25.5 1345.4375,25.5 Q1345.7656,25.5 1346,25.7656 Q1346.25,26.0156 1346.25,26.375 Q1346.25,26.7188 1345.9063,27.125 Q1345.4063,27.7188 1344.6094,28.0469 Q1343.5625,28.5 1342.2813,28.5 Q1340.7813,28.5 1339.5781,27.9063 Q1338.6094,27.4375 1337.9219,26.4219 Q1337.25,25.4063 1337.25,24.2031 L1337.25,23.1094 Q1337.25,21.8594 1337.8438,20.7656 Q1338.4531,19.6719 1339.5,19.0938 Q1340.5625,18.5 1341.75,18.5 Q1342.4688,18.5 1343.0938,18.75 Q1343.7188,19 1344.25,19.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="1360.75" y="27.9102">Project</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1308" x2="1421" y1="39" y2="39"/><ellipse cx="1318" cy="50" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1327" y="54.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1327" y="68.2549">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1327" y="82.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="1327" y="95.9268">shortTitle: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1327" y="109.7627">description: String!</text><!--MD5=[a0c27cfb527bdb20a6436baa93834728]
+class Protocol--><rect codeLine="96" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="95.3438" id="Protocol" style="stroke:#A80036;stroke-width:1.5;" width="106" x="527.5" y="743"/><ellipse cx="555.55" cy="759" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M557.55,755.5 Q557.7531,755 557.9875,754.75 Q558.2219,754.5 558.4875,754.5 Q558.9563,754.5 559.2531,754.7813 Q559.55,755.0625 559.55,755.7188 L559.55,757.2813 Q559.55,757.9375 559.2688,758.2188 Q558.9875,758.5 558.55,758.5 Q558.1594,758.5 557.9094,758.3281 Q557.6594,758.1563 557.55,757.7031 Q557.5031,757.3906 557.3313,757.2188 Q557.0188,756.8906 556.4563,756.7031 Q555.8938,756.5 555.3313,756.5 Q554.6281,756.5 554.0344,756.7813 Q553.4563,757.0625 553.0031,757.6875 Q552.55,758.3125 552.55,759.1719 L552.55,760.0938 Q552.55,761.125 553.3938,761.8125 Q554.2375,762.5 555.7375,762.5 Q556.6281,762.5 557.2531,762.2969 Q557.6125,762.1875 558.0188,761.8281 Q558.2844,761.625 558.425,761.5625 Q558.5656,761.5 558.7375,761.5 Q559.0656,761.5 559.3,761.7656 Q559.55,762.0156 559.55,762.375 Q559.55,762.7188 559.2063,763.125 Q558.7063,763.7188 557.9094,764.0469 Q556.8625,764.5 555.5813,764.5 Q554.0813,764.5 552.8781,763.9063 Q551.9094,763.4375 551.2219,762.4219 Q550.55,761.4063 550.55,760.2031 L550.55,759.1094 Q550.55,757.8594 551.1438,756.7656 Q551.7531,755.6719 552.8,755.0938 Q553.8625,754.5 555.05,754.5 Q555.7688,754.5 556.3938,754.75 Q557.0188,755 557.55,755.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="572.45" y="763.9102">Protocol</text><line style="stroke:#A80036;stroke-width:1.5;" x1="528.5" x2="632.5" y1="775" y2="775"/><ellipse cx="538.5" cy="786" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="547.5" y="790.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="547.5" y="804.2549">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="547.5" y="818.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="547.5" y="831.9268">shortTitle: String!</text><!--MD5=[09ce52be0ee7de43c61b6e2d59bf108b]
+class Person--><rect codeLine="103" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="123.0156" id="Person" style="stroke:#A80036;stroke-width:1.5;" width="117" x="1683" y="729"/><ellipse cx="1718.25" cy="745" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1720.25,741.5 Q1720.4531,741 1720.6875,740.75 Q1720.9219,740.5 1721.1875,740.5 Q1721.6563,740.5 1721.9531,740.7813 Q1722.25,741.0625 1722.25,741.7188 L1722.25,743.2813 Q1722.25,743.9375 1721.9688,744.2188 Q1721.6875,744.5 1721.25,744.5 Q1720.8594,744.5 1720.6094,744.3281 Q1720.3594,744.1563 1720.25,743.7031 Q1720.2031,743.3906 1720.0313,743.2188 Q1719.7188,742.8906 1719.1563,742.7031 Q1718.5938,742.5 1718.0313,742.5 Q1717.3281,742.5 1716.7344,742.7813 Q1716.1563,743.0625 1715.7031,743.6875 Q1715.25,744.3125 1715.25,745.1719 L1715.25,746.0938 Q1715.25,747.125 1716.0938,747.8125 Q1716.9375,748.5 1718.4375,748.5 Q1719.3281,748.5 1719.9531,748.2969 Q1720.3125,748.1875 1720.7188,747.8281 Q1720.9844,747.625 1721.125,747.5625 Q1721.2656,747.5 1721.4375,747.5 Q1721.7656,747.5 1722,747.7656 Q1722.25,748.0156 1722.25,748.375 Q1722.25,748.7188 1721.9063,749.125 Q1721.4063,749.7188 1720.6094,750.0469 Q1719.5625,750.5 1718.2813,750.5 Q1716.7813,750.5 1715.5781,749.9063 Q1714.6094,749.4375 1713.9219,748.4219 Q1713.25,747.4063 1713.25,746.2031 L1713.25,745.1094 Q1713.25,743.8594 1713.8438,742.7656 Q1714.4531,741.6719 1715.5,741.0938 Q1716.5625,740.5 1717.75,740.5 Q1718.4688,740.5 1719.0938,740.75 Q1719.7188,741 1720.25,741.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="1736.75" y="749.9102">Person</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1684" x2="1799" y1="761" y2="761"/><ellipse cx="1694" cy="772" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1703" y="776.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1703" y="790.2549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1703" y="804.0908">givenName: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="1703" y="817.9268">familyName: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1703" y="831.7627">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="1703" y="845.5986">orcid: String</text><!--MD5=[86c7c362de55a38b660185a1328fe18d]
+class Organization--><rect codeLine="112" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="95.3438" id="Organization" style="stroke:#A80036;stroke-width:1.5;" width="101" x="1423" y="743"/><ellipse cx="1438" cy="759" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1440,755.5 Q1440.2031,755 1440.4375,754.75 Q1440.6719,754.5 1440.9375,754.5 Q1441.4063,754.5 1441.7031,754.7813 Q1442,755.0625 1442,755.7188 L1442,757.2813 Q1442,757.9375 1441.7188,758.2188 Q1441.4375,758.5 1441,758.5 Q1440.6094,758.5 1440.3594,758.3281 Q1440.1094,758.1563 1440,757.7031 Q1439.9531,757.3906 1439.7813,757.2188 Q1439.4688,756.8906 1438.9063,756.7031 Q1438.3438,756.5 1437.7813,756.5 Q1437.0781,756.5 1436.4844,756.7813 Q1435.9063,757.0625 1435.4531,757.6875 Q1435,758.3125 1435,759.1719 L1435,760.0938 Q1435,761.125 1435.8438,761.8125 Q1436.6875,762.5 1438.1875,762.5 Q1439.0781,762.5 1439.7031,762.2969 Q1440.0625,762.1875 1440.4688,761.8281 Q1440.7344,761.625 1440.875,761.5625 Q1441.0156,761.5 1441.1875,761.5 Q1441.5156,761.5 1441.75,761.7656 Q1442,762.0156 1442,762.375 Q1442,762.7188 1441.6563,763.125 Q1441.1563,763.7188 1440.3594,764.0469 Q1439.3125,764.5 1438.0313,764.5 Q1436.5313,764.5 1435.3281,763.9063 Q1434.3594,763.4375 1433.6719,762.4219 Q1433,761.4063 1433,760.2031 L1433,759.1094 Q1433,757.8594 1433.5938,756.7656 Q1434.2031,755.6719 1435.25,755.0938 Q1436.3125,754.5 1437.5,754.5 Q1438.2188,754.5 1438.8438,754.75 Q1439.4688,755 1440,755.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="1452" y="763.9102">Organization</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1424" x2="1523" y1="775" y2="775"/><ellipse cx="1434" cy="786" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="42" x="1443" y="790.4189">id: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1443" y="804.2549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1443" y="818.0908">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="1443" y="831.9268">ror: String</text><!--MD5=[26ef8bb48695b3f7aeebf8a3bb6e7395]
+class License--><rect codeLine="119" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="109.1797" id="License" style="stroke:#A80036;stroke-width:1.5;" width="106" x="994.5" y="590"/><ellipse cx="1023" cy="606" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1025,602.5 Q1025.2031,602 1025.4375,601.75 Q1025.6719,601.5 1025.9375,601.5 Q1026.4063,601.5 1026.7031,601.7813 Q1027,602.0625 1027,602.7188 L1027,604.2813 Q1027,604.9375 1026.7188,605.2188 Q1026.4375,605.5 1026,605.5 Q1025.6094,605.5 1025.3594,605.3281 Q1025.1094,605.1563 1025,604.7031 Q1024.9531,604.3906 1024.7813,604.2188 Q1024.4688,603.8906 1023.9063,603.7031 Q1023.3438,603.5 1022.7813,603.5 Q1022.0781,603.5 1021.4844,603.7813 Q1020.9063,604.0625 1020.4531,604.6875 Q1020,605.3125 1020,606.1719 L1020,607.0938 Q1020,608.125 1020.8438,608.8125 Q1021.6875,609.5 1023.1875,609.5 Q1024.0781,609.5 1024.7031,609.2969 Q1025.0625,609.1875 1025.4688,608.8281 Q1025.7344,608.625 1025.875,608.5625 Q1026.0156,608.5 1026.1875,608.5 Q1026.5156,608.5 1026.75,608.7656 Q1027,609.0156 1027,609.375 Q1027,609.7188 1026.6563,610.125 Q1026.1563,610.7188 1025.3594,611.0469 Q1024.3125,611.5 1023.0313,611.5 Q1021.5313,611.5 1020.3281,610.9063 Q1019.3594,610.4375 1018.6719,609.4219 Q1018,608.4063 1018,607.2031 L1018,606.1094 Q1018,604.8594 1018.5938,603.7656 Q1019.2031,602.6719 1020.25,602.0938 Q1021.3125,601.5 1022.5,601.5 Q1023.2188,601.5 1023.8438,601.75 Q1024.4688,602 1025,602.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="44" x="1040" y="610.9102">License</text><line style="stroke:#A80036;stroke-width:1.5;" x1="995.5" x2="1099.5" y1="622" y2="622"/><ellipse cx="1005.5" cy="633" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1014.5" y="637.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1014.5" y="651.2549">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1014.5" y="665.0908">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1014.5" y="678.9268">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="1014.5" y="692.7627">shortTitle: String!</text><!--MD5=[7e4b3025ff4a9dad6b7ac0580b624a44]
+class Award--><rect codeLine="127" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="109.1797" id="Award" style="stroke:#A80036;stroke-width:1.5;" width="124" x="1618.5" y="222"/><ellipse cx="1659.6" cy="238" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1661.6,234.5 Q1661.8031,234 1662.0375,233.75 Q1662.2719,233.5 1662.5375,233.5 Q1663.0063,233.5 1663.3031,233.7813 Q1663.6,234.0625 1663.6,234.7188 L1663.6,236.2813 Q1663.6,236.9375 1663.3188,237.2188 Q1663.0375,237.5 1662.6,237.5 Q1662.2094,237.5 1661.9594,237.3281 Q1661.7094,237.1563 1661.6,236.7031 Q1661.5531,236.3906 1661.3813,236.2188 Q1661.0688,235.8906 1660.5063,235.7031 Q1659.9438,235.5 1659.3813,235.5 Q1658.6781,235.5 1658.0844,235.7813 Q1657.5063,236.0625 1657.0531,236.6875 Q1656.6,237.3125 1656.6,238.1719 L1656.6,239.0938 Q1656.6,240.125 1657.4438,240.8125 Q1658.2875,241.5 1659.7875,241.5 Q1660.6781,241.5 1661.3031,241.2969 Q1661.6625,241.1875 1662.0688,240.8281 Q1662.3344,240.625 1662.475,240.5625 Q1662.6156,240.5 1662.7875,240.5 Q1663.1156,240.5 1663.35,240.7656 Q1663.6,241.0156 1663.6,241.375 Q1663.6,241.7188 1663.2563,242.125 Q1662.7563,242.7188 1661.9594,243.0469 Q1660.9125,243.5 1659.6313,243.5 Q1658.1313,243.5 1656.9281,242.9063 Q1655.9594,242.4375 1655.2719,241.4219 Q1654.6,240.4063 1654.6,239.2031 L1654.6,238.1094 Q1654.6,236.8594 1655.1938,235.7656 Q1655.8031,234.6719 1656.85,234.0938 Q1657.9125,233.5 1659.1,233.5 Q1659.8188,233.5 1660.4438,233.75 Q1661.0688,234 1661.6,234.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="34" x="1679.4" y="242.9102">Award</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1619.5" x2="1741.5" y1="254" y2="254"/><ellipse cx="1629.5" cy="265" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="42" x="1638.5" y="269.4189">id: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1638.5" y="283.2549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1638.5" y="297.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1638.5" y="310.9268">identifier: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="1638.5" y="324.7627">reportSymbol: String</text><!--MD5=[bc131368981f76e8ad3a9820af089aee]
+class Technique--><rect codeLine="135" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="81.5078" id="Technique" style="stroke:#A80036;stroke-width:1.5;" width="92" x="541.5" y="457.5"/><ellipse cx="557.4" cy="473.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M559.4,470 Q559.6031,469.5 559.8375,469.25 Q560.0719,469 560.3375,469 Q560.8063,469 561.1031,469.2813 Q561.4,469.5625 561.4,470.2188 L561.4,471.7813 Q561.4,472.4375 561.1188,472.7188 Q560.8375,473 560.4,473 Q560.0094,473 559.7594,472.8281 Q559.5094,472.6563 559.4,472.2031 Q559.3531,471.8906 559.1813,471.7188 Q558.8688,471.3906 558.3063,471.2031 Q557.7438,471 557.1813,471 Q556.4781,471 555.8844,471.2813 Q555.3063,471.5625 554.8531,472.1875 Q554.4,472.8125 554.4,473.6719 L554.4,474.5938 Q554.4,475.625 555.2438,476.3125 Q556.0875,477 557.5875,477 Q558.4781,477 559.1031,476.7969 Q559.4625,476.6875 559.8688,476.3281 Q560.1344,476.125 560.275,476.0625 Q560.4156,476 560.5875,476 Q560.9156,476 561.15,476.2656 Q561.4,476.5156 561.4,476.875 Q561.4,477.2188 561.0563,477.625 Q560.5563,478.2188 559.7594,478.5469 Q558.7125,479 557.4313,479 Q555.9313,479 554.7281,478.4063 Q553.7594,477.9375 553.0719,476.9219 Q552.4,475.9063 552.4,474.7031 L552.4,473.6094 Q552.4,472.3594 552.9938,471.2656 Q553.6031,470.1719 554.65,469.5938 Q555.7125,469 556.9,469 Q557.6188,469 558.2438,469.25 Q558.8688,469.5 559.4,470 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="58" x="571.6" y="478.4102">Technique</text><line style="stroke:#A80036;stroke-width:1.5;" x1="542.5" x2="632.5" y1="489.5" y2="489.5"/><ellipse cx="552.5" cy="500.5" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="561.5" y="504.9189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="561.5" y="518.7549">handle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="561.5" y="532.5908">name: String!</text><!--MD5=[4b1bbb36bf22db452d2f18c9a96e40ec]
+class Species--><rect codeLine="141" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="123.0156" id="Species" style="stroke:#A80036;stroke-width:1.5;" width="149" x="740" y="437"/><ellipse cx="787.75" cy="453" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M789.75,449.5 Q789.9531,449 790.1875,448.75 Q790.4219,448.5 790.6875,448.5 Q791.1563,448.5 791.4531,448.7813 Q791.75,449.0625 791.75,449.7188 L791.75,451.2813 Q791.75,451.9375 791.4688,452.2188 Q791.1875,452.5 790.75,452.5 Q790.3594,452.5 790.1094,452.3281 Q789.8594,452.1563 789.75,451.7031 Q789.7031,451.3906 789.5313,451.2188 Q789.2188,450.8906 788.6563,450.7031 Q788.0938,450.5 787.5313,450.5 Q786.8281,450.5 786.2344,450.7813 Q785.6563,451.0625 785.2031,451.6875 Q784.75,452.3125 784.75,453.1719 L784.75,454.0938 Q784.75,455.125 785.5938,455.8125 Q786.4375,456.5 787.9375,456.5 Q788.8281,456.5 789.4531,456.2969 Q789.8125,456.1875 790.2188,455.8281 Q790.4844,455.625 790.625,455.5625 Q790.7656,455.5 790.9375,455.5 Q791.2656,455.5 791.5,455.7656 Q791.75,456.0156 791.75,456.375 Q791.75,456.7188 791.4063,457.125 Q790.9063,457.7188 790.1094,458.0469 Q789.0625,458.5 787.7813,458.5 Q786.2813,458.5 785.0781,457.9063 Q784.1094,457.4375 783.4219,456.4219 Q782.75,455.4063 782.75,454.2031 L782.75,453.1094 Q782.75,451.8594 783.3438,450.7656 Q783.9531,449.6719 785,449.0938 Q786.0625,448.5 787.25,448.5 Q787.9688,448.5 788.5938,448.75 Q789.2188,449 789.75,449.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="808.25" y="457.9102">Species</text><line style="stroke:#A80036;stroke-width:1.5;" x1="741" x2="888" y1="469" y2="469"/><ellipse cx="751" cy="480" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="760" y="484.4189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="760" y="498.2549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="108" x="760" y="512.0908">common_name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="760" y="525.9268">scientific_name: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="760" y="539.7627">ncbi_taxonomy_id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="760" y="553.5986">rrid: String</text><!--MD5=[0c483ad81e246f04289bb2d76adb8ee1]
+class SpecimenCount--><rect codeLine="150" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="67.6719" id="SpecimenCount" style="stroke:#A80036;stroke-width:1.5;" width="121" x="924" y="464.5"/><ellipse cx="939" cy="480.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M941,477 Q941.2031,476.5 941.4375,476.25 Q941.6719,476 941.9375,476 Q942.4063,476 942.7031,476.2813 Q943,476.5625 943,477.2188 L943,478.7813 Q943,479.4375 942.7188,479.7188 Q942.4375,480 942,480 Q941.6094,480 941.3594,479.8281 Q941.1094,479.6563 941,479.2031 Q940.9531,478.8906 940.7813,478.7188 Q940.4688,478.3906 939.9063,478.2031 Q939.3438,478 938.7813,478 Q938.0781,478 937.4844,478.2813 Q936.9063,478.5625 936.4531,479.1875 Q936,479.8125 936,480.6719 L936,481.5938 Q936,482.625 936.8438,483.3125 Q937.6875,484 939.1875,484 Q940.0781,484 940.7031,483.7969 Q941.0625,483.6875 941.4688,483.3281 Q941.7344,483.125 941.875,483.0625 Q942.0156,483 942.1875,483 Q942.5156,483 942.75,483.2656 Q943,483.5156 943,483.875 Q943,484.2188 942.6563,484.625 Q942.1563,485.2188 941.3594,485.5469 Q940.3125,486 939.0313,486 Q937.5313,486 936.3281,485.4063 Q935.3594,484.9375 934.6719,483.9219 Q934,482.9063 934,481.7031 L934,480.6094 Q934,479.3594 934.5938,478.2656 Q935.2031,477.1719 936.25,476.5938 Q937.3125,476 938.5,476 Q939.2188,476 939.8438,476.25 Q940.4688,476.5 941,477 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="89" x="953" y="485.4102">SpecimenCount</text><line style="stroke:#A80036;stroke-width:1.5;" x1="925" x2="1044" y1="496.5" y2="496.5"/><ellipse cx="935" cy="507.5" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="944" y="511.9189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="944" y="525.7549">count: Int</text><!--MD5=[72ce1314beffbcf60a64ee91fbbc10dc]
+class Contact--><rect codeLine="155" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" height="81.5078" id="Contact" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1777.5" y="235.5"/><ellipse cx="1798.8" cy="251.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1800.8,248 Q1801.0031,247.5 1801.2375,247.25 Q1801.4719,247 1801.7375,247 Q1802.2063,247 1802.5031,247.2813 Q1802.8,247.5625 1802.8,248.2188 L1802.8,249.7813 Q1802.8,250.4375 1802.5188,250.7188 Q1802.2375,251 1801.8,251 Q1801.4094,251 1801.1594,250.8281 Q1800.9094,250.6563 1800.8,250.2031 Q1800.7531,249.8906 1800.5813,249.7188 Q1800.2688,249.3906 1799.7063,249.2031 Q1799.1438,249 1798.5813,249 Q1797.8781,249 1797.2844,249.2813 Q1796.7063,249.5625 1796.2531,250.1875 Q1795.8,250.8125 1795.8,251.6719 L1795.8,252.5938 Q1795.8,253.625 1796.6438,254.3125 Q1797.4875,255 1798.9875,255 Q1799.8781,255 1800.5031,254.7969 Q1800.8625,254.6875 1801.2688,254.3281 Q1801.5344,254.125 1801.675,254.0625 Q1801.8156,254 1801.9875,254 Q1802.3156,254 1802.55,254.2656 Q1802.8,254.5156 1802.8,254.875 Q1802.8,255.2188 1802.4563,255.625 Q1801.9563,256.2188 1801.1594,256.5469 Q1800.1125,257 1798.8313,257 Q1797.3313,257 1796.1281,256.4063 Q1795.1594,255.9375 1794.4719,254.9219 Q1793.8,253.9063 1793.8,252.7031 L1793.8,251.6094 Q1793.8,250.3594 1794.3938,249.2656 Q1795.0031,248.1719 1796.05,247.5938 Q1797.1125,247 1798.3,247 Q1799.0188,247 1799.6438,247.25 Q1800.2688,247.5 1800.8,248 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="42" x="1814.2" y="256.4102">Contact</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1778.5" x2="1864.5" y1="267.5" y2="267.5"/><ellipse cx="1788.5" cy="278.5" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1797.5" y="282.9189">id: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1797.5" y="296.7549">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="1797.5" y="310.5908">email: String</text><!--MD5=[cccae1d58fdc550f076c5fbfd09824f0]
+entity webResource--><ellipse cx="1007.5" cy="943" fill="#FEFECE" filter="url(#f1envhuugdvhfa)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="964.5" y="974.5332">webResource</text><!--MD5=[61a9242c78663995570ae0ee6c2d6c31]
+link Agent to Person--><path codeLine="162" d="M1622.54,539.52 C1644.87,586.43 1682.23,664.95 1709.13,721.49 " fill="none" id="Agent-to-Person" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1707.9684" x2="1712.69" y1="719.0249" y2="728.96"/><ellipse cx="1707.9684" cy="719.0249" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1714.5858" x2="1707.3603" y1="723.6303" y2="727.0642"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="1697.5" y="649.9951">person</text><!--MD5=[d63593e2149117e0632d31f5ba9abf0d]
+link Agent to Organization--><path codeLine="163" d="M1560.64,539.59 C1547.04,554.29 1533.08,571.82 1523.5,590 C1499.48,635.61 1486.65,693.23 1480.03,734.8 " fill="none" id="Agent-to-Organization" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1480.4482" x2="1478.78" y1="732.0272" y2="742.9"/><ellipse cx="1480.4482" cy="732.0272" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1483.3404" x2="1475.4329" y1="739.5529" y2="738.3396"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="1524.5" y="649.9951">organization</text><!--MD5=[a267a34cd2a24424241d8b7224778ebb]
+link Agent to AgentType--><path codeLine="165" d="M1603.5,539.52 C1603.5,594.69 1603.5,693.56 1603.5,748.99 " fill="none" id="Agent-to-AgentType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1607.5" x2="1599.5" y1="752.18" y2="752.18"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1607.5" x2="1599.5" y1="749.18" y2="749.18"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1603.5" x2="1603.5" y1="748.18" y2="756.18"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="25" x="1604.5" y="649.9951">type</text><!--MD5=[18f772d9217cabcec5f9f7f07081c2c9]
+link SpecimenCount to SpecimenType--><path codeLine="167" d="M936.68,532.79 C918.99,547.98 900.96,567.58 891.5,590 C870.86,638.89 877.06,700.68 885.38,742.44 " fill="none" id="SpecimenCount-to-SpecimenType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="889.9476" x2="882.1132" y1="744.7532" y2="746.3724"/><line style="stroke:#A80036;stroke-width:1.0;" x1="889.3404" x2="881.506" y1="741.8153" y2="743.4345"/><line style="stroke:#A80036;stroke-width:1.0;" x1="885.2208" x2="886.84" y1="741.6456" y2="749.48"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="892.5" y="649.9951">specimenType</text><!--MD5=[969032c10163a82866223d6f7b3e76db]
+link WebResource to WebResourceType--><path codeLine="169" d="M75.5,1157.08 C75.5,1179.9 75.5,1205.67 75.5,1227.82 " fill="none" id="WebResource-to-WebResourceType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="79.5" x2="71.5" y1="1230.88" y2="1230.88"/><line style="stroke:#A80036;stroke-width:1.0;" x1="79.5" x2="71.5" y1="1227.88" y2="1227.88"/><line style="stroke:#A80036;stroke-width:1.0;" x1="75.5" x2="75.5" y1="1226.88" y2="1234.88"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="25" x="76.5" y="1201.4951">type</text><!--MD5=[57e0500ffaae071cdf9ef44bdbf6d2fc]
+link Technique to Protocol--><path codeLine="171" d="M586.53,539.52 C585.31,590.17 583.2,677.65 581.83,734.54 " fill="none" id="Technique-to-Protocol" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="581.8299" x2="587.6281" y1="734.7025" y2="742.85"/><line style="stroke:#A80036;stroke-width:1.0;" x1="581.8299" x2="575.6319" y1="734.7025" y2="742.55"/><line style="stroke:#A80036;stroke-width:1.0;" x1="581.8299" x2="581.63" y1="734.7025" y2="742.7"/><line style="stroke:#A80036;stroke-width:1.0;" x1="585.8787" x2="577.8812" y1="732.8031" y2="732.6032"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="586.5" y="649.9951">protocol</text><!--MD5=[f8fb2f1850b079b732cbb33b814fe75a]
+link Collection to Modality--><path codeLine="173" d="M619.65,321.3 C592.93,340.43 562.79,364.16 538.5,389 C520.36,407.55 503.18,430.61 489.58,450.69 " fill="none" id="Collection-to-Modality" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="489.5509" x2="490.1007" y1="450.7158" y2="460.7007"/><line style="stroke:#A80036;stroke-width:1.0;" x1="489.5509" x2="480.1193" y1="450.7158" y2="454.0393"/><line style="stroke:#A80036;stroke-width:1.0;" x1="489.5509" x2="485.11" y1="450.7158" y2="457.37"/><line style="stroke:#A80036;stroke-width:1.0;" x1="493.9882" x2="487.334" y1="451.2727" y2="446.8318"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="539.5" y="403.4951">modality</text><!--MD5=[4e019add3abd1809608e3c15e8db965e]
+link Collection to Species--><path codeLine="174" d="M733.98,359.11 C747.53,382.39 762.13,407.49 775.14,429.84 " fill="none" id="Collection-to-Species" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="775.2833" x2="784.4889" y1="430.0815" y2="433.9874"/><line style="stroke:#A80036;stroke-width:1.0;" x1="775.2833" x2="774.1111" y1="430.0815" y2="440.0126"/><line style="stroke:#A80036;stroke-width:1.0;" x1="775.2833" x2="779.3" y1="430.0815" y2="437"/><line style="stroke:#A80036;stroke-width:1.0;" x1="777.7383" x2="770.8198" y1="426.3435" y2="430.3602"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="759.5" y="403.4951">species</text><!--MD5=[cfeb7f884558140f1d827536144b603e]
+link Collection to SpecimenCount--><path codeLine="176" d="M753.34,325.1 C797.16,356.52 855.55,398.79 906.5,437 C915.97,444.1 926.01,451.77 935.61,459.19 " fill="none" id="Collection-to-SpecimenCount" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="935.8575" x2="945.8565" y1="459.3913" y2="459.5306"/><line style="stroke:#A80036;stroke-width:1.0;" x1="935.8575" x2="938.5235" y1="459.3913" y2="469.0294"/><line style="stroke:#A80036;stroke-width:1.0;" x1="935.8575" x2="942.19" y1="459.3913" y2="464.28"/><line style="stroke:#A80036;stroke-width:1.0;" x1="936.7188" x2="931.83" y1="455.0028" y2="461.3353"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="90" x="866.5" y="403.4951">specimenCount</text><!--MD5=[ee0819a9fe1791e659b84fe27b896ff9]
+link Collection to Technique--><path codeLine="177" d="M619.84,356.14 C613.15,366.72 607.12,377.8 602.5,389 C594.72,407.84 590.83,429.93 588.93,449.23 " fill="none" id="Collection-to-Technique" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="588.9156" x2="594.2079" y1="449.3494" y2="457.8342"/><line style="stroke:#A80036;stroke-width:1.0;" x1="588.9156" x2="582.2521" y1="449.3494" y2="456.8058"/><line style="stroke:#A80036;stroke-width:1.0;" x1="588.9156" x2="588.23" y1="449.3494" y2="457.32"/><line style="stroke:#A80036;stroke-width:1.0;" x1="593.0723" x2="585.1018" y1="447.6996" y2="447.014"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="603.5" y="403.4951">technique</text><!--MD5=[cec1f256de9c720b23750aebcdf35e99]
+link Collection to AccessControl--><path codeLine="179" d="M619.7,290.05 C541.66,306.28 409.93,338.6 305.5,389 C271.61,405.36 238.04,430.72 212.16,452.81 " fill="none" id="Collection-to-AccessControl" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="212.4015" x2="207.1764" y1="457.8864" y2="451.8285"/><line style="stroke:#A80036;stroke-width:1.0;" x1="214.6732" x2="209.4481" y1="455.927" y2="449.8691"/><line style="stroke:#A80036;stroke-width:1.0;" x1="212.8179" x2="206.76" y1="452.2449" y2="457.47"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="306.5" y="403.4951">accessControl</text><!--MD5=[5ccb5162cc5fd6d1bda8fcd5d73c4393]
+link Collection to CompletionState--><path codeLine="180" d="M619.81,296.89 C563.55,315.18 482.52,346.19 420.5,389 C392.72,408.18 366.59,435.85 347.61,458.45 " fill="none" id="Collection-to-CompletionState" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="348.5727" x2="342.4175" y1="463.5575" y2="458.4473"/><line style="stroke:#A80036;stroke-width:1.0;" x1="350.489" x2="344.3339" y1="461.2494" y2="456.1392"/><line style="stroke:#A80036;stroke-width:1.0;" x1="348.0502" x2="342.94" y1="457.9249" y2="464.08"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="421.5" y="403.4951">completionState</text><!--MD5=[89d5bacfd7dcae490b56b6d31cb129b1]
+link Collection to License--><path codeLine="181" d="M753.28,283.28 C842.33,295.04 996.39,330.52 1062.5,437 C1089.41,480.34 1081.87,539.08 1069.82,582.83 " fill="none" id="Collection-to-License" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1072.7957" x2="1065.1042" y1="586.9742" y2="584.7743"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1073.6207" x2="1065.9291" y1="584.0898" y2="581.8899"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1070.0499" x2="1067.85" y1="582.0284" y2="589.72"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="1039.5" y="403.4951">license</text><!--MD5=[afb119690893b30e5259741972e0b822]
+link Award to Agent--><path codeLine="184" d="M1631.91,331.03 C1619.17,348.31 1607.14,368.36 1600.5,389 C1594.23,408.49 1593.82,430.98 1595.43,450.42 " fill="none" id="Award-to-Agent" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1599.6984" x2="1591.7369" y1="453.0569" y2="453.8416"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1599.4041" x2="1591.4427" y1="450.0714" y2="450.8561"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1595.3253" x2="1596.11" y1="449.4686" y2="457.43"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="1601.5" y="403.4951">funder</text><!--MD5=[afb119690893b30e5259741972e0b822]
+link Award to Agent--><path codeLine="185" d="M1665.71,331.15 C1658.89,354.62 1650.35,382.36 1641.5,407 C1636.35,421.33 1630.16,436.69 1624.29,450.61 " fill="none" id="Award-to-Agent-1" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1626.6889" x2="1619.3306" y1="455.2006" y2="452.0611"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1627.8662" x2="1620.508" y1="452.4413" y2="449.3018"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1624.5795" x2="1621.44" y1="449.9518" y2="457.31"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="1648.5" y="403.4951">awardee</text><!--MD5=[f755309ad8a3462bce1653c91328d829]
+link Contact to Agent--><path codeLine="187" d="M1793.9,317.77 C1783.94,331.34 1772.25,346.27 1760.5,359 C1729.78,392.29 1691.76,426 1660.83,451.82 " fill="none" id="Contact-to-Agent" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1662.8113" x2="1654.34" y1="450.1931" y2="457.21"/><ellipse cx="1662.8113" cy="450.1931" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1659.9721" x2="1654.8689" y1="457.7389" y2="451.5779"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="1728.5" y="403.4951">agent</text><!--MD5=[582182708bce533038c3560ab8e60929]
+link Project to Collection--><path codeLine="189" d="M1306.99,80.57 C1184.41,119.08 897.53,209.2 761.11,252.06 " fill="none" id="Project-to-Collection" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="760.7712" x2="754.9406" y1="252.1692" y2="260.2934"/><line style="stroke:#A80036;stroke-width:1.0;" x1="760.7712" x2="751.3394" y1="252.1692" y2="248.8466"/><line style="stroke:#A80036;stroke-width:1.0;" x1="760.7712" x2="753.14" y1="252.1692" y2="254.57"/><line style="stroke:#A80036;stroke-width:1.0;" x1="763.8795" x2="761.4786" y1="255.3846" y2="247.7533"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="1086.5" y="160.4951">collections</text><!--MD5=[191048ad3021cd7da00ad3f7f5ee65db]
+link Project to Award--><path codeLine="190" d="M1422.35,78.39 C1465.05,91.92 1523.2,114.26 1567.5,146 C1593.99,164.99 1618.45,191.35 1637.79,215.34 " fill="none" id="Project-to-Award" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1637.8734" x2="1647.5477" y1="215.4363" y2="217.9675"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1637.8734" x2="1638.1523" y1="215.4363" y2="225.4325"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1637.8734" x2="1642.85" y1="215.4363" y2="221.7"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1639.7611" x2="1633.4974" y1="211.3821" y2="216.3587"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="82" x="1589.5" y="160.4951">fundingSource</text><!--MD5=[1ffd9570c151cf8bce770b1c5109ac83]
+link Project to WebResource--><path codeLine="192" d="M1306.99,65.68 C1054.35,80.41 55.5,146.78 55.5,275.5 C55.5,275.5 55.5,275.5 55.5,944 C55.5,970.88 58.67,1000.22 62.49,1025.8 " fill="none" id="Project-to-WebResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="62.5368" x2="69.6806" y1="1026.0525" y2="1033.0501"/><line style="stroke:#A80036;stroke-width:1.0;" x1="62.5368" x2="57.8194" y1="1026.0525" y2="1034.8699"/><line style="stroke:#A80036;stroke-width:1.0;" x1="62.5368" x2="63.75" y1="1026.0525" y2="1033.96"/><line style="stroke:#A80036;stroke-width:1.0;" x1="66.1872" x2="58.2797" y1="1023.469" y2="1024.6823"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="56.5" y="649.9951">highlightedWebResources</text><!--MD5=[a9b09d7569d658283003f5256b89a667]
+link Project to Agent--><path codeLine="193" d="M1418.7,116.22 C1439.56,138.89 1462.45,166.39 1479.5,194 C1531.41,278.06 1569.93,387.66 1589.36,449.52 " fill="none" id="Project-to-Agent" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1589.3662" x2="1597.4775" y1="449.5534" y2="455.4022"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1589.3662" x2="1586.0225" y1="449.5534" y2="458.9778"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1589.3662" x2="1591.75" y1="449.5534" y2="457.19"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1592.5886" x2="1584.952" y1="446.4524" y2="448.8361"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="1558.5" y="281.9951">creator</text><!--MD5=[a9b09d7569d658283003f5256b89a667]
+link Project to Agent--><path codeLine="194" d="M1360.35,116.26 C1358.08,179.14 1362.58,284.15 1408.5,359 C1436.52,404.67 1485.83,439.49 1527.86,462.79 " fill="none" id="Project-to-Agent-1" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1528.0479" x2="1537.9446" y1="462.8872" y2="461.4534"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1528.0479" x2="1532.1954" y1="462.8872" y2="471.9866"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1528.0479" x2="1535.07" y1="462.8872" y2="466.72"/><ellipse cx="1522.7814" cy="460.0126" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="1409.5" y="281.9951">contributor</text><!--MD5=[f616ccee2d666a4a853c307929d8d001]
+link Project to Contact--><path codeLine="195" d="M1422.03,72.62 C1486.61,85.14 1593.72,109.37 1680.5,146 C1718.7,162.12 1729.72,166.21 1760.5,194 C1771.68,204.09 1782.18,216.5 1791.2,228.56 " fill="none" id="Project-to-Contact" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1791.3334" x2="1800.9008" y1="228.7456" y2="231.6551"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1791.3334" x2="1791.2192" y1="228.7456" y2="238.7449"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1791.3334" x2="1796.06" y1="228.7456" y2="235.2"/><ellipse cx="1787.7885" cy="223.9048" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="1719.5" y="160.4951">contact</text><!--MD5=[864f0b92d20797c217a6ab44c4dc7597]
+link Collection to webResource--><path codeLine="214" d="M683.05,359.23 C682.37,481.47 699.11,712.44 822.5,852 C869.17,904.79 953.78,929.66 990.13,938.3 " fill="none" id="Collection-to-webResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="990.4787" x2="999.6088" y1="938.3783" y2="934.299"/><line style="stroke:#A80036;stroke-width:1.0;" x1="990.4787" x2="996.9512" y1="938.3783" y2="946.001"/><line style="stroke:#A80036;stroke-width:1.0;" x1="990.4787" x2="998.28" y1="938.3783" y2="940.15"/><ellipse cx="984.6276" cy="937.0495" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[2a176ec6e56142e667a6ca4d450e462f]
+link Protocol to webResource--><path codeLine="215" d="M610.99,838.15 C624.24,854.84 641.17,872.18 660.5,883 C718.8,915.64 930.7,935.57 991.24,940.69 " fill="none" id="Protocol-to-webResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="994.7994" x2="994.1472" y1="936.9672" y2="944.9406"/><line style="stroke:#A80036;stroke-width:1.0;" x1="991.8094" x2="991.1572" y1="936.7226" y2="944.696"/><line style="stroke:#A80036;stroke-width:1.0;" x1="990.4866" x2="998.46" y1="940.6278" y2="941.28"/><!--MD5=[1c797bc0c7696043f62d4f663e490ac8]
+link Program to webResource--><path codeLine="216" d="M1078.74,845.41 C1056.94,874.96 1031.62,909.3 1017.8,928.04 " fill="none" id="Program-to-webResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1019.1626" x2="1012.7197" y1="932.9097" y2="928.1674"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1020.9409" x2="1014.498" y1="930.4936" y2="925.7513"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1018.3122" x2="1013.57" y1="927.3171" y2="933.76"/><!--MD5=[4a2e2c586f339b6454823a90987e2383]
+link Subprogram to webResource--><path codeLine="217" d="M1223.31,553.08 C1239.11,627.33 1255.5,762.48 1193.5,852 C1152.5,911.2 1061.45,932.89 1024.04,939.5 " fill="none" id="Subprogram-to-webResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1021.5088" x2="1020.2041" y1="943.9841" y2="936.0912"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1024.4686" x2="1023.164" y1="943.4949" y2="935.602"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1024.8029" x2="1016.91" y1="939.3854" y2="940.69"/><!--MD5=[95349482925edfed8310089adce9d7ff]
+link Project to webResource--><path codeLine="218" d="M1347.11,116.15 C1334.81,158.84 1320.5,220.37 1320.5,275.5 C1320.5,275.5 1320.5,275.5 1320.5,791.5 C1320.5,923.95 1090.04,939.91 1024.62,941.77 " fill="none" id="Project-to-webResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1027.5275" x2="1016.53" y1="941.7143" y2="941.95"/><ellipse cx="1027.5275" cy="941.7143" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1020.6148" x2="1020.4434" y1="945.8634" y2="937.8652"/><!--MD5=[7fb3a26b81560d5d6bd68c7e22ae7483]
+link License to webResource--><path codeLine="219" d="M1040.26,699.19 C1030.91,768.49 1015.18,885.09 1009.57,926.69 " fill="none" id="License-to-webResource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1013.105" x2="1005.1756" y1="930.3256" y2="929.265"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1013.5026" x2="1005.5733" y1="927.352" y2="926.2915"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1009.6705" x2="1008.61" y1="925.8306" y2="933.76"/><!--MD5=[0533f153d170161b6ff8faea2918f614]
+link webResource to WebResource--><path codeLine="220" d="M998.28,945.49 C917.46,958.54 328.39,1053.66 136.06,1084.72 " fill="none" id="webResource-to-WebResource" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="131.04,1085.53,140.5646,1088.0363,135.9754,1084.7289,139.2828,1080.1397,131.04,1085.53" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4d918feca7db87a718257e9b64da3d88]
+link Project to Subprogram--><path codeLine="222" d="M1306.86,100.01 C1276.59,123.15 1242.2,155.71 1224.5,194 C1188.67,271.49 1192.15,372.29 1199.55,435.97 " fill="none" id="Project-to-Subprogram" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1199.5612" x2="1206.4768" y1="435.9877" y2="443.2109"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1199.5612" x2="1194.5632" y1="435.9877" y2="444.6491"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1199.5612" x2="1200.52" y1="435.9877" y2="443.93"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1203.2927" x2="1195.3503" y1="433.5227" y2="434.4815"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="1225.5" y="281.9951">subprogram</text><!--MD5=[827a97e05ef2f8b4a56fbbcd192e9810]
+link Subprogram to Program--><path codeLine="223" d="M1172.38,553.37 C1165.6,565.05 1159.19,577.62 1154.5,590 C1137.5,634.86 1128.39,688.51 1123.6,728.87 " fill="none" id="Subprogram-to-Program" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1127.2116" x2="1119.2642" y1="732.4742" y2="731.5584"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1127.555" x2="1119.6076" y1="729.4939" y2="728.5781"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1123.6958" x2="1122.78" y1="728.0426" y2="735.99"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="47" x="1155.5" y="649.9951">program</text><!--MD5=[955c1a770bfc511e6f6df43fc6f67f6f]
+@startuml
+
+hide empty members
+'hide circle
+
+
+'Enums
+enum WebResourceType {
+    Download
+    Information
+    Explore
+    View
+}
+
+enum AccessControl {
+    Open
+    Embargoed
+    Controlled
+}
+
+enum CompletionState {
+    Complete
+    InProgress
+}
+
+enum AgentType {
+    Person
+    Organization
+}
+
+
+'Entity-like
+class Agent {
+    * id: String!
+    agent_id: String!
+    agentType: AgentType
+}
+
+class Modality {
+    * id: String!
+    name: String!
+    handle: String
+}
+
+class SpecimenType {
+    * id: String!
+    name: String!
+    handle: String
+}
+
+
+class WebResource {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+    url: String!
+    rrid: String
+}
+
+class Collection {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    lastUpdatedDate: Date
+    doi: String
+    rrid: String
+    citation: String
+}
+
+class Program {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Subprogram {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Project {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Protocol {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+}
+
+class Person {
+    * id: String!
+    name: String!
+    givenName: String!
+    familyName: String!
+    handle: String
+    orcid: String
+}
+
+class Organization {
+    * id: String
+    name: String!
+    handle: String
+    ror: String
+}
+
+class License {
+    * id: String!
+    handle: String
+    name: String!
+    title: String!
+    shortTitle: String!
+}
+
+class Award {
+    * id: String
+    name: String!
+    title: String!
+    identifier: String!
+    reportSymbol: String
+}
+
+class Technique {
+    * id: String!
+    handle: String
+    name: String!
+}
+
+class Species {
+    * id: String!
+    name: String!
+    common_name: String!
+    scientific_name: String
+    ncbi_taxonomy_id: String!
+    rrid: String
+}
+
+class SpecimenCount {
+    * id: String!
+    count: Int
+}
+
+class Contact {
+    * id: String!
+    name: String!
+    email: String
+}
+
+'Relationships
+Agent - -o| Person : person
+Agent - -o| Organization : organization
+
+Agent - -|| AgentType : type
+
+SpecimenCount - -|| SpecimenType : specimenType
+
+WebResource - -|| WebResourceType : type
+
+Technique - -|{ Protocol : protocol
+
+Collection - -|{  Modality : modality
+Collection - -|{  Species : species
+'Collection - -|{  SpecimenType : has samples of type
+Collection - -|{ SpecimenCount : specimenCount
+Collection - -|{  Technique : technique
+'Collection - -|{  WebResource : webResource
+Collection - -||  AccessControl : accessControl
+Collection - -||  CompletionState : completionState
+Collection - -|| License : license
+
+'Award - -o| Grant : grant
+Award - -|| Agent : funder
+Award - -|| Agent : awardee
+
+Contact - -o| Agent: agent
+
+Project - -|{ Collection : collections
+Project - -|{  Award : fundingSource
+'Project - -o|  WebResource : informationResource
+Project - -|{  WebResource : highlightedWebResources
+Project - -|{ Agent : creator
+Project - -o{  Agent : contributor
+Project - -o{  Contact : contact
+'Project - -|{  Modality : involves data of type
+'Project - -|{  Species : involves data about
+'Project - -|{  "Specimen type" : collected samples of type
+'Project - -|{  Technique : used
+'Project - -o{  Protocol : protocol
+'Project - -|{  License : has use of results limited by
+
+'Protocol - -|| WebResource : webResource
+
+'Grant - -|| Organization : from funding agency
+'Grant - -|| Organization : awarded to
+
+'circle "has creator"
+'Project - -|{ "has creator"
+'"has creator" - -> Person
+'"has creator" - -> Organization
+
+circle webResource
+Collection - -o{ webResource
+Protocol - -|| webResource
+Program - -|| webResource
+Subprogram - -|| webResource
+Project - -o|  webResource
+License - -|| webResource
+webResource - -> WebResource
+
+Project - -|{ Subprogram : subprogram
+Subprogram - -|| Program : program
+'Program - -o{ Program : parentProgram
+
+'circle "is part of"
+'Subprogram - -|| "is part of"
+'Project - -|{ "is part of"
+'"is part of" - -> Subprogram
+'"is part of" - -> Program
+
+@enduml
+
+@startuml
+
+hide empty members
+
+
+enum WebResourceType {
+    Download
+    Information
+    Explore
+    View
+}
+
+enum AccessControl {
+    Open
+    Embargoed
+    Controlled
+}
+
+enum CompletionState {
+    Complete
+    InProgress
+}
+
+enum AgentType {
+    Person
+    Organization
+}
+
+
+class Agent {
+    * id: String!
+    agent_id: String!
+    agentType: AgentType
+}
+
+class Modality {
+    * id: String!
+    name: String!
+    handle: String
+}
+
+class SpecimenType {
+    * id: String!
+    name: String!
+    handle: String
+}
+
+
+class WebResource {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+    url: String!
+    rrid: String
+}
+
+class Collection {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    lastUpdatedDate: Date
+    doi: String
+    rrid: String
+    citation: String
+}
+
+class Program {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Subprogram {
+    * id: String!
+    handle: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Project {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+    description: String!
+}
+
+class Protocol {
+    * id: String!
+    handle: String
+    title: String!
+    shortTitle: String!
+}
+
+class Person {
+    * id: String!
+    name: String!
+    givenName: String!
+    familyName: String!
+    handle: String
+    orcid: String
+}
+
+class Organization {
+    * id: String
+    name: String!
+    handle: String
+    ror: String
+}
+
+class License {
+    * id: String!
+    handle: String
+    name: String!
+    title: String!
+    shortTitle: String!
+}
+
+class Award {
+    * id: String
+    name: String!
+    title: String!
+    identifier: String!
+    reportSymbol: String
+}
+
+class Technique {
+    * id: String!
+    handle: String
+    name: String!
+}
+
+class Species {
+    * id: String!
+    name: String!
+    common_name: String!
+    scientific_name: String
+    ncbi_taxonomy_id: String!
+    rrid: String
+}
+
+class SpecimenCount {
+    * id: String!
+    count: Int
+}
+
+class Contact {
+    * id: String!
+    name: String!
+    email: String
+}
+
+Agent - -o| Person : person
+Agent - -o| Organization : organization
+
+Agent - -|| AgentType : type
+
+SpecimenCount - -|| SpecimenType : specimenType
+
+WebResource - -|| WebResourceType : type
+
+Technique - -|{ Protocol : protocol
+
+Collection - -|{  Modality : modality
+Collection - -|{  Species : species
+Collection - -|{ SpecimenCount : specimenCount
+Collection - -|{  Technique : technique
+Collection - -||  AccessControl : accessControl
+Collection - -||  CompletionState : completionState
+Collection - -|| License : license
+
+Award - -|| Agent : funder
+Award - -|| Agent : awardee
+
+Contact - -o| Agent: agent
+
+Project - -|{ Collection : collections
+Project - -|{  Award : fundingSource
+Project - -|{  WebResource : highlightedWebResources
+Project - -|{ Agent : creator
+Project - -o{  Agent : contributor
+Project - -o{  Contact : contact
+
+
+
+
+circle webResource
+Collection - -o{ webResource
+Protocol - -|| webResource
+Program - -|| webResource
+Subprogram - -|| webResource
+Project - -o|  webResource
+License - -|| webResource
+webResource - -> WebResource
+
+Project - -|{ Subprogram : subprogram
+Subprogram - -|| Program : program
+
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 10:19:58 PST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
