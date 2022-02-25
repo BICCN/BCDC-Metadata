@@ -173,15 +173,12 @@ Technique --|{ Protocol : protocol
 
 Collection --|{  Modality : modality
 Collection --|{  Species : species
-'Collection --|{  SpecimenType : has samples of type
 Collection --|{ SpecimenCount : specimenCount
 Collection --|{  Technique : technique
-'Collection --|{  WebResource : webResource
 Collection --||  AccessControl : accessControl
 Collection --||  CompletionState : completionState
 Collection --|| License : license
 
-'Award --o| Grant : grant
 Award --|| Agent : funder
 Award --|| Agent : awardee
 
@@ -189,27 +186,11 @@ Contact --o| Agent: agent
 
 Project --|{ Collection : collections
 Project --|{  Award : fundingSource
-'Project --o|  WebResource : informationResource
 Project --|{  WebResource : highlightedWebResources
 Project --|{ Agent : creator
 Project --o{  Agent : contributor
 Project --o{  Contact : contact
-'Project --|{  Modality : involves data of type
-'Project --|{  Species : involves data about
-'Project --|{  "Specimen type" : collected samples of type
-'Project --|{  Technique : used
-'Project --o{  Protocol : protocol
-'Project --|{  License : has use of results limited by
 
-'Protocol --|| WebResource : webResource
-
-'Grant --|| Organization : from funding agency
-'Grant --|| Organization : awarded to
-
-'circle "has creator"
-'Project --|{ "has creator"
-'"has creator" --> Person
-'"has creator" --> Organization
 
 circle webResource
 Collection --o{ webResource
@@ -220,14 +201,9 @@ Project --o|  webResource
 License --|| webResource
 webResource --> WebResource
 
+Project --|> Program
+Program --|> Subprogram
 Project --|{ Subprogram : subprogram
 Subprogram --|| Program : program
-'Program --o{ Program : parentProgram
-
-'circle "is part of"
-'Subprogram --|| "is part of"
-'Project --|{ "is part of"
-'"is part of" --> Subprogram
-'"is part of" --> Program
 
 @enduml
