@@ -148,6 +148,62 @@ here: https://docs.google.com/spreadsheets/d/1s7ZJaC9kYyyDnkYShRImmFXV11yxAO70mC
 * Channel Type
 * Data Type
 
+## NIMH Data Archive
+### NDA Collections
+* Title
+* Description
+* Investigators
+* Organization
+* Submission Status
+* Creation Date
+* Funding Source
+* Permission Group
+* NIH Research Initiative
+* Data Repository
+* Funding Sources
+* Supporting Documentation
+* Grants
+* Publications
+* Associated Studies
+### Grant
+* Project Number
+* Project Title
+* Start Date
+* End Date
+* Planned Enrollment
+* Actual Enrollment
+* Organization
+* Funding Amount
+### Funding Source
+* Funding Source Name
+* Funding Source URL
+### Study
+* Investigators
+* Abstract
+* Results
+* Documents
+* DOI
+* Data Usage
+* NIH Research Initiatives
+* Collections
+
+...
+### Publication
+* PubMed ID
+* Study
+* Title
+* Journal
+* Authors
+* Date
+* Status
+
+...
+### Support Document
+* File Name
+* File Type
+* Description
+* Audience
+
 ## BCDC Data Wrangling (Preferred)
 
 ### Project

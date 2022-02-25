@@ -1,0 +1,132 @@
+@startuml
+hide empty members
+
+enum SubmissionStatus {
+    Completed
+}
+
+enum CollectionState {
+    Shared
+    Private
+}
+
+enum DataUsage {
+    Primary Analysis
+    Secondary Analysis
+}
+
+enum PublicationStatus {
+    Not Determined
+    Relevant
+}
+
+enum StudyType {
+    Finding
+}
+
+class Collection {
+    title: String!
+    description: String!
+'    investigators: [Person]!
+'    organization: [Organization]!
+'    submissionStatus: SubmissionStatus!
+    creationDate: Date!
+'    fundingSource: FundingSource
+    permissionGroup: PermissionGroup
+    nIHResearchInitiative: NIHResearchInitiative
+    dataRepository: DataRepository
+'    fundingSources: [FundingSource]!
+'    supportingDocumentation: [Document]
+'    grants: [Grant]
+'    publications: [Publication]
+'    associatedStudies: [Study]
+'    state: CollectionState!
+}
+
+class Grant {
+    projectNumber: String!
+    projectTitle: String
+    startDate: Date!
+    endDate: Date
+    plannedEnrollment: Int!
+    actualEnrollment: Int
+'    organization: Organization
+    fundingAmount: Int!
+}
+
+class FundingSource {
+    name: Str
+    uRL: Str
+}
+
+class Study {
+'    owner: Owner!
+    ownerEmail: String!
+'    studyType: StudyType!
+'    investigators: [Person]!
+'    results: [Publication]
+'    documents: [Document]
+    dOI: String!
+    nIHResearchInitiatives: NIHResearchInitiative
+'    collections: [Collection]
+}
+
+class Publication {
+    pubMedID: String!
+    study: [Study]
+    title: String!
+    journal: String!
+'    authors: [Person | Organization]
+    date: Date!
+'    status: PublicationStatus
+}
+
+class Document {
+    fileName: String!
+    fileType: String!
+    description: String
+    audience: String
+}
+
+class Person {
+    name: String!
+}
+
+class Organization {
+    name: String!
+}
+
+class Owner {
+    name: String!
+    email: String!
+}
+
+Collection --|{ Person : investigators
+Collection --|{ Organization : organization
+Collection --|| SubmissionStatus : submissionStatus
+Collection --|{ FundingSource : fundingSources
+Collection --o{ Document : supportingDocumentation
+Collection --o{ Grant : grants
+Collection --o{ Publication : publications
+Collection --o{ Study : associatedStudies
+Collection --|| CollectionState : state
+
+Grant --|| Organization : organization
+
+Study --|| Owner : owner
+Study --|| StudyType : studyType
+Study --|{ Person : investigators
+Study --o{ Publication : results
+Study --o{ Document : documents
+Study --|| DataUsage : dataUsage
+Study --o{ Collection : collections
+
+circle authors
+Publication --|{ authors
+authors --> Person
+authors --> Organization
+Publication --|| PublicationStatus : status
+
+
+
+@enduml

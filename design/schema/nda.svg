@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="870px" preserveAspectRatio="none" style="width:1610px;height:870px;background:#FFFFFF;" version="1.1" viewBox="0 0 1610 870" width="1610px" zoomAndPan="magnify"><defs><filter height="300%" id="f14tujwam1gphg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[44da0bf1084d2da6c7ca5748b2af4a41]
+class SubmissionStatus--><rect codeLine="3" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="53.8359" id="SubmissionStatus" style="stroke:#A80036;stroke-width:1.5;" width="134" x="7" y="222"/><ellipse cx="22" cy="238" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M20.5,239 L20.5,241 L24.5,241 L24.5,240 L24.5,239.5156 L25.125,239 L25.5,239 L25.875,239 L26.5,239.5156 L26.5,240 L26.5,243 L18.5,243 L18.0156,243 L17.5,242.375 L17.5,242 L17.5,241.625 L18.0156,241 L18.5,241 L18.5,241 L18.5,235 L18.5,235 L18.0156,235 L17.5,234.375 L17.5,234 L17.5,233.625 L18.0156,233 L18.5,233 L26.5,233 L26.5,236 L26.5,236.4844 L25.875,237 L25.5,237 L25.125,237 L24.5,236.4844 L24.5,236 L24.5,235 L20.5,235 L20.5,237 L21.5,237 L21.5,236.5156 L21.5,236.5156 L22.125,236 L22.5,236 L22.875,236 L23.5,236.5156 L23.5,237 L23.5,239 L23.5,239.4844 L22.875,240 L22.875,240 L22.5,240 L22.125,240 L21.5,239.4844 L21.5,239.4844 L21.5,239 L20.5,239 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="36" y="242.9102">SubmissionStatus</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="140" y1="254" y2="254"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="13" y="269.4189">Completed</text><!--MD5=[01998c742a6d597fbc4a5189d1068e29]
+class CollectionState--><rect codeLine="7" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="67.6719" id="CollectionState" style="stroke:#A80036;stroke-width:1.5;" width="115" x="176.5" y="215"/><ellipse cx="191.5" cy="231" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M190,232 L190,234 L194,234 L194,233 L194,232.5156 L194.625,232 L195,232 L195.375,232 L196,232.5156 L196,233 L196,236 L188,236 L187.5156,236 L187,235.375 L187,235 L187,234.625 L187.5156,234 L188,234 L188,234 L188,228 L188,228 L187.5156,228 L187,227.375 L187,227 L187,226.625 L187.5156,226 L188,226 L196,226 L196,229 L196,229.4844 L195.375,230 L195,230 L194.625,230 L194,229.4844 L194,229 L194,228 L190,228 L190,230 L191,230 L191,229.5156 L191,229.5156 L191.625,229 L192,229 L192.375,229 L193,229.5156 L193,230 L193,232 L193,232.4844 L192.375,233 L192.375,233 L192,233 L191.625,233 L191,232.4844 L191,232.4844 L191,232 L190,232 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="83" x="205.5" y="235.9102">CollectionState</text><line style="stroke:#A80036;stroke-width:1.5;" x1="177.5" x2="290.5" y1="247" y2="247"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="35" x="182.5" y="262.4189">Shared</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="33" x="182.5" y="276.2549">Private</text><!--MD5=[ddf14aad317b77e6f6f1d5d7034816f4]
+class DataUsage--><rect codeLine="12" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="67.6719" id="DataUsage" style="stroke:#A80036;stroke-width:1.5;" width="110" x="978" y="507.5"/><ellipse cx="999.75" cy="523.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M998.25,524.5 L998.25,526.5 L1002.25,526.5 L1002.25,525.5 L1002.25,525.0156 L1002.875,524.5 L1003.25,524.5 L1003.625,524.5 L1004.25,525.0156 L1004.25,525.5 L1004.25,528.5 L996.25,528.5 L995.7656,528.5 L995.25,527.875 L995.25,527.5 L995.25,527.125 L995.7656,526.5 L996.25,526.5 L996.25,526.5 L996.25,520.5 L996.25,520.5 L995.7656,520.5 L995.25,519.875 L995.25,519.5 L995.25,519.125 L995.7656,518.5 L996.25,518.5 L1004.25,518.5 L1004.25,521.5 L1004.25,521.9844 L1003.625,522.5 L1003.25,522.5 L1002.875,522.5 L1002.25,521.9844 L1002.25,521.5 L1002.25,520.5 L998.25,520.5 L998.25,522.5 L999.25,522.5 L999.25,522.0156 L999.25,522.0156 L999.875,521.5 L1000.25,521.5 L1000.625,521.5 L1001.25,522.0156 L1001.25,522.5 L1001.25,524.5 L1001.25,524.9844 L1000.625,525.5 L1000.625,525.5 L1000.25,525.5 L999.875,525.5 L999.25,524.9844 L999.25,524.9844 L999.25,524.5 L998.25,524.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="63" x="1015.25" y="528.4102">DataUsage</text><line style="stroke:#A80036;stroke-width:1.5;" x1="979" x2="1087" y1="539.5" y2="539.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="984" y="554.9189">Primary Analysis</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="984" y="568.7549">Secondary Analysis</text><!--MD5=[3d66aa8284ea03063787641ffa57e75a]
+class PublicationStatus--><rect codeLine="17" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="67.6719" id="PublicationStatus" style="stroke:#A80036;stroke-width:1.5;" width="128" x="561" y="674"/><ellipse cx="576" cy="690" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M574.5,691 L574.5,693 L578.5,693 L578.5,692 L578.5,691.5156 L579.125,691 L579.5,691 L579.875,691 L580.5,691.5156 L580.5,692 L580.5,695 L572.5,695 L572.0156,695 L571.5,694.375 L571.5,694 L571.5,693.625 L572.0156,693 L572.5,693 L572.5,693 L572.5,687 L572.5,687 L572.0156,687 L571.5,686.375 L571.5,686 L571.5,685.625 L572.0156,685 L572.5,685 L580.5,685 L580.5,688 L580.5,688.4844 L579.875,689 L579.5,689 L579.125,689 L578.5,688.4844 L578.5,688 L578.5,687 L574.5,687 L574.5,689 L575.5,689 L575.5,688.5156 L575.5,688.5156 L576.125,688 L576.5,688 L576.875,688 L577.5,688.5156 L577.5,689 L577.5,691 L577.5,691.4844 L576.875,692 L576.875,692 L576.5,692 L576.125,692 L575.5,691.4844 L575.5,691.4844 L575.5,691 L574.5,691 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="96" x="590" y="694.9102">PublicationStatus</text><line style="stroke:#A80036;stroke-width:1.5;" x1="562" x2="688" y1="706" y2="706"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="567" y="721.4189">Not Determined</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="42" x="567" y="735.2549">Relevant</text><!--MD5=[48666d45cdcdd5e6a858a87e78c9cdb7]
+class StudyType--><rect codeLine="22" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="53.8359" id="StudyType" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1123" y="514.5"/><ellipse cx="1138" cy="530.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1136.5,531.5 L1136.5,533.5 L1140.5,533.5 L1140.5,532.5 L1140.5,532.0156 L1141.125,531.5 L1141.5,531.5 L1141.875,531.5 L1142.5,532.0156 L1142.5,532.5 L1142.5,535.5 L1134.5,535.5 L1134.0156,535.5 L1133.5,534.875 L1133.5,534.5 L1133.5,534.125 L1134.0156,533.5 L1134.5,533.5 L1134.5,533.5 L1134.5,527.5 L1134.5,527.5 L1134.0156,527.5 L1133.5,526.875 L1133.5,526.5 L1133.5,526.125 L1134.0156,525.5 L1134.5,525.5 L1142.5,525.5 L1142.5,528.5 L1142.5,528.9844 L1141.875,529.5 L1141.5,529.5 L1141.125,529.5 L1140.5,528.9844 L1140.5,528.5 L1140.5,527.5 L1136.5,527.5 L1136.5,529.5 L1137.5,529.5 L1137.5,529.0156 L1137.5,529.0156 L1138.125,528.5 L1138.5,528.5 L1138.875,528.5 L1139.5,529.0156 L1139.5,529.5 L1139.5,531.5 L1139.5,531.9844 L1138.875,532.5 L1138.875,532.5 L1138.5,532.5 L1138.125,532.5 L1137.5,531.9844 L1137.5,531.9844 L1137.5,531.5 L1136.5,531.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="1152" y="535.4102">StudyType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1124" x2="1210" y1="546.5" y2="546.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="34" x="1129" y="561.9189">Finding</text><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="26" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="123.0156" id="Collection" style="stroke:#A80036;stroke-width:1.5;" width="219" x="517.5" y="7"/><ellipse cx="595.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M597.25,19.5 Q597.4531,19 597.6875,18.75 Q597.9219,18.5 598.1875,18.5 Q598.6563,18.5 598.9531,18.7813 Q599.25,19.0625 599.25,19.7188 L599.25,21.2813 Q599.25,21.9375 598.9688,22.2188 Q598.6875,22.5 598.25,22.5 Q597.8594,22.5 597.6094,22.3281 Q597.3594,22.1563 597.25,21.7031 Q597.2031,21.3906 597.0313,21.2188 Q596.7188,20.8906 596.1563,20.7031 Q595.5938,20.5 595.0313,20.5 Q594.3281,20.5 593.7344,20.7813 Q593.1563,21.0625 592.7031,21.6875 Q592.25,22.3125 592.25,23.1719 L592.25,24.0938 Q592.25,25.125 593.0938,25.8125 Q593.9375,26.5 595.4375,26.5 Q596.3281,26.5 596.9531,26.2969 Q597.3125,26.1875 597.7188,25.8281 Q597.9844,25.625 598.125,25.5625 Q598.2656,25.5 598.4375,25.5 Q598.7656,25.5 599,25.7656 Q599.25,26.0156 599.25,26.375 Q599.25,26.7188 598.9063,27.125 Q598.4063,27.7188 597.6094,28.0469 Q596.5625,28.5 595.2813,28.5 Q593.7813,28.5 592.5781,27.9063 Q591.6094,27.4375 590.9219,26.4219 Q590.25,25.4063 590.25,24.2031 L590.25,23.1094 Q590.25,21.8594 590.8438,20.7656 Q591.4531,19.6719 592.5,19.0938 Q593.5625,18.5 594.75,18.5 Q595.4688,18.5 596.0938,18.75 Q596.7188,19 597.25,19.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="55" x="615.75" y="27.9102">Collection</text><line style="stroke:#A80036;stroke-width:1.5;" x1="518.5" x2="735.5" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="523.5" y="54.4189">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="523.5" y="68.2549">description: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="523.5" y="82.0908">creationDate: Date!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="170" x="523.5" y="95.9268">permissionGroup: PermissionGroup</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="207" x="523.5" y="109.7627">nIHResearchInitiative: NIHResearchInitiative</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="153" x="523.5" y="123.5986">dataRepository: DataRepository</text><!--MD5=[c433c0453beae252ec142f87216236a3]
+class Grant--><rect codeLine="45" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="136.8516" id="Grant" style="stroke:#A80036;stroke-width:1.5;" width="118" x="269" y="320"/><ellipse cx="309.2" cy="336" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M311.2,332.5 Q311.4031,332 311.6375,331.75 Q311.8719,331.5 312.1375,331.5 Q312.6063,331.5 312.9031,331.7813 Q313.2,332.0625 313.2,332.7188 L313.2,334.2813 Q313.2,334.9375 312.9188,335.2188 Q312.6375,335.5 312.2,335.5 Q311.8094,335.5 311.5594,335.3281 Q311.3094,335.1563 311.2,334.7031 Q311.1531,334.3906 310.9813,334.2188 Q310.6688,333.8906 310.1063,333.7031 Q309.5438,333.5 308.9813,333.5 Q308.2781,333.5 307.6844,333.7813 Q307.1063,334.0625 306.6531,334.6875 Q306.2,335.3125 306.2,336.1719 L306.2,337.0938 Q306.2,338.125 307.0438,338.8125 Q307.8875,339.5 309.3875,339.5 Q310.2781,339.5 310.9031,339.2969 Q311.2625,339.1875 311.6688,338.8281 Q311.9344,338.625 312.075,338.5625 Q312.2156,338.5 312.3875,338.5 Q312.7156,338.5 312.95,338.7656 Q313.2,339.0156 313.2,339.375 Q313.2,339.7188 312.8563,340.125 Q312.3563,340.7188 311.5594,341.0469 Q310.5125,341.5 309.2313,341.5 Q307.7313,341.5 306.5281,340.9063 Q305.5594,340.4375 304.8719,339.4219 Q304.2,338.4063 304.2,337.2031 L304.2,336.1094 Q304.2,334.8594 304.7938,333.7656 Q305.4031,332.6719 306.45,332.0938 Q307.5125,331.5 308.7,331.5 Q309.4188,331.5 310.0438,331.75 Q310.6688,332 311.2,332.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="30" x="328.8" y="340.9102">Grant</text><line style="stroke:#A80036;stroke-width:1.5;" x1="270" x2="386" y1="352" y2="352"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="106" x="275" y="367.4189">projectNumber: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="275" y="381.2549">projectTitle: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="275" y="395.0908">startDate: Date!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="275" y="408.9268">endDate: Date</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="106" x="275" y="422.7627">plannedEnrollment: Int!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="275" y="436.5986">actualEnrollment: Int</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="275" y="450.4346">fundingAmount: Int!</text><!--MD5=[1410a908690286f36aef5458f4dedda2]
+class FundingSource--><rect codeLine="56" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="67.6719" id="FundingSource" style="stroke:#A80036;stroke-width:1.5;" width="116" x="1480" y="215"/><ellipse cx="1495" cy="231" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1497,227.5 Q1497.2031,227 1497.4375,226.75 Q1497.6719,226.5 1497.9375,226.5 Q1498.4063,226.5 1498.7031,226.7813 Q1499,227.0625 1499,227.7188 L1499,229.2813 Q1499,229.9375 1498.7188,230.2188 Q1498.4375,230.5 1498,230.5 Q1497.6094,230.5 1497.3594,230.3281 Q1497.1094,230.1563 1497,229.7031 Q1496.9531,229.3906 1496.7813,229.2188 Q1496.4688,228.8906 1495.9063,228.7031 Q1495.3438,228.5 1494.7813,228.5 Q1494.0781,228.5 1493.4844,228.7813 Q1492.9063,229.0625 1492.4531,229.6875 Q1492,230.3125 1492,231.1719 L1492,232.0938 Q1492,233.125 1492.8438,233.8125 Q1493.6875,234.5 1495.1875,234.5 Q1496.0781,234.5 1496.7031,234.2969 Q1497.0625,234.1875 1497.4688,233.8281 Q1497.7344,233.625 1497.875,233.5625 Q1498.0156,233.5 1498.1875,233.5 Q1498.5156,233.5 1498.75,233.7656 Q1499,234.0156 1499,234.375 Q1499,234.7188 1498.6563,235.125 Q1498.1563,235.7188 1497.3594,236.0469 Q1496.3125,236.5 1495.0313,236.5 Q1493.5313,236.5 1492.3281,235.9063 Q1491.3594,235.4375 1490.6719,234.4219 Q1490,233.4063 1490,232.2031 L1490,231.1094 Q1490,229.8594 1490.5938,228.7656 Q1491.2031,227.6719 1492.25,227.0938 Q1493.3125,226.5 1494.5,226.5 Q1495.2188,226.5 1495.8438,226.75 Q1496.4688,227 1497,227.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="84" x="1509" y="235.9102">FundingSource</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1481" x2="1595" y1="247" y2="247"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="1486" y="262.4189">name: Str</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="1486" y="276.2549">uRL: Str</text><!--MD5=[b57d2bdb0ec648c024f70c5efc1808d3]
+class Study--><rect codeLine="61" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="81.5078" id="Study" style="stroke:#A80036;stroke-width:1.5;" width="225" x="798.5" y="208"/><ellipse cx="891.75" cy="224" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M893.75,220.5 Q893.9531,220 894.1875,219.75 Q894.4219,219.5 894.6875,219.5 Q895.1563,219.5 895.4531,219.7813 Q895.75,220.0625 895.75,220.7188 L895.75,222.2813 Q895.75,222.9375 895.4688,223.2188 Q895.1875,223.5 894.75,223.5 Q894.3594,223.5 894.1094,223.3281 Q893.8594,223.1563 893.75,222.7031 Q893.7031,222.3906 893.5313,222.2188 Q893.2188,221.8906 892.6563,221.7031 Q892.0938,221.5 891.5313,221.5 Q890.8281,221.5 890.2344,221.7813 Q889.6563,222.0625 889.2031,222.6875 Q888.75,223.3125 888.75,224.1719 L888.75,225.0938 Q888.75,226.125 889.5938,226.8125 Q890.4375,227.5 891.9375,227.5 Q892.8281,227.5 893.4531,227.2969 Q893.8125,227.1875 894.2188,226.8281 Q894.4844,226.625 894.625,226.5625 Q894.7656,226.5 894.9375,226.5 Q895.2656,226.5 895.5,226.7656 Q895.75,227.0156 895.75,227.375 Q895.75,227.7188 895.4063,228.125 Q894.9063,228.7188 894.1094,229.0469 Q893.0625,229.5 891.7813,229.5 Q890.2813,229.5 889.0781,228.9063 Q888.1094,228.4375 887.4219,227.4219 Q886.75,226.4063 886.75,225.2031 L886.75,224.1094 Q886.75,222.8594 887.3438,221.7656 Q887.9531,220.6719 889,220.0938 Q890.0625,219.5 891.25,219.5 Q891.9688,219.5 892.5938,219.75 Q893.2188,220 893.75,220.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="30" x="912.25" y="228.9102">Study</text><line style="stroke:#A80036;stroke-width:1.5;" x1="799.5" x2="1022.5" y1="240" y2="240"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="804.5" y="255.4189">ownerEmail: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="804.5" y="269.2549">dOI: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="213" x="804.5" y="283.0908">nIHResearchInitiatives: NIHResearchInitiative</text><!--MD5=[bfaa0cf1c94f172be725c75ad56c3fba]
+class Publication--><rect codeLine="73" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="109.1797" id="Publication" style="stroke:#A80036;stroke-width:1.5;" width="95" x="523.5" y="487"/><ellipse cx="539.4" cy="503" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M541.4,499.5 Q541.6031,499 541.8375,498.75 Q542.0719,498.5 542.3375,498.5 Q542.8063,498.5 543.1031,498.7813 Q543.4,499.0625 543.4,499.7188 L543.4,501.2813 Q543.4,501.9375 543.1188,502.2188 Q542.8375,502.5 542.4,502.5 Q542.0094,502.5 541.7594,502.3281 Q541.5094,502.1563 541.4,501.7031 Q541.3531,501.3906 541.1813,501.2188 Q540.8688,500.8906 540.3063,500.7031 Q539.7438,500.5 539.1813,500.5 Q538.4781,500.5 537.8844,500.7813 Q537.3063,501.0625 536.8531,501.6875 Q536.4,502.3125 536.4,503.1719 L536.4,504.0938 Q536.4,505.125 537.2438,505.8125 Q538.0875,506.5 539.5875,506.5 Q540.4781,506.5 541.1031,506.2969 Q541.4625,506.1875 541.8688,505.8281 Q542.1344,505.625 542.275,505.5625 Q542.4156,505.5 542.5875,505.5 Q542.9156,505.5 543.15,505.7656 Q543.4,506.0156 543.4,506.375 Q543.4,506.7188 543.0563,507.125 Q542.5563,507.7188 541.7594,508.0469 Q540.7125,508.5 539.4313,508.5 Q537.9313,508.5 536.7281,507.9063 Q535.7594,507.4375 535.0719,506.4219 Q534.4,505.4063 534.4,504.2031 L534.4,503.1094 Q534.4,501.8594 534.9938,500.7656 Q535.6031,499.6719 536.65,499.0938 Q537.7125,498.5 538.9,498.5 Q539.6188,498.5 540.2438,498.75 Q540.8688,499 541.4,499.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="61" x="553.6" y="507.9102">Publication</text><line style="stroke:#A80036;stroke-width:1.5;" x1="524.5" x2="617.5" y1="519" y2="519"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="529.5" y="534.4189">pubMedID: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="529.5" y="548.2549">study: [Study]</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="529.5" y="562.0908">title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="529.5" y="575.9268">journal: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="51" x="529.5" y="589.7627">date: Date!</text><!--MD5=[59b530d44ae785dc18db921986a9c15c]
+class Document--><rect codeLine="83" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="95.3438" id="Document" style="stroke:#A80036;stroke-width:1.5;" width="99" x="1246.5" y="494"/><ellipse cx="1266" cy="510" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1268,506.5 Q1268.2031,506 1268.4375,505.75 Q1268.6719,505.5 1268.9375,505.5 Q1269.4063,505.5 1269.7031,505.7813 Q1270,506.0625 1270,506.7188 L1270,508.2813 Q1270,508.9375 1269.7188,509.2188 Q1269.4375,509.5 1269,509.5 Q1268.6094,509.5 1268.3594,509.3281 Q1268.1094,509.1563 1268,508.7031 Q1267.9531,508.3906 1267.7813,508.2188 Q1267.4688,507.8906 1266.9063,507.7031 Q1266.3438,507.5 1265.7813,507.5 Q1265.0781,507.5 1264.4844,507.7813 Q1263.9063,508.0625 1263.4531,508.6875 Q1263,509.3125 1263,510.1719 L1263,511.0938 Q1263,512.125 1263.8438,512.8125 Q1264.6875,513.5 1266.1875,513.5 Q1267.0781,513.5 1267.7031,513.2969 Q1268.0625,513.1875 1268.4688,512.8281 Q1268.7344,512.625 1268.875,512.5625 Q1269.0156,512.5 1269.1875,512.5 Q1269.5156,512.5 1269.75,512.7656 Q1270,513.0156 1270,513.375 Q1270,513.7188 1269.6563,514.125 Q1269.1563,514.7188 1268.3594,515.0469 Q1267.3125,515.5 1266.0313,515.5 Q1264.5313,515.5 1263.3281,514.9063 Q1262.3594,514.4375 1261.6719,513.4219 Q1261,512.4063 1261,511.2031 L1261,510.1094 Q1261,508.8594 1261.5938,507.7656 Q1262.2031,506.6719 1263.25,506.0938 Q1264.3125,505.5 1265.5,505.5 Q1266.2188,505.5 1266.8438,505.75 Q1267.4688,506 1268,506.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="57" x="1281" y="514.9102">Document</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1247.5" x2="1344.5" y1="526" y2="526"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1252.5" y="541.4189">fileName: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="1252.5" y="555.2549">fileType: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="87" x="1252.5" y="569.0908">description: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="1252.5" y="582.9268">audience: String</text><!--MD5=[09ce52be0ee7de43c61b6e2d59bf108b]
+class Person--><rect codeLine="90" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="53.8359" id="Person" style="stroke:#A80036;stroke-width:1.5;" width="74" x="705" y="803"/><ellipse cx="720.9" cy="819" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M722.9,815.5 Q723.1031,815 723.3375,814.75 Q723.5719,814.5 723.8375,814.5 Q724.3063,814.5 724.6031,814.7813 Q724.9,815.0625 724.9,815.7188 L724.9,817.2813 Q724.9,817.9375 724.6188,818.2188 Q724.3375,818.5 723.9,818.5 Q723.5094,818.5 723.2594,818.3281 Q723.0094,818.1563 722.9,817.7031 Q722.8531,817.3906 722.6813,817.2188 Q722.3688,816.8906 721.8063,816.7031 Q721.2438,816.5 720.6813,816.5 Q719.9781,816.5 719.3844,816.7813 Q718.8063,817.0625 718.3531,817.6875 Q717.9,818.3125 717.9,819.1719 L717.9,820.0938 Q717.9,821.125 718.7438,821.8125 Q719.5875,822.5 721.0875,822.5 Q721.9781,822.5 722.6031,822.2969 Q722.9625,822.1875 723.3688,821.8281 Q723.6344,821.625 723.775,821.5625 Q723.9156,821.5 724.0875,821.5 Q724.4156,821.5 724.65,821.7656 Q724.9,822.0156 724.9,822.375 Q724.9,822.7188 724.5563,823.125 Q724.0563,823.7188 723.2594,824.0469 Q722.2125,824.5 720.9313,824.5 Q719.4313,824.5 718.2281,823.9063 Q717.2594,823.4375 716.5719,822.4219 Q715.9,821.4063 715.9,820.2031 L715.9,819.1094 Q715.9,817.8594 716.4938,816.7656 Q717.1031,815.6719 718.15,815.0938 Q719.2125,814.5 720.4,814.5 Q721.1188,814.5 721.7438,814.75 Q722.3688,815 722.9,815.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="735.1" y="823.9102">Person</text><line style="stroke:#A80036;stroke-width:1.5;" x1="706" x2="778" y1="835" y2="835"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="711" y="850.4189">name: String!</text><!--MD5=[86c7c362de55a38b660185a1328fe18d]
+class Organization--><rect codeLine="94" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="53.8359" id="Organization" style="stroke:#A80036;stroke-width:1.5;" width="101" x="358.5" y="803"/><ellipse cx="373.5" cy="819" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M375.5,815.5 Q375.7031,815 375.9375,814.75 Q376.1719,814.5 376.4375,814.5 Q376.9063,814.5 377.2031,814.7813 Q377.5,815.0625 377.5,815.7188 L377.5,817.2813 Q377.5,817.9375 377.2188,818.2188 Q376.9375,818.5 376.5,818.5 Q376.1094,818.5 375.8594,818.3281 Q375.6094,818.1563 375.5,817.7031 Q375.4531,817.3906 375.2813,817.2188 Q374.9688,816.8906 374.4063,816.7031 Q373.8438,816.5 373.2813,816.5 Q372.5781,816.5 371.9844,816.7813 Q371.4063,817.0625 370.9531,817.6875 Q370.5,818.3125 370.5,819.1719 L370.5,820.0938 Q370.5,821.125 371.3438,821.8125 Q372.1875,822.5 373.6875,822.5 Q374.5781,822.5 375.2031,822.2969 Q375.5625,822.1875 375.9688,821.8281 Q376.2344,821.625 376.375,821.5625 Q376.5156,821.5 376.6875,821.5 Q377.0156,821.5 377.25,821.7656 Q377.5,822.0156 377.5,822.375 Q377.5,822.7188 377.1563,823.125 Q376.6563,823.7188 375.8594,824.0469 Q374.8125,824.5 373.5313,824.5 Q372.0313,824.5 370.8281,823.9063 Q369.8594,823.4375 369.1719,822.4219 Q368.5,821.4063 368.5,820.2031 L368.5,819.1094 Q368.5,817.8594 369.0938,816.7656 Q369.7031,815.6719 370.75,815.0938 Q371.8125,814.5 373,814.5 Q373.7188,814.5 374.3438,814.75 Q374.9688,815 375.5,815.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="387.5" y="823.9102">Organization</text><line style="stroke:#A80036;stroke-width:1.5;" x1="359.5" x2="458.5" y1="835" y2="835"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="364.5" y="850.4189">name: String!</text><!--MD5=[08d6a551530ab71b272f9c2c40bfb385]
+class Owner--><rect codeLine="98" fill="#FEFECE" filter="url(#f14tujwam1gphg)" height="67.6719" id="Owner" style="stroke:#A80036;stroke-width:1.5;" width="74" x="798" y="507.5"/><ellipse cx="815.7" cy="523.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M817.7,520 Q817.9031,519.5 818.1375,519.25 Q818.3719,519 818.6375,519 Q819.1063,519 819.4031,519.2813 Q819.7,519.5625 819.7,520.2188 L819.7,521.7813 Q819.7,522.4375 819.4188,522.7188 Q819.1375,523 818.7,523 Q818.3094,523 818.0594,522.8281 Q817.8094,522.6563 817.7,522.2031 Q817.6531,521.8906 817.4813,521.7188 Q817.1688,521.3906 816.6063,521.2031 Q816.0438,521 815.4813,521 Q814.7781,521 814.1844,521.2813 Q813.6063,521.5625 813.1531,522.1875 Q812.7,522.8125 812.7,523.6719 L812.7,524.5938 Q812.7,525.625 813.5438,526.3125 Q814.3875,527 815.8875,527 Q816.7781,527 817.4031,526.7969 Q817.7625,526.6875 818.1688,526.3281 Q818.4344,526.125 818.575,526.0625 Q818.7156,526 818.8875,526 Q819.2156,526 819.45,526.2656 Q819.7,526.5156 819.7,526.875 Q819.7,527.2188 819.3563,527.625 Q818.8563,528.2188 818.0594,528.5469 Q817.0125,529 815.7313,529 Q814.2313,529 813.0281,528.4063 Q812.0594,527.9375 811.3719,526.9219 Q810.7,525.9063 810.7,524.7031 L810.7,523.6094 Q810.7,522.3594 811.2938,521.2656 Q811.9031,520.1719 812.95,519.5938 Q814.0125,519 815.2,519 Q815.9188,519 816.5438,519.25 Q817.1688,519.5 817.7,520 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="36" x="830.3" y="528.4102">Owner</text><line style="stroke:#A80036;stroke-width:1.5;" x1="799" x2="871" y1="539.5" y2="539.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="804" y="554.9189">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="804" y="568.7549">email: String!</text><!--MD5=[1e65f328944a413548fa4e9e0eef5b1f]
+entity authors--><ellipse cx="494" cy="708" fill="#FEFECE" filter="url(#f14tujwam1gphg)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="470" y="739.5332">authors</text><!--MD5=[75eea237cda4ac188501d8c2d58c611b]
+link Collection to Person--><path codeLine="103" d="M647.13,130.28 C654.4,154.26 662.02,182.2 667,208 C699.85,378.17 684.09,424.08 706,596 C715.03,666.91 728.5,749.5 736.14,794.84 " fill="none" id="Collection-to-Person" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="736.157" x2="743.4149" y1="794.9735" y2="801.8528"/><line style="stroke:#A80036;stroke-width:1.0;" x1="736.157" x2="731.5851" y1="794.9735" y2="803.8672"/><line style="stroke:#A80036;stroke-width:1.0;" x1="736.157" x2="737.5" y1="794.9735" y2="802.86"/><line style="stroke:#A80036;stroke-width:1.0;" x1="739.7645" x2="731.878" y1="792.3304" y2="793.6734"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="707" y="546.9951">investigators</text><!--MD5=[8a64028c82f604143f4c0f047bf6c49a]
+link Collection to Organization--><path codeLine="104" d="M590.39,130.18 C544.78,209.19 468.63,353.06 434,487 C405.68,596.55 405.63,731.94 407.48,794.42 " fill="none" id="Collection-to-Organization" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="407.5025" x2="413.7569" y1="794.7441" y2="802.5469"/><line style="stroke:#A80036;stroke-width:1.0;" x1="407.5025" x2="401.7631" y1="794.7441" y2="802.9331"/><line style="stroke:#A80036;stroke-width:1.0;" x1="407.5025" x2="407.76" y1="794.7441" y2="802.74"/><line style="stroke:#A80036;stroke-width:1.0;" x1="411.4361" x2="403.4402" y1="792.6164" y2="792.8739"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="435" y="546.9951">organization</text><!--MD5=[36f336d5bf565151c35817ca29c72643]
+link Collection to SubmissionStatus--><path codeLine="105" d="M517.33,80.93 C394.49,95.3 204.53,122.67 143,160 C120.98,173.36 103.26,196.5 91.29,215.7 " fill="none" id="Collection-to-SubmissionStatus" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="93.0941" x2="86.253" y1="220.433" y2="216.2859"/><line style="stroke:#A80036;stroke-width:1.0;" x1="94.6493" x2="87.8082" y1="217.8676" y2="213.7204"/><line style="stroke:#A80036;stroke-width:1.0;" x1="91.7471" x2="87.6" y1="214.9389" y2="221.78"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="104" x="144" y="174.4951">submissionStatus</text><!--MD5=[c6d91140969e4332b84200afc4cbb748]
+link Collection to FundingSource--><path codeLine="106" d="M736.72,76.25 C874.87,86.45 1118.73,110.18 1322,160 C1374.31,172.82 1430.58,196.08 1472.56,215.46 " fill="none" id="Collection-to-FundingSource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1472.7202" x2="1482.5067" y1="215.5277" y2="213.4726"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1472.7202" x2="1477.4333" y1="215.5277" y2="224.3474"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1472.7202" x2="1479.97" y1="215.5277" y2="218.91"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1472.5989" x2="1469.2166" y1="211.0572" y2="218.307"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="89" x="1379" y="174.4951">fundingSources</text><!--MD5=[2d358c7ae51d407b6a61c8ab07703493]
+link Collection to Document--><path codeLine="107" d="M736.65,75.97 C886.94,91.4 1152.14,143.6 1274,320 C1307.49,368.47 1308.78,437.86 1304.42,485.79 " fill="none" id="Collection-to-Document" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1304.3961" x2="1309.581" y1="485.9287" y2="494.4796"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1304.3961" x2="1297.639" y1="485.9287" y2="493.3004"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1304.3961" x2="1303.61" y1="485.9287" y2="493.89"/><ellipse cx="1304.9857" cy="479.9578" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="147" x="1250" y="254.4951">supportingDocumentation</text><!--MD5=[a0252c55df9c37820201d17af066cd84]
+link Collection to Grant--><path codeLine="108" d="M517.39,77.62 C459.28,87.93 391.85,110.62 352,160 C318.22,201.85 313.47,263.08 316.48,311.48 " fill="none" id="Collection-to-Grant" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="316.498" x2="323.0546" y1="311.7705" y2="319.321"/><line style="stroke:#A80036;stroke-width:1.0;" x1="316.498" x2="311.0854" y1="311.7705" y2="320.179"/><line style="stroke:#A80036;stroke-width:1.0;" x1="316.498" x2="317.07" y1="311.7705" y2="319.75"/><ellipse cx="316.069" cy="305.7858" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="353" y="174.4951">grants</text><!--MD5=[ccead653edd6b4c77307db1ad8ce6c13]
+link Collection to Publication--><path codeLine="109" d="M609.13,130.02 C602.7,154.08 596.05,182.15 592,208 C577.35,301.57 572.85,411.48 571.51,478.54 " fill="none" id="Collection-to-Publication" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="571.5071" x2="577.3488" y1="478.9015" y2="487.0178"/><line style="stroke:#A80036;stroke-width:1.0;" x1="571.5071" x2="565.3512" y1="478.9015" y2="486.7822"/><line style="stroke:#A80036;stroke-width:1.0;" x1="571.5071" x2="571.35" y1="478.9015" y2="486.9"/><ellipse cx="571.6249" cy="472.9027" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="593" y="254.4951">publications</text><!--MD5=[1b181aa9f56138e485cb063a10f1f260]
+link Collection to Study--><path codeLine="110" d="M689.28,130.02 C708.46,146.83 730.28,164.23 752,178 C767.02,187.52 783.56,196.37 800.12,204.35 " fill="none" id="Collection-to-Study" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="800.5018" x2="810.3013" y1="204.5216" y2="202.5289"/><line style="stroke:#A80036;stroke-width:1.0;" x1="800.5018" x2="805.1587" y1="204.5216" y2="213.3711"/><line style="stroke:#A80036;stroke-width:1.0;" x1="800.5018" x2="807.73" y1="204.5216" y2="207.95"/><ellipse cx="795.0807" cy="201.9503" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="753" y="174.4951">associatedStudies</text><!--MD5=[9fe6f858c0a33acd0d02d1472978603e]
+link Study to Collection--><path codeLine="121" d="M897.41,207.96 C890.05,191.27 879.44,172.82 865,160 C831.08,129.88 786.12,109.36 744.41,95.59 " fill="none" id="Study-to-Collection" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="744.2834" x2="734.8274" y1="95.5569" y2="98.81"/><line style="stroke:#A80036;stroke-width:1.0;" x1="744.2834" x2="738.5126" y1="95.5569" y2="87.39"/><line style="stroke:#A80036;stroke-width:1.0;" x1="744.2834" x2="736.67" y1="95.5569" y2="93.1"/><ellipse cx="749.9934" cy="97.3995" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="881" y="174.4951">collections</text><!--MD5=[e1dec8dc7798cbbfa1accf49daa9f523]
+link Collection to CollectionState--><path codeLine="111" d="M517.28,72.36 C440.22,79.83 339.14,101.33 271,160 C256.82,172.21 247.96,190.76 242.47,207.68 " fill="none" id="Collection-to-CollectionState" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="245.3023" x2="237.641" y1="212.141" y2="209.8377"/><line style="stroke:#A80036;stroke-width:1.0;" x1="246.166" x2="238.5047" y1="209.268" y2="206.9648"/><line style="stroke:#A80036;stroke-width:1.0;" x1="242.6233" x2="240.32" y1="207.1587" y2="214.82"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="272" y="174.4951">state</text><!--MD5=[1f691a9a168ba0eacd18ea31de3017c3]
+link Grant to Organization--><path codeLine="113" d="M315.69,457.13 C308.56,508.96 303.55,581.87 318,644 C331.34,701.34 365.11,761.37 387.54,796.96 " fill="none" id="Grant-to-Organization" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="392.5454" x2="385.7975" y1="797.3675" y2="801.6646"/><line style="stroke:#A80036;stroke-width:1.0;" x1="390.934" x2="384.186" y1="794.837" y2="799.1341"/><line style="stroke:#A80036;stroke-width:1.0;" x1="387.0229" x2="391.32" y1="796.1421" y2="802.89"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="319" y="640.4951">organization</text><!--MD5=[272a845e1f36014320c0f0167749e3cc]
+link Study to Owner--><path codeLine="115" d="M878.84,290.01 C872.68,299.39 866.93,309.67 863,320 C840.2,379.91 835.2,454.91 834.5,500.19 " fill="none" id="Study-to-Owner" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="838.4687" x2="830.4693" y1="503.2493" y2="503.1513"/><line style="stroke:#A80036;stroke-width:1.0;" x1="838.5054" x2="830.506" y1="500.2495" y2="500.1515"/><line style="stroke:#A80036;stroke-width:1.0;" x1="834.518" x2="834.42" y1="499.2006" y2="507.2"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="864" y="393.9951">owner</text><!--MD5=[e75ad38ec43637379bb8954dfca3b2ac]
+link Study to StudyType--><path codeLine="116" d="M1023.55,286.03 C1039.49,295.07 1054.37,306.24 1066,320 C1106.64,368.08 1074.1,400.57 1102,457 C1111.13,475.46 1124.73,493.77 1137.13,508.52 " fill="none" id="Study-to-StudyType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1142.4326" x2="1136.3597" y1="508.5497" y2="513.7574"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1140.4797" x2="1134.4068" y1="506.2724" y2="511.48"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1136.7923" x2="1142" y1="508.1171" y2="514.19"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="1103" y="393.9951">studyType</text><!--MD5=[29383e30ae58128b5d9e854f35f97d0c]
+link Study to Person--><path codeLine="117" d="M915.18,290.25 C920.57,356.18 925.35,490.43 889,596 C861.97,674.5 804.01,753.68 769.49,796.51 " fill="none" id="Study-to-Person" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="769.4266" x2="769.0195" y1="796.6207" y2="806.6124"/><line style="stroke:#A80036;stroke-width:1.0;" x1="769.4266" x2="759.7205" y1="796.6207" y2="799.0276"/><line style="stroke:#A80036;stroke-width:1.0;" x1="769.4266" x2="764.37" y1="796.6207" y2="802.82"/><line style="stroke:#A80036;stroke-width:1.0;" x1="773.7903" x2="767.5911" y1="797.5992" y2="792.5426"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="878" y="640.4951">investigators</text><!--MD5=[c6e9ee8218f87a06a9a86138c82f7279]
+link Study to Publication--><path codeLine="118" d="M832.8,290.18 C817.45,299.25 801.83,309.37 788,320 C725.45,368.09 663.23,433.6 621.56,480.7 " fill="none" id="Study-to-Publication" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="621.3582" x2="620.5722" y1="480.9271" y2="490.8962"/><line style="stroke:#A80036;stroke-width:1.0;" x1="621.3582" x2="611.5678" y1="480.9271" y2="482.9638"/><line style="stroke:#A80036;stroke-width:1.0;" x1="621.3582" x2="616.07" y1="480.9271" y2="486.93"/><ellipse cx="625.3244" cy="476.425" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="789" y="393.9951">results</text><!--MD5=[889a5bb1a3307ab42f127819fbd6762b]
+link Study to Document--><path codeLine="119" d="M1023.64,255.72 C1073.93,263.96 1130.24,281.9 1168,320 C1212.32,364.72 1171.34,403.18 1204,457 C1209.43,465.95 1223.98,480.13 1239.95,494.28 " fill="none" id="Study-to-Document" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1240.3538" x2="1250.3248" y1="494.6269" y2="495.3879"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1240.3538" x2="1242.4152" y1="494.6269" y2="504.4121"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1240.3538" x2="1246.37" y1="494.6269" y2="499.9"/><ellipse cx="1235.8417" cy="490.6721" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="1205" y="393.9951">documents</text><!--MD5=[2a12fb940b1fe69cf4edc2d146f02ceb]
+link Study to DataUsage--><path codeLine="120" d="M935.6,290.04 C941.03,299.67 946.5,310.05 951,320 C977.53,378.65 975.1,396.84 998,457 C1003.48,471.39 1009.89,487 1015.72,500.78 " fill="none" id="Study-to-DataUsage" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1020.6434" x2="1013.2768" y1="502.1468" y2="505.2666"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1019.4735" x2="1012.1069" y1="499.3843" y2="502.5041"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1015.4002" x2="1018.52" y1="500.0234" y2="507.39"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="999" y="393.9951">dataUsage</text><!--MD5=[47a586e2901d08ae562feffc56bde395]
+link Publication to authors--><path codeLine="124" d="M545.79,596.36 C530.23,629.6 511.37,669.88 501.26,691.5 " fill="none" id="Publication-to-authors" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="501.2295" x2="503.2613" y1="691.5682" y2="701.3596"/><line style="stroke:#A80036;stroke-width:1.0;" x1="501.2295" x2="492.3987" y1="691.5682" y2="696.2604"/><line style="stroke:#A80036;stroke-width:1.0;" x1="501.2295" x2="497.83" y1="691.5682" y2="698.81"/><line style="stroke:#A80036;stroke-width:1.0;" x1="505.7003" x2="498.4585" y1="691.4575" y2="688.058"/><!--MD5=[b8c70607e59ae896e2fd7e5ad114d91d]
+link authors to Person--><path codeLine="125" d="M503.08,715.84 C512.68,722.91 528.44,734 543,742 C595.24,770.7 658.84,797.13 699.85,813.15 " fill="none" id="authors-to-Person" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="704.74,815.05,697.7873,808.0744,700.0762,813.2474,694.9032,815.5364,704.74,815.05" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[97380d40ba22a1a5acdf0147519b457d]
+link authors to Organization--><path codeLine="126" d="M488.16,717.25 C476.48,733.73 449.73,771.49 430.56,798.56 " fill="none" id="authors-to-Organization" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="427.56,802.8,436.0394,797.7901,430.4608,798.7275,429.5234,793.1488,427.56,802.8" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[62bde293905eb42678fdd36f913d1aa9]
+link Publication to PublicationStatus--><path codeLine="127" d="M588.68,596.36 C596.23,619.36 604.89,645.73 611.86,666.96 " fill="none" id="Publication-to-PublicationStatus" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="616.6224" x2="609.0168" y1="668.6168" y2="671.0976"/><line style="stroke:#A80036;stroke-width:1.0;" x1="615.6921" x2="608.0865" y1="665.7647" y2="668.2455"/><line style="stroke:#A80036;stroke-width:1.0;" x1="611.5792" x2="614.06" y1="666.0544" y2="673.66"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="604" y="640.4951">status</text><!--MD5=[1f42a281477786ef7c931e493c9adbac]
+@startuml
+hide empty members
+
+enum SubmissionStatus {
+    Completed
+}
+
+enum CollectionState {
+    Shared
+    Private
+}
+
+enum DataUsage {
+    Primary Analysis
+    Secondary Analysis
+}
+
+enum PublicationStatus {
+    Not Determined
+    Relevant
+}
+
+enum StudyType {
+    Finding
+}
+
+class Collection {
+    title: String!
+    description: String!
+'    investigators: [Person]!
+'    organization: [Organization]!
+'    submissionStatus: SubmissionStatus!
+    creationDate: Date!
+'    fundingSource: FundingSource
+    permissionGroup: PermissionGroup
+    nIHResearchInitiative: NIHResearchInitiative
+    dataRepository: DataRepository
+'    fundingSources: [FundingSource]!
+'    supportingDocumentation: [Document]
+'    grants: [Grant]
+'    publications: [Publication]
+'    associatedStudies: [Study]
+'    state: CollectionState!
+}
+
+class Grant {
+    projectNumber: String!
+    projectTitle: String
+    startDate: Date!
+    endDate: Date
+    plannedEnrollment: Int!
+    actualEnrollment: Int
+'    organization: Organization
+    fundingAmount: Int!
+}
+
+class FundingSource {
+    name: Str
+    uRL: Str
+}
+
+class Study {
+'    owner: Owner!
+    ownerEmail: String!
+'    studyType: StudyType!
+'    investigators: [Person]!
+'    results: [Publication]
+'    documents: [Document]
+    dOI: String!
+    nIHResearchInitiatives: NIHResearchInitiative
+'    collections: [Collection]
+}
+
+class Publication {
+    pubMedID: String!
+    study: [Study]
+    title: String!
+    journal: String!
+'    authors: [Person | Organization]
+    date: Date!
+'    status: PublicationStatus
+}
+
+class Document {
+    fileName: String!
+    fileType: String!
+    description: String
+    audience: String
+}
+
+class Person {
+    name: String!
+}
+
+class Organization {
+    name: String!
+}
+
+class Owner {
+    name: String!
+    email: String!
+}
+
+Collection - -|{ Person : investigators
+Collection - -|{ Organization : organization
+Collection - -|| SubmissionStatus : submissionStatus
+Collection - -|{ FundingSource : fundingSources
+Collection - -o{ Document : supportingDocumentation
+Collection - -o{ Grant : grants
+Collection - -o{ Publication : publications
+Collection - -o{ Study : associatedStudies
+Collection - -|| CollectionState : state
+
+Grant - -|| Organization : organization
+
+Study - -|| Owner : owner
+Study - -|| StudyType : studyType
+Study - -|{ Person : investigators
+Study - -o{ Publication : results
+Study - -o{ Document : documents
+Study - -|| DataUsage : dataUsage
+Study - -o{ Collection : collections
+
+circle authors
+Publication - -|{ authors
+authors - -> Person
+authors - -> Organization
+Publication - -|| PublicationStatus : status
+
+
+
+@enduml
+
+@startuml
+hide empty members
+
+enum SubmissionStatus {
+    Completed
+}
+
+enum CollectionState {
+    Shared
+    Private
+}
+
+enum DataUsage {
+    Primary Analysis
+    Secondary Analysis
+}
+
+enum PublicationStatus {
+    Not Determined
+    Relevant
+}
+
+enum StudyType {
+    Finding
+}
+
+class Collection {
+    title: String!
+    description: String!
+    creationDate: Date!
+    permissionGroup: PermissionGroup
+    nIHResearchInitiative: NIHResearchInitiative
+    dataRepository: DataRepository
+}
+
+class Grant {
+    projectNumber: String!
+    projectTitle: String
+    startDate: Date!
+    endDate: Date
+    plannedEnrollment: Int!
+    actualEnrollment: Int
+    fundingAmount: Int!
+}
+
+class FundingSource {
+    name: Str
+    uRL: Str
+}
+
+class Study {
+    ownerEmail: String!
+    dOI: String!
+    nIHResearchInitiatives: NIHResearchInitiative
+}
+
+class Publication {
+    pubMedID: String!
+    study: [Study]
+    title: String!
+    journal: String!
+    date: Date!
+}
+
+class Document {
+    fileName: String!
+    fileType: String!
+    description: String
+    audience: String
+}
+
+class Person {
+    name: String!
+}
+
+class Organization {
+    name: String!
+}
+
+class Owner {
+    name: String!
+    email: String!
+}
+
+Collection - -|{ Person : investigators
+Collection - -|{ Organization : organization
+Collection - -|| SubmissionStatus : submissionStatus
+Collection - -|{ FundingSource : fundingSources
+Collection - -o{ Document : supportingDocumentation
+Collection - -o{ Grant : grants
+Collection - -o{ Publication : publications
+Collection - -o{ Study : associatedStudies
+Collection - -|| CollectionState : state
+
+Grant - -|| Organization : organization
+
+Study - -|| Owner : owner
+Study - -|| StudyType : studyType
+Study - -|{ Person : investigators
+Study - -o{ Publication : results
+Study - -o{ Document : documents
+Study - -|| DataUsage : dataUsage
+Study - -o{ Collection : collections
+
+circle authors
+Publication - -|{ authors
+authors - -> Person
+authors - -> Organization
+Publication - -|| PublicationStatus : status
+
+
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 10:19:58 PST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
