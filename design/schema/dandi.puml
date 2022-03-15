@@ -1,0 +1,286 @@
+@startuml
+
+hide empty members
+
+object Dandiset {
+    id: String!
+    schemaKey: String!
+    schemaVersion: String
+    name: String!
+    description: String!
+    conbributor: [Person | Organization]!
+    about: [Disorder | Anatomy | GenericType]
+    studyTarget: [String]
+    license: [LicenseType]!
+    protocol: [String!]
+    ethicApproval: [EthicsApproval]
+    keywords: [String]
+    acknowledgement: String
+    access: [AccessRequirements]
+    url: String
+    repository: String
+    relatedResource [Resource]
+    wasGeneratedBy: [Project
+    identifier: String!
+    dataModified: String
+    citation: String!
+    assetsSummary: AssetsSummary!
+    manifestLocation: [String]!
+    version: String!
+}
+
+enum RoleType {
+    dcite
+    --
+    Author,
+    Conceptualization,
+    ContactPerson,
+    DataCollector,
+    DataCurator,
+    DataManager,
+    FormalAnalysis,
+    FundingAcquisition,
+    Investigation,
+    Maintainer,
+    Methodology,
+    Producer,
+    ProjectLeader,
+    ProjectManager,
+    ProjectMember,
+    ProjectAdministration,
+    Researcher,
+    Resources,
+    Software,
+    Supervision,
+    Validation,
+    Visualization,
+    Funder,
+    Sponsor,
+    StudyParticipant,
+    Affiliation,
+    EthicsApproval,
+    Other
+}
+
+object Affiliation {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+}
+
+object Person {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    email: String
+    url: String
+    roleName: [RoleType]
+    includeInCitation: Boolean
+    awardNumber: String
+    affiliation: [Affiliation]
+}
+
+object ContactPoint {
+    id: String
+    schemaKey: String!
+    email: String
+    url: String
+}
+
+object Organization {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+    email: String
+    url: String
+    roleName: [RoleType]
+    includeInCitation: Boolean
+    awardNumber: String
+    contactPoint: [ContactPoint]
+}
+
+object Disorder {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+    dxdate: [String]
+}
+
+object Anatomy {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object GenericType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+enum LicenseType {
+    spdx
+    --
+    CC0-1.0
+    CC-BY-4.0
+}
+
+object EthicsApproval {
+    id: String
+    schemaKey: String!
+    identifier: String!
+    contactPoint: ContactPoint
+}
+
+enum AccessType {
+    dandi
+    --
+    OpenAcess
+    EmbargoedAccess
+}
+
+object AccessRequirements {
+    id: String
+    schemaKey: String!
+    status: AccessType!
+    contactPoint: ContactPoint
+    description: String
+    embargoedUntil: String
+}
+
+enum RelationType {
+    dcite
+    --
+    IsCitedBy,
+    Cites,
+    IsSupplementTo,
+    IsSupplementedBy,
+    IsContinuedBy,
+    Continues,
+    Describes,
+    IsDescribedBy,
+    HasMetadata,
+    IsMetadataFor,
+    HasVersion,
+    IsVersionOf,
+    IsNewVersionOf,
+    IsPreviousVersionOf,
+    IsPartOf,
+    HasPart,
+    IsReferencedBy,
+    References,
+    IsDocumentedBy,
+    Documents,
+    IsCompiledBy,
+    Compiles,
+    IsVariantFormOf,
+    IsOriginalFormOf,
+    IsIdenticalTo,
+    IsReviewedBy,
+    Reviews,
+    IsDerivedFrom,
+    IsSourceOf,
+    IsRequiredBy,
+    Requires,
+    Obsoletes,
+    IsObsoletedBy,
+    IsPublishedIn
+}
+
+object Resource {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+    url: String
+    repository: String
+    relation: RelationType!
+}
+
+object Software {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    version: String!
+    url: String
+}
+
+object Agent {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    url: String
+}
+
+object Equipment {
+    id: string
+    schemaKey: String!
+    identifier: String
+    name: String!
+    description: String
+}
+
+object Project {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String!
+    description: String
+    startDate: String
+    endDate: String
+    wasAssociatedWith: [Person | Organization | Software | Agent]
+    used: [equipment]
+}
+
+object StandardsType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object ApproachesType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object MeasurementTechniqueType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object SpeciesType {
+    id: String
+    schemaKey: String!
+    identifier: String
+    name: String
+}
+
+object AssetsSummary {
+    id: String
+    schemaKey: String!
+    numberOfBytes: Int!
+    nuberOfFiles: Int!
+    numberOfSubjects: Int
+    numberOfSamples: Int
+    numberOfCells: Int
+    dataStandard: [StandardsType]
+    approach: [ApproachType]
+    measurementTechnique: [TechniqueType]
+    variablesMeasured: [String]
+    species: [SpeciesType]
+}
+
+@enduml

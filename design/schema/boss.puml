@@ -1,0 +1,264 @@
+
+@startuml Metadata
+
+class Project {
+  ID: String!
+  Name: String!
+  Title: String!
+  ShortTitle: String!
+  Keywords: [String]!
+  Description: String!
+  Year: Date!
+  Public: Boolean!
+  Species: [Species]!
+  Publications: [Publication]!
+  Links: [Link]
+  UniqueIdentifier: String!
+  License: [License]!
+  Contributor: [Contributor]!
+  Acknowledgements: String
+  Funding: [Funding]
+  DateCreated: Date!
+  DateModified: Date
+  DOI: DOI
+  --
+  ImagingModalities: [ImagingModalityGeneral]!
+  ImagingModalitySpecific: [ImagingModalitySpecific]
+  DataTypes: [DataType]
+  ImageLocations: [BrainLocation]!
+  --
+  ImageBanner: String!
+  ImageTile: String!
+  ImageHero: String
+  ImageHeroPosition: String
+  Media: [String]
+  --
+  Collections: [Collection]
+  Experiments: [Experiment]
+  Channels: [Channel]
+}
+
+Project::ImageLocations *-- BrainLocation
+Project::Publications *-- Publication
+Project::Species *-- Species
+Project::Links *-- Link
+Project::Contributor *-- Contributor
+Project::License *-- License
+Project::Funding *-- Funding
+Project::ImagingModalities *-- ImagingModalityGeneral
+Project::ImagingModalitySpecific *-- ImagingModalitySpecific
+Project::DataTypes *-- DataType
+Project::Collections *-- Collection
+Project::Experiments *-- Experiment
+Project::Channels *-- Channel
+Project::DOI *-- DOI
+
+class Collection {
+  ID: String!
+  Name: String!
+  Description: String!
+  Public: Boolean!
+  Creator: [User]!
+  Contributors: [Contributor]!
+  DateCreated: Date!
+  DateModified: Date
+  License: [License]!
+  Acknowledgements: String
+  DOI: DOI
+  Version: String
+  --
+  Species: [Species]
+  --
+  Experiments: [Experiment]
+}
+
+Collection::Creator *-- User
+Collection::Contributors *-- Contributor
+Collection::License *-- License
+Collection::DOI *-- DOI
+Collection::Species *-- Species
+Collection::Experiments *-- Experiment
+
+class Experiment {
+  ID: String!
+  Name: String!
+  Description: String!
+  Public: Boolean!
+  Creator: [User]!
+  Contributors: [Contributor]!
+  DateCreated: Date!
+  DateModified: Date
+  License: License!
+  --
+  Species: Species!
+  ImageLocation: BrainLocation!
+  Protocol: Link!
+  --
+  CoordinateFrame: CoordinateFrame!
+  --
+  Channels: [Channel]
+  --
+  Version: String
+}
+
+Experiment::Creator *-- User
+Experiment::Contributors *-- Contributor
+Experiment::License *-- License
+Experiment::ImageLocation *-- BrainLocation
+Experiment::ImageLocation *-- Link
+Experiment::CoordinateFrame *-- CoordinateFrame
+Experiment::Channels *-- Channel
+
+class Channel{
+  ID: String!
+  Name: String!
+  Description: String!
+  Public: Boolean!
+  Creator: [User]!
+  Contributors: [Contributor]!
+  DateCreated: Date!
+  DateModified: Date
+  License: License!
+  ImagingModality: ImagingModalityGeneral!
+  ImagingModalitySpecific: ImagingModalitySpecific
+  ImageResolution: ImageResolution!
+  ChannelType: ChannelType!
+  DataType: DataType!
+  VisualationColor: String
+  ImageExtent: Number
+  --
+  VisualizationColor: String
+  --
+  Version: String
+}
+
+Channel::Creator *-- User
+Channel::Contributors *-- Contributor
+Channel::License *-- License
+Channel::ImagingModalityGeneral *-- ImagingModalityGeneral
+Channel::ImagingModalitySpecific *-- ImagingModalitySpecific
+Channel::ImageResolution *-- ImageResolution
+Channel::ChannelType *-- ChannelType
+Channel::DataType *-- DataType
+
+class BrainLocation {
+  Name: String!
+  Location: DataLocation
+}
+
+BrainLocation::DataLocation *-- DataLocation
+
+class DataLocation {
+  URI: String
+  Xs: [Number]
+  Ys: [Number]
+  Zs: [Number]
+  Ts: [Number]
+  Resolution: ImageResolution
+}
+
+class Publication {
+  Name: [String]
+  URI: [String]
+  Authors: [String]
+}
+
+class Link {
+  Name: [String]
+  URI: [String]
+}
+
+class Funding {
+  Sponsor: [String]
+  Grant: [String]
+
+}
+
+class Contributor {
+  Name: [String]
+  Email: [String]
+}
+
+class License {
+  License: String!
+  URI: String!
+}
+
+class DOI {
+  URI: String!
+}
+
+enum Species {
+  CElegans
+  FruitFly
+  Mouse
+  Zebrafish
+  Zebrafinch
+  Human
+}
+
+enum DataType {
+  Imagery
+  Segmentation
+  Skeletons
+  Connectome
+}
+
+enum ChannelType {
+  Image
+  Segmentation
+  Annotation
+}
+
+enum ImagingModalityGeneral {
+  SEM
+  TEM
+  XRay
+  MRI
+  LightMicroscopy
+  None
+}
+
+enum ImagingModalitySpecific {
+  ATUM_SEM
+  SB_SEM
+  SS_TEM
+  S_TEM
+  AT_TEM
+  XRM
+  XNH
+  CLARITY
+  MRI
+  MRI_DTI
+  None
+}
+
+class User {
+  Name: String
+  Email: String
+}
+
+class CoordinateFrame {
+  Xs: [Number]
+  Ys: [Number]
+  Zs: [Number]
+  --
+  VoxelSize: ImageResolution
+}
+
+CoordinateFrame::ImageResolution *-- ImageResolution
+
+class ImageResolution {
+  VoxelSize: [Number]
+  VoxelUnit: VoxelUnit
+}
+ImageResolution::VoxelUnit *-- VoxelUnit
+
+enum VoxelUnit {
+  nanometer
+  micrometer
+  millimeter
+  centimeter
+}
+
+@endumlml

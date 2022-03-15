@@ -1,0 +1,290 @@
+@startuml
+
+hide empty members
+hide circle
+
+class AIO_Grant {
+  referenceId: String!
+  title: String!
+  grantId: String!
+  fundingAgency: Organization!
+  awardee: Organization!
+  reportSymbol: String
+  priorityOrder: Int
+}
+
+class AIO_Protocol {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  urlResource: UrlResource!
+  priorityOrder: Int
+}
+
+class Contact {
+  email: String!
+  person: Person!
+  priorityOrder: Int
+}
+
+class CRID {
+  registry: CRIDRegistry!
+  symbol: String!
+}
+
+class CRIDRegistry {
+  referenceId: String!
+  description: String!
+}
+
+class DataCollection {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  description: String!
+  accessControl: String
+  completionState: String
+  lastUpdatedAtDate: Date
+  publication: [Publication]
+  webResources: [UrlResource]
+  modality: [Modality]
+  technique: [Technique]
+  specimenType: [SpecimenType]
+  specimenCount: [SpecimenCount]
+  species: [Species]
+  priorityOrder: Int
+}
+
+class DataCollectionProject {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  description: String!
+  doiSymbol: String
+  citation: String
+  informationWebResource: UrlResource
+  publisher: Publisher
+  modality: [Modality]
+  technique: [Technique]
+  specimenType: [SpecimenType]
+  species: [Species]
+  highlightedWebResources: [UrlResource]
+  grant: [AIO_Grant]
+  license: [License]
+  publication: [Publication]
+  dataPublicationYear: [String]
+  protocol: [AIO_Protocol]
+  relatedProjects: [RelatedDataCollectionProject]
+  subProgram: [SubProgram]
+  dataCollection: [DataCollection]
+  dataCreator: [DataCreator]
+  dataContributor: [DataContributor]
+  contact: [Contact]
+  taxonomies: [Taxonomy!]
+  priorityOrder: Int
+  readMeFile: String
+}
+
+class DataContributor {
+  agentType: String!
+  person: Person
+  organization: Organization
+  priorityOrder: Int
+}
+
+class DataCreator {
+  agentType: String!
+  person: Person
+  organization: Organization
+  priorityOrder: Int
+}
+
+class License {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  urlResource: UrlResource
+  priorityOrder: Int
+}
+
+class Modality {
+  name: String!
+}
+
+class Organization {
+  referenceId: String!
+  name: String!
+  rorSymbol: String
+}
+
+class Person {
+  referenceId: String!
+  name: String!
+  givenName: String!
+  familyName: String!
+  ORCID: String
+}
+
+class Program {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  description: String!
+  informationWebResource: UrlResource
+  priorityOrder: Int
+}
+
+class Publication {
+  referenceId: String!
+  title: String
+  publicationYear: String!
+  author: Person!
+  doiSymbol: String!
+  pubmedId: String
+  priorityOrder: Int
+}
+
+class Publisher {
+  organization: Organization!
+}
+
+class RelatedDataCollectionProject {
+  referenceId: String!
+  priorityOrder: Int
+}
+
+class Species {
+  name: String!
+}
+
+class SpecimenCount {
+  specimenType: SpecimenType!
+  specimenCount: Int
+}
+
+class SpecimenType {
+  referenceId: String
+  name: String!
+  priorityOrder: Int
+}
+
+class SubProgram {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  description: String!
+  informationWebResource: UrlResource
+  program: Program
+  priorityOrder: Int
+}
+
+class Taxon {
+  referenceId: String!
+  cRID: CRID!
+  description: String!
+  symbol: String!
+}
+
+class Taxonomy {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  description: String!
+  type: TaxonomyType!
+  taxonomyNodes: [TaxonomyNode!]
+}
+
+class TaxonomyNode {
+  referenceId: String!
+  title: String!
+  shortTitle: String!
+  description: String!
+  taxon: Taxon!
+  parentReferenceId: String
+  childrenReferenceIds: [String!]
+  color: String
+  featureTypeReferenceId: String
+  priorityOrder: Int
+}
+
+enum TaxonomyType {
+  CLASS_HIERARCHY
+}
+
+class Technique {
+  name: String!
+}
+
+class UrlResource {
+  referenceId: String!
+  type: String!
+  title: String!
+  shortTitle: String!
+  url: String!
+  priorityOrder: Int
+}
+
+AIO_Grant --|| Organization : fundingAgency
+AIO_Grant --|| Organization : awardee
+
+AIO_Protocol --|| UrlResource : urlResource
+
+Contact --|| Person : person
+
+CRID --|| CRIDRegistry : registry
+
+DataCollection --o{ Publication : publication
+DataCollection --o{ UrlResource : webResources
+DataCollection --o{ Modality : modality
+DataCollection --o{ Technique : technique
+DataCollection --o{ SpecimenType : specimenType
+DataCollection --o{ SpecimenCount : specimenCount
+DataCollection --o{ Species : species
+
+DataCollectionProject --o| UrlResource : informationWebResource
+DataCollectionProject --o| Publisher : publisher
+DataCollectionProject --o{ Modality : modality
+DataCollectionProject --o{ Technique : technique
+DataCollectionProject --o{ SpecimenType : specimenType
+DataCollectionProject --o{ Species : species
+DataCollectionProject --o{ UrlResource : highlightedWebResources
+DataCollectionProject --o{ AIO_Grant : grant
+DataCollectionProject --o{ License : license
+DataCollectionProject --o{ Publication : publication
+DataCollectionProject --o{ AIO_Protocol : protocol
+DataCollectionProject --o{ RelatedDataCollectionProject : relatedProjects
+DataCollectionProject --o{ SubProgram : subProgram
+DataCollectionProject --o{ DataCollection : dataCollection
+DataCollectionProject --o{ DataCreator : dataCreator
+DataCollectionProject --o{ DataContributor : dataContributor
+DataCollectionProject --o{ Contact : contact
+DataCollectionProject --o{ Taxonomy : taxonomies
+
+DataContributor --o| Person : person
+DataContributor --o| Organization : organization
+
+DataCreator --o| Person : person
+DataCreator --o| Organization : organization
+
+License --o| UrlResource : urlResource
+
+Program --o| UrlResource : informationWebResource
+
+Publication --|| Person : author
+
+Publisher --|| Organization : organization
+
+SpecimenCount --|| SpecimenType : specimenType
+
+SubProgram --o| UrlResource : informationWebResource
+SubProgram --o| Program : program
+
+Taxon --|| CRID : cRID
+
+Taxonomy --|| TaxonomyType : type
+Taxonomy --o{ TaxonomyNode : taxonomyNodes
+
+TaxonomyNode --|| Taxon : taxon
+
+
+@enduml

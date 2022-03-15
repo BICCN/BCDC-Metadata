@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1874px" preserveAspectRatio="none" style="width:2077px;height:1874px;background:#FFFFFF;" version="1.1" viewBox="0 0 2077 1874" width="2077px" zoomAndPan="magnify"><defs><filter height="300%" id="f1dg7mlsfef1ay" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="228.3438" style="stroke:#A80036;stroke-width:1.5;" width="137" x="507.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="50" x="551" y="21.457">Dandiset</text><line style="stroke:#A80036;stroke-width:1.5;" x1="508.5" x2="643.5" y1="26.0938" y2="26.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="105" x="513.5" y="40.4746">datePublished: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="513.5" y="53.0527">schemaVersion: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="513.5" y="65.6309">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="89" x="513.5" y="78.209">description: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="513.5" y="90.7871">studyTarget: [String]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="82" x="513.5" y="103.3652">protocol: [String!]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="81" x="513.5" y="115.9434">keywords: [String]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="120" x="513.5" y="128.5215">acknowledgement: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="49" x="513.5" y="141.0996">url: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="513.5" y="153.6777">repository: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="513.5" y="166.2559">identifier: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="97" x="513.5" y="178.834">dataModified: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="513.5" y="191.4121">citation: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="125" x="513.5" y="203.9902">manifestLocation: [String]!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="70" x="513.5" y="216.5684">version: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="52" x="513.5" y="229.1465">doi: String!</text><!--MD5=[7483c020ee0354f64f6114880f28ce87]
+class RoleType--><rect codeLine="23" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="449.2422" id="RoleType" style="stroke:#A80036;stroke-width:1.5;" width="113" x="505.5" y="1411"/><ellipse cx="533.55" cy="1427" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M532.05,1428 L532.05,1430 L536.05,1430 L536.05,1429 L536.05,1428.5156 L536.675,1428 L537.05,1428 L537.425,1428 L538.05,1428.5156 L538.05,1429 L538.05,1432 L530.05,1432 L529.5656,1432 L529.05,1431.375 L529.05,1431 L529.05,1430.625 L529.5656,1430 L530.05,1430 L530.05,1430 L530.05,1424 L530.05,1424 L529.5656,1424 L529.05,1423.375 L529.05,1423 L529.05,1422.625 L529.5656,1422 L530.05,1422 L538.05,1422 L538.05,1425 L538.05,1425.4844 L537.425,1426 L537.05,1426 L536.675,1426 L536.05,1425.4844 L536.05,1425 L536.05,1424 L532.05,1424 L532.05,1426 L533.05,1426 L533.05,1425.5156 L533.05,1425.5156 L533.675,1425 L534.05,1425 L534.425,1425 L535.05,1425.5156 L535.05,1426 L535.05,1428 L535.05,1428.4844 L534.425,1429 L534.425,1429 L534.05,1429 L533.675,1429 L533.05,1428.4844 L533.05,1428.4844 L533.05,1428 L532.05,1428 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="52" x="550.45" y="1431.9102">RoleType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="506.5" x2="617.5" y1="1443" y2="1443"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="23" x="511.5" y="1458.4189">dcite</text><line style="stroke:#A80036;stroke-width:1.0;" x1="506.5" x2="617.5" y1="1464.8359" y2="1464.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="33" x="511.5" y="1480.2549">Author</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="85" x="511.5" y="1494.0908">Conceptualization</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="511.5" y="1507.9268">ContactPerson</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="511.5" y="1521.7627">DataCollector</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="511.5" y="1535.5986">DataCurator</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="511.5" y="1549.4346">DataManager</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="511.5" y="1563.2705">FormalAnalysis</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="511.5" y="1577.1064">FundingAcquisition</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="511.5" y="1590.9424">Investigation</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="511.5" y="1604.7783">Maintainer</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="511.5" y="1618.6143">Methodology</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="511.5" y="1632.4502">Producer</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="511.5" y="1646.2861">ProjectLeader</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="75" x="511.5" y="1660.1221">ProjectManager</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="511.5" y="1673.958">ProjectMember</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="511.5" y="1687.7939">ProjectAdministration</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="511.5" y="1701.6299">Researcher</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="511.5" y="1715.4658">Resources</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="511.5" y="1729.3018">Software</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="511.5" y="1743.1377">Supervision</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="511.5" y="1756.9736">Validation</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="511.5" y="1770.8096">Visualization</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="34" x="511.5" y="1784.6455">Funder</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="41" x="511.5" y="1798.4814">Sponsor</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="511.5" y="1812.3174">StudyParticipant</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="45" x="511.5" y="1826.1533">Affiliation</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="511.5" y="1839.9893">EthicsApproval</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="511.5" y="1853.8252">Other</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="88" x="655" y="1294"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="49" x="674.5" y="1308.457">Affiliation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="656" x2="742" y1="1313.0938" y2="1313.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="661" y="1327.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="661" y="1340.0527">name: String!</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="102.5625" style="stroke:#A80036;stroke-width:1.5;" width="140" x="629" y="1109"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="679" y="1123.457">Person</text><line style="stroke:#A80036;stroke-width:1.5;" x1="630" x2="768" y1="1128.0938" y2="1128.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="635" y="1142.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="635" y="1155.0527">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="635" y="1167.6309">email: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="635" y="1180.209">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="635" y="1192.7871">includeInCitation: Boolean</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="99" x="635" y="1205.3652">awardNumber: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="84" x="240" y="1609.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="247" y="1623.957">ContactPoint</text><line style="stroke:#A80036;stroke-width:1.5;" x1="241" x2="323" y1="1628.5938" y2="1628.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="246" y="1642.9746">email: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="246" y="1655.5527">url: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="102.5625" style="stroke:#A80036;stroke-width:1.5;" width="140" x="454" y="1109"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="489.5" y="1123.457">Organization</text><line style="stroke:#A80036;stroke-width:1.5;" x1="455" x2="593" y1="1128.0938" y2="1128.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="460" y="1142.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="460" y="1155.0527">name: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="460" y="1167.6309">email: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="460" y="1180.209">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="460" y="1192.7871">includeInCitation: Boolean</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="99" x="460" y="1205.3652">awardNumber: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="64.8281" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1852" y="749.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="1872" y="763.957">Disorder</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1853" x2="1939" y1="768.5938" y2="768.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1858" y="782.9746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="1858" y="795.5527">name: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="72" x="1858" y="808.1309">dxdate: [String]</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1975" y="756"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="1995.5" y="770.457">Anatomy</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1976" x2="2062" y1="775.0938" y2="775.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1981" y="789.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="1981" y="802.0527">name: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1729" y="756"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="1738.5" y="770.457">GenericType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1730" x2="1816" y1="775.0938" y2="775.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1735" y="789.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="1735" y="802.0527">name: String</text><!--MD5=[5737a4fc8c2aaad12ac7c0134ef42ddf]
+class LicenseType--><rect codeLine="100" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="89.5078" id="LicenseType" style="stroke:#A80036;stroke-width:1.5;" width="102" x="7" y="319.5"/><ellipse cx="22" cy="335.5" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M20.5,336.5 L20.5,338.5 L24.5,338.5 L24.5,337.5 L24.5,337.0156 L25.125,336.5 L25.5,336.5 L25.875,336.5 L26.5,337.0156 L26.5,337.5 L26.5,340.5 L18.5,340.5 L18.0156,340.5 L17.5,339.875 L17.5,339.5 L17.5,339.125 L18.0156,338.5 L18.5,338.5 L18.5,338.5 L18.5,332.5 L18.5,332.5 L18.0156,332.5 L17.5,331.875 L17.5,331.5 L17.5,331.125 L18.0156,330.5 L18.5,330.5 L26.5,330.5 L26.5,333.5 L26.5,333.9844 L25.875,334.5 L25.5,334.5 L25.125,334.5 L24.5,333.9844 L24.5,333.5 L24.5,332.5 L20.5,332.5 L20.5,334.5 L21.5,334.5 L21.5,334.0156 L21.5,334.0156 L22.125,333.5 L22.5,333.5 L22.875,333.5 L23.5,334.0156 L23.5,334.5 L23.5,336.5 L23.5,336.9844 L22.875,337.5 L22.875,337.5 L22.5,337.5 L22.125,337.5 L21.5,336.9844 L21.5,336.9844 L21.5,336.5 L20.5,336.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="36" y="340.4102">LicenseType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="108" y1="351.5" y2="351.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="24" x="13" y="366.9189">spdx</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="108" y1="373.3359" y2="373.3359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="13" y="388.7549">CC0-1.0</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="13" y="402.5908">CC-BY-4.0</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="39.6719" style="stroke:#A80036;stroke-width:1.5;" width="95" x="244.5" y="446"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="81" x="251.5" y="460.457">EthicsApproval</text><line style="stroke:#A80036;stroke-width:1.5;" x1="245.5" x2="338.5" y1="465.0938" y2="465.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="250.5" y="479.4746">identifier: String!</text><!--MD5=[127eb197c37e6d6124f9c64a64c28a5f]
+class AccessType--><rect codeLine="111" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="89.5078" id="AccessType" style="stroke:#A80036;stroke-width:1.5;" width="104" x="54" y="737"/><ellipse cx="71.7" cy="753" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M70.2,754 L70.2,756 L74.2,756 L74.2,755 L74.2,754.5156 L74.825,754 L75.2,754 L75.575,754 L76.2,754.5156 L76.2,755 L76.2,758 L68.2,758 L67.7156,758 L67.2,757.375 L67.2,757 L67.2,756.625 L67.7156,756 L68.2,756 L68.2,756 L68.2,750 L68.2,750 L67.7156,750 L67.2,749.375 L67.2,749 L67.2,748.625 L67.7156,748 L68.2,748 L76.2,748 L76.2,751 L76.2,751.4844 L75.575,752 L75.2,752 L74.825,752 L74.2,751.4844 L74.2,751 L74.2,750 L70.2,750 L70.2,752 L71.2,752 L71.2,751.5156 L71.2,751.5156 L71.825,751 L72.2,751 L72.575,751 L73.2,751.5156 L73.2,752 L73.2,754 L73.2,754.4844 L72.575,755 L72.575,755 L72.2,755 L71.825,755 L71.2,754.4844 L71.2,754.4844 L71.2,754 L70.2,754 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="66" x="86.3" y="757.9102">AccessType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="55" x2="157" y1="769" y2="769"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="26" x="60" y="784.4189">dandi</text><line style="stroke:#A80036;stroke-width:1.0;" x1="55" x2="157" y1="790.8359" y2="790.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="60" y="806.2549">OpenAcess</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="60" y="820.0908">EmbargoedAccess</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="133" x="144.5" y="338.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="119" x="151.5" y="352.957">AccessRequirements</text><line style="stroke:#A80036;stroke-width:1.5;" x1="145.5" x2="276.5" y1="357.5938" y2="357.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="150.5" y="371.9746">description: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="110" x="150.5" y="384.5527">embargoedUntil: String</text><!--MD5=[9f39629da3edd43e553ce739f9fad207]
+class RelationType--><rect codeLine="123" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="532.2578" id="RelationType" style="stroke:#A80036;stroke-width:1.5;" width="112" x="335" y="516"/><ellipse cx="353.6" cy="532" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M352.1,533 L352.1,535 L356.1,535 L356.1,534 L356.1,533.5156 L356.725,533 L357.1,533 L357.475,533 L358.1,533.5156 L358.1,534 L358.1,537 L350.1,537 L349.6156,537 L349.1,536.375 L349.1,536 L349.1,535.625 L349.6156,535 L350.1,535 L350.1,535 L350.1,529 L350.1,529 L349.6156,529 L349.1,528.375 L349.1,528 L349.1,527.625 L349.6156,527 L350.1,527 L358.1,527 L358.1,530 L358.1,530.4844 L357.475,531 L357.1,531 L356.725,531 L356.1,530.4844 L356.1,530 L356.1,529 L352.1,529 L352.1,531 L353.1,531 L353.1,530.5156 L353.1,530.5156 L353.725,530 L354.1,530 L354.475,530 L355.1,530.5156 L355.1,531 L355.1,533 L355.1,533.4844 L354.475,534 L354.475,534 L354.1,534 L353.725,534 L353.1,533.4844 L353.1,533.4844 L353.1,533 L352.1,533 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="72" x="368.4" y="536.9102">RelationType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="336" x2="446" y1="548" y2="548"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="23" x="341" y="563.4189">dcite</text><line style="stroke:#A80036;stroke-width:1.0;" x1="336" x2="446" y1="569.8359" y2="569.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="45" x="341" y="585.2549">IsCitedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="24" x="341" y="599.0908">Cites</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="341" y="612.9268">IsSupplementTo</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="341" y="626.7627">IsSupplementedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="341" y="640.5986">IsContinuedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="341" y="654.4346">Continues</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="341" y="668.2705">Describes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="341" y="682.1064">IsDescribedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="63" x="341" y="695.9424">HasMetadata</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="341" y="709.7783">IsMetadataFor</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="341" y="723.6143">HasVersion</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="341" y="737.4502">IsVersionOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="341" y="751.2861">IsNewVersionOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="100" x="341" y="765.1221">IsPreviousVersionOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="341" y="778.958">IsPartOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="38" x="341" y="792.7939">HasPart</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="341" y="806.6299">IsReferencedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="341" y="820.4658">References</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="341" y="834.3018">IsDocumentedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="54" x="341" y="848.1377">Documents</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="341" y="861.9736">IsCompiledBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="341" y="875.8096">Compiles</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="79" x="341" y="889.6455">IsVariantFormOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="341" y="903.4814">IsOriginalFormOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="341" y="917.3174">IsIdenticalTo</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="341" y="931.1533">IsReviewedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="341" y="944.9893">Reviews</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="341" y="958.8252">IsDerivedFrom</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="341" y="972.6611">IsSourceOf</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="341" y="986.4971">IsRequiredBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="341" y="1000.333">Requires</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="341" y="1014.1689">Obsoletes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="341" y="1028.0049">IsObsoletedBy</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="341" y="1041.8408">IsPublishedIn</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="91" x="398.5" y="326"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="54" x="417" y="340.457">Resource</text><line style="stroke:#A80036;stroke-width:1.5;" x1="399.5" x2="488.5" y1="345.0938" y2="345.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="404.5" y="359.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="404.5" y="372.0527">name: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="404.5" y="384.6309">url: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="404.5" y="397.209">repository: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="77.4063" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1155" y="1122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="1175" y="1136.457">Software</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1156" x2="1242" y1="1141.0938" y2="1141.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1161" y="1155.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="1161" y="1168.0527">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="70" x="1161" y="1180.6309">version: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="1161" y="1193.209">url: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="64.8281" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1278" y="1128"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="31" x="1306.5" y="1142.457">Agent</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1279" x2="1365" y1="1147.0938" y2="1147.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1284" y="1161.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="1284" y="1174.0527">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="46" x="1284" y="1186.6309">url: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="64.8281" style="stroke:#A80036;stroke-width:1.5;" width="98" x="1364" y="749.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="1383" y="763.957">Equipment</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1365" x2="1461" y1="768.5938" y2="768.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1370" y="782.9746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="1370" y="795.5527">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="1370" y="808.1309">description: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="89.9844" style="stroke:#A80036;stroke-width:1.5;" width="98" x="1497" y="737"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="77" x="1507.5" y="751.457">PublishActivity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1498" x2="1594" y1="756.0938" y2="756.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1503" y="770.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="1503" y="783.0527">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="1503" y="795.6309">description: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="1503" y="808.209">startDate: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="74" x="1503" y="820.7871">endDate: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="89.9844" style="stroke:#A80036;stroke-width:1.5;" width="98" x="1311" y="319.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="1341" y="333.957">Project</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1312" x2="1408" y1="338.5938" y2="338.5938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1317" y="352.9746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="1317" y="365.5527">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="86" x="1317" y="378.1309">description: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="1317" y="390.709">startDate: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="74" x="1317" y="403.2871">endDate: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="97" x="601.5" y="756"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="83" x="608.5" y="770.457">StandardsType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="602.5" x2="697.5" y1="775.0938" y2="775.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="607.5" y="789.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="607.5" y="802.0527">name: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="92" x="734" y="756"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="741" y="770.457">ApproachType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="735" x2="825" y1="775.0938" y2="775.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="740" y="789.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="740" y="802.0527">name: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="174" x="861" y="756"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="160" x="868" y="770.457">MeasurementTechniqueType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="862" x2="1034" y1="775.0938" y2="775.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="867" y="789.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="867" y="802.0527">name: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="52.25" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1070" y="756"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="71" x="1078.5" y="770.457">SpeciesType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1071" x2="1157" y1="775.0938" y2="775.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1076" y="789.4746">identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="1076" y="802.0527">name: String</text><rect fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="102.5625" style="stroke:#A80036;stroke-width:1.5;" width="140" x="710" y="313"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="91" x="734.5" y="327.457">AssetsSummary</text><line style="stroke:#A80036;stroke-width:1.5;" x1="711" x2="849" y1="332.0938" y2="332.0938"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="93" x="716" y="346.4746">numberOfBytes: Int!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="81" x="716" y="359.0527">nuberOfFiles: Int!</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="716" y="371.6309">numberOfSubjects: Int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="716" y="384.209">numberOfSamples: Int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="716" y="396.7871">numberOfCells: Int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="716" y="409.3652">variablesMeasured: [String]</text><!--MD5=[9df70cf33be424c1b8543b3f439cae89]
+class String--><rect codeLine="233" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" height="32" id="String" style="stroke:#A80036;stroke-width:1.5;" width="64" x="1630" y="766"/><ellipse cx="1645" cy="782" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1646.5,779 L1646.5,778.5469 Q1646.5,777.8438 1646.0313,777.4219 Q1645.5625,777 1644.8438,777 Q1644.25,777 1643.7344,777.4063 Q1643.2188,777.7969 1642.9688,778.4219 Q1642.5,779.5313 1642.5,780.6406 L1642.5,783.1875 Q1642.5,785.125 1643.3281,786.25 Q1643.8594,787 1644.8281,787 Q1645.3438,787 1645.7813,786.8281 Q1646.2188,786.6406 1646.4531,786.3281 Q1646.6875,786 1646.8906,786 Q1647.1563,786 1647.3281,786.1875 Q1647.5,786.375 1647.5,786.6406 Q1647.5,787.0469 1646.9688,787.4375 Q1646.2031,788 1644.875,788 Q1643.8594,788 1643.2031,787.5156 Q1642.3438,786.8906 1641.9219,785.6719 Q1641.5,784.4531 1641.5,783.25 L1641.5,780.6094 Q1641.5,778.6875 1642.3906,777.3438 Q1643.2969,776 1644.7969,776 Q1645.4688,776 1646.0625,776.2813 Q1646.6563,776.5625 1647.0781,777.2656 Q1647.5,777.9688 1647.5,778.8281 L1647.5,783 Q1647.5,783.1406 1647.5,783.4531 Q1647.5,783.7031 1647.375,783.8594 Q1647.25,784 1646.9688,784 L1646.5,784 L1646.5,783.9531 Q1646.1094,784 1645.9375,784 Q1644.9531,784 1644.2188,783.2969 Q1643.5,782.5938 1643.5,781.6406 Q1643.5,780.625 1644.2969,779.8594 Q1645.1094,779.0938 1646.5,779 Z M1646.5,780 Q1645.5313,780.0938 1645.0156,780.3906 Q1644.5,780.6875 1644.5,781.6719 Q1644.5,782.2188 1644.9219,782.6094 Q1645.3594,783 1646.0469,783 Q1646.1875,783 1646.5,782.9688 L1646.5,780 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="1659" y="786.9102">String</text><!--MD5=[6403dc46f5156ba3d48ea60f085abcb4]
+entity publishedBy--><ellipse cx="1546" cy="364.5" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="1507.5" y="396.0332">publishedBy</text><!--MD5=[9a62c7632a3e12d2b4ef62c23371a6aa]
+entity contributor--><ellipse cx="524" cy="782" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="490" y="813.5332">contributor</text><!--MD5=[58538f3f67f3b628f0e96597b0d53596]
+entity about--><ellipse cx="1834" cy="364.5" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="1816" y="396.0332">about</text><!--MD5=[cbdc424d1a87934cfdb8e9d056c75c05]
+entity roleName--><ellipse cx="562" cy="1320" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="532" y="1351.5332">roleName</text><!--MD5=[f68da88ab5af15b6c70f1eb7bb0abca5]
+entity contactPoint--><ellipse cx="282" cy="1320" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="243" y="1351.5332">contactPoint</text><!--MD5=[83b13a77e62c7b48650fa9eadfa1ba04]
+entity wasAssociatedWith--><ellipse cx="1261" cy="782" fill="#FEFECE" filter="url(#f1dg7mlsfef1ay)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="1200.5" y="813.5332">wasAssociatedWith</text><!--MD5=[299276b5062de80dfc946cc44bde0ec8]
+link Dandiset to publishedBy--><path codeLine="236" d="M644.58,133.15 C790.51,157.79 1141.67,222.02 1426,313 C1464.46,325.31 1507.69,345.03 1530.29,355.83 " fill="none" id="Dandiset-to-publishedBy" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1535.0033" x2="1531.5435" y1="353.6635" y2="360.8767"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1532.2983" x2="1528.8386" y1="352.3661" y2="359.5793"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1529.6668" x2="1536.88" y1="355.5403" y2="359"/><!--MD5=[0d523d3f5de383c5b6bb90a4e4d753a9]
+link publishedBy to String--><path codeLine="237" d="M1550.41,373.73 C1562.17,396 1594.55,459.58 1612,516 C1640.63,608.59 1655.65,724.71 1660.35,765.77 " fill="none" id="publishedBy-String" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[afeb8b73e2784ce37be4c125312ca4a0]
+link publishedBy to PublishActivity--><path codeLine="238" d="M1546,373.8 C1546,419.44 1546,641.24 1546,736.92 " fill="none" id="publishedBy-PublishActivity" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[c2594584aac94d1daf3a63e4db77f645]
+link Dandiset to contributor--><path codeLine="241" d="M567.06,235.29 C554.08,399.74 530.96,692.85 525.28,764.75 " fill="none" id="Dandiset-to-contributor" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="525.2789" x2="530.6314" y1="764.7548" y2="773.2017"/><line style="stroke:#A80036;stroke-width:1.0;" x1="525.2789" x2="518.6686" y1="764.7548" y2="772.2583"/><line style="stroke:#A80036;stroke-width:1.0;" x1="525.2789" x2="524.65" y1="764.7548" y2="772.73"/><line style="stroke:#A80036;stroke-width:1.0;" x1="529.4237" x2="521.4485" y1="763.0754" y2="762.4465"/><!--MD5=[a020ae8e18135d435ca1aaa35555f998]
+link contributor to Person--><path codeLine="242" d="M524.2,791.41 C525.33,825.65 532.95,957.11 584,1048 C596.66,1070.55 615.3,1091.43 633.91,1108.88 " fill="none" id="contributor-Person" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[2a3330ce28c56c1af78e9df4dfae4f89]
+link contributor to Organization--><path codeLine="243" d="M524,791.21 C524,832.4 524,1018.05 524,1108.99 " fill="none" id="contributor-Organization" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[fa094953783a7288ac51fffedb3745a4]
+link Dandiset to about--><path codeLine="246" d="M644.78,133.79 C810.88,162.45 1246.95,238.93 1609,313 C1686.71,328.9 1778.89,350.43 1816.61,359.36 " fill="none" id="Dandiset-to-about" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1816.8151" x2="1825.982" y1="359.4073" y2="355.4113"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1816.8151" x2="1823.218" y1="359.4073" y2="367.0887"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1816.8151" x2="1824.6" y1="359.4073" y2="361.25"/><ellipse cx="1810.9764" cy="358.0253" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a0280821d0f255827f14b0751a891068]
+link about to Disorder--><path codeLine="247" d="M1835.24,373.8 C1842.36,421.55 1878.27,662.18 1891.28,749.39 " fill="none" id="about-Disorder" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e1ce6a9d805af81eb0b70854d0de2900]
+link about to Anatomy--><path codeLine="248" d="M1843.15,373.63 C1866.27,394.69 1927.33,453.74 1958,516 C1998.37,597.95 2012.56,707.41 2017.09,755.98 " fill="none" id="about-Anatomy" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[1fb8ce870e46adead38ce140005517cb]
+link about to GenericType--><path codeLine="249" d="M1832.78,373.8 C1825.59,422.81 1788.56,675 1776.68,755.95 " fill="none" id="about-GenericType" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3d36e36b203e814c5fc6b54a88c3e28d]
+link Dandiset to EthicsApproval--><path codeLine="251" d="M507.46,150.85 C458.46,174.75 394.45,213.19 355,265 C314.85,317.73 299.94,396.6 294.68,437.77 " fill="none" id="Dandiset-to-EthicsApproval" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="294.643" x2="299.6582" y1="438.0158" y2="446.6673"/><line style="stroke:#A80036;stroke-width:1.0;" x1="294.643" x2="287.7418" y1="438.0158" y2="445.2527"/><line style="stroke:#A80036;stroke-width:1.0;" x1="294.643" x2="293.7" y1="438.0158" y2="445.96"/><ellipse cx="295.3503" cy="432.0576" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="356" y="279.4951">ethicsApproval</text><!--MD5=[40f8c60e3b5096ae38b12f877cfa15bc]
+link Dandiset to AccessRequirements--><path codeLine="252" d="M507.23,134.32 C432.47,151.19 314.32,188.56 244,265 C227.51,282.93 219.23,309.36 215.09,330.33 " fill="none" id="Dandiset-to-AccessRequirements" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="215.0747" x2="219.5654" y1="330.4861" y2="339.421"/><line style="stroke:#A80036;stroke-width:1.0;" x1="215.0747" x2="207.7546" y1="330.4861" y2="337.299"/><line style="stroke:#A80036;stroke-width:1.0;" x1="215.0747" x2="213.66" y1="330.4861" y2="338.36"/><ellipse cx="216.1358" cy="324.5806" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="245" y="279.4951">access</text><!--MD5=[f8fd659337f472496f9a95b7122e63e9]
+link Dandiset to Resource--><path codeLine="253" d="M507.34,185.64 C486.75,208.59 466.37,236.04 454,265 C447.04,281.3 444.06,300.45 442.99,317.51 " fill="none" id="Dandiset-to-Resource" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="442.981" x2="448.6035" y1="317.7086" y2="325.9783"/><line style="stroke:#A80036;stroke-width:1.0;" x1="442.981" x2="436.6165" y1="317.7086" y2="325.4217"/><line style="stroke:#A80036;stroke-width:1.0;" x1="442.981" x2="442.61" y1="317.7086" y2="325.7"/><ellipse cx="443.2593" cy="311.7151" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="455" y="279.4951">relatedResource</text><!--MD5=[351627fa3ac23ec2b5179cb4b3c1283b]
+link Dandiset to Project--><path codeLine="254" d="M644.55,143.11 C797.06,190.09 1162.09,302.54 1303.08,345.97 " fill="none" id="Dandiset-to-Project" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1303.1853" x2="1312.5983" y1="345.9923" y2="342.6165"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1303.1853" x2="1309.0617" y1="345.9923" y2="354.0835"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1303.1853" x2="1310.83" y1="345.9923" y2="348.35"/><ellipse cx="1297.4518" cy="344.224" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="1086" y="279.4951">wasGeneratedBy</text><!--MD5=[da275fb9637cdb36532fa012d8ff6803]
+link Dandiset to AssetsSummary--><path codeLine="255" d="M644.78,203.42 C673.53,237.46 706.23,276.17 732.27,307 " fill="none" id="Dandiset-to-AssetsSummary" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="737.5313" x2="731.4137" y1="307.0237" y2="312.1787"/><line style="stroke:#A80036;stroke-width:1.0;" x1="735.5981" x2="729.4805" y1="304.7296" y2="309.8847"/><line style="stroke:#A80036;stroke-width:1.0;" x1="731.8949" x2="737.05" y1="306.5424" y2="312.66"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="95" x="710" y="279.4951">assetsSummary</text><!--MD5=[7de506f7d9410083b9874972e5882b4f]
+link Dandiset to LicenseType--><path codeLine="256" d="M507.25,139.63 C426.26,162.02 289.19,205.08 182,265 C157.64,278.62 133.11,296.92 112.36,314.05 " fill="none" id="Dandiset-to-LicenseType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="112.1852" x2="109.9006" y1="314.1959" y2="323.9314"/><line style="stroke:#A80036;stroke-width:1.0;" x1="112.1852" x2="102.1994" y1="314.1959" y2="314.7286"/><line style="stroke:#A80036;stroke-width:1.0;" x1="112.1852" x2="106.05" y1="314.1959" y2="319.33"/><line style="stroke:#A80036;stroke-width:1.0;" x1="116.2861" x2="111.1519" y1="315.9799" y2="309.8447"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="183" y="279.4951">license</text><!--MD5=[008d89ed25e31d71c3e45060f4d573e9]
+link roleName to RoleType--><path codeLine="259" d="M562,1329.06 C562,1343.06 562,1373.91 562,1410.86 " fill="none" id="roleName-RoleType" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7bb6bcf1f5a16ef41d10290fffb6b167]
+link Person to roleName--><path codeLine="260" d="M654.9,1212.2 C626.81,1244.5 592.42,1284.03 574.39,1304.76 " fill="none" id="Person-to-roleName" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="574.3908" x2="573.6667" y1="1304.7644" y2="1314.7381"/><line style="stroke:#A80036;stroke-width:1.0;" x1="574.3908" x2="564.6133" y1="1304.7644" y2="1306.8619"/><line style="stroke:#A80036;stroke-width:1.0;" x1="574.3908" x2="569.14" y1="1304.7644" y2="1310.8"/><ellipse cx="578.329" cy="1300.2377" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[913b4e2e90921b55cd05b962e62a2393]
+link Organization to roleName--><path codeLine="261" d="M536.23,1212.2 C543.79,1243.52 552.99,1281.64 558.1,1302.82 " fill="none" id="Organization-to-roleName" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="558.1368" x2="565.8514" y1="1303.0248" y2="1309.3876"/><line style="stroke:#A80036;stroke-width:1.0;" x1="558.1368" x2="554.1886" y1="1303.0248" y2="1312.2124"/><line style="stroke:#A80036;stroke-width:1.0;" x1="558.1368" x2="560.02" y1="1303.0248" y2="1310.8"/><ellipse cx="556.7245" cy="1297.1934" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[83fd5246515a1667f53e97ada4faa12c]
+link Person to Affiliation--><path codeLine="263" d="M699,1212.2 C699,1236.33 699,1264.51 699,1285.86 " fill="none" id="Person-to-Affiliation" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="699" x2="705" y1="1285.98" y2="1293.98"/><line style="stroke:#A80036;stroke-width:1.0;" x1="699" x2="693" y1="1285.98" y2="1293.98"/><line style="stroke:#A80036;stroke-width:1.0;" x1="699" x2="699" y1="1285.98" y2="1293.98"/><ellipse cx="699" cy="1279.98" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="700" y="1256.4951">affiliation</text><!--MD5=[d68eecdc974a034dfd02dd9703dbb8b7]
+link contactPoint to ContactPoint--><path codeLine="266" d="M282,1329.06 C282,1368.65 282,1543.11 282,1609.1 " fill="none" id="contactPoint-ContactPoint" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d0232e32d918570dc57414fe2d583962]
+link Organization to contactPoint--><path codeLine="267" d="M453.68,1207.27 C399.67,1242.41 329.23,1288.26 298.05,1308.55 " fill="none" id="Organization-to-contactPoint" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="298.0443" x2="294.6137" y1="1308.5551" y2="1317.9482"/><line style="stroke:#A80036;stroke-width:1.0;" x1="298.0443" x2="288.0663" y1="1308.5551" y2="1307.8918"/><line style="stroke:#A80036;stroke-width:1.0;" x1="298.0443" x2="291.34" y1="1308.5551" y2="1312.92"/><ellipse cx="303.0725" cy="1305.2814" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[856f029516530cf619035f4b3dca0c37]
+link EthicsApproval to contactPoint--><path codeLine="268" d="M291.77,486.4 C290.42,601.8 283.44,1196.65 282.19,1302.79 " fill="none" id="EthicsApproval-to-contactPoint" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="282.2375" x2="282.1" y1="1299.8009" y2="1310.8"/><ellipse cx="282.2375" cy="1299.8009" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="286.1497" x2="278.1503" y1="1306.8503" y2="1306.7503"/><!--MD5=[299fc33f166dc2f25e9a7e8cb5f997e7]
+link AccessRequirements to contactPoint--><path codeLine="270" d="M212.38,390.79 C218.24,496.87 242.33,916.3 275,1260 C276.38,1274.57 278.38,1291.1 279.89,1302.96 " fill="none" id="AccessRequirements-to-contactPoint" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="279.5148" x2="280.93" y1="1300.0914" y2="1311"/><ellipse cx="279.5148" cy="1300.0914" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="284.3822" x2="276.4486" y1="1306.5186" y2="1307.5478"/><!--MD5=[653d7452e4679cf73cd72c3143d590d6]
+link AccessRequirements to AccessType--><path codeLine="271" d="M184.98,390.64 C171.33,405.43 155.69,425.25 147,446 C107.46,540.38 102.79,661.89 103.81,729.59 " fill="none" id="AccessRequirements-to-AccessType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="107.8659" x2="99.8672" y1="732.6972" y2="732.8441"/><line style="stroke:#A80036;stroke-width:1.0;" x1="107.8108" x2="99.8121" y1="729.6977" y2="729.8446"/><line style="stroke:#A80036;stroke-width:1.0;" x1="103.7931" x2="103.94" y1="728.7713" y2="736.77"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="148" y="471.4951">status</text><!--MD5=[0a607faed229b3b2d02ab4a9cdd0450d]
+link Resource to RelationType--><path codeLine="273" d="M439.2,403.11 C435.85,429.41 431.03,467.18 425.72,508.77 " fill="none" id="Resource-to-RelationType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="429.304" x2="421.3683" y1="512.2883" y2="511.276"/><line style="stroke:#A80036;stroke-width:1.0;" x1="429.6837" x2="421.748" y1="509.3125" y2="508.3001"/><line style="stroke:#A80036;stroke-width:1.0;" x1="425.8424" x2="424.83" y1="507.8143" y2="515.75"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="434" y="471.4951">relation</text><!--MD5=[4c3018827dac06ceccaa6a18f7ecd12d]
+reverse link Project to PublishActivity--><path codeLine="276" d="M1416.51,424.88 C1438.8,451.08 1462.87,483.32 1479,516 C1514.9,588.77 1532.74,682.56 1540.62,736.82 " fill="none" id="Project-backto-PublishActivity" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="1411.21,429.45,1403.31,409.79,1421.75,420.23,1411.21,429.45" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[9da2f69d2d204cbbe4266ce881d0da68]
+link Project to wasAssociatedWith--><path codeLine="279" d="M1349.5,409.57 C1327.77,500.76 1278.75,706.5 1264.78,765.13 " fill="none" id="Project-to-wasAssociatedWith" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1264.7662" x2="1268.7463" y1="765.1883" y2="774.3621"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1264.7662" x2="1257.0737" y1="765.1883" y2="771.5779"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1264.7662" x2="1262.91" y1="765.1883" y2="772.97"/><ellipse cx="1266.1583" cy="759.3521" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e0af2d2b67ca74105f6e9f4ead88bcff]
+link wasAssociatedWith to Person--><path codeLine="280" d="M1261.04,791.44 C1260.73,828.09 1254.4,974.99 1175,1048 C1116.2,1102.08 886.48,1136.92 769.01,1151.57 " fill="none" id="wasAssociatedWith-Person" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[af10780e11cb97462c14b7efbfd34d52]
+link wasAssociatedWith to Organization--><path codeLine="281" d="M1261.25,791.18 C1261.87,828.03 1259.09,979.67 1175,1048 C1077.16,1127.5 730.79,1069.72 611,1109 C605.36,1110.85 599.68,1113.1 594.07,1115.61 " fill="none" id="wasAssociatedWith-Organization" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[1a6a4906509e97e127fe3889cfc78408]
+link wasAssociatedWith to Software--><path codeLine="282" d="M1259.65,791.21 C1252.53,834.44 1219.2,1036.83 1205.21,1121.79 " fill="none" id="wasAssociatedWith-Software" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[56523b49133fe784d9128d6faf4a00b3]
+link wasAssociatedWith to Agent--><path codeLine="283" d="M1262.33,791.21 C1269.51,835.52 1303.77,1046.99 1316.88,1127.91 " fill="none" id="wasAssociatedWith-Agent" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[75c5959d51386dc791026347f94050a8]
+link Project to Equipment--><path codeLine="286" d="M1365.62,409.57 C1375.99,490.88 1397.99,663.29 1407.93,741.25 " fill="none" id="Project-to-Equipment" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1407.9548" x2="1414.9215" y1="741.4447" y2="748.6186"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1407.9548" x2="1403.0185" y1="741.4447" y2="750.1414"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1407.9548" x2="1408.97" y1="741.4447" y2="749.38"/><ellipse cx="1407.1935" cy="735.4932" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="1376" y="471.4951">used</text><!--MD5=[0ddbdbc5f7fccb8aac1a26726156efe7]
+link AssetsSummary to StandardsType--><path codeLine="288" d="M714.19,416.44 C705.92,425.46 698.47,435.39 693,446 C641.32,546.26 643.03,685 647.07,747.78 " fill="none" id="AssetsSummary-to-StandardsType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="647.0622" x2="653.6054" y1="747.7795" y2="755.3417"/><line style="stroke:#A80036;stroke-width:1.0;" x1="647.0622" x2="641.6346" y1="747.7795" y2="756.1783"/><line style="stroke:#A80036;stroke-width:1.0;" x1="647.0622" x2="647.62" y1="747.7795" y2="755.76"/><ellipse cx="646.6439" cy="741.7941" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="77" x="694" y="471.4951">dataStandard</text><!--MD5=[3c06f48288b83c43331e1160442ca12e]
+link AssetsSummary to ApproachType--><path codeLine="289" d="M780,416.03 C780,502.07 780,674.75 780,747.48 " fill="none" id="AssetsSummary-to-ApproachType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="780" x2="786" y1="747.85" y2="755.85"/><line style="stroke:#A80036;stroke-width:1.0;" x1="780" x2="774" y1="747.85" y2="755.85"/><line style="stroke:#A80036;stroke-width:1.0;" x1="780" x2="780" y1="747.85" y2="755.85"/><ellipse cx="780" cy="741.85" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="781" y="471.4951">approach</text><!--MD5=[93ab5273e435f4f812e0abebc4d5fdbe]
+link AssetsSummary to MeasurementTechniqueType--><path codeLine="290" d="M823.92,416.01 C830.93,425.57 837.63,435.79 843,446 C897.41,549.53 929.25,686.07 941.78,747.97 " fill="none" id="AssetsSummary-to-MeasurementTechniqueType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="941.7783" x2="949.2331" y1="747.9959" y2="754.6612"/><line style="stroke:#A80036;stroke-width:1.0;" x1="941.7783" x2="937.4669" y1="747.9959" y2="757.0188"/><line style="stroke:#A80036;stroke-width:1.0;" x1="941.7783" x2="943.35" y1="747.9959" y2="755.84"/><ellipse cx="940.5996" cy="742.1128" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="138" x="861" y="471.4951">measurementTechnique</text><!--MD5=[94737a6767dad77809f5e6c4dee3b8df]
+link AssetsSummary to SpeciesType--><path codeLine="291" d="M850,377.56 C898.44,388.74 962.18,409.36 1008,446 C1101.66,520.9 1113.98,678.32 1114.66,747.35 " fill="none" id="AssetsSummary-to-SpeciesType" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1114.6514" x2="1120.68" y1="747.7101" y2="755.6886"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1114.6514" x2="1108.68" y1="747.7101" y2="755.7314"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1114.6514" x2="1114.68" y1="747.7101" y2="755.71"/><ellipse cx="1114.63" cy="741.7101" fill="none" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="1042" y="471.4951">species</text><!--MD5=[6e55e0b9c3059e55891f191a2c94284a]
+@startuml
+
+hide empty members
+
+object Dandiset {
+    datePublished: String!
+    schemaVersion: String
+    name: String!
+    description: String!
+    studyTarget: [String]
+    protocol: [String!]
+    keywords: [String]
+    acknowledgement: String
+    url: String!
+    repository: String
+    identifier: String!
+    dataModified: String
+    citation: String!
+    manifestLocation: [String]!
+    version: String!
+    doi: String!
+}
+
+enum RoleType {
+    dcite
+    - -
+    Author
+    Conceptualization
+    ContactPerson
+    DataCollector
+    DataCurator
+    DataManager
+    FormalAnalysis
+    FundingAcquisition
+    Investigation
+    Maintainer
+    Methodology
+    Producer
+    ProjectLeader
+    ProjectManager
+    ProjectMember
+    ProjectAdministration
+    Researcher
+    Resources
+    Software
+    Supervision
+    Validation
+    Visualization
+    Funder
+    Sponsor
+    StudyParticipant
+    Affiliation
+    EthicsApproval
+    Other
+}
+
+object Affiliation {
+    identifier: String
+    name: String!
+}
+
+object Person {
+    identifier: String
+    name: String!
+    email: String
+    url: String
+    includeInCitation: Boolean
+    awardNumber: String
+}
+
+object ContactPoint {
+    email: String
+    url: String
+}
+
+object Organization {
+    identifier: String
+    name: String
+    email: String
+    url: String
+    includeInCitation: Boolean
+    awardNumber: String
+}
+
+object Disorder {
+    identifier: String
+    name: String
+    dxdate: [String]
+}
+
+object Anatomy {
+    identifier: String
+    name: String
+}
+
+object GenericType {
+    identifier: String
+    name: String
+}
+
+enum LicenseType {
+    spdx
+    - -
+    CC0-1.0
+    CC-BY-4.0
+}
+
+object EthicsApproval {
+    identifier: String!
+}
+
+enum AccessType {
+    dandi
+    - -
+    OpenAcess
+    EmbargoedAccess
+}
+
+object AccessRequirements {
+    description: String
+    embargoedUntil: String
+}
+
+enum RelationType {
+    dcite
+    - -
+    IsCitedBy
+    Cites
+    IsSupplementTo
+    IsSupplementedBy
+    IsContinuedBy
+    Continues
+    Describes
+    IsDescribedBy
+    HasMetadata
+    IsMetadataFor
+    HasVersion
+    IsVersionOf
+    IsNewVersionOf
+    IsPreviousVersionOf
+    IsPartOf
+    HasPart
+    IsReferencedBy
+    References
+    IsDocumentedBy
+    Documents
+    IsCompiledBy
+    Compiles
+    IsVariantFormOf
+    IsOriginalFormOf
+    IsIdenticalTo
+    IsReviewedBy
+    Reviews
+    IsDerivedFrom
+    IsSourceOf
+    IsRequiredBy
+    Requires
+    Obsoletes
+    IsObsoletedBy
+    IsPublishedIn
+}
+
+object Resource {
+    identifier: String
+    name: String
+    url: String
+    repository: String
+}
+
+object Software {
+    identifier: String
+    name: String!
+    version: String!
+    url: String
+}
+
+object Agent {
+    identifier: String
+    name: String!
+    url: String
+}
+
+object Equipment {
+    identifier: String
+    name: String!
+    description: String
+}
+
+object PublishActivity {
+    identifier: String
+    name: String!
+    description: String
+    startDate: String
+    endDate: String
+}
+
+object Project {
+    identifier: String
+    name: String!
+    description: String
+    startDate: String
+    endDate: String
+}
+
+object StandardsType {
+    identifier: String
+    name: String
+}
+
+object ApproachType {
+    identifier: String
+    name: String
+}
+
+object MeasurementTechniqueType {
+    identifier: String
+    name: String
+}
+
+object SpeciesType {
+    identifier: String
+    name: String
+}
+
+object AssetsSummary {
+    numberOfBytes: Int!
+    nuberOfFiles: Int!
+    numberOfSubjects: Int
+    numberOfSamples: Int
+    numberOfCells: Int
+    variablesMeasured: [String]
+}
+
+annotation String
+
+circle publishedBy
+Dandiset - -|| publishedBy
+publishedBy - - String
+publishedBy - - PublishActivity
+
+circle contributor
+Dandiset - -|{ contributor
+contributor - - Person
+contributor - - Organization
+
+circle about
+Dandiset - -o{ about
+about - - Disorder
+about - - Anatomy
+about - - GenericType
+
+Dandiset - -o{ EthicsApproval : ethicsApproval
+Dandiset - -o{ AccessRequirements : access
+Dandiset - -o{ Resource : relatedResource
+Dandiset - -o{ Project : wasGeneratedBy
+Dandiset - -|| AssetsSummary : assetsSummary
+Dandiset - -|{ LicenseType : license
+
+circle roleName
+roleName - - RoleType
+Person - -o{ roleName
+Organization - -o{ roleName
+
+Person - -o{ Affiliation : affiliation
+
+circle contactPoint
+contactPoint - - ContactPoint
+Organization - -o{ contactPoint
+EthicsApproval - -o| contactPoint
+
+AccessRequirements - -o| contactPoint
+AccessRequirements - -|| AccessType : status
+
+Resource - -|| RelationType : relation
+
+
+Project <|- - PublishActivity
+
+circle wasAssociatedWith
+Project - -o{ wasAssociatedWith
+wasAssociatedWith - - Person
+wasAssociatedWith - - Organization
+wasAssociatedWith - - Software
+wasAssociatedWith - - Agent
+
+
+Project - -o{ Equipment : used
+
+AssetsSummary - -o{ StandardsType : dataStandard
+AssetsSummary - -o{ ApproachType : approach
+AssetsSummary - -o{ MeasurementTechniqueType : measurementTechnique
+AssetsSummary - -o{ SpeciesType : species
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 10:19:58 PST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

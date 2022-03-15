@@ -1,0 +1,52 @@
+@startuml
+
+hide empty members
+
+class BDBag {
+    Provided by NeMO
+    --
+    NeMO Identifier: String
+    Source data URL: String
+    Version: Int
+    Release Date: Date
+    File count: Int
+    File size: Float
+    --
+    --
+    External identifier: String!
+    Data Set Title: String!
+    Organization: String!
+    Contact information: String!
+    Contact: String!
+    Grant support: String!
+    Data set description: String!
+    Protocol ID: String!
+    Keywords: String!
+    Consortium or Project: String!
+    Data repository RRID: String!
+    Data license: String!
+    Data access: String!
+    Community standards used: String!
+    --
+    Author(s): String
+    Author(s) ORCID: String
+    Data contributors + roles: String
+    Alternate ID: String
+    Full data set citation: String
+    Data publication (if any): String
+    Study publication (if any): String
+    Protocol type: String
+    Study organism: String
+    Condition studied: String
+    Number of subjects studied: String
+    Sex of subjects: String
+    Age of subjects categorical: String
+    Age of subjects numerical: String
+    Data set parts description: String
+    Data set parts ID's: String
+    Data set parts repositories: String
+    Consortium/Project RRID: String
+    FAIRsharing Standard ID: String
+}
+
+@enduml

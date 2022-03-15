@@ -1,0 +1,205 @@
+@startuml
+
+hide empty members
+hide circle
+
+class contact_person_realized_in_data_collection_project {
+    project_reference_id
+    person_reference_id
+    email_address
+    priority_order
+}
+class data_collection {
+    data_collection_reference_id
+    data_collection_title
+    data_collection_short_title
+    data_collection_description
+    categorical_access_control_state
+    categorical_completion_state
+    last_updated_at_date
+}
+class data_collection_is_specified_output_of_data_collection_project {
+    project_reference_id
+    data_collection_reference_id
+    priority_order
+}
+class data_collection_modality_classification {
+    data_collection_reference_id
+    modality_name
+}
+class data_collection_project_is_part_of_sub_program {
+    project_reference_id
+    sub_program_reference_id
+    priority_order
+}
+class data_collection_project_is_related_to_data_collection_project {
+    project_reference_id
+    related_project_reference_id
+    priority_order
+}
+class data_collection_project_modality_classification {
+    project_reference_id
+    modality_name
+}
+class data_collection_project_species_classification {
+    project_reference_id
+    species_name
+}
+class data_collection_project_specimen_type_classification {
+    project_reference_id
+    specimen_type_name
+}
+class data_collection_project_technique_classification {
+    project_reference_id
+    technique_name
+}
+class data_collection_reported_specimen_count {
+    data_collection_reference_id
+    specimen_type_name
+    reported_count
+}
+class data_collection_species_classification {
+    data_collection_reference_id
+    species_name
+}
+class data_collection_specimen_type_classification {
+    data_collection_reference_id
+    specimen_type_name
+}
+class data_collection_technique_classification {
+    data_collection_reference_id
+    technique_name
+}
+class data_contributor_realized_in_data_collection_project {
+    project_reference_id
+    person_reference_id
+    organization_reference_id
+    agent_type
+    priority_order
+}
+class data_creator_realized_in_data_collection_project {
+    project_reference_id
+    person_reference_id
+    organization_reference_id
+    agent_type
+    priority_order
+}
+class data_publication_year_is_about_data_collection_project {
+    project_reference_id
+    data_publication_year
+}
+class data_publisher_realized_in_data_collection_project {
+    project_reference_id
+    organization_reference_id
+}
+class grant {
+    grant_reference_id
+    grant_title
+    grant_identifier
+    funding_agency_reference_id
+    awardee_reference_id
+    report_symbol
+}
+class grant_is_specified_input_of_data_collection_project {
+    project_reference_id
+    grant_reference_id
+    priority_order
+}
+class highlighted_web_resource_is_about_data_collection_project {
+    project_reference_id
+    web_resource_reference_id
+    priority_order
+}
+class license {
+    license_reference_id
+    license_title
+    license_short_title
+    information_web_resource_reference_id
+}
+class license_is_about_data_collection_project {
+    project_reference_id
+    license_reference_id
+    priority_order
+}
+class modality {
+    modality_name
+}
+class organization {
+    organization_reference_id
+    organization_name
+    ror_symbol
+}
+class person {
+    person_reference_id
+    person_name
+    person_given_name
+    person_family_name
+    orcid_symbol
+}
+class project {
+    project_reference_id
+    project_title
+    project_short_title
+    project_description
+    project_type
+    doi_symbol
+    project_citation
+    information_web_resource_reference_id
+}
+class protocol {
+    protocol_reference_id
+    protocol_title
+    protocol_short_title
+    view_web_resource_reference_id
+}
+class protocol_is_about_data_collection_project {
+    project_reference_id
+    protocol_reference_id
+    priority_order
+}
+class publication {
+    publication_reference_id
+    publication_title
+    publication_year
+    first_author_reference_id
+    doi_symbol
+    pubmed_id
+}
+class publication_is_about_data_collection {
+    data_collection_reference_id
+    publication_reference_id
+    priority_order
+}
+class publication_is_about_data_collection_project {
+    project_reference_id
+    publication_reference_id
+    priority_order
+}
+class species {
+    species_name
+}
+class specimen_type {
+    specimen_type_name
+}
+class sub_program_is_part_of_program {
+    sub_program_reference_id
+    program_reference_id
+}
+class technique {
+    technique_name
+}
+class web_resource {
+    web_resource_reference_id
+    web_resource_type
+    web_resource_title
+    web_resource_short_title
+    universal_resource_locator
+}
+class web_resource_is_about_data_collection {
+    data_collection_reference_id
+    web_resource_reference_id
+    priority_order
+}
+
+
+@enduml

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="944.1px" preserveAspectRatio="none" style="width:2198px;height:944px;background:#FFFFFF;" version="1.1" viewBox="0 0 2198 944" width="2198.7px" zoomAndPan="magnify"><defs><filter height="300%" id="f5nnjmh40xtom" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.8"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.6" dy="3.6" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[b3492d3bf48f89c99185815a77ba40ad]
+class Modality--><rect codeLine="7" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Modality" style="stroke:#A80036;stroke-width:1.35;" width="79.2" x="876.186" y="448.65"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="39.6" x="895.986" y="464.3613">Modality</text><line style="stroke:#A80036;stroke-width:1.35;" x1="877.086" x2="954.486" y1="471.2344" y2="471.2344"/><ellipse cx="886.086" cy="481.1344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="894.186" y="485.1114">name: String!</text><!--MD5=[4b1bbb36bf22db452d2f18c9a96e40ec]
+class Species--><rect codeLine="11" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Species" style="stroke:#A80036;stroke-width:1.35;" width="79.2" x="1401.786" y="448.65"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="40.5" x="1421.136" y="464.3613">Species</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1402.686" x2="1480.086" y1="471.2344" y2="471.2344"/><ellipse cx="1411.686" cy="481.1344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1419.786" y="485.1114">name: String!</text><!--MD5=[f3618a416058382ce37244e1ee924048]
+class Specimen type--><rect codeLine="15" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Specimen type" style="stroke:#A80036;stroke-width:1.35;" width="79.2" x="989.586" y="448.65"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="72.9" x="992.736" y="464.3613">Specimen type</text><line style="stroke:#A80036;stroke-width:1.35;" x1="990.486" x2="1067.886" y1="471.2344" y2="471.2344"/><ellipse cx="999.486" cy="481.1344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1007.586" y="485.1114">name: String!</text><!--MD5=[bc131368981f76e8ad3a9820af089aee]
+class Technique--><rect codeLine="19" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Technique" style="stroke:#A80036;stroke-width:1.35;" width="79.2" x="1518.786" y="448.65"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="52.2" x="1532.286" y="464.3613">Technique</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1519.686" x2="1597.086" y1="471.2344" y2="471.2344"/><ellipse cx="1528.686" cy="481.1344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1536.786" y="485.1114">name: String!</text><!--MD5=[f7c013fa8a8f24fbfbfcdbe4e2af74a6]
+class Web resource type--><rect codeLine="23" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Web resource type" style="stroke:#A80036;stroke-width:1.35;" width="97.2" x="294.786" y="890.1"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="91.8" x="297.486" y="905.8113">Web resource type</text><line style="stroke:#A80036;stroke-width:1.35;" x1="295.686" x2="391.086" y1="912.6844" y2="912.6844"/><ellipse cx="304.686" cy="922.5844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="312.786" y="926.5614">name: String!</text><!--MD5=[41603bd42a7acc3acec0da68af9a257a]
+class Access control--><rect codeLine="27" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Access control" style="stroke:#A80036;stroke-width:1.35;" width="79.2" x="1165.986" y="448.65"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="72" x="1169.586" y="464.3613">Access control</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1166.886" x2="1244.286" y1="471.2344" y2="471.2344"/><ellipse cx="1175.886" cy="481.1344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1183.986" y="485.1114">name: String!</text><!--MD5=[4331c4d56ad504d3c8b1ed0f31c9b2c8]
+class Completion state--><rect codeLine="31" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="42.2367" id="Completion state" style="stroke:#A80036;stroke-width:1.35;" width="90" x="1276.686" y="448.65"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="84.6" x="1279.386" y="464.3613">Completion state</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1277.586" x2="1365.786" y1="471.2344" y2="471.2344"/><ellipse cx="1286.586" cy="481.1344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1294.686" y="485.1114">name: String!</text><!--MD5=[c8c8bfafd053270599c478b74454a01b]
+class Web resource--><rect codeLine="36" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="79.5938" id="Web resource" style="stroke:#A80036;stroke-width:1.35;" width="96.3" x="295.236" y="756"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="69.3" x="308.736" y="771.7113">Web resource</text><line style="stroke:#A80036;stroke-width:1.35;" x1="296.136" x2="390.636" y1="778.5844" y2="778.5844"/><ellipse cx="305.136" cy="788.4844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="313.236" y="792.4614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="313.236" y="804.9138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="313.236" y="817.3661">Short title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="50.4" x="313.236" y="829.8185">URL: String!</text><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="43" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="104.4984" id="Collection" style="stroke:#A80036;stroke-width:1.35;" width="132.3" x="1176.336" y="188.1"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="49.5" x="1217.736" y="203.8113">Collection</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1177.236" x2="1307.736" y1="210.6844" y2="210.6844"/><ellipse cx="1186.236" cy="220.5844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1194.336" y="224.5614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="1194.336" y="237.0138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="1194.336" y="249.4661">Short title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="81" x="1194.336" y="261.9185">Description: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="108.9" x="1194.336" y="274.3708">Last updated date: String</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="99.9" x="1194.336" y="286.8231">Reported count : String</text><!--MD5=[175f95e045c1a44aed0b30df3abe0e5c]
+class Program--><rect codeLine="52" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="111.6984" id="Program" style="stroke:#A80036;stroke-width:1.35;" width="147.6" x="452.286" y="414"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="43.2" x="504.486" y="429.7113">Program</text><line style="stroke:#A80036;stroke-width:1.35;" x1="453.186" x2="598.986" y1="436.5844" y2="436.5844"/><ellipse cx="462.186" cy="446.4844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="470.286" y="450.4614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="470.286" y="462.9138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="470.286" y="475.3661">Short title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="81" x="470.286" y="487.8185">Description: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="62.1" x="470.286" y="500.2708">Citation: String</text><line style="stroke:#A80036;stroke-width:1.35;" x1="453.186" x2="598.986" y1="506.0461" y2="506.0461"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="136.8" x="457.686" y="519.9231">DOI: String (not in DW or CSVs)</text><!--MD5=[0d024652d76f046c0b1c9dcca9ccb90b]
+class Subprogram--><rect codeLine="61" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="111.6984" id="Subprogram" style="stroke:#A80036;stroke-width:1.35;" width="147.6" x="631.386" y="414"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="62.1" x="674.136" y="429.7113">Subprogram</text><line style="stroke:#A80036;stroke-width:1.35;" x1="632.286" x2="778.086" y1="436.5844" y2="436.5844"/><ellipse cx="641.286" cy="446.4844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="649.386" y="450.4614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="649.386" y="462.9138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="649.386" y="475.3661">Short title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="81" x="649.386" y="487.8185">Description: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="62.1" x="649.386" y="500.2708">Citation: String</text><line style="stroke:#A80036;stroke-width:1.35;" x1="632.286" x2="778.086" y1="506.0461" y2="506.0461"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="136.8" x="636.786" y="519.9231">DOI: String (not in DW or CSVs)</text><!--MD5=[79d378210367c0c6ec62ef762ddfbd1b]
+class Project--><rect codeLine="70" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="111.6984" id="Project" style="stroke:#A80036;stroke-width:1.35;" width="147.6" x="1051.686" y="6.3"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="34.2" x="1108.386" y="22.0113">Project</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1052.586" x2="1198.386" y1="28.8844" y2="28.8844"/><ellipse cx="1061.586" cy="38.7844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1069.686" y="42.7614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="1069.686" y="55.2138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="1069.686" y="67.6661">Short title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="81" x="1069.686" y="80.1185">Description: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="62.1" x="1069.686" y="92.5708">Citation: String</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1052.586" x2="1198.386" y1="98.3461" y2="98.3461"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="136.8" x="1057.086" y="112.2231">DOI: String (not in DW or CSVs)</text><!--MD5=[a0c27cfb527bdb20a6436baa93834728]
+class Protocol--><rect codeLine="79" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="67.1414" id="Protocol" style="stroke:#A80036;stroke-width:1.35;" width="96.3" x="31.536" y="552.6"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="40.5" x="59.436" y="568.3113">Protocol</text><line style="stroke:#A80036;stroke-width:1.35;" x1="32.436" x2="126.936" y1="575.1844" y2="575.1844"/><ellipse cx="41.436" cy="585.0844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="49.536" y="589.0614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="49.536" y="601.5138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="49.536" y="613.9661">Short title: String!</text><!--MD5=[09ce52be0ee7de43c61b6e2d59bf108b]
+class Person--><rect codeLine="85" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="92.0461" id="Person" style="stroke:#A80036;stroke-width:1.35;" width="108.9" x="1739.736" y="423.9"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="36" x="1776.186" y="439.6113">Person</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1740.636" x2="1847.736" y1="446.4844" y2="446.4844"/><ellipse cx="1749.636" cy="456.3844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1757.736" y="460.3614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="56.7" x="1757.736" y="472.8138">Name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="83.7" x="1757.736" y="485.2661">Given name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="85.5" x="1757.736" y="497.7185">Family name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="58.5" x="1757.736" y="510.1708">ORCID: String</text><!--MD5=[86c7c362de55a38b660185a1328fe18d]
+class Organization--><rect codeLine="93" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="74.3414" id="Organization" style="stroke:#A80036;stroke-width:1.35;" width="102.6" x="1967.886" y="432.45"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="62.1" x="1988.136" y="448.1613">Organization</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1968.786" x2="2069.586" y1="455.0344" y2="455.0344"/><ellipse cx="1977.786" cy="464.9344" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="1985.886" y="468.9114">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="56.7" x="1985.886" y="481.3638">Name: String!</text><line style="stroke:#A80036;stroke-width:1.35;" x1="1968.786" x2="2069.586" y1="487.1391" y2="487.1391"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="91.8" x="1973.286" y="501.0161">ROR: String (not DW)</text><!--MD5=[26ef8bb48695b3f7aeebf8a3bb6e7395]
+class License--><rect codeLine="99" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="67.1414" id="License" style="stroke:#A80036;stroke-width:1.35;" width="96.3" x="382.536" y="319.5"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="39.6" x="410.886" y="335.2113">License</text><line style="stroke:#A80036;stroke-width:1.35;" x1="383.436" x2="477.936" y1="342.0844" y2="342.0844"/><ellipse cx="392.436" cy="351.9844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="400.536" y="355.9614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="400.536" y="368.4138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="400.536" y="380.8661">Short title: String!</text><!--MD5=[c433c0453beae252ec142f87216236a3]
+class Grant--><rect codeLine="105" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" height="79.5938" id="Grant" style="stroke:#A80036;stroke-width:1.35;" width="125.1" x="2038.536" y="200.7"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="27" x="2087.586" y="216.4113">Grant</text><line style="stroke:#A80036;stroke-width:1.35;" x1="2039.436" x2="2162.736" y1="223.2844" y2="223.2844"/><ellipse cx="2048.436" cy="233.1844" fill="#000000" rx="2.7" ry="2.7" style="stroke:#000000;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="55.8" x="2056.536" y="237.1614">name: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="2056.536" y="249.6138">Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="69.3" x="2056.536" y="262.0661">Identifier: String!</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="101.7" x="2056.536" y="274.5185">REPORT symbol: String!</text><!--MD5=[8b0a558ef5f368781cb01c1aa18ca427]
+entity has creator--><ellipse cx="1966.986" cy="240.3" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" rx="7.2" ry="7.2" style="stroke:#A80036;stroke-width:1.35;"/><text fill="#000000" font-family="sans-serif" font-size="12.6" lengthAdjust="spacing" textLength="64.8" x="1934.586" y="268.6799">has creator</text><!--MD5=[9702469cdeaff6e894609f932e79ab44]
+entity has information resource--><ellipse cx="526.086" cy="674.1" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" rx="7.2" ry="7.2" style="stroke:#A80036;stroke-width:1.35;"/><text fill="#000000" font-family="sans-serif" font-size="12.6" lengthAdjust="spacing" textLength="141.3" x="455.436" y="702.4799">has information resource</text><!--MD5=[a9c6f112e65ba773b631bca17e95d0ab]
+entity is part of--><ellipse cx="705.186" cy="240.3" fill="#FEFECE" filter="url(#f5nnjmh40xtom)" rx="7.2" ry="7.2" style="stroke:#A80036;stroke-width:1.35;"/><text fill="#000000" font-family="sans-serif" font-size="12.6" lengthAdjust="spacing" textLength="49.5" x="680.436" y="268.6799">is part of</text><!--MD5=[09d7ffcb8fecd02ded2cc2f2a5654e44]
+link Web resource to Web resource type--><path codeLine="113" d="M343.386,835.362 C343.386,851.229 343.386,869.184 343.386,883.539 " fill="none" id="Web resource-to-Web resource type" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="346.986" x2="339.786" y1="886.266" y2="886.266"/><line style="stroke:#A80036;stroke-width:0.9;" x1="346.986" x2="339.786" y1="883.566" y2="883.566"/><line style="stroke:#A80036;stroke-width:0.9;" x1="343.386" x2="343.386" y1="882.666" y2="889.866"/><!--MD5=[f8fb2f1850b079b732cbb33b814fe75a]
+link Collection to Modality--><path codeLine="115" d="M1176.336,282.366 C1168.2,286.263 1159.848,289.773 1151.586,292.5 C1105.461,307.728 969.066,285.192 934.686,319.5 C902.943,351.18 905.256,407.475 910.233,441.18 " fill="none" id="Collection-to-Modality" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="910.25" x2="916.7254" y1="441.3165" y2="447.567"/><line style="stroke:#A80036;stroke-width:0.9;" x1="910.25" x2="906.0626" y1="441.3165" y2="449.283"/><line style="stroke:#A80036;stroke-width:0.9;" x1="910.25" x2="911.394" y1="441.3165" y2="448.425"/><line style="stroke:#A80036;stroke-width:0.9;" x1="913.5182" x2="906.4097" y1="438.9673" y2="440.1114"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="73.8" x="935.586" y="358.1956">is data of type</text><!--MD5=[4e019add3abd1809608e3c15e8db965e]
+link Collection to Species--><path codeLine="116" d="M1254.654,292.842 C1264.185,329.193 1278.117,373.653 1291.986,387 C1322.352,416.223 1346.337,393.012 1382.886,414 C1396.26,421.677 1409.004,432.981 1419.165,443.34 " fill="none" id="Collection-to-Species" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1419.2646" x2="1428.141" y1="443.429" y2="444.9154"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1419.2646" x2="1420.323" y1="443.429" y2="452.3666"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1419.2646" x2="1424.232" y1="443.429" y2="448.641"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1420.6287" x2="1415.4167" y1="439.6423" y2="444.6098"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="67.5" x="1292.886" y="358.1956">is data about</text><!--MD5=[80842b4967b2454b01cb061a953f4296]
+link Collection to Specimen type--><path codeLine="117" d="M1176.264,281.349 C1168.11,285.453 1159.767,289.287 1151.586,292.5 C1103.355,311.418 1071.504,279.828 1038.186,319.5 C1009.674,353.448 1015.164,408.492 1022.004,441.45 " fill="none" id="Collection-to-Specimen type" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1022.0182" x2="1028.8356" y1="441.4912" y2="447.3669"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1022.0182" x2="1018.2864" y1="441.4912" y2="449.6811"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1022.0182" x2="1023.561" y1="441.4912" y2="448.524"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1025.1488" x2="1018.1161" y1="438.9616" y2="440.5045"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="105.3" x="1039.086" y="358.1956">has samples of type</text><!--MD5=[ee0819a9fe1791e659b84fe27b896ff9]
+link Collection to Technique--><path codeLine="118" d="M1308.654,280.08 C1327.374,291.987 1347.399,305.622 1364.886,319.5 C1398.573,346.221 1398.429,363.132 1434.186,387 C1459.521,403.911 1471.509,397.611 1497.186,414 C1510.2,422.307 1523.142,433.386 1533.744,443.43 " fill="none" id="Collection-to-Technique" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1533.8916" x2="1542.8223" y1="443.5596" y2="444.6747"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1533.8916" x2="1535.3217" y1="443.5596" y2="452.4453"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1533.8916" x2="1539.072" y1="443.5596" y2="448.56"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1535.0968" x2="1530.0964" y1="439.7193" y2="444.8997"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="102.6" x="1435.086" y="358.1956">was collected using</text><!--MD5=[04a41cbea1852f3cdf93d13501caf236]
+link Collection to Web resource--><path codeLine="119" d="M1214.973,292.725 C1172.295,372.339 1093.986,517.068 1084.086,525.6 C874.098,706.689 532.368,769.707 399.087,788.103 " fill="none" id="Collection-to-Web resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="398.8961" x2="392.4842" y1="788.1378" y2="794.4534"/><line style="stroke:#A80036;stroke-width:0.9;" x1="398.8961" x2="391.0378" y1="788.1378" y2="783.7506"/><line style="stroke:#A80036;stroke-width:0.9;" x1="398.8961" x2="391.761" y1="788.1378" y2="789.102"/><line style="stroke:#A80036;stroke-width:0.9;" x1="401.162" x2="400.1978" y1="791.4643" y2="784.3292"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="111.6" x="1047.186" y="591.2956">is subject of resource</text><!--MD5=[608cc6b534a13963f498b57da68e7973]
+link Collection to Access control--><path codeLine="120" d="M1230.561,292.887 C1228.698,301.743 1226.898,310.869 1225.386,319.5 C1217.916,362.151 1211.832,412.092 1208.457,442.071 " fill="none" id="Collection-to-Access control" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1211.7208" x2="1204.5647" y1="445.3337" y2="444.5402"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1212.0184" x2="1204.8622" y1="442.6501" y2="441.8566"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1208.5395" x2="1207.746" y1="441.3589" y2="448.515"/><!--MD5=[6da6e12d51da2daf12d3b49f115b3512]
+link Collection to Completion state--><path codeLine="121" d="M1243.35,292.698 C1245.33,321.336 1250.307,357.12 1262.286,387 C1270.62,407.799 1285.407,428.211 1298.133,443.448 " fill="none" id="Collection-to-Completion state" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1302.767" x2="1297.2879" y1="443.3409" y2="448.012"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1301.0153" x2="1295.5362" y1="441.2862" y2="445.9574"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1297.6918" x2="1302.363" y1="442.9369" y2="448.416"/><!--MD5=[582182708bce533038c3560ab8e60929]
+link Project to Collection--><path codeLine="123" d="M1162.026,118.089 C1175.508,138.42 1190.817,161.505 1204.434,182.034 " fill="none" id="Project-to-Collection" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1204.43" x2="1212.911" y1="182.0383" y2="185.0505"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1204.43" x2="1203.913" y1="182.0383" y2="191.0235"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1204.43" x2="1208.412" y1="182.0383" y2="188.037"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1206.4339" x2="1200.4352" y1="178.5477" y2="182.5297"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="54.9" x="1188.486" y="157.9456">has output</text><!--MD5=[61d276bd89f99db6a941fef8b4e58c0d]
+link Project to Grant--><path codeLine="124" d="M1199.439,67.509 C1332.729,76.473 1621.737,99.648 1861.686,144.9 C1934.532,158.634 1955.133,157.806 2022.786,188.1 C2028.672,190.737 2034.603,193.779 2040.444,197.055 " fill="none" id="Project-to-Grant" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2040.4905" x2="2049.4259" y1="197.0821" y2="196.0054"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2040.4905" x2="2044.0261" y1="197.0821" y2="205.3586"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2040.4905" x2="2046.726" y1="197.0821" y2="200.682"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2040.7316" x2="2037.1317" y1="193.0644" y2="199.2999"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="63" x="1947.186" y="157.9456">is funded by</text><!--MD5=[1df218d1b31b8c3aa9144f17360a594f]
+link Project to Web resource--><path codeLine="125" d="M1051.479,62.631 C843.777,63.567 270.486,80.541 270.486,239.4 C270.486,239.4 270.486,239.4 270.486,675 C270.486,702.468 284.661,728.982 300.51,750.051 " fill="none" id="Project-to-Web resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="300.6031" x2="309.2841" y1="750.1602" y2="752.5351"/><line style="stroke:#A80036;stroke-width:0.9;" x1="300.6031" x2="300.7539" y1="750.1602" y2="759.1589"/><line style="stroke:#A80036;stroke-width:0.9;" x1="300.6031" x2="305.019" y1="750.1602" y2="755.847"/><line style="stroke:#A80036;stroke-width:0.9;" x1="302.3425" x2="296.6557" y1="746.5305" y2="750.9465"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="84.6" x="271.386" y="474.7456">is highlighted by</text><!--MD5=[aaddca4ff91041b164782d23ee668597]
+link Project to Person--><path codeLine="126" d="M1199.529,63.189 C1301.832,67.311 1486.854,89.172 1602.486,188.1 C1607.688,192.546 1705.914,337.86 1759.689,417.654 " fill="none" id="Project-to-Person" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1759.7756" x2="1768.2787" y1="417.7781" y2="420.7272"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1759.7756" x2="1759.3253" y1="417.7781" y2="426.7668"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1759.7756" x2="1763.802" y1="417.7781" y2="423.747"/><ellipse cx="1756.7557" cy="413.3014" fill="none" rx="3.6" ry="3.6" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="77.4" x="1673.586" y="245.2456">has contributor</text><!--MD5=[aaddca4ff91041b164782d23ee668597]
+link Project to Person--><path codeLine="127" d="M1199.457,66.807 C1350.261,76.212 1685.268,106.047 1759.086,188.1 C1814.967,250.227 1812.087,353.754 1803.861,416.241 " fill="none" id="Project-to-Person-1" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1803.8136" x2="1808.1849" y1="416.5148" y2="424.3819"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1803.8136" x2="1797.4851" y1="416.5148" y2="422.9141"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1803.8136" x2="1802.835" y1="416.5148" y2="423.648"/><ellipse cx="1804.5475" cy="411.1649" fill="none" rx="3.6" ry="3.6" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="99.9" x="1804.086" y="245.2456">has contact person</text><!--MD5=[1e2fea7ba7541b6efe186002ff3fcbc7]
+link Project to Modality--><path codeLine="128" d="M1051.65,72.702 C983.727,85.968 886.707,116.901 840.186,188.1 C786.447,270.342 858.087,389.799 895.545,442.377 " fill="none" id="Project-to-Modality" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="895.7205" x2="904.3142" y1="442.6158" y2="445.2896"/><line style="stroke:#A80036;stroke-width:0.9;" x1="895.7205" x2="895.5598" y1="442.6158" y2="451.6144"/><line style="stroke:#A80036;stroke-width:0.9;" x1="895.7205" x2="899.937" y1="442.6158" y2="448.452"/><line style="stroke:#A80036;stroke-width:0.9;" x1="897.5845" x2="891.7483" y1="439.0485" y2="443.265"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="104.4" x="841.086" y="245.2456">involves data of type</text><!--MD5=[ec7623f3575ebac7ccb9c9d9547ea97c]
+link Project to Species--><path codeLine="129" d="M1199.34,103.455 C1238.148,126.171 1285.578,156.285 1324.386,188.1 C1373.841,228.636 1369.386,258.255 1423.386,292.5 C1455.75,313.029 1482.822,288.441 1505.286,319.5 C1533.456,358.452 1495.818,411.741 1467.495,443.025 " fill="none" id="Project-to-Species" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1467.2169" x2="1466.294" y1="443.3094" y2="452.2619"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1467.2169" x2="1458.364" y1="443.3094" y2="444.9301"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1467.2169" x2="1462.329" y1="443.3094" y2="448.596"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1471.0822" x2="1465.7955" y1="444.4316" y2="439.5438"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="98.1" x="1424.286" y="245.2456">involves data about</text><!--MD5=[31713e1241a51d45ea1e800ac2d79176]
+link Project to Specimen type--><path codeLine="130" d="M1080.126,118.08 C1062.729,139.653 1042.902,164.781 1025.586,188.1 C991.98,233.352 995.877,255.24 953.586,292.5 C933.984,309.762 914.967,297.189 901.386,319.5 C885.789,345.123 884.457,362.232 901.386,387 C920.043,414.288 942.723,396.369 970.686,414 C983.529,422.1 996.039,433.251 1006.173,443.394 " fill="none" id="Project-to-Specimen type" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1006.2225" x2="1015.1153" y1="443.423" y2="444.8081"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1006.2225" x2="1007.3827" y1="443.423" y2="452.3479"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1006.2225" x2="1011.249" y1="443.423" y2="448.578"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1007.5434" x2="1002.3884" y1="439.621" y2="444.6474"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="133.2" x="1026.486" y="245.2456">collected samples of type</text><!--MD5=[60f1aa0fd75e893bd2ea7f111e96419e]
+link Project to Technique--><path codeLine="131" d="M1199.358,63.216 C1291.437,67.824 1446.489,90.72 1526.886,188.1 C1587.744,261.801 1574.208,385.965 1564.272,441.09 " fill="none" id="Project-to-Technique" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1564.2417" x2="1568.21" y1="441.3234" y2="449.4013"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1564.2417" x2="1557.598" y1="441.3234" y2="447.3947"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1564.2417" x2="1562.904" y1="441.3234" y2="448.398"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1568.1135" x2="1561.0389" y1="440.2236" y2="438.8858"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="25.2" x="1569.186" y="245.2456">used</text><!--MD5=[3c2fef591dbef0148bd9a256fc3f52e2]
+link Project to Protocol--><path codeLine="132" d="M1051.326,66.015 C823.752,76.041 147.168,112.086 87.786,188.1 C5.4,293.553 43.2,467.289 66.357,545.319 " fill="none" id="Project-to-Protocol" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="66.3979" x2="73.6501" y1="545.4469" y2="550.7767"/><line style="stroke:#A80036;stroke-width:0.9;" x1="66.3979" x2="63.3119" y1="545.4469" y2="553.9013"/><line style="stroke:#A80036;stroke-width:0.9;" x1="66.3979" x2="68.481" y1="545.4469" y2="552.339"/><ellipse cx="64.8357" cy="540.2778" fill="none" rx="3.6" ry="3.6" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="157.5" x="88.686" y="245.2456">has methodology specification</text><!--MD5=[610794b66b252e468aae734577d851a2]
+link Project to License--><path codeLine="133" d="M1051.488,66.555 C919.269,74.106 648.909,95.256 570.186,144.9 C507.204,184.617 465.984,264.267 445.644,312.498 " fill="none" id="Project-to-License" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="445.5492" x2="447.7909" y1="312.7195" y2="321.4359"/><line style="stroke:#A80036;stroke-width:0.9;" x1="445.5492" x2="437.8091" y1="312.7195" y2="317.3121"/><line style="stroke:#A80036;stroke-width:0.9;" x1="445.5492" x2="442.8" y1="312.7195" y2="319.374"/><line style="stroke:#A80036;stroke-width:0.9;" x1="449.5637" x2="442.9092" y1="312.4305" y2="309.6813"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="146.7" x="571.086" y="157.9456">has use of results limited by</text><!--MD5=[9bc336fadf19dedf2fab4b7e1321b268]
+link Protocol to Web resource--><path codeLine="135" d="M94.599,620.118 C107.181,644.922 127.197,678.438 152.586,701.1 C192.465,736.695 248.31,761.976 289.287,777.222 " fill="none" id="Protocol-to-Web resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="293.0715" x2="290.6015" y1="774.7835" y2="781.5465"/><line style="stroke:#A80036;stroke-width:0.9;" x1="290.5353" x2="288.0653" y1="773.8572" y2="780.6203"/><line style="stroke:#A80036;stroke-width:0.9;" x1="288.4549" x2="295.218" y1="776.93" y2="779.4"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="92.7" x="153.486" y="679.0456">has view resource</text><!--MD5=[1f691a9a168ba0eacd18ea31de3017c3]
+link Grant to Organization--><path codeLine="137" d="M2045.637,280.125 C2033.829,291.357 2022.975,304.65 2016.486,319.5 C2001.843,353.007 2004.147,394.92 2009.169,425.817 " fill="none" id="Grant-to-Organization" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2013.2059" x2="2006.1124" y1="428.0704" y2="429.3041"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2012.7433" x2="2005.6498" y1="425.4103" y2="426.644"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2009.0423" x2="2010.276" y1="425.1405" y2="432.234"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="104.4" x="2017.386" y="358.1956">from funding agency</text><!--MD5=[1f691a9a168ba0eacd18ea31de3017c3]
+link Grant to Organization--><path codeLine="138" d="M2120.247,280.197 C2132.37,310.68 2142.9,353.376 2126.286,387 C2115.477,408.87 2095.722,426.501 2076.102,439.731 " fill="none" id="Grant-to-Organization-1" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2075.5591" x2="2071.6196" y1="444.3836" y2="438.3569"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2077.8191" x2="2073.8797" y1="442.9064" y2="436.8797"/><line style="stroke:#A80036;stroke-width:0.9;" x1="2076.6027" x2="2070.576" y1="439.4006" y2="443.34"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="56.7" x="2135.286" y="358.1956">awarded to</text><!--MD5=[cc3760c79db788b1a23748cf46701c73]
+link Project to has creator--><path codeLine="141" d="M1199.43,63.36 C1327.914,65.817 1599.507,79.155 1817.586,144.9 C1858.347,157.185 1867.293,165.051 1903.086,188.1 C1921.59,200.016 1941.057,216.261 1953.576,227.25 " fill="none" id="Project-to-has creator" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1953.7505" x2="1962.719" y1="227.4044" y2="228.1571"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1953.7505" x2="1955.539" y1="227.4044" y2="236.2249"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1953.7505" x2="1959.129" y1="227.4044" y2="232.191"/><line style="stroke:#A80036;stroke-width:0.9;" x1="1954.7992" x2="1950.0126" y1="223.5185" y2="228.897"/><!--MD5=[4b95e3f8520aa7e825a46a79536093da]
+link has creator to Person--><path codeLine="142" d="M1961.433,248.517 C1941.759,274.437 1874.277,363.366 1831.284,420.021 " fill="none" id="has creator-to-Person" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="1828.485,423.702,1836.252,419.4307,1831.2075,420.119,1830.5192,415.0746,1828.485,423.702" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[dfd94a68d53097076287f7c10b8ea83f]
+link has creator to Organization--><path codeLine="143" d="M1967.355,248.607 C1968.588,270.234 1973.214,335.106 1986.786,387 C1990.368,400.689 1995.597,415.188 2000.808,428.112 " fill="none" id="has creator-to-Organization" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="2002.572,432.432,2002.8498,423.5724,2000.8742,428.2646,1996.182,426.2889,2002.572,432.432" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[0cad63e88b211a799b375dc4f0ff82d7]
+link Program to has information resource--><path codeLine="146" d="M526.086,525.771 C526.086,571.14 526.086,632.25 526.086,659.313 " fill="none" id="Program-to-has information resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="529.686" x2="522.486" y1="662.112" y2="662.112"/><line style="stroke:#A80036;stroke-width:0.9;" x1="529.686" x2="522.486" y1="659.412" y2="659.412"/><line style="stroke:#A80036;stroke-width:0.9;" x1="526.086" x2="526.086" y1="658.512" y2="665.712"/><!--MD5=[747753b2fea5bfcf5f36ec35d53a6a2b]
+link Subprogram to has information resource--><path codeLine="147" d="M656.487,525.771 C615.501,572.103 559.998,634.86 536.886,660.996 " fill="none" id="Subprogram-to-has information resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="537.7823" x2="532.3848" y1="665.3958" y2="660.6307"/><line style="stroke:#A80036;stroke-width:0.9;" x1="539.5693" x2="534.1717" y1="663.3717" y2="658.6066"/><line style="stroke:#A80036;stroke-width:0.9;" x1="537.4661" x2="532.701" y1="660.3145" y2="665.712"/><!--MD5=[c30f6b78608889e5a4293f1088225f85]
+link Project to has information resource--><path codeLine="148" d="M1051.425,75.177 C994.932,86.832 916.812,108.216 856.386,144.9 C709.848,233.874 885.024,380.142 794.286,525.6 C734.589,621.297 589.554,659.763 541.692,670.122 " fill="none" id="Project-to-has information resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="544.0945" x2="534.402" y1="669.6267" y2="671.643"/><ellipse cx="544.0945" cy="669.6267" fill="none" rx="3.6" ry="3.6" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="538.6598" x2="537.1933" y1="674.4343" y2="667.3852"/><!--MD5=[7f5b0d4cee6c04a45af2088f93502562]
+link License to has information resource--><path codeLine="149" d="M426.816,387.171 C423.828,422.289 422.226,479.079 436.086,525.6 C452.655,581.22 495.549,637.029 515.538,661.005 " fill="none" id="License-to-has information resource" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="520.0864" x2="514.5867" y1="660.8187" y2="665.4656"/><line style="stroke:#A80036;stroke-width:0.9;" x1="518.3439" x2="512.8442" y1="658.7563" y2="663.4032"/><line style="stroke:#A80036;stroke-width:0.9;" x1="515.0132" x2="519.66" y1="660.3923" y2="665.892"/><!--MD5=[299ab183414a2dc67d2b18f27d674c57]
+link has information resource to Web resource--><path codeLine="150" d="M517.761,680.454 C496.485,694.395 438.741,732.222 395.487,760.563 " fill="none" id="has information resource-to-Web resource" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="391.617,763.101,400.3629,761.6588,395.377,760.6287,396.4071,755.6428,391.617,763.101" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[7a4ca9ab9c6c6f69df86f1ebd61cb10e]
+link Subprogram to is part of--><path codeLine="154" d="M715.761,413.901 C718.857,361.377 717.39,285.795 711.378,255.024 " fill="none" id="Subprogram-to-is part of" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="707.1748" x2="714.1809" y1="252.8499" y2="251.1902"/><line style="stroke:#A80036;stroke-width:0.9;" x1="707.7972" x2="714.8033" y1="255.4772" y2="253.8175"/><line style="stroke:#A80036;stroke-width:0.9;" x1="711.5077" x2="709.848" y1="255.5231" y2="248.517"/><!--MD5=[d66d0331654d93aad960dd570c13da30]
+link is part of to Subprogram--><path codeLine="156" d="M700.785,248.517 C694.098,272.844 692.145,352.629 694.953,409.194 " fill="none" id="is part of-to-Subprogram" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="695.196,413.901,698.3752,405.6268,694.9649,409.4069,691.1847,405.9966,695.196,413.901" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[a5087d9cfe1f1bc8a2ec68c81534fc22]
+link Project to is part of--><path codeLine="155" d="M1051.335,69.966 C952.128,80.703 783.333,104.427 737.586,144.9 C714.195,165.6 707.679,203.94 705.87,224.865 " fill="none" id="Project-to-is part of" style="stroke:#A80036;stroke-width:0.9;"/><line style="stroke:#A80036;stroke-width:0.9;" x1="705.8633" x2="710.7626" y1="225.0076" y2="232.5572"/><line style="stroke:#A80036;stroke-width:0.9;" x1="705.8633" x2="699.9874" y1="225.0076" y2="231.8248"/><line style="stroke:#A80036;stroke-width:0.9;" x1="705.8633" x2="705.375" y1="225.0076" y2="232.191"/><line style="stroke:#A80036;stroke-width:0.9;" x1="709.5771" x2="702.3937" y1="223.4559" y2="222.9676"/><!--MD5=[bf916c75bfd9c17f35c4cc4d413f394d]
+link is part of to Program--><path codeLine="157" d="M699.426,248.517 C680.184,272.988 616.779,353.592 572.247,410.211 " fill="none" id="is part of-to-Program" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="569.34,413.901,577.1744,409.7547,572.1196,410.3621,571.5122,405.3073,569.34,413.901" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[0b9e1cd29c742a453be1e08dd6e71d68]
+@startuml
+
+hide empty members
+hide circle
+
+
+'Enum-like
+class Modality {
+    * name: String!
+}
+
+class Species {
+    * name: String!
+}
+
+class "Specimen type" {
+    * name: String!
+}
+
+class Technique {
+    * name: String!
+}
+
+class "Web resource type" {
+    * name: String!
+}
+
+class "Access control" {
+    * name: String!
+}
+
+class "Completion state" {
+    * name: String!
+}
+
+'Entity-like
+class "Web resource" {
+    * name: String!
+    Title: String!
+    Short title: String!
+    URL: String!
+}
+
+class Collection {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    Last updated date: String
+    Reported count : String
+}
+
+class Program {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Subprogram {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Project {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Protocol {
+    * name: String!
+    Title: String!
+    Short title: String!
+}
+
+class Person {
+    * name: String!
+    Name: String!
+    Given name: String!
+    Family name: String!
+    ORCID: String
+}
+
+class Organization {
+    * name: String!
+    Name: String!
+    ROR: String (not DW)
+}
+
+class License {
+    * name: String!
+    Title: String!
+    Short title: String!
+}
+
+class Grant {
+    * name: String!
+    Title: String!
+    Identifier: String!
+    REPORT symbol: String!
+}
+
+'Relationships
+"Web resource" - -|| "Web resource type"
+
+Collection - -|{  Modality : is data of type
+Collection - -|{  Species : is data about
+Collection - -|{  "Specimen type" : has samples of type
+Collection - -|{  Technique : was collected using
+Collection - -|{  "Web resource" : is subject of resource
+Collection - -||  "Access control"
+Collection - -||  "Completion state"
+
+Project - -|{ Collection : has output
+Project - -|{  Grant : is funded by
+Project - -|{  "Web resource" : is highlighted by
+Project - -o{  Person : has contributor
+Project - -o{  Person : has contact person
+Project - -|{  Modality : involves data of type
+Project - -|{  Species : involves data about
+Project - -|{  "Specimen type" : collected samples of type
+Project - -|{  Technique : used
+Project - -o{  Protocol : has methodology specification
+Project - -|{  License : has use of results limited by
+
+Protocol -|| "Web resource" : has view resource
+
+Grant - -|| Organization : from funding agency
+Grant - -|| Organization : awarded to
+
+circle "has creator"
+Project - -|{ "has creator"
+"has creator" - -> Person
+"has creator" - -> Organization
+
+circle "has information resource"
+Program - -|| "has information resource"
+Subprogram - -|| "has information resource"
+Project - -o|  "has information resource"
+License - -|| "has information resource"
+"has information resource" - -> "Web resource"
+
+
+circle "is part of"
+Subprogram - -|| "is part of"
+Project - -|{ "is part of"
+"is part of" - -> Subprogram
+"is part of" - -> Program
+
+@enduml
+
+@startuml
+
+hide empty members
+hide circle
+
+
+class Modality {
+    * name: String!
+}
+
+class Species {
+    * name: String!
+}
+
+class "Specimen type" {
+    * name: String!
+}
+
+class Technique {
+    * name: String!
+}
+
+class "Web resource type" {
+    * name: String!
+}
+
+class "Access control" {
+    * name: String!
+}
+
+class "Completion state" {
+    * name: String!
+}
+
+class "Web resource" {
+    * name: String!
+    Title: String!
+    Short title: String!
+    URL: String!
+}
+
+class Collection {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    Last updated date: String
+    Reported count : String
+}
+
+class Program {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Subprogram {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Project {
+    * name: String!
+    Title: String!
+    Short title: String!
+    Description: String!
+    DOI: String (not in DW or CSVs)
+    Citation: String
+}
+
+class Protocol {
+    * name: String!
+    Title: String!
+    Short title: String!
+}
+
+class Person {
+    * name: String!
+    Name: String!
+    Given name: String!
+    Family name: String!
+    ORCID: String
+}
+
+class Organization {
+    * name: String!
+    Name: String!
+    ROR: String (not DW)
+}
+
+class License {
+    * name: String!
+    Title: String!
+    Short title: String!
+}
+
+class Grant {
+    * name: String!
+    Title: String!
+    Identifier: String!
+    REPORT symbol: String!
+}
+
+"Web resource" - -|| "Web resource type"
+
+Collection - -|{  Modality : is data of type
+Collection - -|{  Species : is data about
+Collection - -|{  "Specimen type" : has samples of type
+Collection - -|{  Technique : was collected using
+Collection - -|{  "Web resource" : is subject of resource
+Collection - -||  "Access control"
+Collection - -||  "Completion state"
+
+Project - -|{ Collection : has output
+Project - -|{  Grant : is funded by
+Project - -|{  "Web resource" : is highlighted by
+Project - -o{  Person : has contributor
+Project - -o{  Person : has contact person
+Project - -|{  Modality : involves data of type
+Project - -|{  Species : involves data about
+Project - -|{  "Specimen type" : collected samples of type
+Project - -|{  Technique : used
+Project - -o{  Protocol : has methodology specification
+Project - -|{  License : has use of results limited by
+
+Protocol -|| "Web resource" : has view resource
+
+Grant - -|| Organization : from funding agency
+Grant - -|| Organization : awarded to
+
+circle "has creator"
+Project - -|{ "has creator"
+"has creator" - -> Person
+"has creator" - -> Organization
+
+circle "has information resource"
+Program - -|| "has information resource"
+Subprogram - -|| "has information resource"
+Project - -o|  "has information resource"
+License - -|| "has information resource"
+"has information resource" - -> "Web resource"
+
+
+circle "is part of"
+Subprogram - -|| "is part of"
+Project - -|{ "is part of"
+"is part of" - -> Subprogram
+"is part of" - -> Program
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 10:19:58 PST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

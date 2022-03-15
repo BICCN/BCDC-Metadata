@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="646px" preserveAspectRatio="none" style="width:200px;height:646px;background:#FFFFFF;" version="1.1" viewBox="0 0 200 646" width="200px" zoomAndPan="magnify"><defs><filter height="300%" id="f9qcjcozc4o8o" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[50b3a6ff18703cfd26db28bc3485fae4]
+class BDBag--><rect codeLine="4" fill="#FEFECE" filter="url(#f9qcjcozc4o8o)" height="625.4375" id="BDBag" style="stroke:#A80036;stroke-width:1.5;" width="179" x="7" y="7"/><ellipse cx="72.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M74.75,19.5 Q74.9531,19 75.1875,18.75 Q75.4219,18.5 75.6875,18.5 Q76.1563,18.5 76.4531,18.7813 Q76.75,19.0625 76.75,19.7188 L76.75,21.2813 Q76.75,21.9375 76.4688,22.2188 Q76.1875,22.5 75.75,22.5 Q75.3594,22.5 75.1094,22.3281 Q74.8594,22.1563 74.75,21.7031 Q74.7031,21.3906 74.5313,21.2188 Q74.2188,20.8906 73.6563,20.7031 Q73.0938,20.5 72.5313,20.5 Q71.8281,20.5 71.2344,20.7813 Q70.6563,21.0625 70.2031,21.6875 Q69.75,22.3125 69.75,23.1719 L69.75,24.0938 Q69.75,25.125 70.5938,25.8125 Q71.4375,26.5 72.9375,26.5 Q73.8281,26.5 74.4531,26.2969 Q74.8125,26.1875 75.2188,25.8281 Q75.4844,25.625 75.625,25.5625 Q75.7656,25.5 75.9375,25.5 Q76.2656,25.5 76.5,25.7656 Q76.75,26.0156 76.75,26.375 Q76.75,26.7188 76.4063,27.125 Q75.9063,27.7188 75.1094,28.0469 Q74.0625,28.5 72.7813,28.5 Q71.2813,28.5 70.0781,27.9063 Q69.1094,27.4375 68.4219,26.4219 Q67.75,25.4063 67.75,24.2031 L67.75,23.1094 Q67.75,21.8594 68.3438,20.7656 Q68.9531,19.6719 70,19.0938 Q71.0625,18.5 72.25,18.5 Q72.9688,18.5 73.5938,18.75 Q74.2188,19 74.75,19.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="39" x="93.25" y="27.9102">BDBag</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="185" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="13" y="54.4189">Provided by NeMO</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="185" y1="60.8359" y2="60.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="13" y="76.2549">NeMO Identifier: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="13" y="90.0908">Source data URL: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="13" y="103.9268">Version: Int</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="13" y="117.7627">Release Date: Date</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="63" x="13" y="131.5986">File count: Int</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="13" y="145.4346">File size: Float</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="185" y1="151.8516" y2="151.8516"/><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="185" y1="159.8516" y2="159.8516"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="119" x="13" y="175.2705">External identifier: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="99" x="13" y="189.1064">Data Set Title: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="97" x="13" y="202.9424">Organization: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="13" y="216.7783">Contact information: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="13" y="230.6143">Contact: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="13" y="244.4502">Grant support: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="132" x="13" y="258.2861">Data set description: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="87" x="13" y="272.1221">Protocol ID: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="87" x="13" y="285.958">Keywords: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="139" x="13" y="299.7939">Consortium or Project: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="13" y="313.6299">Data repository RRID: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="13" y="327.4658">Data license: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="97" x="13" y="341.3018">Data access: String!</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="167" x="13" y="355.1377">Community standards used: String!</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="185" y1="361.5547" y2="361.5547"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="13" y="376.9736">Author(s): String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="115" x="13" y="390.8096">Author(s) ORCID: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="153" x="13" y="404.6455">Data contributors + roles: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="13" y="418.4814">Alternate ID: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="13" y="432.3174">Full data set citation: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="148" x="13" y="446.1533">Data publication (if any): String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="154" x="13" y="459.9893">Study publication (if any): String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="97" x="13" y="473.8252">Protocol type: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="13" y="487.6611">Study organism: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="13" y="501.4971">Condition studied: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="166" x="13" y="515.333">Number of subjects studied: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="110" x="13" y="529.1689">Sex of subjects: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="167" x="13" y="543.0049">Age of subjects categorical: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="160" x="13" y="556.8408">Age of subjects numerical: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="13" y="570.6768">Data set parts description: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="13" y="584.5127">Data set parts ID's: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="162" x="13" y="598.3486">Data set parts repositories: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="150" x="13" y="612.1846">Consortium/Project RRID: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="152" x="13" y="626.0205">FAIRsharing Standard ID: String</text><!--MD5=[8053a186914a5250060df211b04ab986]
+@startuml
+
+hide empty members
+
+class BDBag {
+    Provided by NeMO
+    - -
+    NeMO Identifier: String
+    Source data URL: String
+    Version: Int
+    Release Date: Date
+    File count: Int
+    File size: Float
+    - -
+    - -
+    External identifier: String!
+    Data Set Title: String!
+    Organization: String!
+    Contact information: String!
+    Contact: String!
+    Grant support: String!
+    Data set description: String!
+    Protocol ID: String!
+    Keywords: String!
+    Consortium or Project: String!
+    Data repository RRID: String!
+    Data license: String!
+    Data access: String!
+    Community standards used: String!
+    - -
+    Author(s): String
+    Author(s) ORCID: String
+    Data contributors + roles: String
+    Alternate ID: String
+    Full data set citation: String
+    Data publication (if any): String
+    Study publication (if any): String
+    Protocol type: String
+    Study organism: String
+    Condition studied: String
+    Number of subjects studied: String
+    Sex of subjects: String
+    Age of subjects categorical: String
+    Age of subjects numerical: String
+    Data set parts description: String
+    Data set parts ID's: String
+    Data set parts repositories: String
+    Consortium/Project RRID: String
+    FAIRsharing Standard ID: String
+}
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 10:19:58 PST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
