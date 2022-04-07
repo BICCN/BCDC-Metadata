@@ -11,7 +11,7 @@ Collection.doi,,Dandiset.doi,,Collection.DOI
 Collection.externalId,,Dandiset.identifier,BDBag.NeMOIdentifier,Collection.ID
 Collection.handle,,,BDBag.ExternalIdentifier,
 Collection.license,Dataset.Rights,Dandiset.license,BDBag.DataLicense,Collection.License
-Collection.modality,Dataset.generalModality+Other,,,
+Collection.modality,Dataset.generalModality+Other,,,Project.ImagingModalities
 Collection.rrid,,,BDBag.DataCollectionRRID,
 Collection.shortTitle,,,,
 Collection.species,,,BDBag.StudyOrganism,Collection.Species
@@ -40,7 +40,7 @@ Project.handle,,,,
 Project.highlightedWebResource,,,,Project.Links
 Project.informationWebResource,,,,
 Project.modality,,,,Project.ImagingModalities/Specific
-Project.protocol,Dataset.Methods,Dandiset.protocol,BDBag.ProtocolID,
+Project.protocol,Dataset.Methods,Dandiset.protocol,BDBag.ProtocolID,Experiment.Protocol
 Project.publication,,,BDBag.StudyPublication,Project.Publications
 Project.shortTitle,,,,Project.ShortTitle
 Project.species,,,,Project.Species
