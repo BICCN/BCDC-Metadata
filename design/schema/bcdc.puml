@@ -99,7 +99,6 @@ class Collection {
     rrid: String
     citation: String
     externalId: String
-    dataArchive: Organization
     bkpWebResource: [WebResource]!
     dataArchive: [Organization]!
     species: [Species]!
