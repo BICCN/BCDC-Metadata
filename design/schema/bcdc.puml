@@ -42,19 +42,17 @@ class Agent {
 class Modality {
     * id: String!
     name: String!
-    handle: String
 }
 
 class SpecimenType {
     * id: String!
     name: String!
-    handle: String
 }
 
 
 class WebResource {
     * id: String!
-    handle: String!
+    name: String!
     title: String!
     shortTitle: String!
     url: String!
@@ -64,7 +62,7 @@ class WebResource {
 class Project {
     * id: String!
     doi: String
-    handle: String!
+    name: String!
     title: String!
     shortTitle: String!
     description: String!
@@ -91,7 +89,7 @@ class Project {
 
 class Collection {
     * id: String!
-    handle: String!
+    name: String!
     title: String!
     shortTitle: String!
     description: String!
@@ -118,7 +116,7 @@ class Collection {
 class Subprogram {
     * id: String!
     doi: String
-    handle: String!
+    name: String!
     title: String!
     shortTitle: String!
     description: String!
@@ -130,7 +128,7 @@ class Subprogram {
 class Program {
     * id: String!
     doi: String
-    handle: String!
+    name: String!
     title: String!
     shortTitle: String!
     description: String!
@@ -140,7 +138,7 @@ class Program {
 
 class Protocol {
     * id: String!
-    handle: String
+    name: String
     title: String!
     shortTitle: String!
     webResource: WebResource!
@@ -151,14 +149,13 @@ class Person {
     name: String!
     givenName: String!
     familyName: String!
-    handle: String
     orcid: String
 }
 
 class Organization {
     * id: String
     name: String!
-    handle: String!
+    name: String!
     ror: String
     webResource: WebResource
     contact: Contact
@@ -166,7 +163,7 @@ class Organization {
 
 class License {
     * id: String!
-    handle: String
+    name: String
     name: String!
     title: String!
     shortTitle: String!
@@ -185,7 +182,6 @@ class Award {
 
 class Technique {
     * id: String!
-    handle: String
     name: String!
 }
 
