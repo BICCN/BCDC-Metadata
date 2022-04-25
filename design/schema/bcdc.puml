@@ -203,12 +203,6 @@ class SpecimenCount {
     specimenType: SpecimenType!
 }
 
-class Contact {
-    * id: String!
-    name: String!
-    email: String
-}
-
 class Publication {
     * id: String!
     TBD
@@ -281,7 +275,7 @@ Collection --|{ AccessControlCode : accessControlCode
 Award --|| Agent : funder
 Award --|{ Agent : awardee
 
-Contact --o| Agent: agent
+Contact --o| Person: person
 
 Project --|{ Collection : collection
 Project --|{  Award : fundingSource
