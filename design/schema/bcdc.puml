@@ -42,11 +42,13 @@ class Agent {
 class Modality {
     * id: String!
     name: String!
+    ontology_id: String
 }
 
 class SpecimenType {
     * id: String!
     name: String!
+    ontology_id: String
 }
 
 
@@ -183,6 +185,7 @@ class Award {
 class Technique {
     * id: String!
     name: String!
+    ontology_id: String
 }
 
 class Species {
