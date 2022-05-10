@@ -1,0 +1,127 @@
+project_reference_id,technique_name
+chung_antibody_proj,confocal microscopy
+dev_mouse_brain_ccf_proj,STPT
+dev_mouse_brain_ccf_proj,light sheet microscopy
+dev_mouse_brain_ccf_proj,MRI
+dong_antero_proj,cre-dependent anterograde tracing
+dong_retro_proj,retrograde tracing
+dong_trio_proj,TRIO tracing
+dong_viral_neuron_proj,light sheet microscopy
+dong_viral_neuron_proj,retrograde transsynaptic tracing
+dong_viral_neuron_proj,confocal microscopy
+dulac_hyp_sn_10x_proj,10x Chromium 3' v2 sequencing
+dulac_pag_sn_10x_proj,10x Chromium 3' v2 sequencing
+ecker_hu_DNAseq_proj,DNAseq
+ecker_hu_sn_ATACseq_proj,ATAC-seq
+ecker_hu_sn_mCseq_proj,mC-seq2
+ecker_sn_ATACseq_proj,ATAC-seq
+ecker_sn_mCseq_proj,mC-seq2
+ecker_sn_mCseq_retro_proj,mC-seq2
+ecker_sn_mCseq_retro_proj,retrograde tracing
+ecker_trio_proj,TRIO tracing
+feng_fish_proj,FISH
+feng_fish_proj,neuron morphology reconstruction
+feng_sn_dropseq_proj,10x Chromium 3' v3 sequencing
+feng_sn_dropseq_proj,Drop-seq
+fischl_mri_proj,histology
+fischl_mri_proj,light sheet microscopy
+fischl_mri_proj,MRI
+fischl_mri_proj,OCT
+huang_antero_proj,anterograde tracing
+huang_dev_cx_proj,ATAC-seq
+huang_dev_cx_proj,10x Chromium 3' v2 sequencing
+huang_dev_cx_proj,10x Chromium 3' v3 sequencing
+huang_fmost_proj,fMOST
+huang_input_conn_proj,retrograde transsynaptic tracing
+huang_macosko_sn_10xv3_proj,10x Chromium 3' v3 sequencing
+huang_pn_proj,10x Chromium 3' v2 sequencing
+huang_pn_proj,10x Chromium 3' v3 sequencing
+huang_pn_proj,SMART-seq v4
+huang_retro_proj,retrograde tracing
+huang_sn_10xv2_proj,10x Chromium 3' v2 sequencing
+huang_stpt_conn_proj,anterograde tracing
+huang_stpt_count_proj,STPT
+human_cortex,SMART-seq v4
+HumanM110xProj,10x Chromium 3' v3 sequencing
+HumanPSeqL23Proj,neuron morphology reconstruction
+HumanPSeqL23Proj,Patch-seq
+HumanPSeqL23Proj,SMART-seq v4
+HumanPSeqL23Proj,whole cell patch clamp
+kriegstein_sc_10x_proj,10x Chromium 3' v2 sequencing
+kriegstein_sc_10x_proj,10x Chromium 3' v3 sequencing
+kriegstein_sc_ATACseq_proj,ATAC-seq
+kriegstein_sn_10x_proj,10x Chromium 3' v2 sequencing
+lein_evo_10x_proj,10x Chromium 3' v3 sequencing
+lein_human_pseq_proj,Patch-seq
+lein_L5_pseq_proj,Patch-seq
+lein_L5_pseq_proj,neuron morphology reconstruction
+lein_L5_pseq_proj,SMART-seq v4
+lein_sn_10x,10x Chromium 3' v2 sequencing
+lein_sn_10x,10x Chromium 3' v3 sequencing
+lein_sn_SSv4_proj,SMART-seq v4
+macosko_bg_shareseq_proj,SHARE-seq
+macosko_bg_slideseq_proj,Slide-seq
+macosko_mouse_slideseq_proj,Slide-seq
+macosko_mouse_slideseq_proj,histology
+mop_evo_tx_epi_pseq_proj,Patch-seq
+mueller_mouselight_proj,mouselight
+nowakowski_evobc_proj,10x Chromium 3' v3 sequencing
+nowakowski_pndev_10xv3_proj,10x Chromium 3' v3 sequencing
+osten_stpt_proj,STPT
+regev_cisi_proj,CISI
+sestan_sn_10x_proj,10x Chromium 3' v3 sequencing
+sestan_sn_10x_proj,10x Chromium 3' v2 sequencing
+snyder-mackler_macaque_proj,sci-ATAC-seq3
+snyder-mackler_macaque_proj,sci-RNA-seq3
+tasic_ATACseq_proj,ATAC-seq
+tasic_stpt_proj,enhancer virus labeling
+tasic_stpt_proj,STPT
+tilgner_scisorseq,10x Chromium 3' v3 sequencing
+tilgner_scisorseq,Oxford Nanopore long-read sequencing
+tilgner_scisorseq,PacBio long-read sequencing
+TransgenicSTPT,STPT
+yang_MORF_confocal_proj,MORF genetic sparse labeling
+yang_MORF_confocal_proj,neuron morphology reconstruction
+zeng_anderson_sc_10xv2_proj,10x Chromium 3' v2 sequencing
+zeng_fmost_proj,fMOST
+zeng_mouselight_proj,mouselight
+zeng_retro_proj,retrograde transsynaptic tracing
+zeng_sc_10x_proj,10x Chromium 3' v2 sequencing
+zeng_sc_10x_proj,10x Chromium 3' v3 sequencing
+zeng_sc_SSv4_proj,SMART-seq v4
+zeng_sn_10x_proj,10x Chromium 3' v2 sequencing
+zeng_sn_10x_proj,10x Chromium 3' v3 sequencing
+zeng_sn_SSv4_proj,SMART-seq v4
+zeng_tolias_pseq_proj,neuron morphology reconstruction
+zeng_tolias_pseq_proj,Patch-seq
+zeng_tolias_pseq_proj,SMART-seq v4
+zeng_tolias_pseq_proj,whole cell patch clamp
+zhangK_snareseq,ATAC-seq
+zhangK_snareseq,RNAseq
+zhangK_snareseq,SNARE-seq2
+zhangl_anatomy_proj,light sheet microscopy
+zhangl_anatomy_proj,VISor
+zhangl_ephys_proj,whole cell patch clamp
+zhangl_kz_omics_proj,10x Chromium 3' v3 sequencing
+zhangl_seqfish_proj,seqFISH
+zhuang_dulac_merfish_MOB_proj,MERFISH
+zhuang_dulac_merfish_MOE_proj,MERFISH
+zhuang_dulac_merfish_PAG_proj,MERFISH
+zhuang_merfish_MOp_proj,MERFISH
+zhuang_merfish_NAc_proj,MERFISH
+macosko_bg_multiome_proj,ATAC-seq
+macosko_bg_multiome_proj,10X Genomics Multiome
+macosko_bg_multiome_proj,RNAseq
+feng_multiome_proj,ATAC-seq
+feng_multiome_proj,RNAseq
+feng_multiome_proj,10X Genomics Multiome
+zeng_anderson_sc_10xv3_proj,10x Chromium 3' v3 sequencing
+chung_lsfm_proj,light sheet microscopy
+tasic_sc_SSv4_proj,SMART-seq v4
+dulac_poa_dev_sn_10x_proj,10x Chromium 3' v3 sequencing
+zhuang_dulac_merfish_HYP_proj,MERFISH
+ren_pairedtag_proj,Paired-Tag
+ecker_hu_sn_m3Cseq_proj,snm3C-seq
+lein_evo_Iso_Seq_proj,PacBio long-read sequencing
+lein_sn_hippocampus_proj,SMART-seq v4
+shepherd_rnafish_proj,TempO-seq
