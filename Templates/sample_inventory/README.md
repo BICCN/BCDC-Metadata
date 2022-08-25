@@ -12,6 +12,16 @@ hesitate to contact the Data Curation team at
 [data.curation@alleninstitute.org](mailto:data.curation@alleninstitute.org)
 so we can assist you.
 
+# Sample Inventory Cheat Sheet
+The following is a short list of best practices when filling out this template:
+* Use `Sample ID` values that match the IDs submitted to data archives
+* `Sample Type` refers to the type of biological entity that `Sample ID` identifies
+* `Subspecimen Type` is different from `Sample Type` refers to the type of 
+biological entity that is derived from the `Sample Type`
+* `Total Processed Subspecimens` is a *cumulative count of subspecimens* 
+processed for a given sample
+* Resubmitting a `Sample ID` will result in overwriting the old `Total Processed Subspecimens` value
+* It is OK for `Subspecimen Type` and `Total Processed Subspecimens` to be blank for some data types
 
 ## Usage of sample/specimen identifiers and types
 In order to better enable synchronization of specimen metadata with the
