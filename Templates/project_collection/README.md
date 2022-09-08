@@ -1,4 +1,3 @@
-# Instructions for adding and updating new projects and data collections on https://knowledge.brain-map.org
 
 ## Table of Contents
 
