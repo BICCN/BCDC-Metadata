@@ -14,7 +14,7 @@ BIL,huang_stpt_count_proj,download,https://download.brainimagelibrary.org/biccn/
 BIL,mueller_mouselight_proj,download, https://download.brainimagelibrary.org/biccn/mueller/mouselight/,[RF1 Mueller]
 BIL,osten_stpt_proj,download,https://download.brainimagelibrary.org/biccn/osten/cellcounting/,[U01 Osten]
 BIL,regev_cisi_proj,download,https://download.brainimagelibrary.org/biccn/regev/cisi,[RF1 Regev]
-BIL,tasic_stpt_proj,download,https://download.brainimagelibrary.org/biccn/tasic/stpt/,[RF1 Tasic]
+BIL,tasic_stpt_proj,download,https://download.brainimagelibrary.org/biccn/tasic/stpt/,"[RF1 Tasic, RF1 Levi]"
 BIL,yang_MORF_confocal_proj,download,https://download.brainimagelibrary.org/biccn/yang/morf/confocal/,[U01 Yang]
 BIL,zeng_fmost_proj,download,https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/,[U19 Zeng]
 BIL,zeng_mouselight_proj,download,https://download.brainimagelibrary.org/biccn/zeng/mouselight/,[U19 Zeng]

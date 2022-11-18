@@ -26,7 +26,7 @@ BIL,mop_evo_pseq_m,download,https://download.brainimagelibrary.org/79/1d/791d4ad
 BIL,mueller_mouselight,download, https://download.brainimagelibrary.org/biccn/mueller/mouselight/,mueller_mouselight_proj,[RF1 Mueller]
 BIL,osten_stpt,download,https://download.brainimagelibrary.org/biccn/osten/cellcounting/,osten_stpt_proj,[U01 Osten]
 BIL,regev_cisi,download,https://download.brainimagelibrary.org/biccn/regev/cisi,regev_cisi_proj,[RF1 Regev]
-BIL,tasic_stpt,download,https://download.brainimagelibrary.org/biccn/tasic/stpt/,tasic_stpt_proj,[RF1 Tasic]
+BIL,tasic_stpt,download,https://download.brainimagelibrary.org/biccn/tasic/stpt/,tasic_stpt_proj,"[RF1 Tasic, RF1 Levi]"
 BIL,yang_MORF_confocal,download,https://download.brainimagelibrary.org/biccn/yang/morf/confocal/,yang_MORF_confocal_proj,[U01 Yang]
 BIL,yang_morf_cells,download,https://download.brainimagelibrary.org/biccn/yang/morf/cells/,yang_MORF_confocal_proj,[U01 Yang]
 BIL,zeng_expr_char,download,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,TransgenicSTPT,"[TransChar, U19 Zeng]"
