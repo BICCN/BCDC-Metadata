@@ -1,5 +1,16 @@
 web_resource_short_title,subprogram,web_resource_type,subprogram_info_url
+1U01MH130907-01,BICAN V1 Functional,information,https://reporter.nih.gov/project-details/10519964
+1U01MH130962-01,BICAN Dev Mouse,information,https://reporter.nih.gov/project-details/10523550
+1U01MH130995-01,BICAN Dev Multiomics,information,https://reporter.nih.gov/project-details/10523974
+1U24MH130918-01,BICAN Knowledgebase,information,https://reporter.nih.gov/project-details/10520941
+1U24MH130919-01,BICAN BCDC,information,https://reporter.nih.gov/project-details/10521124
+1U24MH130968-01,BICAN Mol Pipelines,information,https://reporter.nih.gov/project-details/10523659
+1UM1MH130966-01,BICAN PN Human Var,information,https://reporter.nih.gov/project-details/10523654
+1UM1MH130981-01,HMBA,information,https://reporter.nih.gov/project-details/10523848
+1UM1MH130991-01,BICAN Dev Human NHP,information,https://reporter.nih.gov/project-details/10523935
+1UM1MH130994-01,BICAN Mul PN Human,information,https://reporter.nih.gov/project-details/10523973
 Allen Cell Types Database,ACTD,information,https://celltypes.brain-map.org/
+CUBIE Specimen Portal,CUBIE Specimen,information,https://brain-specimenportal.org
 R24 Ghosh,R24 Ghosh,information,https://biccn.org/teams/r24-ghosh
 R24 Ropelewski,R24 Ropelewski,information,https://biccn.org/teams/r24-ropelewski
 R24 White,R24 White,information,https://biccn.org/teams/r24-white
@@ -30,6 +41,7 @@ U24 Hawrylycz,U24 Hawrylycz,information,https://biccn.org/teams/u24-hawrylycz
 NULL,RF1 Levi,NULL,NULL
 NULL,RF1 Macosko,NULL,NULL
 NULL,RF1 Ren,NULL,NULL
+NULL,RF1 Roussos,NULL,NULL
 NULL,RF1 Shepherd,NULL,NULL
 NULL,U01 Macosko,NULL,NULL
 NULL,U01 Sestan,NULL,NULL
