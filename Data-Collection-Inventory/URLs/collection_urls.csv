@@ -1,6 +1,4 @@
 web_resource_short_title,collection,web_resource_type,collection_resource_url,project,subprograms
-Allen Mouse Brain Atlas - 10x scRNAseq whole brain,ABCA_10x,download,https://assets.nemoarchive.org/dat-qg7n1b0,ABCA_proj,[U19 Zeng]
-Allen Mouse Brain Atlas - MERSCOPE v1 whole brain,ABCA_merscope,download,https://doi.org/10.35077/g.610,ABCA_proj,[U19 Zeng]
 BIL,HumanPSeqL23_M,download,https://download.brainimagelibrary.org/biccn/lein/pseq/morph/200526/,HumanPSeqL23Proj,"[ACTD, U01 Lein]"
 BIL,dev_mouse_brain_ccf,download,https://download.brainimagelibrary.org/0d/89/0d89ff2f52ee3323/,dev_mouse_brain_ccf_proj,[RF1 Kim]
 BIL,dong_antero,download,https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/,dong_antero_proj,[U01 Dong]
@@ -137,10 +135,10 @@ NeMO,zhangK_cj_snareseq_R,download,https://assets.nemoarchive.org/dat-vptepqt,zh
 NeMO,zhangK_hs_snareseq_AC,download,https://assets.nemoarchive.org/dat-y0c2zo2,zhangK_snareseq,[U01 ZhangKun]
 NeMO,zhangK_hs_snareseq_R,download,https://assets.nemoarchive.org/dat-t5v43si,zhangK_snareseq,[U01 ZhangKun]
 NeMO,zhangl_kz_omics,download,https://assets.nemoarchive.org/dat-g4e4icw,zhangl_kz_omics_proj,[U01 ZhangLi]
-README,ABCA_10x,information,https://github.com/AllenInstitute/abc_atlas_access/blob/main/descriptions/WMB-10X.md,ABCA_proj,[U19 Zeng]
-README,ABCA_merscope,information,https://github.com/AllenInstitute/abc_atlas_access/blob/main/descriptions/MERFISH-C57BL6J-638850.md,ABCA_proj,[U19 Zeng]
 Transcriptomics Explorer,HumanM110x,explore,https://celltypes.brain-map.org/rnaseq/human_m1_10x,HumanM110xProj,"[ACTD, U01 Lein]"
 Transcriptomics Explorer,human_cortex_SS4_counts,explore,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,human_cortex,"[ACTD, U01 Lein]"
+NULL,ABCA_10x,NULL,NULL,ABCA_proj,[U19 Zeng]
+NULL,ABCA_merscope,NULL,NULL,ABCA_proj,[U19 Zeng]
 NULL,chung_ihc,NULL,NULL,chung_antibody_proj,[RF1 Chung]
 NULL,dev_mouse_brain_lsfm,NULL,NULL,dev_mouse_brain_ccf_proj,[RF1 Kim]
 NULL,dev_mouse_brain_mri,NULL,NULL,dev_mouse_brain_ccf_proj,[RF1 Kim]
@@ -201,8 +199,6 @@ NULL,snyder-mackler_macaque_scATAC,NULL,NULL,snyder-mackler_macaque_proj,[U01 Sn
 NULL,snyder-mackler_macaque_scRNA,NULL,NULL,snyder-mackler_macaque_proj,[U01 Snyder-Mackler]
 NULL,tasic_sc_SSv4,NULL,NULL,tasic_sc_SSv4_proj,[RF1 Tasic]
 NULL,tilgner_10x_scRNA,NULL,NULL,tilgner_scisorseq,[RF1 Tilgner]
-NULL,tilgner_human_10x_snRNA,NULL,NULL,tilgner_snisorseq_human,[RF1 Tilgner]
-NULL,tilgner_human_sn_ont,NULL,NULL,tilgner_snisorseq_human,[RF1 Tilgner]
 NULL,tilgner_sc_pb,NULL,NULL,tilgner_scisorseq,[RF1 Tilgner]
 NULL,zhangK_hu_multiome_atac,NULL,NULL,zhangK_multiome_proj,[U01 ZhangKun]
 NULL,zhangK_hu_multiome_gex,NULL,NULL,zhangK_multiome_proj,[U01 ZhangKun]

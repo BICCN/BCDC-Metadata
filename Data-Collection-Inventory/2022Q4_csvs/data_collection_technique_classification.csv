@@ -1,0 +1,232 @@
+data_collection_reference_id,technique_name
+ABCA_10x,10x Chromium 3' v3 sequencing
+ABCA_10x,10x Chromium 3' v2 sequencing
+ABCA_merscope,MERSCOPE v1
+ABCA_merscope,MERFISH
+chung_ihc,confocal microscopy
+chung_lsfm,light sheet microscopy
+dev_mouse_brain_ccf,light sheet microscopy
+dev_mouse_brain_ccf,MRI
+dev_mouse_brain_ccf,STPT
+dev_mouse_brain_lsfm,light sheet microscopy
+dev_mouse_brain_mri,MRI
+dev_mouse_brain_stpt,STPT
+dong_antero,cre-dependent anterograde tracing
+dong_confocal,confocal microscopy
+dong_confocal,retrograde transsynaptic tracing
+dong_lightsheet,light sheet microscopy
+dong_lightsheet,retrograde transsynaptic tracing
+dong_retro,retrograde tracing
+dong_trio,TRIO tracing
+dulac_hyp_sn_10xv2,10x Chromium 3' v2 sequencing
+dulac_pag_sn_10xv2,10x Chromium 3' v2 sequencing
+dulac_poa_dev_sn_10x_RNAseq,10x Chromium 3' v3 sequencing
+ecker_hu_DNAseq,DNAseq
+ecker_hu_sn_ATACseq,ATAC-seq
+ecker_hu_sn_m3Cseq,snm3C-seq
+ecker_hu_sn_mCseq,mC-seq2
+ecker_sn_ATACseq,ATAC-seq
+ecker_sn_mCseq,mC-seq2
+ecker_sn_mCseq_retro,mC-seq2
+ecker_sn_mCseq_retro,retrograde tracing
+ecker_trio,TRIO tracing
+feng_fish,FISH
+feng_morph,neuron morphology reconstruction
+feng_multiome_ATACseq,ATAC-seq
+feng_multiome_ATACseq,10X Genomics Multiome
+feng_multiome_RNAseq,RNAseq
+feng_multiome_RNAseq,10X Genomics Multiome
+feng_sn_10xv3,10x Chromium 3' v3 sequencing
+feng_sn_dropseq,Drop-seq
+fischl_lsfm,light sheet microscopy
+fischl_mri,MRI
+fischl_oct,OCT
+fischl_stereology,histology
+huang_antero,anterograde tracing
+huang_ccf4_hist,histology
+huang_ccf4_mri,MRI
+huang_dev_cx_scATAC,ATAC-seq
+huang_dev_cx_scRNA,10x Chromium 3' v2 sequencing
+huang_dev_cx_scRNA_v3,10x Chromium 3' v3 sequencing
+huang_fmost,fMOST
+huang_fmost_cells,fMOST
+huang_fmost_cells,neuron morphology reconstruction
+huang_input_conn,retrograde transsynaptic tracing
+huang_pn_bulk_SSv4,SMART-seq v4
+huang_pn_sn_10xv2,10x Chromium 3' v2 sequencing
+huang_pn_sn_10xv3,10x Chromium 3' v3 sequencing
+huang_retro,retrograde tracing
+huang_sn_10xv2,10x Chromium 3' v2 sequencing
+huang_sn_10xv3,10x Chromium 3' v3 sequencing
+huang_stpt_conn,anterograde tracing
+huang_stpt_count,STPT
+human_cortex_SS4_counts,SMART-seq v4
+human_cortex_SS4_Open_GRU,SMART-seq v4
+human_cortex_SS4_restricted_GRU,SMART-seq v4
+human_cortex_SS4_restricted_limited,SMART-seq v4
+HumanM110x,10x Chromium 3' v3 sequencing
+HumanPSeqL23_E,Patch-seq
+HumanPSeqL23_E,whole cell patch clamp
+HumanPSeqL23_M,neuron morphology reconstruction
+HumanPSeqL23_M,Patch-seq
+HumanPSeqL23_T,Patch-seq
+HumanPSeqL23_T,SMART-seq v4
+kriegstein_sc_10xv2,10x Chromium 3' v2 sequencing
+kriegstein_sc_10xv3,10x Chromium 3' v3 sequencing
+kriegstein_sc_ATACseq,ATAC-seq
+kriegstein_sc_multiome,10X Genomics Multiome
+kriegstein_sn_10xv2,10x Chromium 3' v2 sequencing
+kriegstein_spatial,MERFISH
+kriegstein_spatial,osmFISH
+lein_evo_10x_arcticgroundsquirrel,10x Chromium 3' v3 sequencing
+lein_evo_10x_armadillo,10x Chromium 3' v3 sequencing
+lein_evo_10x_baboon,10x Chromium 3' v3 sequencing
+lein_evo_10x_cat,10x Chromium 3' v3 sequencing
+lein_evo_10x_chimp,10x Chromium 3' v3 sequencing
+lein_evo_10x_coyote,10x Chromium 3' v3 sequencing
+lein_evo_10x_ferret,10x Chromium 3' v3 sequencing
+lein_evo_10x_galago,10x Chromium 3' v3 sequencing
+lein_evo_10x_gorilla,10x Chromium 3' v3 sequencing
+lein_evo_10x_greenmonkey,10x Chromium 3' v3 sequencing
+lein_evo_10x_nemestrina,10x Chromium 3' v3 sequencing
+lein_evo_10x_opposum,10x Chromium 3' v3 sequencing
+lein_evo_10x_owlmonkey,10x Chromium 3' v3 sequencing
+lein_evo_10x_pig,10x Chromium 3' v3 sequencing
+lein_evo_10x_rabbit,10x Chromium 3' v3 sequencing
+lein_evo_10x_rat,10x Chromium 3' v3 sequencing
+lein_evo_10x_rhesus,10x Chromium 3' v3 sequencing
+lein_evo_10x_squirrel_monkey,10x Chromium 3' v3 sequencing
+lein_evo_10x_treeshrew,10x Chromium 3' v3 sequencing
+lein_evo_Iso_Seq_arctic_ground_squirrel,PacBio long-read sequencing
+lein_evo_Iso_Seq_armadillo,PacBio long-read sequencing
+lein_evo_Iso_Seq_greenmonkey,PacBio long-read sequencing
+lein_evo_Iso_Seq_nemestrina,PacBio long-read sequencing
+lein_evo_Iso_Seq_opossum,PacBio long-read sequencing
+lein_evo_Iso_Seq_squirrel_monkey,PacBio long-read sequencing
+lein_great_ape_MTG_10x_chimpanzee,10x Chromium 3' v3 sequencing
+lein_great_ape_MTG_10x_gorilla,10x Chromium 3' v3 sequencing
+lein_great_ape_MTG_10x_human,10x Chromium 3' v3 sequencing
+lein_great_ape_MTG_10x_marmoset,10x Chromium 3' v3 sequencing
+lein_great_ape_MTG_10x_rhesus,10x Chromium 3' v3 sequencing
+lein_great_ape_MTG_SSv4_chimpanzee,SMART-seq v4
+lein_great_ape_MTG_SSv4_gorilla,SMART-seq v4
+lein_great_ape_MTG_SSv4_human,SMART-seq v4
+lein_human_pseq_e,Patch-seq
+lein_human_pseq_m,Patch-seq
+lein_human_pseq_t,Patch-seq
+lein_L5_pseq_e,Patch-seq
+lein_L5_pseq_m,neuron morphology reconstruction
+lein_L5_pseq_m,Patch-seq
+lein_L5_pseq_t,Patch-seq
+lein_L5_pseq_t,SMART-seq v4
+lein_sn_10xv2,10x Chromium 3' v2 sequencing
+lein_sn_10xv3,10x Chromium 3' v3 sequencing
+lein_sn_hippocampus,SMART-seq v4
+lein_sn_SSv4,SMART-seq v4
+macosko_bg_multiome_atac_human,ATAC-seq
+macosko_bg_multiome_atac_human,10X Genomics Multiome
+macosko_bg_multiome_atac_macaque,ATAC-seq
+macosko_bg_multiome_atac_macaque,10X Genomics Multiome
+macosko_bg_multiome_gex_human,RNAseq
+macosko_bg_multiome_gex_human,10X Genomics Multiome
+macosko_bg_multiome_gex_macaque,RNAseq
+macosko_bg_multiome_gex_macaque,10X Genomics Multiome
+macosko_bg_shareseq_macaque,SHARE-seq
+macosko_bg_slideseq_histologydataset_human,histology
+macosko_bg_slideseq_histologydataset_macaque,histology
+macosko_bg_slideseq_human,Slide-seq
+macosko_bg_slideseq_macaque,Slide-seq
+macosko_bg_wgs_human,whole genome sequencing
+macosko_mouse_slideseq_histologydataset,histology
+macosko_mouse_slideseq_slideseqdataset,Slide-seq
+mop_evo_pseq_e,Patch-seq
+mop_evo_pseq_hu_t,Patch-seq
+mop_evo_pseq_m,Patch-seq
+mop_evo_pseq_t,Patch-seq
+mueller_mouselight,mouselight
+nowakowski_evobc,10x Chromium 3' v3 sequencing
+nowakowski_pndev_10xv3,10x Chromium 3' v3 sequencing
+osten_ls,OLST
+osten_stpt,STPT
+regev_cisi,CISI
+ren_pairedtag_human_DNA,Paired-Tag
+ren_pairedtag_human_RNA,Paired-Tag
+ren_pairedtag_mouse_adult_DNA,Paired-Tag
+ren_pairedtag_mouse_adult_RNA,Paired-Tag
+ren_pairedtag_mouse_dev_DNA,Paired-Tag
+ren_pairedtag_mouse_dev_RNA,Paired-Tag
+roussos_hu_multiome_atac,10X Genomics Multiome
+roussos_hu_multiome_atac,ATAC-seq
+roussos_hu_multiome_gex,10X Genomics Multiome
+roussos_hu_multiome_gex,RNAseq
+roussos_hu_multiome_seqfish,10X Genomics Multiome
+roussos_hu_multiome_seqfish,seqFISH
+sestan_multiome_10x_human,10X Genomics Multiome
+sestan_multiome_10x_nhp,10X Genomics Multiome
+sestan_sc_10xv2_nhp_dev,10x Chromium 3' v2 sequencing
+sestan_sc_10xv3_nhp_dev,10x Chromium 3' v3 sequencing
+sestan_sn_10xv3_human,10x Chromium 3' v3 sequencing
+sestan_sn_10xv3_human_pfc,10x Chromium 3' v3 sequencing
+sestan_sn_10xv3_nhp_adult,10x Chromium 3' v3 sequencing
+sestan_sn_10xv3_nhp_adult_pfc,10x Chromium 3' v3 sequencing
+sestan_sn_10xv3_pig,10x Chromium 3' v3 sequencing
+shepherd_rnafish_rna,TempO-seq
+snyder-mackler_macaque_scATAC,sci-ATAC-seq3
+snyder-mackler_macaque_scRNA,sci-RNA-seq3
+tasic_ATACseq,ATAC-seq
+tasic_sc_SSv4,SMART-seq v4
+tasic_stpt,enhancer virus labeling
+tasic_stpt,STPT
+tilgner_10x_scRNA,10x Chromium 3' v3 sequencing
+tilgner_sc_ONT,10x Chromium 3' v3 sequencing
+tilgner_sc_ONT,Oxford Nanopore long-read sequencing
+tilgner_sc_pb,PacBio long-read sequencing
+yang_morf_cells,neuron morphology reconstruction
+yang_MORF_confocal,MORF genetic sparse labeling
+zeng_anderson_sc_10xv2,10x Chromium 3' v2 sequencing
+zeng_anderson_sc_10xv3,10x Chromium 3' v3 sequencing
+zeng_expr_char,STPT
+zeng_fmost,fMOST
+zeng_fmost_cells,fMOST
+zeng_mouselight,mouselight
+zeng_retro,retrograde transsynaptic tracing
+zeng_sc_10xv2,10x Chromium 3' v2 sequencing
+zeng_sc_10xv3,10x Chromium 3' v3 sequencing
+zeng_sc_SSv4,SMART-seq v4
+zeng_sn_10xv2,10x Chromium 3' v2 sequencing
+zeng_sn_10xv3,10x Chromium 3' v3 sequencing
+zeng_sn_SSv4,SMART-seq v4
+zeng_tolias_pseq_e,Patch-seq
+zeng_tolias_pseq_e,whole cell patch clamp
+zeng_tolias_pseq_m,neuron morphology reconstruction
+zeng_tolias_pseq_m,Patch-seq
+zeng_tolias_pseq_t,Patch-seq
+zeng_tolias_pseq_t,SMART-seq v4
+zhangK_cj_snareseq_AC,ATAC-seq
+zhangK_cj_snareseq_AC,SNARE-seq2
+zhangK_cj_snareseq_R,RNAseq
+zhangK_cj_snareseq_R,SNARE-seq2
+zhangK_hs_snareseq_AC,ATAC-seq
+zhangK_hs_snareseq_AC,SNARE-seq2
+zhangK_hs_snareseq_R,RNAseq
+zhangK_hs_snareseq_R,SNARE-seq2
+zhangK_hu_multiome_atac,10X Genomics Multiome
+zhangK_hu_multiome_atac,ATAC-seq
+zhangK_hu_multiome_gex,10X Genomics Multiome
+zhangK_hu_multiome_gex,RNAseq
+zhangl_anatomy,light sheet microscopy
+zhangl_anatomy,VISor
+zhangl_ephys,whole cell patch clamp
+zhangl_kz_omics,10x Chromium 3' v3 sequencing
+zhangl_seqfish,seqFISH
+zhuang_dulac_merfish_HYP_1,MERFISH
+zhuang_dulac_merfish_HYP_2,MERFISH
+zhuang_dulac_merfish_HYP_3,MERFISH
+zhuang_dulac_merfish_MOB,MERFISH
+zhuang_dulac_merfish_MOE,MERFISH
+zhuang_dulac_merfish_PAG,MERFISH
+zhuang_dulac_merfish_PAG_1,MERFISH
+zhuang_dulac_merfish_PAG_2,MERFISH
+zhuang_merfish_M1,MERFISH
+zhuang_merfish_MOp,MERFISH
+zhuang_merfish_NAc,MERFISH

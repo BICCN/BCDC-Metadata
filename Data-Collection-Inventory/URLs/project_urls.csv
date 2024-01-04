@@ -1,7 +1,5 @@
 web_resource_short_title,project,web_resource_type,project_highlight_url,subprograms
 A multimodal cell census and atlas of the mammalian primary motor cortex,mop_evo_tx_epi_pseq_proj,view,https://doi.org/10.1101/2020.10.19.343129,[U01 Lein]
-Allen Mouse Brain Atlas - 10x scRNAseq whole brain,ABCA_proj,download,https://assets.nemoarchive.org/dat-qg7n1b0,[U19 Zeng]
-Allen Mouse Brain Atlas - MERSCOPE v1 whole brain,ABCA_proj,download,https://doi.org/10.35077/g.610,[U19 Zeng]
 BIL,TransgenicSTPT,download,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,"[TransChar, U19 Zeng]"
 BIL,dong_antero_proj,download,https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/,[U01 Dong]
 BIL,dong_retro_proj,download,https://download.brainimagelibrary.org/biccn/dong/retrograde/,[U01 Dong]
@@ -95,10 +93,10 @@ NeMO,zhangK_snareseq,download,https://assets.nemoarchive.org/dat-vptepqt,[U01 Zh
 NeMO,zhangK_snareseq,download,https://assets.nemoarchive.org/dat-y0c2zo2,[U01 ZhangKun]
 NeMO,zhangl_kz_omics_proj,download,https://assets.nemoarchive.org/dat-g4e4icw,[U01 ZhangLi]
 RF1 Kim,dev_mouse_brain_ccf_proj,information,https://biccn.org/teams/rf1-kim,[RF1 Kim]
-Single-nuclei isoform RNA sequencing unlocks barcoded exon connectivity in frozen brain tissue,tilgner_snisorseq_human,view,https://www.nature.com/articles/s41587-022-01231-3,[RF1 Tilgner]
 Transcriptomics Explorer,HumanM110xProj,explore,https://celltypes.brain-map.org/rnaseq/human_m1_10x,"[ACTD, U01 Lein]"
 Transcriptomics Explorer,human_cortex,explore,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,"[ACTD, U01 Lein]"
 U01 Feng,feng_multiome_proj,information,https://biccn.org/teams/u01-feng,[U01 Feng]
+NULL,ABCA_proj,NULL,NULL,[U19 Zeng]
 NULL,chung_antibody_proj,NULL,NULL,[RF1 Chung]
 NULL,dulac_poa_dev_sn_10x_proj,NULL,NULL,[U19 Huang]
 NULL,ecker_hu_sn_m3Cseq_proj,NULL,NULL,[U01 Ecker]
