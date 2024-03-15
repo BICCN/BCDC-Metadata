@@ -1,0 +1,319 @@
+@startuml
+
+hide empty members
+'hide circle
+
+
+'Enums
+enum WebResourceType {
+    Download
+    Information
+    Explore
+    View
+}
+
+enum AccessControl {
+    Open
+    Embargoed
+    Controlled
+}
+
+enum CompletionState {
+    Complete
+    InProgress
+}
+
+enum AgentType {
+    Person
+    Organization
+}
+
+
+'Entity-like
+class Agent {
+    * id: String!
+    agent_id: String!
+    agentType: AgentType
+    organization: Organization
+    person: Person
+    type: AgentType!
+}
+
+class Modality {
+    * id: String!
+    name: String!
+    ontology_id: String
+}
+
+class SpecimenType {
+    * id: String!
+    name: String!
+    ontology_id: String
+}
+
+
+class WebResource {
+    * id: String!
+    name: String!
+    title: String!
+    shortTitle: String!
+    url: String!
+    rrid: String
+}
+
+class Project {
+    * id: String!
+    doi: String
+    name: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    bkpWebResource: WebResource!
+    informationWebResource: WebResource
+    subprogram: [Subprogram]!
+    technique: [Technique]!
+    collection: [Collection]!
+    specimenType: [SpecimenType]!
+    contact: Contact
+    creator: [Agent]!
+    fundingSource: [Award]!
+    contributor: [Agent]
+    highlightedWebResource: [WebResource]
+    protocol: [Protocol]
+    dataArchive: [Organization]
+    externalId: String
+    species: [Species]!
+    modality: [Modality]!
+    publication: [Publication]
+    dateModified: Date
+    dateCreated: Date!
+}
+
+class Collection {
+    * id: String!
+    name: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    doi: String
+    rrid: String
+    citation: String
+    externalId: String
+    bkpWebResource: [WebResource]!
+    dataArchive: [Organization]!
+    species: [Species]!
+    specimenCount: [SpecimenCount]!
+    license: License!
+    accessControl: AccessControl!
+    accessControlCode: [AccessControlCode]
+    accessControlDescription: String
+    completionState: CompletionState!
+    modality: [Modality]!
+    technique: [Technique]!
+    webResource: [WebResource]
+    dateModified: Date
+    dateCreated: Date!
+}
+
+class Subprogram {
+    * id: String!
+    doi: String
+    name: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    bkpWebResource: WebResource
+    program: Program!
+    informationWebResource: WebResource
+}
+
+class Program {
+    * id: String!
+    doi: String
+    name: String!
+    title: String!
+    shortTitle: String!
+    description: String!
+    bkpWebResource: WebResource
+    informationWebResource: WebResource
+}
+
+class Protocol {
+    * id: String!
+    name: String
+    title: String!
+    shortTitle: String!
+    webResource: WebResource!
+}
+
+class Person {
+    * id: String!
+    name: String!
+    givenName: String!
+    familyName: String!
+    orcid: String
+}
+
+class Organization {
+    * id: String
+    name: String!
+    name: String!
+    ror: String
+    webResource: WebResource
+    contact: Contact
+}
+
+class License {
+    * id: String!
+    name: String
+    name: String!
+    title: String!
+    shortTitle: String!
+    webResource: WebResource!
+}
+
+class Award {
+    * id: String
+    name: String!
+    title: String!
+    identifier: String!
+    reportSymbol: String
+    funder: Agent!
+    awardee: [Agent]!
+}
+
+class Technique {
+    * id: String!
+    name: String!
+    ontology_id: String
+}
+
+class Species {
+    * id: String!
+    name: String!
+    common_name: String!
+    scientific_name: String
+    ncbi_taxonomy_id: String!
+    rrid: String
+}
+
+class SpecimenCount {
+    * id: String!
+    count: Int
+    specimenType: SpecimenType!
+}
+
+class Publication {
+    * id: String!
+    TBD
+}
+
+class AccessControlCode{
+    *id: String!
+    code: String!
+}
+
+circle webResource
+webResource --> WebResource
+
+circle bkpWebResource
+bkpWebResource --> WebResource
+
+circle informationWebResource
+informationWebResource --> WebResource
+
+circle highlightedWebResource
+highlightedWebResource --> WebResource
+
+circle contact
+contact --> Contact
+
+circle dataArchive
+dataArchive --> Organization
+
+circle specimenType
+specimenType --> SpecimenType
+
+circle species
+species --> Species
+
+circle technique
+technique --> Technique
+
+circle modality
+modality --> Modality
+
+'Organization --o| Contact : contact
+Organization --o| contact
+Organization --o| webResource
+
+'Relationships
+Agent --o| Person : person
+Agent --o| Organization : organization
+Agent --|| AgentType : type
+
+'SpecimenCount --|| SpecimenType : specimenType
+SpecimenCount --|| specimenType
+
+WebResource --|| WebResourceType : type
+
+'Technique --o{ Protocol : protocol
+
+Collection --|{  modality
+Collection --|{  species
+Collection --|{ SpecimenCount : specimenCount
+Collection --|{ technique
+Collection --||  AccessControl : accessControl
+Collection --||  CompletionState : completionState
+Collection --|| License : license
+Collection --|{ bkpWebResource
+'Collection --|{ Organization : dataArchive
+Collection --|{ dataArchive
+Collection --o{ webResource
+Collection --|{ AccessControlCode : accessControlCode
+
+Award --|| Agent : funder
+Award --|{ Agent : awardee
+
+Contact --o| Person: person
+
+Project --|{ Collection : collection
+Project --|{  Award : fundingSource
+'Project --o{  WebResource : highlightedWebResource
+Project ---o{  highlightedWebResource
+Project --|{ Agent : creator
+Project --o{  Agent : contributor
+'Project --o{  Contact : contact
+Project --o{  contact
+'Project --|{ SpecimenType : specimenType
+Project --|{ specimenType
+Project --|{ technique
+Project --|{ Subprogram : subprogram
+'Project --o|  webResource
+Project --|| bkpWebResource
+Project --o| informationWebResource
+'Project --|| webResource : bkpWebResource
+'Project --|> Program
+Project --o{ Protocol : protocol
+Project --|{ dataArchive
+Project --|{ species
+Project --|{ modality
+Project --o{ Publication : publication
+
+Program --o| informationWebResource
+Program --o| bkpWebResource
+'Program --o| webResource : bkpWebResource
+'Program --|| webResource : informationWebResource
+
+Subprogram --o| informationWebResource
+Subprogram --|| Program : program
+Subprogram --o| bkpWebResource
+'Subprogram --|> Program: program
+'Subprogram --o| webResource : bkpWebResource
+'Subprogram --|| webResource: informationWebResource
+
+Protocol --|| webResource
+
+License --|| webResource
+
+@enduml
