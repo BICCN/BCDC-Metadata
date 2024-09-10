@@ -1,8 +1,11 @@
 web_resource_short_title,project,web_resource_type,project_highlight_url,subprograms
 A multimodal cell census and atlas of the mammalian primary motor cortex,mop_evo_tx_epi_pseq_proj,view,https://doi.org/10.1101/2020.10.19.343129,[U01 Lein]
+ABC Atlas WHB Download,siletti_abca_proj,download,https://github.com/AllenInstitute/abc_atlas_access/blob/main/descriptions/WHB-10Xv3.md,"[HMBA, U01 Lein]"
 Allen Mouse Brain Atlas - 10x scRNAseq whole brain,ABCA_proj,download,https://assets.nemoarchive.org/dat-qg7n1b0,[U19 Zeng]
 Allen Mouse Brain Atlas - MERSCOPE v1 whole brain,ABCA_proj,download,https://doi.org/10.35077/g.610,[U19 Zeng]
 BIL,TransgenicSTPT,download,https://download.brainimagelibrary.org/biccn/zeng/expressioncharacterization/STPT/,"[TransChar, U19 Zeng]"
+BIL,bican_mouse_dev_p20_proj,download,https://download.brainimagelibrary.org/9d/22/9d220d427123622c/,[BICAN Dev Mouse]
+BIL,bican_mouse_dev_p28_proj,download,https://download.brainimagelibrary.org/4c/a5/4ca56ab12ee4ec99/658801/,[BICAN Dev Mouse]
 BIL,dev_mouse_brain_ccf_proj,download,https://download.brainimagelibrary.org/0d/89/0d89ff2f52ee3323/,[RF1 Kim]
 BIL,dong_antero_proj,download,https://download.brainimagelibrary.org/biccn/dong/anterograde/triple/,[U01 Dong]
 BIL,dong_retro_proj,download,https://download.brainimagelibrary.org/biccn/dong/retrograde/,[U01 Dong]
@@ -92,9 +95,11 @@ NeMO,lein_sn_SSv4_proj,download,https://assets.nemoarchive.org/dat-2c8otht,[U01 
 NeMO,lein_sn_hippocampus_proj,download,https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/SSv4/human,[U01 Lein]
 NeMO,nowakowski_pndev_10xv3_proj,download,https://assets.nemoarchive.org/dat-eojj32d,[RF1 Nowakowski]
 NeMO,tasic_ATACseq_proj,download,https://assets.nemoarchive.org/dat-khcsjuk,[RF1 Tasic]
+NeMO,tasic_sc_SSv4_proj,download,https://assets.nemoarchive.org/dat-gykipib,[RF1 Tasic]
 NeMO,tilgner_scisorseq,download,https://assets.nemoarchive.org/dat-syahgjf,[RF1 Tilgner]
 NeMO,zeng_anderson_sc_10xv2_proj,download,https://assets.nemoarchive.org/dat-53ke10p,[U19 Zeng]
 NeMO,zeng_anderson_sc_10xv3_proj,download,https://assets.nemoarchive.org/dat-zdzpfd7,[U19 Zeng]
+NeMO,zeng_he_sn_RNAseq_SPN_proj,download,https://assets.nemoarchive.org/dat-76h044v,[U19 Zeng]
 NeMO,zeng_sc_10x_proj,download,https://assets.nemoarchive.org/dat-5ue6x8t,[U19 Zeng]
 NeMO,zeng_sc_10x_proj,download,https://assets.nemoarchive.org/dat-kjseyhn,[U19 Zeng]
 NeMO,zeng_sc_SSv4_proj,download,https://assets.nemoarchive.org/dat-8zpo593,"[RF1 Tasic, U19 Zeng]"
@@ -111,8 +116,6 @@ Transcriptomics Explorer,HumanM110xProj,explore,https://celltypes.brain-map.org/
 Transcriptomics Explorer,human_cortex,explore,https://celltypes.brain-map.org/rnaseq/human_ctx_smart-seq,"[ACTD, U01 Lein]"
 U01 Feng,feng_multiome_proj,information,https://biccn.org/teams/u01-feng,[U01 Feng]
 NULL,adey_sciMETv2,NULL,NULL,[RF1 Adey]
-NULL,bican_mouse_dev_p20_proj,NULL,NULL,[BICAN Dev Mouse]
-NULL,bican_mouse_dev_p28_proj,NULL,NULL,[BICAN Dev Mouse]
 NULL,dulac_poa_dev_sn_10x_proj,NULL,NULL,[U19 Huang]
 NULL,ecker_hu_sn_m3Cseq_proj,NULL,NULL,[U01 Ecker]
 NULL,kriegstein_sc_multiome_proj,NULL,NULL,[U01 Kriegstein]
@@ -123,8 +126,6 @@ NULL,nowakowski_evobc_proj,NULL,NULL,[RF1 Nowakowski]
 NULL,ren_pairedtag_proj,NULL,NULL,[RF1 Ren]
 NULL,roussos_multiome_proj,NULL,NULL,[RF1 Roussos]
 NULL,shepherd_rnafish_proj,NULL,NULL,[RF1 Shepherd]
-NULL,siletti_abca_proj,NULL,NULL,"[HMBA, U01 Lein]"
 NULL,snyder-mackler_macaque_proj,NULL,NULL,[U01 Snyder-Mackler]
-NULL,tasic_sc_SSv4_proj,NULL,NULL,[RF1 Tasic]
 NULL,zeng_multiome_10x_proj,NULL,NULL,[U19 Zeng]
 NULL,zhangK_multiome_proj,NULL,NULL,[U01 ZhangKun]
