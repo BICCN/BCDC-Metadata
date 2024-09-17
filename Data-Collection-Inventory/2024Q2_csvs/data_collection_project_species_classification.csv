@@ -1,0 +1,147 @@
+project_reference_id,species_name
+ABCA_proj,mouse
+adey_sciMETv2,human
+bican_mouse_dev_p20_proj,mouse
+bican_mouse_dev_p28_proj,mouse
+chung_antibody_proj,human
+chung_antibody_proj,mouse
+chung_lsfm_proj,human
+dev_mouse_brain_ccf_proj,mouse
+dong_antero_proj,mouse
+dong_retro_proj,mouse
+dong_trio_proj,mouse
+dong_viral_neuron_proj,mouse
+dulac_hyp_sn_10x_proj,mouse
+dulac_pag_sn_10x_proj,mouse
+dulac_poa_dev_sn_10x_proj,mouse
+ecker_hu_DNAseq_proj,human
+ecker_hu_sn_ATACseq_proj,human
+ecker_hu_sn_m3Cseq_proj,human
+ecker_hu_sn_mCseq_proj,human
+ecker_sn_ATACseq_proj,mouse
+ecker_sn_mCseq_proj,mouse
+ecker_sn_mCseq_retro_proj,mouse
+ecker_trio_proj,mouse
+feng_fish_proj,marmoset
+feng_multiome_proj,marmoset
+feng_sn_dropseq_proj,marmoset
+fischl_mri_proj,human
+huang_antero_proj,mouse
+huang_ccf4_proj,mouse
+huang_dev_cx_proj,mouse
+huang_fmost_proj,mouse
+huang_input_conn_proj,mouse
+huang_macosko_sn_10xv3_proj,mouse
+huang_pn_proj,mouse
+huang_retro_proj,mouse
+huang_sn_10xv2_proj,mouse
+huang_stpt_conn_proj,mouse
+huang_stpt_count_proj,mouse
+human_cerebellum_proj,human
+human_cortex,human
+HumanM110xProj,human
+HumanPSeqL23Proj,human
+kriegstein_sc_10x_proj,human
+kriegstein_sc_ATACseq_proj,human
+kriegstein_sc_multiome_proj,human
+kriegstein_sn_10x_proj,human
+kriegstein_spatial_proj,human
+lein_evo_10x_proj,Arctic ground squirrel
+lein_evo_10x_proj,chimpanzee
+lein_evo_10x_proj,common tree shrew
+lein_evo_10x_proj,domestic cat
+lein_evo_10x_proj,domestic ferret
+lein_evo_10x_proj,gray short-tailed opossum
+lein_evo_10x_proj,green monkey
+lein_evo_10x_proj,Ma's night monkey
+lein_evo_10x_proj,nine-banded armadillo
+lein_evo_10x_proj,Norway rat
+lein_evo_10x_proj,pig
+lein_evo_10x_proj,pig-tailed macaque
+lein_evo_10x_proj,rabbit
+lein_evo_10x_proj,rhesus macaque
+lein_evo_10x_proj,small-eared galago
+lein_evo_10x_proj,western gorilla
+lein_evo_10x_proj,coyote
+lein_evo_10x_proj,baboon
+lein_evo_10x_proj,squirrel monkey
+lein_evo_Iso_Seq_proj,pig-tailed macaque
+lein_evo_Iso_Seq_proj,nine-banded armadillo
+lein_evo_Iso_Seq_proj,gray short-tailed opossum
+lein_evo_Iso_Seq_proj,green monkey
+lein_evo_Iso_Seq_proj,Arctic ground squirrel
+lein_evo_Iso_Seq_proj,squirrel monkey
+lein_great_ape_mtg_RNA_proj,human
+lein_great_ape_mtg_RNA_proj,chimpanzee
+lein_great_ape_mtg_RNA_proj,western gorilla
+lein_great_ape_mtg_RNA_proj,rhesus macaque
+lein_great_ape_mtg_RNA_proj,marmoset
+lein_hmba_nhp_pseq,pig-tailed macaque
+lein_hmba_nhp_pseq,rhesus macaque
+lein_human_cross-areal_10x_proj,human
+lein_human_pseq_proj,human
+lein_L5_pseq_proj,human
+lein_sn_10x,human
+lein_sn_hippocampus_proj,human
+lein_sn_SSv4_proj,human
+macosko_bg_multiome_proj,crab-eating macaque
+macosko_bg_multiome_proj,human
+macosko_bg_shareseq_proj,crab-eating macaque
+macosko_bg_slideseq_proj,crab-eating macaque
+macosko_bg_slideseq_proj,human
+macosko_bg_wgs_proj,human
+macosko_mouse_slideseq_proj,mouse
+mop_evo_tx_epi_pseq_proj,human
+mop_evo_tx_epi_pseq_proj,mouse
+mop_evo_tx_epi_pseq_proj,rhesus macaque
+mueller_mouselight_proj,mouse
+nowakowski_evobc_proj,mouse
+nowakowski_pndev_10xv3_proj,mouse
+osten_ls_proj,mouse
+osten_stpt_proj,mouse
+regev_cisi_proj,mouse
+ren_pairedtag_proj,human
+ren_pairedtag_proj,mouse
+roussos_multiome_proj,human
+sestan_sn_10x_proj,chimpanzee
+sestan_sn_10x_proj,human
+sestan_sn_10x_proj,marmoset
+sestan_sn_10x_proj,rhesus macaque
+sestan_sn_10x_proj,pig
+shepherd_rnafish_proj,human
+siletti_abca_proj,human
+snyder-mackler_macaque_proj,rhesus macaque
+tasic_ATACseq_proj,mouse
+tasic_sc_SSv4_proj,mouse
+tasic_stpt_proj,mouse
+tilgner_scisorseq,mouse
+tilgner_snisorseq_human,human
+TransgenicSTPT,mouse
+yang_MORF_confocal_proj,mouse
+zeng_anderson_sc_10xv2_proj,mouse
+zeng_anderson_sc_10xv3_proj,mouse
+zeng_dev_mouse_10x_proj,mouse
+zeng_fmost_proj,mouse
+zeng_he_sn_RNAseq_SPN_proj,mouse
+zeng_mouselight_proj,mouse
+zeng_multiome_10x_proj,mouse
+zeng_retro_proj,mouse
+zeng_sc_10x_proj,mouse
+zeng_sc_SSv4_proj,mouse
+zeng_sn_10x_proj,mouse
+zeng_sn_SSv4_proj,mouse
+zeng_tolias_pseq_proj,mouse
+zhangK_multiome_proj,human
+zhangK_snareseq,human
+zhangK_snareseq,marmoset
+zhangl_anatomy_proj,mouse
+zhangl_ephys_proj,mouse
+zhangl_kz_omics_proj,mouse
+zhangl_seqfish_proj,mouse
+zhuang_abca_proj,mouse
+zhuang_dulac_merfish_HYP_proj,mouse
+zhuang_dulac_merfish_MOB_proj,mouse
+zhuang_dulac_merfish_MOE_proj,mouse
+zhuang_dulac_merfish_PAG_proj,mouse
+zhuang_merfish_MOp_proj,mouse
+zhuang_merfish_NAc_proj,mouse
